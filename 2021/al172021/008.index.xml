@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Tue, 21 Sep 2021 02:45:43 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 202329<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Mon Sep 20 2021<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Peter, located about 150 miles northeast of the northern<br/>
+Leeward Islands, and on Tropical Storm Rose, located over the <br/>
+eastern tropical Atlantic Ocean.<br/>
+<br/>
+Showers and thunderstorms associated with a tropical wave located <br/>
+several hundred miles south of the Cabo Verde Islands continue to <br/>
+show some signs of organization, although recent satellite wind data <br/>
+indicate that the system lacks a surface circulation. Upper-level <br/>
+winds, however, are expected to become conducive for further <br/>
+development during the next day or two, and a tropical depression is <br/>
+likely to form by Thursday or Friday while the system moves westward <br/>
+at 10 to 15 mph across the eastern and central tropical Atlantic <br/>
+Ocean.<br/>
+* Formation chance through 48 hours...medium...40 percent.<br/>
+* Formation chance through 5 days...high...80 percent.<br/>
+<br/>
+A storm-force, non-tropical low pressure system, the remnants of <br/>
+Odette, is located several hundred miles southeast of Newfoundland.  <br/>
+This low could acquire some subtropical characteristics by the <br/>
+middle of this week as it moves slowly southeastward over warmer <br/>
+waters across the north-central Atlantic Ocean, before it moves <br/>
+northward over cooler waters over the weekend.  Additional <br/>
+information on this system, including storm warnings, can be found <br/>
+in High Seas Forecasts issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 5 days...low...30 percent.<br/>
+<br/>
+&&<br/>
+<br/>
+High Seas Forecasts issued by the National Weather Service can be <br/>
+found under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and <br/>
+online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Brown<br/>
+]]>
+</description>
+<pubDate>Mon, 20 Sep 2021 23:29:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202109202329</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Peter (AT1/AL162021)</title>
+ <guid isPermaLink="false">summary-al162021-202109202032</guid>
+ <pubDate>Mon, 20 Sep 2021 20:32:34 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/202032.shtml</link>
+ <description>
+  ...PETER REFUSES TO SUCCUMB TO STRONG WIND SHEAR... ...STORM EXPECTED TO PASS NORTH OF THE LEEWARD ISLANDS EARLY THIS  WEEK...
+ As of 5:00 PM AST Mon Sep 20
+ the center of Peter was located near 20.0, -61.8
+ with movement WNW at 14 mph.
+ The minimum central pressure was 1007 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>20.0, -61.8</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Peter</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL162021</nhc:atcf>
+  <nhc:datetime>5:00 PM AST Mon Sep 20</nhc:datetime>
+  <nhc:movement>WNW at 14 mph</nhc:movement>
+  <nhc:pressure>1007 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...PETER REFUSES TO SUCCUMB TO STRONG WIND SHEAR... ...STORM EXPECTED TO PASS NORTH OF THE LEEWARD ISLANDS EARLY THIS  WEEK...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Peter Public Advisory Number 9</title>
+<description>Issued at 500 PM AST Mon Sep 20 2021  <![CDATA[<pre>
+
+769 
+WTNT31 KNHC 202032
+TCPAT1
+ 
+BULLETIN
+Tropical Storm Peter Advisory Number   9
+NWS National Hurricane Center Miami FL       AL162021
+500 PM AST Mon Sep 20 2021
+ 
+...PETER REFUSES TO SUCCUMB TO STRONG WIND SHEAR...
+...STORM EXPECTED TO PASS NORTH OF THE LEEWARD ISLANDS EARLY THIS 
+WEEK...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.0N 61.8W
+ABOUT 150 MI...240 KM NE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests in the northern Leeward Islands, Virgin Islands, and
+Puerto Rico should monitor the progress of this system.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Tropical Storm Peter was 
+located near latitude 20.0 North, longitude 61.8 West. Peter is 
+moving toward the west-northwest near 14 mph (22 km/h). This general 
+motion is expected to continue during the next day or so, followed 
+by a turn to the northwest with a decrease in forward speed on 
+Wednesday, and then a turn to the north by Wednesday night. On the 
+forecast track, the center of Peter will pass north of the northern 
+Leeward Islands and Puerto Rico through Tuesday.
+ 
+Maximum sustained winds remain near 50 mph (85 km/h) with higher 
+gusts. Slow weakening is forecast during the next few days.
+ 
+Tropical-storm-force winds extend outward up to 125 miles (205 km)
+from the center.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Rainfall around the southern periphery of Tropical Storm
+Peter could produce rainfall totals of 1 to 3 inches, with locally
+higher amounts possible across portions of the Northern Leeward
+Islands, including the Virgin Islands, as well as Puerto Rico and
+the northern portions of Hispaniola through Tuesday. This rainfall
+may lead to areas of urban and small stream flooding.
+ 
+SURF:  Swells generated by Peter are expected to affect the northern
+Leeward Islands early this week, and then reach the Bahamas by
+midweek.  These swells could cause life-threatening surf and rip
+current conditions. Please consult products from your local weather
+office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Latto
+ 
+
+</pre>]]></description>
+<pubDate>Mon, 20 Sep 2021 20:32:34 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/202032.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/202032.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Peter Forecast Advisory Number 9</title>
+<description>Issued at 2100 UTC MON SEP 20 2021  <![CDATA[<pre>
+
+770 
+WTNT21 KNHC 202032
+TCMAT1
+ 
+TROPICAL STORM PETER FORECAST/ADVISORY NUMBER   9
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL162021
+2100 UTC MON SEP 20 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+INTERESTS IN THE NORTHERN LEEWARD ISLANDS...VIRGIN ISLANDS...AND
+PUERTO RICO SHOULD MONITOR THE PROGRESS OF THIS SYSTEM.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 20.0N  61.8W AT 20/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 290 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1007 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT.......110NE   0SE   0SW   0NW.
+12 FT SEAS..150NE   0SE   0SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.0N  61.8W AT 20/2100Z
+AT 20/1800Z CENTER WAS LOCATED NEAR 19.8N  61.3W
+ 
+FORECAST VALID 21/0600Z 20.6N  63.5W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...110NE   0SE   0SW   0NW.
+ 
+FORECAST VALID 21/1800Z 21.4N  65.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...100NE   0SE   0SW   0NW.
+ 
+FORECAST VALID 22/0600Z 22.2N  66.9W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 80NE   0SE   0SW   0NW.
+ 
+FORECAST VALID 22/1800Z 23.1N  68.0W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 70NE   0SE   0SW   0NW.
+ 
+FORECAST VALID 23/0600Z 24.0N  68.3W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE   0SE   0SW   0NW.
+ 
+FORECAST VALID 23/1800Z 25.1N  68.0W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 24/1800Z 27.8N  66.9W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+OUTLOOK VALID 25/1800Z 30.5N  65.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.0N  61.8W
+ 
+NEXT ADVISORY AT 21/0300Z
+ 
+$$
+FORECASTER LATTO
+ 
+ 
+
+</pre>]]></description>
+<pubDate>Mon, 20 Sep 2021 20:32:34 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/202032.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/202032.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Peter Forecast Discussion Number 9</title>
+<description>Issued at 500 PM AST Mon Sep 20 2021  <![CDATA[<pre>
+
+000
+WTNT41 KNHC 202032
+TCDAT1
+ 
+Tropical Storm Peter Discussion Number   9
+NWS National Hurricane Center Miami FL       AL162021
+500 PM AST Mon Sep 20 2021
+ 
+Peter's evolution on satellite today is nearly a repeat of 
+yesterday, with the deep convection having been stripped well east 
+of the center in the morning and then redeveloping over and east of 
+the center by the afternoon. An Air Force Reserve Hurricane Hunter 
+aircraft investigating Peter this morning and early afternoon 
+provided data during a few different passes through the northeast 
+quadrant that supported peak surface winds of 40-45 kt. Since the 
+convection has returned it is reasonable to assume that no weakening 
+has occurred since the aircraft departed the cyclone, and the 
+initial advisory intensity remains 45 kt.
+ 
+Vertical wind shear is forecast to remain near 30 kt for the next 
+few days as Peter interacts with an upper trough to its west, so 
+some weakening is anticipated during that time. By late in the 
+forecast period, the shear should lessen somewhat as the cyclone 
+lifts north of the upper trough. Therefore, slow strengthening is 
+indicated by late this week. There remains a possibility that Peter 
+does not survive the shear over the next few days. However, the 
+storm thus far has shown some resiliency to the hostile environment. 
+The latest NHC intensity forecast is little changed from the 
+previous one and remains near the various intensity consensus 
+solutions. 
+ 
+Peter continues to move west-northwest but at a slightly slower pace 
+of around 12 kt. The forecast track reasoning for the cyclone 
+remains the same. The west-northwestward motion is forecast to 
+continue for the next two days as the system remains to the 
+southwest of a subtropical ridge. By Wednesday, Peter should slow 
+down and turn northwest then north as it reaches a developing 
+weakness in the ridge carved out by a mid-latitude trough moving 
+across the northeastern United States. There were no significant 
+changes to the track or the track guidance from the previous 
+advisory, and the latest NHC track is closest to the TVCN and GFEX 
+consensus tracks. 
+ 
+Based on the latest track, intensity, and wind radii forecasts, no
+tropical storm watches or warnings are required for the northern
+Leeward Islands, Virgin Islands, or Puerto Rico at this time.
+However, locally heavy rain is possible today and Tuesday when
+Peter is expected to pass to the north of these locations.
+ 
+ 
+Key Messages:
+ 
+1. Rainfall around the southern periphery of Tropical Storm Peter
+may lead to areas of urban and small stream flooding through
+Tuesday across northern Hispaniola, Puerto Rico, the Virgin
+Islands, and the Northern Leeward Islands.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  20/2100Z 20.0N  61.8W   45 KT  50 MPH
+ 12H  21/0600Z 20.6N  63.5W   45 KT  50 MPH
+ 24H  21/1800Z 21.4N  65.4W   40 KT  45 MPH
+ 36H  22/0600Z 22.2N  66.9W   40 KT  45 MPH
+ 48H  22/1800Z 23.1N  68.0W   35 KT  40 MPH
+ 60H  23/0600Z 24.0N  68.3W   35 KT  40 MPH
+ 72H  23/1800Z 25.1N  68.0W   30 KT  35 MPH
+ 96H  24/1800Z 27.8N  66.9W   30 KT  35 MPH
+120H  25/1800Z 30.5N  65.8W   35 KT  40 MPH
+ 
+$$
+Forecaster Latto
+ 
+</pre>]]></description>
+<pubDate>Mon, 20 Sep 2021 20:33:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/202032.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/202032.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Peter Wind Speed Probabilities Number 9</title>
+<description>Issued at 2100 UTC MON SEP 20 2021                                              <![CDATA[<pre>
+
+000
+FONT11 KNHC 202032
+PWSAT1
+                                                                    
+TROPICAL STORM PETER WIND SPEED PROBABILITIES NUMBER   9            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL162021               
+2100 UTC MON SEP 20 2021                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM PETER WAS LOCATED NEAR        
+LATITUDE 20.0 NORTH...LONGITUDE 61.8 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z MON 06Z TUE 18Z TUE 06Z WED 18Z WED 18Z THU 18Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z TUE 18Z TUE 06Z WED 18Z WED 18Z THU 18Z FRI 18Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BERMUDA        34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+ 
+$$                                                                  
+FORECASTER LATTO                                                    
+</pre>]]></description>
+<pubDate>Mon, 20 Sep 2021 20:33:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/202032.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/202032.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Peter Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203434.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT16/AL162021_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Peter 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 20 Sep 2021 20:34:34 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203434.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT16/AL162021_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Peter 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 20 Sep 2021 21:23:12 GMT
+]]>
+</description>
+<pubDate>Mon, 20 Sep 2021 20:34:34 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203434.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203434.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Rose (AT2/AL172021)</title>
+ <guid isPermaLink="false">summary-al172021-202109210032</guid>
+ <pubDate>Tue, 21 Sep 2021 00:32:07 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/210245.shtml</link>
+ <description>
+  ...ROSE MAINTAINING ITS INTENSITY FOR NOW...
+ As of 11:00 PM AST Mon Sep 20
+ the center of Rose was located near 18.9, -35.4
+ with movement NW at 15 mph.
+ The minimum central pressure was 1004 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>18.9, -35.4</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Rose</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL172021</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Mon Sep 20</nhc:datetime>
+  <nhc:movement>NW at 15 mph</nhc:movement>
+  <nhc:pressure>1004 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...ROSE MAINTAINING ITS INTENSITY FOR NOW...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Rose Public Advisory Number 8</title>
+<description>Issued at 1100 PM AST Mon Sep 20 2021  <![CDATA[<pre>
+
+000
+WTNT32 KNHC 210245
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Rose Advisory Number   8
+NWS National Hurricane Center Miami FL       AL172021
+1100 PM AST Mon Sep 20 2021
+ 
+...ROSE MAINTAINING ITS INTENSITY FOR NOW...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.9N 35.4W
+ABOUT 775 MI...1250 KM WNW OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NW OR 320 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Rose was
+located near latitude 18.9 North, longitude 35.4 West. Rose is
+moving toward the northwest near 15 mph (24 km/h), and this general
+motion with a decrease in forward speed is expected during the next
+couple of days.  Rose is forecast to turn north-northwestward to 
+northward on Thursday. 
+ 
+Recent satellite wind data indicate that the maximum sustained winds 
+are near 50 mph (85 km/h) with higher gusts.  Little change in 
+strength is anticipated overnight.  Gradual weakening is expected to 
+begin on Tuesday, and should continue during the next couple of 
+days. 
+ 
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Brown
+ 
+</pre>]]></description>
+<pubDate>Tue, 21 Sep 2021 02:45:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/210245.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/210245.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rose Forecast Advisory Number 8</title>
+<description>Issued at 0300 UTC TUE SEP 21 2021  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 210245
+TCMAT2
+ 
+TROPICAL STORM ROSE FORECAST/ADVISORY NUMBER   8
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172021
+0300 UTC TUE SEP 21 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 18.9N  35.4W AT 21/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 320 DEGREES AT  13 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1004 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT....... 80NE  80SE  40SW   0NW.
+12 FT SEAS.. 60NE   0SE   0SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.9N  35.4W AT 21/0300Z
+AT 21/0000Z CENTER WAS LOCATED NEAR 18.6N  35.2W
+ 
+FORECAST VALID 21/1200Z 20.5N  36.5W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 80NE  80SE  40SW   0NW.
+ 
+FORECAST VALID 22/0000Z 22.2N  37.6W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 70NE  60SE  30SW   0NW.
+ 
+FORECAST VALID 22/1200Z 23.5N  38.7W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 50NE  40SE   0SW   0NW.
+ 
+FORECAST VALID 23/0000Z 24.8N  39.9W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 23/1200Z 26.1N  40.7W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 24/0000Z 27.3N  40.8W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 25/0000Z 29.0N  38.2W
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+OUTLOOK VALID 26/0000Z 30.5N  33.5W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.9N  35.4W
+ 
+NEXT ADVISORY AT 21/0900Z
+ 
+$$
+FORECASTER BROWN
+ 
+ 
+</pre>]]></description>
+<pubDate>Tue, 21 Sep 2021 02:45:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/210245.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/210245.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rose Forecast Discussion Number 8</title>
+<description>Issued at 1100 PM AST Mon Sep 20 2021  <![CDATA[<pre>
+
+898 
+WTNT42 KNHC 210245
+TCDAT2
+ 
+Tropical Storm Rose Discussion Number   8
+NWS National Hurricane Center Miami FL       AL172021
+1100 PM AST Mon Sep 20 2021
+ 
+Although Rose's convective pattern does not appear to be as 
+organized as it was earlier today, a couple of ASCAT overpasses this 
+evening indicated that the tropical cyclone has strengthened since 
+this morning. Both ASCAT-A and -B instruments detected 40-45 kt 
+winds around the southeastern portion of the circulation, and the 
+initial intensity was raised to 45 kt around 0000 UTC with the 
+issuance of a Tropical Cyclone Update.  That intensity is maintained 
+for this advisory, and it is also in agreement with subjective 
+Dvorak data T-numbers of 3.0 from TAFB and SAB. 
+
+The ASCAT data also indicated that the center of Rose is located to 
+the west of the previous estimates, near the northwestern edge of 
+the convective mass noted in satellite imagery.  As a result of the 
+center re-location, the initial motion is a somewhat uncertain 
+320/13 kt.  Although the short-term portion of the track forecast 
+has been adjusted westward due to the more westward initial 
+position, there has been no overall change in forecast track 
+reasoning for this advisory.  Rose should continue northwestward 
+around the western portion of a strong subtropical ridge during the 
+next couple of days.  Beyond that time, a mid- to upper-level trough 
+over the north-central Atlantic should cause Rose to recurve 
+northward, then northeastward, and finally east-northeastward by the 
+end of the forecast period.  The dynamical models are in general  
+agreement on this scenario but there are some differences in how 
+sharp Rose will turn, and how fast it will move northeastward late 
+in the period.  The new NHC track forecast shows a somewhat sharper 
+turn than the previous advisory to be closer to the latest consensus 
+aids. 
+
+Rose has likely reached its peak intensity as increasing shear and 
+the entrainment of drier mid-level air are likely to cause weakening 
+by this time tomorrow. Additional weakening is expected after that 
+time as a further increase in shear is anticipated when Rose nears 
+the aforementioned trough in 2 to 3 days. The updated NHC wind speed 
+forecast is slightly stronger at 12 and 24 hours due to the higher 
+initial intensity, but is unchanged after that time. Given the 
+expected hostile environmental conditions, it would not be 
+surprising to see Rose wither more quickly and degenerate into a 
+remnant low sooner than indicated below.  That is indicated by at 
+least some of the global model guidance. 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  21/0300Z 18.9N  35.4W   45 KT  50 MPH
+ 12H  21/1200Z 20.5N  36.5W   45 KT  50 MPH
+ 24H  22/0000Z 22.2N  37.6W   40 KT  45 MPH
+ 36H  22/1200Z 23.5N  38.7W   35 KT  40 MPH
+ 48H  23/0000Z 24.8N  39.9W   30 KT  35 MPH
+ 60H  23/1200Z 26.1N  40.7W   30 KT  35 MPH
+ 72H  24/0000Z 27.3N  40.8W   30 KT  35 MPH
+ 96H  25/0000Z 29.0N  38.2W   25 KT  30 MPH
+120H  26/0000Z 30.5N  33.5W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 
+$$
+Forecaster Brown
+ 
+
+</pre>]]></description>
+<pubDate>Tue, 21 Sep 2021 02:45:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/210245.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/210245.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rose Wind Speed Probabilities Number 8</title>
+<description>Issued at 0300 UTC TUE SEP 21 2021                                              <![CDATA[<pre>
+
+928 
+FONT12 KNHC 210245
+PWSAT2
+                                                                    
+TROPICAL STORM ROSE WIND SPEED PROBABILITIES NUMBER   8             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172021               
+0300 UTC TUE SEP 21 2021                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM ROSE WAS LOCATED NEAR LATITUDE
+18.9 NORTH...LONGITUDE 35.4 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+45 KTS...50 MPH...85 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z TUE 12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT 00Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER BROWN                                                    
+
+</pre>]]></description>
+<pubDate>Tue, 21 Sep 2021 02:45:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/210245.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/210245.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rose Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203204.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172021_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Rose 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 20 Sep 2021 20:32:04 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203204.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172021_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Rose 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 20 Sep 2021 21:29:07 GMT
+]]>
+</description>
+<pubDate>Mon, 20 Sep 2021 20:32:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203204.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203204.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

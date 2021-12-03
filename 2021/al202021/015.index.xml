@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Sun, 03 Oct 2021 02:46:28 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 022310<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Sat Oct 2 2021<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+The National Hurricane Center is issuing advisories on Hurricane <br/>
+Sam, located about 500 miles east-northeast of Bermuda, and on <br/>
+recently downgraded Tropical Depression Victor, located over the <br/>
+eastern tropical Atlantic.<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 5 days.<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+]]>
+</description>
+<pubDate>Sat, 02 Oct 2021 23:10:49 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202110022310</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Sam (AT3/AL182021)</title>
+ <guid isPermaLink="false">summary-al182021-202110030237</guid>
+ <pubDate>Sun, 03 Oct 2021 02:37:48 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/030237.shtml</link>
+ <description>
+  ...SAM GRADUALLY WEAKENING AS IT MOVES NORTHEASTWARD OVER THE OPEN ATLANTIC...
+ As of 11:00 PM AST Sat Oct 2
+ the center of Sam was located near 36.4, -57.1
+ with movement NE at 16 mph.
+ The minimum central pressure was 955 mb
+ with maximum sustained winds of about 115 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>36.4, -57.1</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Sam</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL182021</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Sat Oct 2</nhc:datetime>
+  <nhc:movement>NE at 16 mph</nhc:movement>
+  <nhc:pressure>955 mb</nhc:pressure>
+  <nhc:wind>115 mph</nhc:wind>
+  <nhc:headline> ...SAM GRADUALLY WEAKENING AS IT MOVES NORTHEASTWARD OVER THE OPEN ATLANTIC...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Sam Public Advisory Number 42</title>
+<description>Issued at 1100 PM AST Sat Oct 02 2021  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 030237
+TCPAT3
+ 
+BULLETIN
+Hurricane Sam Advisory Number  42
+NWS National Hurricane Center Miami FL       AL182021
+1100 PM AST Sat Oct 02 2021
+ 
+...SAM GRADUALLY WEAKENING AS IT MOVES NORTHEASTWARD OVER THE
+OPEN ATLANTIC...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...36.4N 57.1W
+ABOUT 520 MI...840 KM NE OF BERMUDA
+ABOUT 740 MI...1190 KM SSW OF CAPE RACE NEWFOUNDLAND
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...NE OR 40 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...955 MB...28.20 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Hurricane Sam was located
+near latitude 36.4 North, longitude 57.1 West. Sam is moving toward
+the northeast near 16 mph (26 km/h). This general track with an
+increase in forward speed is expected for the next few days.  On 
+the forecast track, Sam will move well southeast and east of 
+Newfoundland over the North Atlantic.
+ 
+Maximum sustained winds are now near 115 mph (185 km/h) with higher
+gusts.  Sam is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Further slow weakening is anticipated during 
+the next few days, and Sam could transition into a powerful 
+post-tropical cyclone on Monday night.
+ 
+Hurricane-force winds extend outward up to 70 miles (110 km) from
+the center and tropical-storm-force winds extend outward up to 240
+miles (390 km).
+ 
+The estimated minimum central pressure is 955 mb (28.20 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Sam can be found in the Tropical Cyclone Discussion
+under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC, and on the
+web at hurricanes.gov/graphics_at3.shtml?key_messages.
+ 
+SURF:  Swells generated by Sam will impact the northern Leeward
+Islands, the Greater Antilles, the Bahamas, the eastern United
+States and Atlantic Canada for the next couple of days.  These
+swells could cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Beven
+ 
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:37:48 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/030237.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/030237.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Forecast Advisory Number 42</title>
+<description>Issued at 0300 UTC SUN OCT 03 2021  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 030237
+TCMAT3
+ 
+HURRICANE SAM FORECAST/ADVISORY NUMBER  42
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182021
+0300 UTC SUN OCT 03 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+HURRICANE CENTER LOCATED NEAR 36.4N  57.1W AT 03/0300Z
+POSITION ACCURATE WITHIN  25 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHEAST OR  40 DEGREES AT  14 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  955 MB
+MAX SUSTAINED WINDS 100 KT WITH GUSTS TO 120 KT.
+64 KT....... 60NE  60SE  40SW  30NW.
+50 KT.......100NE 100SE  70SW  90NW.
+34 KT.......180NE 210SE 160SW 190NW.
+12 FT SEAS..180NE 290SE 340SW 270NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 36.4N  57.1W AT 03/0300Z
+AT 03/0000Z CENTER WAS LOCATED NEAR 35.9N  57.7W
+ 
+FORECAST VALID 03/1200Z 37.7N  55.3W
+MAX WIND  95 KT...GUSTS 115 KT.
+64 KT... 50NE  50SE  40SW  40NW.
+50 KT... 90NE  90SE  80SW  80NW.
+34 KT...180NE 190SE 170SW 190NW.
+ 
+FORECAST VALID 04/0000Z 39.7N  51.8W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 40NE  50SE  40SW  40NW.
+50 KT... 80NE  80SE  80SW  70NW.
+34 KT...180NE 190SE 190SW 180NW.
+ 
+FORECAST VALID 04/1200Z 42.7N  47.0W
+MAX WIND  85 KT...GUSTS 105 KT.
+64 KT... 50NE  60SE  50SW  40NW.
+50 KT... 80NE  90SE  90SW  70NW.
+34 KT...180NE 200SE 200SW 180NW.
+ 
+FORECAST VALID 05/0000Z 47.3N  41.9W...POST-TROP/EXTRATROP
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT... 50NE  60SE  30SW  30NW.
+50 KT... 90NE 110SE  90SW  40NW.
+34 KT...210NE 240SE 250SW 210NW.
+ 
+FORECAST VALID 05/1200Z 50.8N  39.5W...POST-TROP/EXTRATROP
+MAX WIND  75 KT...GUSTS  90 KT.
+50 KT... 80NE 120SE 100SW  60NW.
+34 KT...240NE 330SE 380SW 290NW.
+ 
+FORECAST VALID 06/0000Z 51.7N  37.9W...POST-TROP/EXTRATROP
+MAX WIND  65 KT...GUSTS  80 KT.
+50 KT... 30NE 120SE 110SW  70NW.
+34 KT...300NE 480SE 480SW 320NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 07/0000Z 54.0N  30.0W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+ 
+OUTLOOK VALID 08/0000Z 60.5N  28.5W...POST-TROP/EXTRATROP
+MAX WIND  40 KT...GUSTS  50 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 36.4N  57.1W
+ 
+NEXT ADVISORY AT 03/0900Z
+ 
+$$
+FORECASTER BEVEN
+ 
+ 
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:37:17 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/030237.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/030237.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Forecast Discussion Number 42</title>
+<description>Issued at 1100 PM AST Sat Oct 02 2021  <![CDATA[<pre>
+
+802 
+WTNT43 KNHC 030238
+TCDAT3
+ 
+Hurricane Sam Discussion Number  42
+NWS National Hurricane Center Miami FL       AL182021
+1100 PM AST Sat Oct 02 2021
+
+Sam continues to gradually weaken.  Conventional satellite imagery 
+indicates that the eye has disappeared and that the cloud tops near 
+the center are gradually warming.  Various objective and subjective 
+satellite intensity estimates are in the 90-102 kt range, while 
+scatterometer and experimental synthetic aperture radar data 
+suggest lower winds than that.  The initial intensity is reduced to 
+a possibly generous 100 kt.
+
+The initial motion is northeastward or 040/14 kt.  A faster motion 
+toward the northeast is expected during the next couple of days as 
+Sam is steered by southwesterly flow between a deep-layer ridge to 
+the east and a large mid- to upper-level low over Atlantic Canada. 
+After Sam completes extratropical transition in about 48 h, a 
+wobbly motion generally toward the northeast is expected as Sam 
+interacts with one or more mid-latitude shortwave troughs.  The 
+new forecast track is similar to the previous track and lies close 
+to the various consensus models.
+
+The hurricane is moving toward colder water, and it is approaching 
+a frontal zone over the north Atlantic.  The cyclone should undergo 
+extratropical transition during the next couple of days, and due to 
+a favorable interaction with a mid-latitude trough it should weaken 
+only slowly as it becomes a large and powerful extratropical low by 
+48 h.  After that time, the baroclinic forcing ends and the low 
+should gradually spin down over the far north Atlantic.  The new 
+intensity forecast has only minor adjustments from the previous 
+forecast.
+
+
+Key Messages:
+ 
+1. Swells generated by Sam will impact the northern Leeward Islands,
+the Greater Antilles, the Bahamas, Bermuda, the eastern United
+States and Atlantic Canada for the next couple of days.  These
+swells could cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  03/0300Z 36.4N  57.1W  100 KT 115 MPH
+ 12H  03/1200Z 37.7N  55.3W   95 KT 110 MPH
+ 24H  04/0000Z 39.7N  51.8W   90 KT 105 MPH
+ 36H  04/1200Z 42.7N  47.0W   85 KT 100 MPH
+ 48H  05/0000Z 47.3N  41.9W   80 KT  90 MPH...POST-TROP/EXTRATROP
+ 60H  05/1200Z 50.8N  39.5W   75 KT  85 MPH...POST-TROP/EXTRATROP
+ 72H  06/0000Z 51.7N  37.9W   65 KT  75 MPH...POST-TROP/EXTRATROP
+ 96H  07/0000Z 54.0N  30.0W   50 KT  60 MPH...POST-TROP/EXTRATROP
+120H  08/0000Z 60.5N  28.5W   40 KT  45 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Beven
+ 
+
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:38:48 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/030238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/030238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Wind Speed Probabilities Number 42</title>
+<description>Issued at 0300 UTC SUN OCT 03 2021                                              <![CDATA[<pre>
+
+000
+FONT13 KNHC 030238
+PWSAT3
+                                                                    
+HURRICANE SAM WIND SPEED PROBABILITIES NUMBER  42                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182021               
+0300 UTC SUN OCT 03 2021                                            
+                                                                    
+AT 0300Z THE CENTER OF HURRICANE SAM WAS LOCATED NEAR LATITUDE 36.4 
+NORTH...LONGITUDE 57.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 100   
+KTS...115 MPH...185 KM/H.                                           
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SUN 12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU 00Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+HIBERNIA OILFD 34  X   X( X)   4( 4)  11(15)   2(17)   X(17)   X(17)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:38:23 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/030238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/030238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/024122.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182021_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Sam 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sun, 03 Oct 2021 02:41:22 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/024122.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182021_wind_probs_34_F120_sm2.png"
+alt="Hurricane Sam 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sun, 03 Oct 2021 02:41:22 GMT
+]]>
+</description>
+<pubDate>Sun, 03 Oct 2021 02:41:22 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/024122.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/024122.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Victor (AT5/AL202021)</title>
+ <guid isPermaLink="false">summary-al202021-202110030244</guid>
+ <pubDate>Sun, 03 Oct 2021 02:44:20 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/030244.shtml</link>
+ <description>
+  ...VICTOR STILL A TROPICAL DEPRESSION... ...FORECAST TO BECOME A REMNANT LOW IN THE NEXT DAY OR SO...
+ As of 11:00 PM AST Sat Oct 2
+ the center of Victor was located near 14.8, -38.9
+ with movement NW at 14 mph.
+ The minimum central pressure was 1005 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>14.8, -38.9</nhc:center>
+  <nhc:type>Tropical Depression</nhc:type>
+  <nhc:name>Victor</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL202021</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Sat Oct 2</nhc:datetime>
+  <nhc:movement>NW at 14 mph</nhc:movement>
+  <nhc:pressure>1005 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...VICTOR STILL A TROPICAL DEPRESSION... ...FORECAST TO BECOME A REMNANT LOW IN THE NEXT DAY OR SO...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Victor Public Advisory Number 15</title>
+<description>Issued at 1100 PM AST Sat Oct 02 2021  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 030244
+TCPAT5
+ 
+BULLETIN
+Tropical Depression Victor Advisory Number  15
+NWS National Hurricane Center Miami FL       AL202021
+1100 PM AST Sat Oct 02 2021
+ 
+...VICTOR STILL A TROPICAL DEPRESSION...
+...FORECAST TO BECOME A REMNANT LOW IN THE NEXT DAY OR SO...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...14.8N 38.9W
+ABOUT 995 MI...1600 KM W OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Depression Victor
+was located near latitude 14.8 North, longitude 38.9 West. The
+depression is moving toward the northwest near 14 mph (22 km/h) and
+this general motion is expected to continue over the next few days.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts. 
+Gradual weakening is forecast over the next couple of days, and 
+Victor could become a remnant low during that time. The system is 
+then forecast to dissipate by Tuesday.
+ 
+The estimated minimum central pressure is 1005 mb (29.68 inches). 
+NOAA moored ocean buoy 13008 recently reported a sea level pressure 
+of 1006.7 mb (29.73 inches).  
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Papin
+ 
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:44:20 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/030244.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/030244.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Victor Forecast Advisory Number 15</title>
+<description>Issued at 0300 UTC SUN OCT 03 2021  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 030240
+TCMAT5
+ 
+TROPICAL DEPRESSION VICTOR FORECAST/ADVISORY NUMBER  15
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL202021
+0300 UTC SUN OCT 03 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 14.8N  38.9W AT 03/0300Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 310 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1005 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+12 FT SEAS..180NE  30SE 150SW 180NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 14.8N  38.9W AT 03/0300Z
+AT 03/0000Z CENTER WAS LOCATED NEAR 14.3N  38.4W
+ 
+FORECAST VALID 03/1200Z 16.3N  40.5W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 04/0000Z 18.4N  42.4W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 04/1200Z 20.3N  44.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 05/0000Z 21.8N  46.4W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 05/1200Z 23.2N  48.3W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+FORECAST VALID 06/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 14.8N  38.9W
+ 
+NEXT ADVISORY AT 03/0900Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:40:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/030240.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/030240.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Victor Forecast Discussion Number 15</title>
+<description>Issued at 1100 PM AST Sat Oct 02 2021  <![CDATA[<pre>
+ZCZC MIATCDAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+Tropical Depression Victor Discussion Number  15
+NWS National Hurricane Center Miami FL       AL202021
+1100 PM AST Sat Oct 02 2021
+ 
+Victor remains a tropical cyclone this evening, with pulsing deep 
+convection occuring primarily north of the well-defined low-level 
+center. However, this convection lacks much organization and is 
+continually being stripped away by around 20 kt of 
+south-southwesterly vertical wind shear. Earlier this evening, there 
+was an ASCAT-A pass valid at 2238 UTC which had peak wind retrievals 
+of 25-30 kt to the northeast of the center. There was also a nearby 
+moored ocean buoy that at 0000 UTC reported sustained winds of 28 kt 
+with a pressure of 1006.7 mb also just northeast of Victor. The 
+latest advisory intensity is thus being maintained at 30 kt but the 
+minimum pressure was lowered a bit due to this in-situ buoy data. 
+The 30 kt intensity also agrees with most recent TAFB Dvorak CI 
+estimate from 0000 UTC.
+ 
+Ultimately the combination of southwesterly vertical wind shear and
+the associated entrainment of dry air will prove victorious against
+Victor, with the depression forecast to gradually weaken during the
+forecast period. The latest NHC intensity forecast still shows
+Victor becoming a remnant low by tomorrow evening, though 27 to
+28 C sea surface temperatures could still support sheared
+convective bursts to the north of the low center into early next
+week. Victor's low-level wind field will also continue to spin down
+over the subsequent days, and the circulation is forecast to open
+up into a trough by Tuesday. The latest forecast is essentially
+unchanged from the previous one and is in good agreement with the
+consensus aids and deterministic model output.
+ 
+The depression continues to move to the northwest at 310/12 kt
+though with the occasional tug poleward by the convection on its
+northern side. This northwestward motion is expected to continue as
+Victor remains embedded in the flow around a low-level subtropical
+anticyclone to its northeast. The NHC track forecast continues to be
+in general agreement with the track guidance consensus, maintaining
+Victor on a similar forward motion until the system opens up into a
+trough in 2-3 days.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  03/0300Z 14.8N  38.9W   30 KT  35 MPH
+ 12H  03/1200Z 16.3N  40.5W   30 KT  35 MPH
+ 24H  04/0000Z 18.4N  42.4W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 36H  04/1200Z 20.3N  44.3W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 48H  05/0000Z 21.8N  46.4W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 60H  05/1200Z 23.2N  48.3W   20 KT  25 MPH...POST-TROP/REMNT LOW
+ 72H  06/0000Z...DISSIPATED
+ 
+$$
+Forecaster Papin
+ 
+NNNN
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:46:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Victor Wind Speed Probabilities Number 15</title>
+<description>Issued at 0300 UTC SUN OCT 03 2021                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 030244
+PWSAT5
+                                                                    
+TROPICAL DEPRESSION VICTOR WIND SPEED PROBABILITIES NUMBER  15      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL202021               
+0300 UTC SUN OCT 03 2021                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL DEPRESSION VICTOR WAS LOCATED NEAR  
+LATITUDE 14.8 NORTH...LONGITUDE 38.9 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SUN 12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU 00Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER PAPIN                                                    
+</pre>]]></description>
+<pubDate>Sun, 03 Oct 2021 02:44:53 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/030244.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/030244.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Victor Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024615.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT20/AL202021_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Victor 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sun, 03 Oct 2021 02:46:15 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024615.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT20/AL202021_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Victor 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sun, 03 Oct 2021 02:46:15 GMT
+]]>
+</description>
+<pubDate>Sun, 03 Oct 2021 02:46:15 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024615.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024615.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

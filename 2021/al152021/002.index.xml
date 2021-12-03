@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Sat, 18 Sep 2021 02:32:42 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 172327<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Fri Sep 17 2021<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+The National Hurricane Center is issuing advisories on newly formed <br/>
+Tropical Storm Odette, located a couple of hundred miles off the <br/>
+Mid-Atlantic U.S. coast.<br/>
+<br/>
+The Weather Prediction Center has issued the last advisory on <br/>
+Post-Tropical Cyclone Nicholas, located over Louisiana. <br/>
+<br/>
+Showers and thunderstorms are gradually becoming better organized in <br/>
+association with an area of low pressure located about 1100 miles <br/>
+east-southeast of the northern Leeward Islands. Environmental <br/>
+conditions are expected to be conducive for further development <br/>
+during the next couple of days, and a tropical depression is likely <br/>
+to form during the next day or two while the system moves toward the <br/>
+west-northwest at about 15 mph.  This system is expected to be near <br/>
+the northern Leeward Islands on Monday and Tuesday, and interests <br/>
+there should monitor the progress of this disturbance.  Upper-level <br/>
+winds are likely to become less conducive for development when the <br/>
+system reaches the southwestern Atlantic by the early to middle part <br/>
+of next week.  <br/>
+* Formation chance through 48 hours...high...80 percent.<br/>
+* Formation chance through 5 days...high...80 percent.<br/>
+<br/>
+A broad area of low pressure located a few hundred miles south of <br/>
+the Cabo Verde Islands continues to produce disorganized showers and <br/>
+thunderstorms.  This system is expected to move toward the west and <br/>
+then northwest at 5 to 10 mph over the far eastern Atlantic, and <br/>
+some gradual development is possible over the weekend.  However, by <br/>
+early next week, further development appears unlikely as the system <br/>
+is expected to move into strong upper-level winds and over cooler <br/>
+waters.<br/>
+* Formation chance through 48 hours...low...20 percent.<br/>
+* Formation chance through 5 days...low...30 percent.<br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Storm Odette are issued under <br/>
+WMO header WTNT35 KNHC and under AWIPS header MIATCPAT5.<br/>
+Forecast/Advisories on Tropical Storm Odette are issued under <br/>
+WMO header WTNT25 KNHC and under AWIPS header MIATCMAT5.<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi<br/>
+]]>
+</description>
+<pubDate>Fri, 17 Sep 2021 23:27:41 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202109172327</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Nicholas Public Advisory Number 23</title>
+<description><![CDATA[The NHC has issued its final advisory on this system.  Public Advisories from the <a href="http://www.wpc.ncep.noaa.gov">Weather Prediction Center</a> will provide updates as  long as the system remains a flood threat. Issued at 400 PM CDT Fri Sep 17 2021 ]]>
+</description>
+<pubDate>Fri, 17 Sep 2021 20:58:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAWPCAT4+shtml/172058.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAWPCAT4+shtml/172058.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Odette (AT5/AL152021)</title>
+ <guid isPermaLink="false">summary-al152021-202109180232</guid>
+ <pubDate>Sat, 18 Sep 2021 02:32:24 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/DDHHMM.shtml</link>
+ <description>
+  ...ODETTE POORLY ORGANIZED OFF THE U.S. MID-ATLANTIC COAST... ...FORECAST TO BECOME POST-TROPICAL BY SATURDAY NIGHT SOUTH OF ATLANTIC CANADA...
+ As of 11:00 PM EDT Fri Sep 17
+ the center of Odette was located near 36.4, -71.2
+ with movement NE at 10 mph.
+ The minimum central pressure was 1010 mb
+ with maximum sustained winds of about 40 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>36.4, -71.2</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Odette</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL152021</nhc:atcf>
+  <nhc:datetime>11:00 PM EDT Fri Sep 17</nhc:datetime>
+  <nhc:movement>NE at 10 mph</nhc:movement>
+  <nhc:pressure>1010 mb</nhc:pressure>
+  <nhc:wind>40 mph</nhc:wind>
+  <nhc:headline> ...ODETTE POORLY ORGANIZED OFF THE U.S. MID-ATLANTIC COAST... ...FORECAST TO BECOME POST-TROPICAL BY SATURDAY NIGHT SOUTH OF ATLANTIC CANADA...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Odette Public Advisory Number 2</title>
+<description>Issued at 1100 PM EDT Fri Sep 17 2021  <![CDATA[<pre>
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Odette Advisory Number   2
+NWS National Hurricane Center Miami FL       AL152021
+1100 PM EDT Fri Sep 17 2021
+ 
+...ODETTE POORLY ORGANIZED OFF THE U.S. MID-ATLANTIC COAST...
+...FORECAST TO BECOME POST-TROPICAL BY SATURDAY NIGHT SOUTH OF
+ATLANTIC CANADA...
+ 
+ 
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...36.4N 71.2W
+ABOUT 265 MI...430 KM SE OF CAPE MAY NEW JERSEY
+ABOUT 340 MI...545 KM S OF NANTUCKET MASSACHUSETTS
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1010 MB...29.83 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Please refer to products issued by Environment Canada for Odette's
+potential impacts to Newfoundland as a post-tropical cyclone.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM EDT (0300 UTC), the center of Tropical Storm Odette was 
+located near latitude 36.4 North, longitude 71.2 West. Odette is 
+moving toward the northeast near 10 mph (17 km/h).  A faster 
+east-northeast to northeast motion is expected this weekend.  On the 
+forecast track, the center of Odette will move away from the U.S. 
+Mid-Atlantic coast and pass south of Atlantic Canada over the 
+weekend.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Strengthening is forecast during the next couple of days, and
+Odette is expected to become a strong post-tropical low by Saturday
+night.
+ 
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
+from the center.
+ 
+The estimated minimum central pressure is 1010 mb (29.83 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF:  Swells generated by Odette are affecting portions of
+the United States Mid-Atlantic coast and are expected to spread
+northward to portions of the U.S. Northeast and Atlantic Canada
+coasts during the weekend.  These swells are likely to cause
+life-threatening surf and rip current conditions.  Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM EDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN
+</pre>]]></description>
+<pubDate>Sat, 18 Sep 2021 02:32:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Odette Forecast Advisory Number 2</title>
+<description>Issued at 0300 UTC SAT SEP 18 2021  <![CDATA[<pre>
+ZCZC MIATCMAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+TROPICAL STORM ODETTE FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL152021
+0300 UTC SAT SEP 18 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+PLEASE REFER TO PRODUCTS ISSUED BY ENVIRONMENT CANADA FOR ODETTE'S
+POTENTIAL IMPACTS TO NEWFOUNDLAND AS A POST-TROPICAL CYCLONE.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 36.4N  71.2W AT 18/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHEAST OR  50 DEGREES AT   9 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1010 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT.......100NE   0SE   0SW  60NW.
+12 FT SEAS..150NE   0SE  90SW  90NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 36.4N  71.2W AT 18/0300Z
+AT 18/0000Z CENTER WAS LOCATED NEAR 36.3N  71.9W
+ 
+FORECAST VALID 18/1200Z 37.8N  69.3W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...120NE  60SE   0SW  60NW.
+ 
+FORECAST VALID 19/0000Z 39.4N  65.7W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...140NE 100SE  90SW  60NW.
+ 
+FORECAST VALID 19/1200Z 41.0N  61.7W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT...  0NE  50SE  30SW   0NW.
+34 KT...150NE 180SE 150SW  90NW.
+ 
+FORECAST VALID 20/0000Z 42.3N  57.5W...POST-TROP/EXTRATROP
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 40NE  50SE  40SW  30NW.
+34 KT...240NE 240SE 180SW 150NW.
+ 
+FORECAST VALID 20/1200Z 43.4N  53.1W...POST-TROP/EXTRATROP
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT...  0NE  40SE  50SW  40NW.
+34 KT...300NE 270SE 210SW 240NW.
+ 
+FORECAST VALID 21/0000Z 43.8N  50.0W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT...  0NE   0SE  50SW  50NW.
+34 KT...390NE 300SE 240SW 300NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 22/0000Z 44.3N  48.0W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+ 
+OUTLOOK VALID 23/0000Z 44.8N  46.6W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 36.4N  71.2W
+ 
+NEXT ADVISORY AT 18/0900Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+NNNN
+</pre>]]></description>
+<pubDate>Sat, 18 Sep 2021 02:32:08 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Odette Forecast Discussion Number 1</title>
+<description>Issued at 500 PM EDT Fri Sep 17 2021  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 172037
+TCDAT5
+ 
+Tropical Storm Odette Discussion Number   1
+NWS National Hurricane Center Miami FL       AL152021
+500 PM EDT Fri Sep 17 2021
+ 
+The circulation associated with the area of low pressure off the
+U.S. Mid-Atlantic coast has become better defined today, with a
+new center having developed near a persistent cluster of deep
+convection.  This system has some non-tropical characteristics, with
+a developing frontal boundary draped around the northern and western
+side of the circulation.  Although the convection is being sheared
+off to the northeast of the center, the structure still resembles
+that of a tropical cyclone.  An ASCAT-C pass from a few hours ago
+showed that maximum winds were 30-35 kt to the north of the center,
+thus advisories are being initiated on Tropical Storm Odette with
+35-kt winds.
+ 
+With the re-formation of the center, the initial motion is
+uncertain but is estimated to be northeastward, or 045/13 kt.
+Odette is embedded between the subtropical ridge over the western
+Atlantic and a deep-layer trough over the U.S. Upper Midwest and
+central Canada.  The approach of this trough should cause Odette to
+accelerate toward the northeast and then east-northeast during the
+next few days.  After about day 3, there is significant divergence
+among the models.  The GFS ejects the system northeastward and
+stalls it over the north Atlantic, south of Greenland.  The ECMWF,
+UKMET, and Canadian models, however, stall the cyclone sooner and
+have it meandering south of Newfoundland on days 4 and 5.  For now,
+the NHC track forecast shows Odette slowing down significantly on
+those days (less than 5 kt on day 5) and is a blend of the TVCA and
+HCCA consensus aids.
+ 
+Odette's transition to an extratropical cyclone is probably already
+underway.  The storm is also centered over the Gulf Stream, where 
+water temperatures are about 28 degrees Celsius, so in the short 
+term it is likely that a combination of baroclinic and convective 
+forcing will cause some intensification, despite deep-layer shear 
+strengthening to near 30 kt.  The global models suggest that Odette 
+should become fully extratropical by 36 hours, and the intensity 
+models indicate that the post-tropical low should peak in 
+intensity in 48-60 hours.  The low is then likely to occlude by day 
+3, a process which typically leads to gradual weakening, which is 
+indicated in the official forecast.
+
+Odette is expected to affect portions of Newfoundland with strong 
+winds and heavy rainfall Sunday and Sunday night as a 
+post-tropical cyclone.  Please refer to products from Environment 
+Canada for additional information on potential impacts in 
+Newfoundland.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  17/2100Z 36.7N  71.8W   35 KT  40 MPH
+ 12H  18/0600Z 38.3N  69.3W   40 KT  45 MPH
+ 24H  18/1800Z 39.9N  65.9W   45 KT  50 MPH
+ 36H  19/0600Z 41.6N  61.7W   50 KT  60 MPH...POST-TROP/EXTRATROP
+ 48H  19/1800Z 43.6N  57.1W   55 KT  65 MPH...POST-TROP/EXTRATROP
+ 60H  20/0600Z 45.0N  52.8W   55 KT  65 MPH...POST-TROP/EXTRATROP
+ 72H  20/1800Z 46.0N  49.5W   50 KT  60 MPH...POST-TROP/EXTRATROP
+ 96H  21/1800Z 47.0N  47.0W   45 KT  50 MPH...POST-TROP/EXTRATROP
+120H  22/1800Z 47.5N  45.5W   35 KT  40 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Fri, 17 Sep 2021 20:38:07 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/172037.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/172037.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Odette Wind Speed Probabilities Number 2</title>
+<description>Issued at 0300 UTC SAT SEP 18 2021                                              <![CDATA[<pre>
+ZCZC MIAPWSAT5 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM ODETTE WIND SPEED PROBABILITIES NUMBER   2           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL152021               
+0300 UTC SAT SEP 18 2021                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM ODETTE WAS LOCATED NEAR       
+LATITUDE 36.4 NORTH...LONGITUDE 71.2 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+HIBERNIA OILFD 34  X   X( X)   X( X)   X( X)   6( 6)   9(15)   4(19)
+HIBERNIA OILFD 50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+CAPE RACE NFLD 34  X   X( X)   X( X)   1( 1)   8( 9)   3(12)   2(14)
+ 
+ILE ST PIERRE  34  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   1( 7)
+ 
+SYDNEY NS      34  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+SABLE ISLAND   34  X   X( X)   4( 4)  13(17)   1(18)   X(18)   X(18)
+ 
+HALIFAX NS     34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+NNNN                                                                
+</pre>]]></description>
+<pubDate>Sat, 18 Sep 2021 02:32:32 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Odette Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203924.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT15/AL152021_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Odette 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 17 Sep 2021 20:39:24 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203924.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT15/AL152021_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Odette 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 17 Sep 2021 21:22:44 GMT
+]]>
+</description>
+<pubDate>Fri, 17 Sep 2021 20:39:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203924.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203924.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

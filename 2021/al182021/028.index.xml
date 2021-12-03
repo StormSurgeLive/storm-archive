@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Wed, 29 Sep 2021 14:44:18 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 291121<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 AM EDT Wed Sep 29 2021<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+The National Hurricane Center is issuing advisories on Hurricane <br/>
+Sam, located several hundred miles east of the northern Leeward <br/>
+Islands.<br/>
+<br/>
+Satellite images indicate that showers and thunderstorms continue <br/>
+to become better organized in association with an area of low <br/>
+pressure located several hundred miles south of the Cabo<br/>
+Verde Islands.  If the current trends continue, advisories will <br/>
+likely be initiated on a tropical depression or tropical storm <br/>
+later today.  This system is expected to move west-northwestward at <br/>
+10 to 15 mph over the eastern Atlantic during the next several <br/>
+days.  Additional information on this system, including gale <br/>
+warnings, can be found in High Seas Forecasts issued by Meteo <br/>
+France. <br/>
+* Formation chance through 48 hours...high...90 percent.<br/>
+* Formation chance through 5 days...high...90 percent.<br/>
+<br/>
+Showers and thunderstorms remain disorganized in association with a <br/>
+a trough of low pressure located several hundred miles southwest of <br/>
+the Cabo Verde Islands.  Development of this system appears less <br/>
+likely due to the interaction with the larger low pressure area <br/>
+located to its east. The system is forecast to drift <br/>
+west-northwestward over the tropical central Atlantic during the <br/>
+next few days.  <br/>
+* Formation chance through 48 hours...low...30 percent.<br/>
+* Formation chance through 5 days...low...30 percent.<br/>
+<br/>
+An area of low pressure associated with the remnants of Peter  <br/>
+located several hundred miles south of the coast of Newfoundland <br/>
+is producing disorganized showers and thunderstorms. This system <br/>
+is moving northeastward into a region of very strong upper-level <br/>
+winds, and significant development is not anticipated.  Additional <br/>
+information on this system can be found in High Seas Forecasts <br/>
+issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 5 days...low...10 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service can be <br/>
+found under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and <br/>
+online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+High Seas Forecasts issued by Meteo France can be found under WMO <br/>
+header FQNT50 LFPW and available on the web at<br/>
+www.meteofrance.com/previsions-meteo-marine/bulletin/grandlarge/<br/>
+metarea2<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi<br/>
+]]>
+</description>
+<pubDate>Wed, 29 Sep 2021 11:21:38 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202109291121</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Sam (AT3/AL182021)</title>
+ <guid isPermaLink="false">summary-al182021-202109291441</guid>
+ <pubDate>Wed, 29 Sep 2021 14:41:52 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/291441.shtml</link>
+ <description>
+  ...POWERFUL SAM CONTINUES MOVING SLOWLY NORTHWESTWARD...
+ As of 11:00 AM AST Wed Sep 29
+ the center of Sam was located near 19.4, -57.0
+ with movement NW at 9 mph.
+ The minimum central pressure was 949 mb
+ with maximum sustained winds of about 130 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>19.4, -57.0</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Sam</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL182021</nhc:atcf>
+  <nhc:datetime>11:00 AM AST Wed Sep 29</nhc:datetime>
+  <nhc:movement>NW at 9 mph</nhc:movement>
+  <nhc:pressure>949 mb</nhc:pressure>
+  <nhc:wind>130 mph</nhc:wind>
+  <nhc:headline> ...POWERFUL SAM CONTINUES MOVING SLOWLY NORTHWESTWARD...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Sam Public Advisory Number 28</title>
+<description>Issued at 1100 AM AST Wed Sep 29 2021  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 291441
+TCPAT3
+ 
+BULLETIN
+Hurricane Sam Advisory Number  28
+NWS National Hurricane Center Miami FL       AL182021
+1100 AM AST Wed Sep 29 2021
+ 
+...POWERFUL SAM CONTINUES MOVING SLOWLY NORTHWESTWARD...
+ 
+ 
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...19.4N 57.0W
+ABOUT 405 MI...655 KM ENE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...130 MPH...215 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...949 MB...28.03 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM AST (1500 UTC), the center of Hurricane Sam was located
+near latitude 19.4 North, longitude 57.0 West.  Sam is moving toward
+the northwest near 9 mph (15 km/h), and this general motion with an
+increase in forward speed is expected during the next couple of
+days.  A turn toward the north is forecast by Friday.  On the
+forecast track, Sam will pass well to the east-northeast of the 
+northern Leeward Islands through tonight.
+
+Maximum sustained winds are near 130 mph (215 km/h) with higher
+gusts.  Sam is a category 4 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Some fluctuations in intensity are expected
+during the next couple of days, but Sam is forecast to remain a
+major hurricane through late this week.
+ 
+Hurricane-force winds extend outward up to 40 miles (65 km) from the
+center and tropical-storm-force winds extend outward up to 125 miles
+(205 km).
+ 
+The minimum central pressure estimated from NOAA Hurricane Hunter 
+aircraft observations is 949 mb (28.03 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Sam can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC.
+ 
+SURF:  Swells generated by Sam will impact the Lesser Antilles
+during the next several days.  Swells are expected to reach Bermuda
+and the Bahamas in a day or so, and then spread to the United
+States east coast by this weekend.  These swells could cause
+life-threatening surf and rip current conditions.  Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM AST.
+ 
+$$
+Forecaster Pasch
+ 
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:41:52 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/291441.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/291441.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Forecast Advisory Number 28</title>
+<description>Issued at 1500 UTC WED SEP 29 2021  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 291441
+TCMAT3
+ 
+HURRICANE SAM FORECAST/ADVISORY NUMBER  28
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182021
+1500 UTC WED SEP 29 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+HURRICANE CENTER LOCATED NEAR 19.4N  57.0W AT 29/1500Z
+POSITION ACCURATE WITHIN  15 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 310 DEGREES AT   8 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  949 MB
+EYE DIAMETER  20 NM
+MAX SUSTAINED WINDS 115 KT WITH GUSTS TO 140 KT.
+64 KT....... 35NE  30SE  25SW  30NW.
+50 KT....... 60NE  50SE  40SW  50NW.
+34 KT.......110NE 100SE  80SW  90NW.
+12 FT SEAS..180NE 105SE 150SW 180NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 19.4N  57.0W AT 29/1500Z
+AT 29/1200Z CENTER WAS LOCATED NEAR 19.1N  56.6W
+ 
+FORECAST VALID 30/0000Z 20.3N  58.1W
+MAX WIND 120 KT...GUSTS 145 KT.
+64 KT... 35NE  30SE  25SW  30NW.
+50 KT... 60NE  50SE  40SW  50NW.
+34 KT...120NE 110SE  90SW 100NW.
+ 
+FORECAST VALID 30/1200Z 21.8N  59.6W
+MAX WIND 120 KT...GUSTS 145 KT.
+64 KT... 35NE  30SE  25SW  30NW.
+50 KT... 60NE  50SE  40SW  50NW.
+34 KT...120NE 110SE  90SW 100NW.
+ 
+FORECAST VALID 01/0000Z 23.9N  61.0W
+MAX WIND 120 KT...GUSTS 145 KT.
+64 KT... 40NE  40SE  30SW  40NW.
+50 KT... 70NE  60SE  50SW  60NW.
+34 KT...120NE 120SE  90SW 100NW.
+ 
+FORECAST VALID 01/1200Z 26.6N  61.8W
+MAX WIND 115 KT...GUSTS 140 KT.
+64 KT... 50NE  40SE  30SW  40NW.
+50 KT... 70NE  70SE  50SW  60NW.
+34 KT...130NE 140SE  90SW 100NW.
+ 
+FORECAST VALID 02/0000Z 29.4N  61.8W
+MAX WIND 110 KT...GUSTS 135 KT.
+50 KT... 70NE  70SE  60SW  60NW.
+34 KT...140NE 140SE 100SW 110NW.
+ 
+FORECAST VALID 02/1200Z 32.0N  60.9W
+MAX WIND 105 KT...GUSTS 130 KT.
+50 KT... 70NE  70SE  60SW  60NW.
+34 KT...150NE 150SE 120SW 130NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 03/1200Z 36.2N  57.3W
+MAX WIND  90 KT...GUSTS 110 KT.
+ 
+OUTLOOK VALID 04/1200Z 39.5N  53.0W
+MAX WIND  75 KT...GUSTS  90 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 19.4N  57.0W
+ 
+NEXT ADVISORY AT 29/2100Z
+ 
+$$
+FORECASTER PASCH
+ 
+ 
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:41:48 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/291441.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/291441.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Forecast Discussion Number 28</title>
+<description>Issued at 1100 AM AST Wed Sep 29 2021  <![CDATA[<pre>
+
+000
+WTNT43 KNHC 291441
+TCDAT3
+ 
+Hurricane Sam Discussion Number  28
+NWS National Hurricane Center Miami FL       AL182021
+1100 AM AST Wed Sep 29 2021
+
+Sam has a well-organized cloud pattern on satellite imagery, with a 
+90 n mi-wide Central Dense Overcast surrounded by numerous 
+convective banding features.  Upper-level outflow has now become 
+better established to the southeast of the hurricane.  A NOAA 
+Hurricane Hunter mission from a couple of hours ago reported a 20 n 
+mi-wide diameter circular eye.  The current intensity is held at 115 
+kt for this advisory, which is a little higher than the maximum 
+winds observed in the earlier aircraft mission.  However, since the 
+estimated minimum central pressure of 949 is a little lower than it 
+was earlier this morning and Sam's intensity has been fluctuating, 
+it is considered prudent not to lower the winds at this time.  An 
+Air Force Hurricane Hunter aircraft is scheduled to investigate the 
+hurricane soon and will provide another intensity estimate.
+
+Sam continues its slow northwestward trek with the current motion 
+remaining near 310/8 kt.  Sam should move northwestward and then 
+northward around the western portion of the subtropical ridge over 
+the eastern Atlantic during the next few days, and turn toward 
+the north-northeast and northeast later in the forecast period.  
+The track guidance models are in very good agreement through 72 
+hours or so, with some increase in model spread thereafter.  This
+increase in spread is largely due to how Sam will interact with a 
+strong mid-latitude trough moving through Atlantic Canada.  Some 
+of the guidance suggests that this trough could partially bypass 
+the hurricane around the end of the period and beyond, but this 
+is not yet clear.  The current NHC forecast track is not much 
+different from the previous one and is in good agreement with the 
+dynamical model consensus, TVCA.
+
+The hurricane will continue to move over warm waters and in an 
+environment of low vertical shear and diffluent upper-level flow 
+for the next 1-2 days.  Thus, it would not be surprising to soon 
+see some restrengthening.  The official intensity forecast is 
+essentially a blend of the latest Decay-SHIPS and LGEM predictions, 
+and is very similar to the previous NHC forecast.  Sam is likely to 
+remain a major hurricane into this weekend.
+ 
+ 
+Key Messages:
+ 
+1. Large swells generated by Sam are affecting the Leeward Islands
+and will spread to portions of the Virgin Islands, Puerto Rico,
+Hispaniola, the Bahamas, and Bermuda by Thursday or Friday.
+Significant swells will likely reach the east coast of the United
+States and Atlantic Canada by the weekend.  These swells will likely
+cause life-threatening surf and rip current conditions, and
+beachgoers and other interests along these coasts are urged to
+follow the advice of lifeguards and local officials through the
+upcoming weekend.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/1500Z 19.4N  57.0W  115 KT 130 MPH
+ 12H  30/0000Z 20.3N  58.1W  120 KT 140 MPH
+ 24H  30/1200Z 21.8N  59.6W  120 KT 140 MPH
+ 36H  01/0000Z 23.9N  61.0W  120 KT 140 MPH
+ 48H  01/1200Z 26.6N  61.8W  115 KT 130 MPH
+ 60H  02/0000Z 29.4N  61.8W  110 KT 125 MPH
+ 72H  02/1200Z 32.0N  60.9W  105 KT 120 MPH
+ 96H  03/1200Z 36.2N  57.3W   90 KT 105 MPH
+120H  04/1200Z 39.5N  53.0W   75 KT  85 MPH
+ 
+$$
+Forecaster Pasch
+ 
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:42:08 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/291441.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/291441.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Wind Speed Probabilities Number 28</title>
+<description>Issued at 1500 UTC WED SEP 29 2021                                              <![CDATA[<pre>
+
+000
+FONT13 KNHC 291441
+PWSAT3
+                                                                    
+HURRICANE SAM WIND SPEED PROBABILITIES NUMBER  28                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182021               
+1500 UTC WED SEP 29 2021                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE SAM WAS LOCATED NEAR LATITUDE 19.4 
+NORTH...LONGITUDE 57.0 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 115   
+KTS...130 MPH...215 KM/H.                                           
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CAPE RACE NFLD 34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+SABLE ISLAND   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+BERMUDA        34  X   X( X)   X( X)   1( 1)  22(23)   5(28)   X(28)
+BERMUDA        50  X   X( X)   X( X)   X( X)   4( 4)   1( 5)   X( 5)
+BERMUDA        64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+BARBUDA        34  1   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:42:08 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/291441.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/291441.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/144347.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182021_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Sam 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 29 Sep 2021 14:43:47 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/144347.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182021_wind_probs_34_F120_sm2.png"
+alt="Hurricane Sam 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 29 Sep 2021 14:43:47 GMT
+]]>
+</description>
+<pubDate>Wed, 29 Sep 2021 14:43:47 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/144347.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/144347.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Twenty (AT5/AL202021)</title>
+ <guid isPermaLink="false">summary-al202021-202109291435</guid>
+ <pubDate>Wed, 29 Sep 2021 14:35:43 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/291435.shtml</link>
+ <description>
+  ...TROPICAL DEPRESSION FORMS OVER THE FAR EASTERN TROPICAL ATLANTIC...
+ As of 2:00 PM CVT Wed Sep 29
+ the center of Twenty was located near 8.3, -24.6
+ with movement WNW at 14 mph.
+ The minimum central pressure was 1007 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>8.3, -24.6</nhc:center>
+  <nhc:type>Tropical Depression</nhc:type>
+  <nhc:name>Twenty</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL202021</nhc:atcf>
+  <nhc:datetime>2:00 PM CVT Wed Sep 29</nhc:datetime>
+  <nhc:movement>WNW at 14 mph</nhc:movement>
+  <nhc:pressure>1007 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...TROPICAL DEPRESSION FORMS OVER THE FAR EASTERN TROPICAL ATLANTIC...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Twenty Public Advisory Number 1</title>
+<description>Issued at 200 PM CVT Wed Sep 29 2021  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 291435
+TCPAT5
+ 
+BULLETIN
+Tropical Depression Twenty Advisory Number   1
+NWS National Hurricane Center Miami FL       AL202021
+200 PM CVT Wed Sep 29 2021
+ 
+...TROPICAL DEPRESSION FORMS OVER THE FAR EASTERN TROPICAL
+ATLANTIC...
+ 
+ 
+SUMMARY OF 200 PM CVT...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...8.3N 24.6W
+ABOUT 535 MI...860 KM S OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 PM CVT (1500 UTC), the center of Tropical Depression Twenty 
+was located near latitude 8.3 North, longitude 24.6 West. The 
+depression is moving toward the west-northwest near 14 mph (22 
+km/h), and this motion is expected to continue during the next 
+couple of days, followed by a turn to the northwest.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Steady strengthening is forecast, and the depression is expected to 
+become a tropical storm tonight and a hurricane in a couple of days.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 800 PM CVT.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:35:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/291435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/291435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twenty Forecast Advisory Number 1</title>
+<description>Issued at 1500 UTC WED SEP 29 2021  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 291435
+TCMAT5
+ 
+TROPICAL DEPRESSION TWENTY FORECAST/ADVISORY NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL202021
+1500 UTC WED SEP 29 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR  8.3N  24.6W AT 29/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 290 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1007 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR  8.3N  24.6W AT 29/1500Z
+AT 29/1200Z CENTER WAS LOCATED NEAR  8.1N  24.2W
+ 
+FORECAST VALID 30/0000Z  8.8N  25.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE   0SE   0SW  50NW.
+ 
+FORECAST VALID 30/1200Z  9.5N  27.6W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 80NE  80SE  40SW  70NW.
+ 
+FORECAST VALID 01/0000Z 10.3N  29.9W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  20SE   0SW  30NW.
+34 KT... 90NE  90SE  40SW  70NW.
+ 
+FORECAST VALID 01/1200Z 11.2N  31.9W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 20NE   0SE   0SW   0NW.
+50 KT... 40NE  30SE   0SW  30NW.
+34 KT...100NE 100SE  40SW  70NW.
+ 
+FORECAST VALID 02/0000Z 12.4N  33.7W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 40NE  40SE  20SW  30NW.
+34 KT...110NE 100SE  40SW  90NW.
+ 
+FORECAST VALID 02/1200Z 14.0N  35.4W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 40NE  40SE  20SW  30NW.
+34 KT...110NE 100SE  40SW  90NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 03/1200Z 18.4N  38.8W
+MAX WIND  55 KT...GUSTS  65 KT.
+ 
+OUTLOOK VALID 04/1200Z 24.3N  40.9W
+MAX WIND  45 KT...GUSTS  55 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF  8.3N  24.6W
+ 
+NEXT ADVISORY AT 29/2100Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:35:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/291435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/291435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twenty Forecast Discussion Number 1</title>
+<description>Issued at 200 PM CVT Wed Sep 29 2021  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 291436
+TCDAT5
+ 
+Tropical Depression Twenty Discussion Number   1
+NWS National Hurricane Center Miami FL       AL202021
+200 PM CVT Wed Sep 29 2021
+
+The area of low pressure located over the far eastern tropical 
+Atlantic that NHC has been monitoring has now become a tropical 
+depression, the twentieth tropical cyclone of the 2021 Atlantic 
+hurricane season. Satellite images indicate that the system is 
+producing a large area of showers and thunderstorms that have become 
+fairly well organized around the center.  An ASCAT-A pass from a  
+few hours ago indicated that the system now has a well-defined 
+circulation and that the radius of maximum wind is 30-40 n mi north 
+of the center.  The initial intensity is set at 30 kt based on the 
+ASCAT data and the T2.0/30 kt Dvorak classifications from TAFB and 
+SAB.  The minimum pressure of 1007 mb is partially based on data 
+from a ship report that passed near the depression.
+
+Based on satellite fixes, the depression appears to be moving 
+west-northwestward at about 12 kt.  The system is currently located 
+on the south side of a deep-layer ridge, and that feature should 
+keep the cyclone on a west-northwest track during the next couple of 
+days.  After that time, the models show a mid- to upper-level low 
+developing over the central tropical Atlantic, which erodes the 
+western portion of the ridge.  This change in the steering flow 
+should cause the system to turn northwestward on Friday and then 
+northward toward the end of the forecast period.  Although the 
+models generally agree on the evolution of the large-scale pattern, 
+there are notable differences in the details, which leads to a fair 
+amount of spread concerning when and where the turn to the north 
+occurs.  The GFS is farthest east while the ECMWF shows the 
+westernmost solution.  The NHC track forecast lies between those 
+models and is near the TVCA multi-model consensus.  
+
+The depression is expected to remain in conducive environmental 
+conditions for strengthening during the next 2 or 3 days.  During 
+that time period, the storm is forecast to move over 28-29 deg C 
+waters while embedded within an airmass of high mid-level moisture 
+and very low wind shear (less than 10 kt).  Therefore, steady 
+strengthening seems likely, and the NHC forecast brings the system 
+to a tropical storm by tonight and a hurricane in a couple of days.  
+Beyond a few days, however, the models show a pronounced increase 
+in southwesterly shear and a notably drier atmosphere. These 
+unfavorable conditions should end the opportunity for strengthening 
+and promote a weakening trend.  The NHC intensity forecast is a near 
+a blend of the HCCA, IVCN, and IVDR consensus models.  
+
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/1500Z  8.3N  24.6W   30 KT  35 MPH
+ 12H  30/0000Z  8.8N  25.8W   35 KT  40 MPH
+ 24H  30/1200Z  9.5N  27.6W   45 KT  50 MPH
+ 36H  01/0000Z 10.3N  29.9W   55 KT  65 MPH
+ 48H  01/1200Z 11.2N  31.9W   65 KT  75 MPH
+ 60H  02/0000Z 12.4N  33.7W   70 KT  80 MPH
+ 72H  02/1200Z 14.0N  35.4W   70 KT  80 MPH
+ 96H  03/1200Z 18.4N  38.8W   55 KT  65 MPH
+120H  04/1200Z 24.3N  40.9W   45 KT  50 MPH
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:36:42 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/291436.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/291436.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twenty Wind Speed Probabilities Number 1</title>
+<description>Issued at 1500 UTC WED SEP 29 2021                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 291435
+PWSAT5
+                                                                    
+TROPICAL DEPRESSION TWENTY WIND SPEED PROBABILITIES NUMBER   1      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL202021               
+1500 UTC WED SEP 29 2021                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL DEPRESSION TWENTY WAS LOCATED NEAR  
+LATITUDE 8.3 NORTH...LONGITUDE 24.6 WEST WITH MAXIMUM SUSTAINED     
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Wed, 29 Sep 2021 14:35:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/291435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/291435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twenty Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/143828.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT20/AL202021_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Twenty 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 29 Sep 2021 14:38:28 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/143828.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT20/AL202021_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Twenty 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 29 Sep 2021 14:38:28 GMT
+]]>
+</description>
+<pubDate>Wed, 29 Sep 2021 14:38:28 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/143828.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/143828.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

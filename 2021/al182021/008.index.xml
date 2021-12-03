@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 24 Sep 2021 14:44:38 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 241141<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 AM EDT Fri Sep 24 2021<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+The National Hurricane Center is issuing advisories on recently <br/>
+upgraded Hurricane Sam, located about 1400 miles east-southeast of <br/>
+the northern Leeward Islands.<br/>
+<br/>
+A large area of showers and thunderstorms centered a couple <br/>
+hundred miles east of Bermuda is associated with a formative surface <br/>
+low interacting with an upper-level trough.  Additional tropical or <br/>
+subtropical development of this system could occur through early <br/>
+Saturday as it moves generally north-northwestward.  After that <br/>
+time, development is not expected due to strong upper-level winds. <br/>
+Additional information on this system, including gale warnings, can <br/>
+be found in High Seas Forecasts issued by the National Weather <br/>
+Service.<br/>
+* Formation chance through 48 hours...medium...40 percent.<br/>
+* Formation chance through 5 days...medium...40 percent.<br/>
+<br/>
+A gale-force, non-tropical low pressure system, the remnants of <br/>
+Odette, is located a little less than 600 miles west-northwest of <br/>
+the westernmost Azores.  Showers and thunderstorms remain limited <br/>
+near the low, and the window of opportunity for this system to <br/>
+become a subtropical or tropical cyclone is closing as strong <br/>
+upper-level winds are expected to develop over the system later <br/>
+today. This system will move generally south-southeastward over the <br/>
+next day or two.  Additional information on this system, including <br/>
+gale warnings, can be found in High Seas Forecasts issued by the <br/>
+National Weather Service.<br/>
+* Formation chance through 48 hours...low...20 percent.<br/>
+* Formation chance through 5 days...low...20 percent.<br/>
+<br/>
+A tropical wave is expected to move off the west coast of Africa by <br/>
+the end of this weekend.  Thereafter, environmental conditions are <br/>
+forecast to be conducive for gradual development, and a tropical <br/>
+depression could form by the middle of next week while the system <br/>
+moves westward at 10 to 15 mph over the far eastern tropical <br/>
+Atlantic.<br/>
+* Formation chance through 48 hours...low...near 0 percent.<br/>
+* Formation chance through 5 days...medium...40 percent.<br/>
+<br/>
+&&<br/>
+<br/>
+High Seas Forecasts issued by the National Weather Service can be <br/>
+found under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and <br/>
+online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+]]>
+</description>
+<pubDate>Fri, 24 Sep 2021 11:41:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202109241141</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Sam (AT3/AL182021)</title>
+ <guid isPermaLink="false">summary-al182021-202109241444</guid>
+ <pubDate>Fri, 24 Sep 2021 14:44:12 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/241444.shtml</link>
+ <description>
+  ...SAM TAKING A MOMENTARY PAUSE IN STRENGTHENING... ...RAPID INTENSIFICATION FORECAST TO RESUME SOON...
+ As of 11:00 AM AST Fri Sep 24
+ the center of Sam was located near 11.8, -43.7
+ with movement W at 14 mph.
+ The minimum central pressure was 993 mb
+ with maximum sustained winds of about 75 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>11.8, -43.7</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Sam</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL182021</nhc:atcf>
+  <nhc:datetime>11:00 AM AST Fri Sep 24</nhc:datetime>
+  <nhc:movement>W at 14 mph</nhc:movement>
+  <nhc:pressure>993 mb</nhc:pressure>
+  <nhc:wind>75 mph</nhc:wind>
+  <nhc:headline> ...SAM TAKING A MOMENTARY PAUSE IN STRENGTHENING... ...RAPID INTENSIFICATION FORECAST TO RESUME SOON...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Sam Public Advisory Number 8</title>
+<description>Issued at 1100 AM AST Fri Sep 24 2021  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 241444
+TCPAT3
+ 
+BULLETIN
+Hurricane Sam Advisory Number   8
+NWS National Hurricane Center Miami FL       AL182021
+1100 AM AST Fri Sep 24 2021
+ 
+...SAM TAKING A MOMENTARY PAUSE IN STRENGTHENING...
+...RAPID INTENSIFICATION FORECAST TO RESUME SOON...
+ 
+ 
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...11.8N 43.7W
+ABOUT 1365 MI...2200 KM ESE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...993 MB...29.33 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM AST (1500 UTC), the center of Hurricane Sam was located 
+near latitude 11.8 North, longitude 43.7 West. Sam is moving just 
+north of due west near 14 mph (22 km/h) and this motion is expected 
+to continue through tonight.  A decrease in forward speed and a 
+motion toward the west-northwest are expected over the weekend.
+ 
+Maximum sustained winds remain near 75 mph (120 km/h) with higher 
+gusts.  Rapid intensification is forecast to resume over the next 
+several days and Sam is likely to become a major hurricane on 
+Saturday.
+ 
+Hurricane-force winds extend outward up to 15 miles (30 km) from the
+center and tropical-storm-force winds extend outward up to 60 miles
+(95 km).
+ 
+The estimated minimum central pressure is 993 mb (29.33 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM AST.
+ 
+$$
+Forecaster Papin
+ 
+</pre>]]></description>
+<pubDate>Fri, 24 Sep 2021 14:44:12 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/241444.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/241444.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Forecast Advisory Number 8</title>
+<description>Issued at 1500 UTC FRI SEP 24 2021  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 241442
+TCMAT3
+ 
+HURRICANE SAM FORECAST/ADVISORY NUMBER   8
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182021
+1500 UTC FRI SEP 24 2021
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+HURRICANE CENTER LOCATED NEAR 11.8N  43.7W AT 24/1500Z
+POSITION ACCURATE WITHIN  15 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  993 MB
+MAX SUSTAINED WINDS  65 KT WITH GUSTS TO  80 KT.
+64 KT....... 15NE   0SE   0SW   0NW.
+50 KT....... 30NE  20SE  15SW  20NW.
+34 KT....... 50NE  40SE  30SW  40NW.
+12 FT SEAS.. 90NE  30SE  30SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 11.8N  43.7W AT 24/1500Z
+AT 24/1200Z CENTER WAS LOCATED NEAR 11.6N  43.1W
+ 
+FORECAST VALID 25/0000Z 12.0N  45.4W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 20NE  10SE   0SW  15NW.
+50 KT... 30NE  20SE  20SW  30NW.
+34 KT... 70NE  50SE  30SW  50NW.
+ 
+FORECAST VALID 25/1200Z 12.3N  47.1W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 25NE  15SE  10SW  20NW.
+50 KT... 40NE  30SE  20SW  30NW.
+34 KT... 70NE  60SE  40SW  50NW.
+ 
+FORECAST VALID 26/0000Z 12.7N  48.4W
+MAX WIND 105 KT...GUSTS 130 KT.
+64 KT... 25NE  15SE  10SW  20NW.
+50 KT... 40NE  30SE  20SW  30NW.
+34 KT... 80NE  80SE  40SW  60NW.
+ 
+FORECAST VALID 26/1200Z 13.1N  49.7W
+MAX WIND 115 KT...GUSTS 140 KT.
+64 KT... 30NE  20SE  15SW  20NW.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT... 90NE  90SE  60SW  70NW.
+ 
+FORECAST VALID 27/0000Z 13.7N  50.9W
+MAX WIND 115 KT...GUSTS 140 KT.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT... 90NE  80SE  60SW  80NW.
+ 
+FORECAST VALID 27/1200Z 14.6N  52.1W
+MAX WIND 115 KT...GUSTS 140 KT.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT...110NE 100SE  60SW  80NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 28/1200Z 16.4N  54.8W
+MAX WIND 110 KT...GUSTS 135 KT.
+ 
+OUTLOOK VALID 29/1200Z 18.2N  57.7W
+MAX WIND 110 KT...GUSTS 135 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 11.8N  43.7W
+ 
+NEXT ADVISORY AT 24/2100Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 24 Sep 2021 14:42:18 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/241442.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/241442.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Forecast Discussion Number 7</title>
+<description>Issued at 500 AM AST Fri Sep 24 2021  <![CDATA[<pre>
+
+000
+WTNT43 KNHC 240831
+TCDAT3
+ 
+Hurricane Sam Discussion Number   7
+NWS National Hurricane Center Miami FL       AL182021
+500 AM AST Fri Sep 24 2021
+ 
+Sam continues to rapidly intensify.  Satellite images show a small,
+but well-developed inner core and pronounced curved bands that wrap
+most of the way around the center.  There are some dry slots,
+however, between the core and bands.  The latest satellite intensity
+estimates range from 55 to 77 kt, and based on that data and the
+continued improvement in the cyclone's structure, the initial wind
+speed is increased to 65 kt.  This makes Sam a hurricane, the
+seventh one of the 2021 Atlantic hurricane season. It should be
+noted that Sam has a compact wind field, with hurricane-force and
+tropical-storm-force winds estimated to only extend outward up to 15
+and 50 n mi from the center, respectively.
+ 
+Sam is moving westward at about 13 kt, and this general motion
+should continue for another 12 to 24 hours as it moves in the flow
+on the south side of a mid-level ridge.  After that time, a decrease
+in forward speed and a turn to the west-northwest are expected, and
+the official forecast has Sam moving at a slow pace of only 6-8 kt
+during the 48-96-hour time period.  By the middle of next week, the
+ridge is forecast to slide eastward as a trough moves over the
+western Atlantic. In response, the hurricane will likely turn
+northwestward as it approaches the northern Leeward Islands.  The
+models have changed little this cycle with the GFS still on the
+northern side of the guidance envelope and the ECMWF on the
+southern side.  The NHC track forecast is essentially an update of
+the previous one and lies between the GFS and ECMWF models, and near
+the consensus aids.
+ 
+The large scale environmental conditions all appear favorable for 
+continued rapid intensification during the next day or so as the 
+hurricane is expected to remain over warm 29 deg C waters and in 
+very low wind shear conditions.  All of the SHIPS rapid 
+intensification indices are well above the climatological means, and 
+the NHC intensity forecast calls for Sam to become a major hurricane 
+by early Saturday.  Beyond a couple of days, the environment is 
+likely to become a little less ideal, and most of the models show 
+Sam leveling off in strength, and so does the official forecast. 
+This intensity prediction lies near a blend of the FSSE, HCCA, and 
+IVCN consensus models.  Regardless of the details, Sam is expected 
+to be a significant hurricane during the next several days.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  24/0900Z 11.5N  42.2W   65 KT  75 MPH
+ 12H  24/1800Z 11.7N  44.0W   80 KT  90 MPH
+ 24H  25/0600Z 12.1N  45.9W   95 KT 110 MPH
+ 36H  25/1800Z 12.5N  47.4W  105 KT 120 MPH
+ 48H  26/0600Z 12.9N  48.7W  115 KT 130 MPH
+ 60H  26/1800Z 13.4N  50.0W  115 KT 130 MPH
+ 72H  27/0600Z 14.1N  51.1W  110 KT 125 MPH
+ 96H  28/0600Z 15.9N  53.8W  110 KT 125 MPH
+120H  29/0600Z 17.8N  56.6W  110 KT 125 MPH
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Fri, 24 Sep 2021 08:32:03 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/240831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/240831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Wind Speed Probabilities Number 8</title>
+<description>Issued at 1500 UTC FRI SEP 24 2021                                              <![CDATA[<pre>
+
+494 
+FONT13 KNHC 241444
+PWSAT3
+                                                                    
+HURRICANE SAM WIND SPEED PROBABILITIES NUMBER   8                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182021               
+1500 UTC FRI SEP 24 2021                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE SAM WAS LOCATED NEAR LATITUDE 11.8 
+NORTH...LONGITUDE 43.7 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 65 KTS
+...75 MPH...120 KM/H.                                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z FRI 00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE 12Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SAINT THOMAS   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+SAINT MAARTEN  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+SAINT MAARTEN  50  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+SAINT MAARTEN  64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+SABA           34  X   X( X)   X( X)   X( X)   X( X)   X( X)   6( 6)
+ 
+ST EUSTATIUS   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   7( 7)
+ 
+ST KITTS-NEVIS 34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   6( 7)
+ST KITTS-NEVIS 50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+BARBUDA        34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  11(13)
+BARBUDA        50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+BARBUDA        64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+ANTIGUA        34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  10(12)
+ANTIGUA        50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ANTIGUA        64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+GUADELOUPE     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   9(11)
+GUADELOUPE     50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+GUADELOUPE     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+AVES           34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+DOMINICA       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   6( 8)
+DOMINICA       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+DOMINICA       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+MARTINIQUE     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+MARTINIQUE     50  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+MARTINIQUE     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+SAINT LUCIA    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+SAINT VINCENT  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+BARBADOS       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   4( 6)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+
+</pre>]]></description>
+<pubDate>Fri, 24 Sep 2021 14:44:37 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/241444.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/241444.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Sam Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/083327.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182021_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Sam 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 24 Sep 2021 08:33:27 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/083327.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182021_wind_probs_34_F120_sm2.png"
+alt="Hurricane Sam 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 24 Sep 2021 09:22:52 GMT
+]]>
+</description>
+<pubDate>Fri, 24 Sep 2021 08:33:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/083327.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/083327.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
