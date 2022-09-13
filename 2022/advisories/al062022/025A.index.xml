@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 09 Sep 2022 05:51:55 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+184 <br/>
+ABNT20 KNHC 090532<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 AM EDT Fri Sep 9 2022<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Hurricane <br/>
+Earl, located about 100 miles southeast of Bermuda.<br/>
+<br/>
+Central Tropical Atlantic: <br/>
+A gale-force low pressure system located about 1200 miles east of <br/>
+the Leeward Islands continues to produce disorganized showers and <br/>
+thunderstorms that are displaced well to the northeast of the <br/>
+circulation center due to strong upper-level winds.  Although the <br/>
+upper-level winds are expected to remain strong, the low still has <br/>
+some opportunity during the next day or so to become a short-lived <br/>
+tropical cyclone while moving toward the west-northwest at about 15 <br/>
+mph into the central subtropical Atlantic.  For more information on <br/>
+this system, including gale warnings, please refer to the High Seas <br/>
+Forecasts issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...medium...40 percent.<br/>
+* Formation chance through 5 days...medium...40 percent.<br/>
+<br/>
+Eastern Tropical Atlantic:<br/>
+A tropical wave located several hundred miles south of the Cabo <br/>
+Verde Islands is producing a disorganized area of showers and <br/>
+thunderstorms.  Development of this system, if any, is expected to <br/>
+be slow to occur while it moves westward or west-northwestward at <br/>
+15 to 20 mph across the eastern and central tropical Atlantic <br/>
+through the middle of next week.<br/>
+* Formation chance through 48 hours...low...near 0 percent.<br/>
+* Formation chance through 5 days...low...20 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service can be <br/>
+found under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and <br/>
+online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Berg<br/>
+<br/>
+]]>
+</description>
+<pubDate>Fri, 09 Sep 2022 05:32:50 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202209090532</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Earl (AT1/AL062022)</title>
+ <guid isPermaLink="false">summary-al062022-202209090551</guid>
+ <pubDate>Fri, 09 Sep 2022 05:51:22 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/090551.shtml</link>
+ <description>
+  ...CENTER OF EARL MAKING ITS CLOSEST APPROACH TO BERMUDA... ...TROPICAL STORM CONDITIONS EXPECTED TO CONTINUE ON BERMUDA THROUGH  DAYBREAK...
+ As of 2:00 AM AST Fri Sep 9
+ the center of Earl was located near 31.8, -63.3
+ with movement NNE at 15 mph.
+ The minimum central pressure was 964 mb
+ with maximum sustained winds of about 90 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>31.8, -63.3</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Earl</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL062022</nhc:atcf>
+  <nhc:datetime>2:00 AM AST Fri Sep 9</nhc:datetime>
+  <nhc:movement>NNE at 15 mph</nhc:movement>
+  <nhc:pressure>964 mb</nhc:pressure>
+  <nhc:wind>90 mph</nhc:wind>
+  <nhc:headline> ...CENTER OF EARL MAKING ITS CLOSEST APPROACH TO BERMUDA... ...TROPICAL STORM CONDITIONS EXPECTED TO CONTINUE ON BERMUDA THROUGH  DAYBREAK...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Earl Public Advisory Number 25A</title>
+<description>Issued at 200 AM AST Fri Sep 09 2022  <![CDATA[<pre>
+
+000
+WTNT31 KNHC 090551
+TCPAT1
+ 
+BULLETIN
+Hurricane Earl Intermediate Advisory Number 25A
+NWS National Hurricane Center Miami FL       AL062022
+200 AM AST Fri Sep 09 2022
+ 
+...CENTER OF EARL MAKING ITS CLOSEST APPROACH TO BERMUDA...
+...TROPICAL STORM CONDITIONS EXPECTED TO CONTINUE ON BERMUDA THROUGH 
+DAYBREAK...
+ 
+ 
+SUMMARY OF 200 AM AST...0600 UTC...INFORMATION
+----------------------------------------------
+LOCATION...31.8N 63.3W
+ABOUT 90 MI...145 KM ESE OF BERMUDA
+MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+PRESENT MOVEMENT...NNE OR 30 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...964 MB...28.47 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Bermuda
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case during the 
+next several hours.
+ 
+For storm information specific to your area, please monitor products 
+issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 AM AST (0600 UTC), the center of Hurricane Earl was located 
+by an Air Force Reserve Hurricane Hunter aircraft near latitude 31.8 
+North, longitude 63.3 West.  Earl is moving toward the 
+north-northeast near 15 mph (24 km/h), and a turn toward the 
+northeast with an increase in forward speed is expected later today. 
+On the forecast track, the center of Earl will move away from 
+Bermuda through the morning.
+ 
+Maximum sustained winds are near 90 mph (150 km/h) with higher 
+gusts.  Some strengthening is still possible through this evening or 
+tonight.  Thereafter, some weakening and a transition into a 
+powerful extratropical cyclone is forecast on Saturday.
+ 
+Hurricane-force winds extend outward up to 60 miles (95 km) from
+the center and tropical-storm-force winds extend outward up to 185
+miles (295 km).
+ 
+The minimum central pressure reported by the reconnaissance aircraft 
+is 964 mb (28.47 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Earl can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT1.shtml
+ 
+WIND:  Tropical storm conditions are expected on Bermuda through 
+daybreak.
+ 
+RAINFALL:  Earl is expected to produce rainfall amounts of 1 to 3
+inches (25 to 75 mm) across Bermuda through today.
+ 
+SURF:  Swells generated by Earl are affecting Bermuda and portions 
+of the U.S. East Coast and are expected to reach Nova Scotia and 
+Newfoundland tonight and on Saturday.  These swells are likely to 
+cause life-threatening surf and rip current conditions through the 
+weekend.  Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Fri, 09 Sep 2022 05:51:22 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/090551.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/090551.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Earl Forecast Advisory Number 25</title>
+<description>Issued at 0300 UTC FRI SEP 09 2022  <![CDATA[<pre>
+
+000
+WTNT21 KNHC 090251
+TCMAT1
+ 
+HURRICANE EARL FORECAST/ADVISORY NUMBER  25
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062022
+0300 UTC FRI SEP 09 2022
+ 
+CHANGES IN WATCHES AND WARNINGS WITH THIS ADVISORY...
+ 
+THE BERMUDA WEATHER SERVICE HAS DISCONTINUED THE HURRICANE WATCH
+FOR BERMUDA.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+ 
+A TROPICAL STORM WARNING IS IN EFFECT FOR...
+* BERMUDA
+ 
+A TROPICAL STORM WARNING MEANS THAT TROPICAL STORM CONDITIONS ARE
+EXPECTED SOMEWHERE WITHIN THE WARNING AREA...IN THIS CASE TONIGHT.
+ 
+HURRICANE CENTER LOCATED NEAR 31.3N  63.7W AT 09/0300Z
+POSITION ACCURATE WITHIN  15 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH-NORTHEAST OR  30 DEGREES AT  13 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  964 MB
+EYE DIAMETER  50 NM
+MAX SUSTAINED WINDS  80 KT WITH GUSTS TO 100 KT.
+64 KT....... 50NE  50SE  40SW  30NW.
+50 KT....... 70NE  90SE  70SW  60NW.
+34 KT.......140NE 160SE 120SW 100NW.
+12 FT SEAS..240NE 270SE 240SW 210NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 31.3N  63.7W AT 09/0300Z
+AT 09/0000Z CENTER WAS LOCATED NEAR 30.6N  64.3W
+ 
+FORECAST VALID 09/1200Z 33.3N  61.8W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 50NE  60SE  40SW  30NW.
+50 KT... 80NE 100SE  70SW  60NW.
+34 KT...150NE 180SE 150SW 100NW.
+ 
+FORECAST VALID 10/0000Z 36.9N  57.9W
+MAX WIND 100 KT...GUSTS 120 KT.
+64 KT... 50NE  70SE  50SW  40NW.
+50 KT... 90NE 110SE  90SW  70NW.
+34 KT...190NE 210SE 180SW 140NW.
+ 
+FORECAST VALID 10/1200Z 40.7N  53.9W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 50NE  60SE  50SW  40NW.
+50 KT...110NE 130SE 100SW  80NW.
+34 KT...240NE 280SE 230SW 240NW.
+ 
+FORECAST VALID 11/0000Z 43.3N  51.3W...POST-TROP/EXTRATROP
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 40NE  50SE  50SW  40NW.
+50 KT...110NE 120SE  90SW 110NW.
+34 KT...270NE 300SE 270SW 270NW.
+ 
+FORECAST VALID 11/1200Z 44.2N  50.4W...POST-TROP/EXTRATROP
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT...  0NE  60SE  80SW 100NW.
+34 KT...260NE 250SE 250SW 260NW.
+ 
+FORECAST VALID 12/0000Z 45.0N  49.2W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...200NE 185SE 220SW 240NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 13/0000Z 45.8N  46.5W...POST-TROP/EXTRATROP
+MAX WIND  40 KT...GUSTS  50 KT.
+ 
+OUTLOOK VALID 14/0000Z 46.5N  41.2W...POST-TROP/EXTRATROP
+MAX WIND  40 KT...GUSTS  50 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 31.3N  63.7W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT31 KNHC/MIATCPAT1...AT 09/0600Z
+ 
+NEXT ADVISORY AT 09/0900Z
+ 
+$$
+FORECASTER BUCCI/PASCH
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 09 Sep 2022 02:51:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/090251.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/090251.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Earl Forecast Discussion Number 25</title>
+<description>Issued at 1100 PM AST Thu Sep 08 2022  <![CDATA[<pre>
+
+000
+WTNT41 KNHC 090254
+TCDAT1
+ 
+Hurricane Earl Discussion Number  25
+NWS National Hurricane Center Miami FL       AL062022
+1100 PM AST Thu Sep 08 2022
+ 
+The satellite and airborne radar presentation of Earl has continued
+to degrade this evening.  The eye has expanded to 50 n mi wide,
+become more ragged in appearance, and is open to the south.  A NOAA
+Hurricane Hunter aircraft investigating the system has only found
+peak flight-level winds of 89 kt and surface wind measurements of 75
+kt.  The minimum central pressure has also risen to a reported 964
+mb.  Based on these data and accounting for potential undersampling 
+of the wind field, the initial intensity has been lowered to 80 kt 
+on this advisory cycle.
+ 
+The hurricane is moving north-northeastward at 13 kt.  The forward
+motion is expected to increase as Earl is caught up in the
+southwesterly flow between a mid-level ridge to the east, and a
+digging mid-latitude trough to the northwest.  A mid-level trough
+moving off the eastern seaboard is forecast to capture the storm and
+slow Earl's motion off the Canadian coast.  There is some
+uncertainty in timing of this interaction which is leading to a
+larger spread in model track guidance in the 60-96 h forecast
+range.
+ 
+Statistical model guidance insists that Earl has another day or so 
+of conducive atmospheric and oceanic conditions in which to 
+strengthen.  However, the recent degradation in structural 
+organization of the hurricane may be difficult to overcome in a 
+short period of time.  The peak intensity of the official forecast 
+has been lowered to 100 kt at 24 hours.  Beyond a day, the vertical 
+wind shear is predicted to increase dramatically and induce rapid 
+weakening, and extratropical transition is likely to occur within 48 
+hours.
+
+ 
+KEY MESSAGES:
+ 
+1.  Although Earl's center is forecast to pass southeast of Bermuda,
+tropical-storm-force winds are expected on the island tonight into
+tomorrow morning.
+ 
+2.  Swells generated by Earl are affecting Bermuda and are expected 
+to reach the U.S. East Coast tonight. These swells are likely to 
+cause life-threatening surf and rip current conditions through the 
+weekend.  Please consult products from your local weather office.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  09/0300Z 31.3N  63.7W   80 KT  90 MPH
+ 12H  09/1200Z 33.3N  61.8W   90 KT 105 MPH
+ 24H  10/0000Z 36.9N  57.9W  100 KT 115 MPH
+ 36H  10/1200Z 40.7N  53.9W   90 KT 105 MPH
+ 48H  11/0000Z 43.3N  51.3W   70 KT  80 MPH...POST-TROP/EXTRATROP
+ 60H  11/1200Z 44.2N  50.4W   55 KT  65 MPH...POST-TROP/EXTRATROP
+ 72H  12/0000Z 45.0N  49.2W   45 KT  50 MPH...POST-TROP/EXTRATROP
+ 96H  13/0000Z 45.8N  46.5W   40 KT  45 MPH...POST-TROP/EXTRATROP
+120H  14/0000Z 46.5N  41.2W   40 KT  45 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Bucci/Pasch
+ 
+</pre>]]></description>
+<pubDate>Fri, 09 Sep 2022 02:54:21 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/090254.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/090254.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Earl Wind Speed Probabilities Number 25</title>
+<description>Issued at 0300 UTC FRI SEP 09 2022                                              <![CDATA[<pre>
+
+000
+FONT11 KNHC 090252
+PWSAT1
+                                                                    
+HURRICANE EARL WIND SPEED PROBABILITIES NUMBER  25                  
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062022               
+0300 UTC FRI SEP 09 2022                                            
+                                                                    
+AT 0300Z THE CENTER OF HURRICANE EARL WAS LOCATED NEAR LATITUDE 31.3
+NORTH...LONGITUDE 63.7 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 80 KTS
+...90 MPH...150 KM/H.                                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z FRI 12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE 00Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+HIBERNIA OILFD 34  X   X( X)   X( X)   9( 9)  16(25)   9(34)   2(36)
+HIBERNIA OILFD 50  X   X( X)   X( X)   X( X)   3( 3)   3( 6)   1( 7)
+HIBERNIA OILFD 64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   1( 2)
+ 
+CAPE RACE NFLD 34  X   X( X)   1( 1)  11(12)  11(23)   2(25)   X(25)
+ 
+ILE ST PIERRE  34  X   X( X)   X( X)   3( 3)   4( 7)   1( 8)   X( 8)
+ 
+BERMUDA        34 82   X(82)   X(82)   X(82)   X(82)   X(82)   X(82)
+ 
+$$                                                                  
+FORECASTER BUCCI/PASCH                                              
+      
+</pre>]]></description>
+<pubDate>Fri, 09 Sep 2022 02:52:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/090252.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/090252.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Earl Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/055113.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT06/AL062022_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Earl 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 09 Sep 2022 05:51:13 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/055113.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT06/AL062022_wind_probs_34_F120_sm2.png"
+alt="Hurricane Earl 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 09 Sep 2022 03:23:03 GMT
+]]>
+</description>
+<pubDate>Fri, 09 Sep 2022 05:51:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/055113.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/055113.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

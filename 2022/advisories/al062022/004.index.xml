@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Sat, 03 Sep 2022 20:48:03 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 031732<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 PM EDT Sat Sep 3 2022<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Danielle, located over 900 miles west of the Azores, and on <br/>
+Tropical Storm Earl, located northeast of the northern Leeward <br/>
+Islands.<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 5 days.<br/>
+<br/>
+&&<br/>
+<br/>
+Public Advisories on Tropical Storm Earl are issued under WMO header <br/>
+WTNT31 KNHC and under AWIPS header MIATCPAT1.<br/>
+Forecast/Advisories on Tropical Storm Earl are issued under WMO <br/>
+header WTNT21 KNHC and under AWIPS header MIATCMAT1.<br/>
+<br/>
+$$<br/>
+Forecaster Reinhart<br/>
+]]>
+</description>
+<pubDate>Sat, 03 Sep 2022 17:33:05 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202209031733</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Earl (AT1/AL062022)</title>
+ <guid isPermaLink="false">summary-al062022-202209032043</guid>
+ <pubDate>Sat, 03 Sep 2022 20:43:06 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/032042.shtml</link>
+ <description>
+  ...EARL STRENGTHENS TO THE NORTH OF THE LEEWARD ISLANDS...
+ As of 5:00 PM AST Sat Sep 3
+ the center of Earl was located near 19.3, -63.2
+ with movement WNW at 10 mph.
+ The minimum central pressure was 999 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>19.3, -63.2</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Earl</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL062022</nhc:atcf>
+  <nhc:datetime>5:00 PM AST Sat Sep 3</nhc:datetime>
+  <nhc:movement>WNW at 10 mph</nhc:movement>
+  <nhc:pressure>999 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...EARL STRENGTHENS TO THE NORTH OF THE LEEWARD ISLANDS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Earl Public Advisory Number 4</title>
+<description>Issued at 500 PM AST Sat Sep 03 2022  <![CDATA[<pre>
+
+000
+WTNT31 KNHC 032042
+TCPAT1
+ 
+BULLETIN
+Tropical Storm Earl Advisory Number   4
+NWS National Hurricane Center Miami FL       AL062022
+500 PM AST Sat Sep 03 2022
+ 
+...EARL STRENGTHENS TO THE NORTH OF THE LEEWARD ISLANDS...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.3N 63.2W
+ABOUT 75 MI...125 KM N OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests in the northern Leeward Islands, the Virgin Islands, and
+Puerto Rico should monitor the progress of Earl.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Tropical Storm Earl was 
+located near latitude 19.3 North, longitude 63.2 West. Earl is 
+moving toward the west-northwest near 10 mph (17 km/h). A slower 
+west-northwestward to northwestward motion is expected during the 
+next couple of days, followed by a turn toward the north on Tuesday. 
+On the forecast track, the center of Earl is expected to pass north 
+of the northern Leeward Islands through this evening, and north of 
+the Virgin Islands and Puerto Rico tonight and Sunday.
+ 
+Data from an Air Force Reserve Hurricane Hunter aircraft indicate 
+that maximum sustained winds have increased to near 50 mph (85 km/h) 
+with higher gusts. Some slow strengthening is forecast during the 
+next couple of days.
+ 
+Tropical-storm-force winds extend outward up to 105 miles (165 km) 
+mainly to the north and east of the center.
+ 
+The estimated minimum central pressure is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL: Earl is expected to produce total rainfall amounts of 2 
+to 4 inches, with isolated totals of 6 inches, across the Leeward 
+Islands, U.S. and British Virgin Islands, and Puerto Rico this 
+weekend. 
+
+Limited flash, urban, and small stream flooding impacts are 
+possible.  Rapid rises on rivers and mudslides in areas of steep 
+terrain are also possible, especially across the central interior 
+region of Puerto Rico.
+ 
+WIND:  Gusty winds, especially in squalls, are possible across the
+northern Leeward Islands, the Virgin Islands, and Puerto Rico
+through Sunday.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:43:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/032042.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/032042.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Earl Forecast Advisory Number 4</title>
+<description>Issued at 2100 UTC SAT SEP 03 2022  <![CDATA[<pre>
+
+000
+WTNT21 KNHC 032042
+TCMAT1
+ 
+TROPICAL STORM EARL FORECAST/ADVISORY NUMBER   4
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062022
+2100 UTC SAT SEP 03 2022
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+INTERESTS IN THE NORTHERN LEEWARD ISLANDS...THE VIRGIN ISLANDS...AND
+PUERTO RICO SHOULD MONITOR THE PROGRESS OF EARL.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 19.3N  63.2W AT 03/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 290 DEGREES AT   9 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  999 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT....... 90NE  20SE   0SW  40NW.
+12 FT SEAS..120NE   0SE   0SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 19.3N  63.2W AT 03/2100Z
+AT 03/1800Z CENTER WAS LOCATED NEAR 19.1N  62.8W
+ 
+FORECAST VALID 04/0600Z 19.7N  64.3W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 90NE  20SE   0SW  40NW.
+ 
+FORECAST VALID 04/1800Z 20.5N  65.4W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 30NE   0SE   0SW   0NW.
+34 KT... 90NE  40SE   0SW  50NW.
+ 
+FORECAST VALID 05/0600Z 21.3N  66.0W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 30NE   0SE   0SW  20NW.
+34 KT... 90NE  60SE  30SW  60NW.
+ 
+FORECAST VALID 05/1800Z 22.2N  66.4W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  20SE   0SW  20NW.
+34 KT...100NE  80SE  40SW  60NW.
+ 
+FORECAST VALID 06/0600Z 23.0N  66.6W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 40NE  30SE  20SW  30NW.
+34 KT...100NE  90SE  50SW  70NW.
+ 
+FORECAST VALID 06/1800Z 24.1N  66.6W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 50NE  40SE  30SW  30NW.
+34 KT...100NE  90SE  70SW  80NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 07/1800Z 25.6N  65.6W
+MAX WIND  65 KT...GUSTS  80 KT.
+ 
+OUTLOOK VALID 08/1800Z 27.7N  63.7W
+MAX WIND  75 KT...GUSTS  90 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 19.3N  63.2W
+ 
+NEXT ADVISORY AT 04/0300Z
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:42:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/032042.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/032042.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Earl Forecast Discussion Number 4</title>
+<description>Issued at 500 PM AST Sat Sep 03 2022  <![CDATA[<pre>
+
+814 
+WTNT41 KNHC 032044
+TCDAT1
+ 
+Tropical Storm Earl Discussion Number   4
+NWS National Hurricane Center Miami FL       AL062022
+500 PM AST Sat Sep 03 2022
+ 
+Earl has strengthened this afternoon. Satellite data indicate the 
+previously exposed low-level center of the cyclone has been drawn 
+underneath an area of deep convection, with cloud top temperatures 
+colder than -70C. An Air Force Hurricane Hunter aircraft that 
+recently investigated the storm reported max flight-level (925 mb) 
+winds of 56 kt. This would support surface winds between 40 and 45
+kt using a standard reduction factor. Based on these data, the 
+cyclone's improved satellite structure, and falling surface 
+pressures throughout the day, the initial intensity of Earl is 
+raised to 45 kt for this advisory. 
+
+The cyclone has strengthened some today despite facing moderate 
+deep-layer southwesterly shear. The shear is forecast to persist or 
+even increase during the next couple of days, so some fluctuation in 
+intensity is possible if the deep convection gets stripped away and 
+the center becomes exposed again. But, sea-surface temperatures 
+greater than 29C should continue to support convective development, 
+and the overall trend in the latest intensity guidance favors at 
+least slow strengthening into early next week. Then, the models 
+suggest that favorable interaction with an upper-level trough over 
+the warm waters of the western Atlantic will promote additional 
+strengthening, along with a broadening of the wind field. The latest 
+NHC intensity forecast has been raised closer to the HCCA and IVCN 
+consensus aids, and it now brings Earl up to hurricane strength at 
+days 4-5.
+
+The initial motion of Earl is west-northwestward, or 290/9 kt. The 
+general forecast track reasoning has not changed. Earl is expected 
+to slow down as it moves west-northwestward to northwestward over 
+the next couple of days. A weakness in the subtropical ridge should 
+allow the cyclone to gradually turn northward early next week, then 
+move northeastward as it becomes steered by a mid- to upper-level 
+trough over the western Atlantic. The official NHC forecast track is 
+very similar to the previous forecast and lies slightly to the left 
+of the HCCA and TVCA aids. 
+ 
+Tropical-storm-force winds are still forecast to remain on the 
+northern and eastern side of the circulation, and are not expected 
+to move across the northern Leeward Islands, the Virgin Islands, or 
+Puerto Rico.  However, gusty winds in squalls are possible at these 
+locations through Sunday.
+ 
+ 
+KEY MESSAGES:
+ 
+1.  Heavy rainfall from Earl is expected to lead to limited flash, 
+urban, and small stream flooding impacts over the Leeward Islands, 
+U.S. and British Virgin Islands, and Puerto Rico this weekend. Rapid 
+rises on rivers and mudslides in areas of steep terrain are possible 
+in Puerto Rico.
+ 
+2.  Earl is forecast to pass to the north of the the Virgin Islands 
+and Puerto Rico tonight and Sunday. Gusty winds, especially in 
+squalls, area possible on those islands through Sunday.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  03/2100Z 19.3N  63.2W   45 KT  50 MPH
+ 12H  04/0600Z 19.7N  64.3W   45 KT  50 MPH
+ 24H  04/1800Z 20.5N  65.4W   50 KT  60 MPH
+ 36H  05/0600Z 21.3N  66.0W   50 KT  60 MPH
+ 48H  05/1800Z 22.2N  66.4W   55 KT  65 MPH
+ 60H  06/0600Z 23.0N  66.6W   55 KT  65 MPH
+ 72H  06/1800Z 24.1N  66.6W   60 KT  70 MPH
+ 96H  07/1800Z 25.6N  65.6W   65 KT  75 MPH
+120H  08/1800Z 27.7N  63.7W   75 KT  85 MPH
+ 
+$$
+Forecaster Reinhart
+ 
+
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:45:03 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/032044.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/032044.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Earl Wind Speed Probabilities Number 4</title>
+<description>Issued at 2100 UTC SAT SEP 03 2022                                              <![CDATA[<pre>
+
+684 
+FONT11 KNHC 032043
+PWSAT1
+                                                                    
+TROPICAL STORM EARL WIND SPEED PROBABILITIES NUMBER   4             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062022               
+2100 UTC SAT SEP 03 2022                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM EARL WAS LOCATED NEAR LATITUDE
+19.3 NORTH...LONGITUDE 63.2 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+45 KTS...50 MPH...85 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BERMUDA        34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   6( 8)
+ 
+GRAND TURK     34  X   X( X)   X( X)   1( 1)   2( 3)   1( 4)   X( 4)
+ 
+PUERTO PLATA   34  X   X( X)   1( 1)   X( 1)   1( 2)   1( 3)   1( 4)
+ 
+AGUADILLA PR   34  X   1( 1)   1( 2)   1( 3)   2( 5)   X( 5)   X( 5)
+ 
+VIEQUES PR     34  X   1( 1)   2( 3)   1( 4)   1( 5)   X( 5)   X( 5)
+ 
+SAINT THOMAS   34  X   1( 1)   2( 3)   1( 4)   2( 6)   X( 6)   X( 6)
+ 
+SAINT JOHN     34  1   1( 2)   1( 3)   1( 4)   2( 6)   X( 6)   X( 6)
+ 
+SAINT CROIX    34  X   1( 1)   1( 2)   1( 3)   1( 4)   X( 4)   X( 4)
+ 
+SAINT MAARTEN  34  X   1( 1)   1( 2)   1( 3)   X( 3)   1( 4)   X( 4)
+ 
+SABA           34  X   1( 1)   1( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER REINHART                                                 
+
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:43:32 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/032043.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/032043.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Earl Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/204546.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT06/AL062022_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Earl 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sat, 03 Sep 2022 20:45:46 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/204546.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT06/AL062022_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Earl 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sat, 03 Sep 2022 20:45:47 GMT
+]]>
+</description>
+<pubDate>Sat, 03 Sep 2022 20:45:46 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/204546.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/204546.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Danielle (AT5/AL052022)</title>
+ <guid isPermaLink="false">summary-al052022-202209032031</guid>
+ <pubDate>Sat, 03 Sep 2022 20:31:02 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/032030.shtml</link>
+ <description>
+  ...DANIELLE COULD BECOME A HURRICANE AGAIN TONIGHT OR SUNDAY...
+ As of 9:00 PM GMT Sat Sep 3
+ the center of Danielle was located near 38.0, -44.8
+ with movement W at 6 mph.
+ The minimum central pressure was 990 mb
+ with maximum sustained winds of about 70 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>38.0, -44.8</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Danielle</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL052022</nhc:atcf>
+  <nhc:datetime>9:00 PM GMT Sat Sep 3</nhc:datetime>
+  <nhc:movement>W at 6 mph</nhc:movement>
+  <nhc:pressure>990 mb</nhc:pressure>
+  <nhc:wind>70 mph</nhc:wind>
+  <nhc:headline> ...DANIELLE COULD BECOME A HURRICANE AGAIN TONIGHT OR SUNDAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Danielle Public Advisory Number 11</title>
+<description>Issued at 900 PM GMT Sat Sep 03 2022  <![CDATA[<pre>
+
+546 
+WTNT35 KNHC 032030
+TCPAT5
+ 
+BULLETIN
+Tropical Storm Danielle Advisory Number  11
+NWS National Hurricane Center Miami FL       AL052022
+900 PM GMT Sat Sep 03 2022
+ 
+...DANIELLE COULD BECOME A HURRICANE AGAIN TONIGHT OR SUNDAY...
+ 
+ 
+SUMMARY OF 900 PM GMT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...38.0N 44.8W
+ABOUT 965 MI...1555 KM W OF THE AZORES
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 900 PM GMT (2100 UTC), the center of Tropical Storm Danielle was
+located near latitude 38.0 North, longitude 44.8 West. Danielle is
+moving toward the west near 6 mph (9 km/h), and a slow westward 
+motion is expected through early Sunday. A turn to the north is 
+forecast to begin Sunday night.  
+ 
+Maximum sustained winds remain near 70 mph (110 km/h) with higher
+gusts.  Gradual strengthening is expected during the next couple of
+days, and Danielle is forecast to become a hurricane again.
+ 
+Tropical-storm-force winds extend outward up to 115 miles (185 km)
+from the center.
+ 
+The estimated minimum central pressure is 990 mb (29.24 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 300 AM GMT.
+ 
+$$
+Forecaster Cangialosi
+ 
+
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:31:02 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/032030.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/032030.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Danielle Forecast Advisory Number 11</title>
+<description>Issued at 2100 UTC SAT SEP 03 2022  <![CDATA[<pre>
+
+545 
+WTNT25 KNHC 032030
+TCMAT5
+ 
+TROPICAL STORM DANIELLE FORECAST/ADVISORY NUMBER  11
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052022
+2100 UTC SAT SEP 03 2022
+ 
+THERE ARE NO COASTAL WATCHES OR WARNINGS IN EFFECT.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 38.0N  44.8W AT 03/2100Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 270 DEGREES AT   5 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  990 MB
+MAX SUSTAINED WINDS  60 KT WITH GUSTS TO  75 KT.
+50 KT....... 60NE  50SE  50SW  60NW.
+34 KT.......100NE 100SE  80SW 100NW.
+12 FT SEAS..150NE 120SE 150SW 150NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 38.0N  44.8W AT 03/2100Z
+AT 03/1800Z CENTER WAS LOCATED NEAR 38.0N  44.7W
+ 
+FORECAST VALID 04/0600Z 38.1N  45.3W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 20NE   0SE   0SW   0NW.
+50 KT... 60NE  50SE  50SW  60NW.
+34 KT...100NE 100SE  80SW 100NW.
+ 
+FORECAST VALID 04/1800Z 38.4N  45.4W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 20NE   0SE   0SW  20NW.
+50 KT... 60NE  50SE  50SW  60NW.
+34 KT...100NE 100SE  80SW 100NW.
+ 
+FORECAST VALID 05/0600Z 39.0N  44.9W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 20NE  15SE  10SW  20NW.
+50 KT... 60NE  50SE  50SW  60NW.
+34 KT...100NE 100SE  80SW 100NW.
+ 
+FORECAST VALID 05/1800Z 39.9N  44.1W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 25NE  20SE  10SW  25NW.
+50 KT... 60NE  50SE  50SW  60NW.
+34 KT...100NE 100SE  80SW 100NW.
+ 
+FORECAST VALID 06/0600Z 40.8N  43.2W
+MAX WIND  75 KT...GUSTS  90 KT.
+50 KT... 60NE  50SE  50SW  60NW.
+34 KT...120NE 110SE 100SW 110NW.
+ 
+FORECAST VALID 06/1800Z 41.7N  41.7W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 60NE  70SE  60SW  60NW.
+34 KT...140NE 120SE 100SW 130NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 07/1800Z 44.2N  36.9W
+MAX WIND  65 KT...GUSTS  80 KT.
+ 
+OUTLOOK VALID 08/1800Z 46.7N  30.7W...POST-TROP/EXTRATROP
+MAX WIND  60 KT...GUSTS  75 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 38.0N  44.8W
+ 
+NEXT ADVISORY AT 04/0300Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:31:02 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/032030.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/032030.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Danielle Forecast Discussion Number 11</title>
+<description>Issued at 900 PM GMT Sat Sep 03 2022  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 032031
+TCDAT5
+ 
+Tropical Storm Danielle Discussion Number  11
+NWS National Hurricane Center Miami FL       AL052022
+900 PM GMT Sat Sep 03 2022
+ 
+Danielle's cloud pattern has become better organized during the
+past several hours with banding features gaining symmetry around
+the center.  However, there are still some dry slots disrupting
+the system's inner core.  A blend of the latest satellite intensity
+estimates still supports an intensity of 60 kt, but Danielle could
+become a hurricane again soon.  An ASCAT pass from several
+hours ago was helpful in adjusting the initial 34- and 50-kt wind
+radii.
+ 
+The storm has been moving a little faster to the west at 5 kt and is
+back over the same location where it was on Thursday. A continued
+slow westward motion is expected into Sunday as the storm remains
+steered by a blocking ridge to its north. However, a sharp turn to
+the north is forecast by Sunday night followed by a faster motion to
+the northeast after that as a trough currently over eastern Canada
+approaches Danielle.  The new NHC track forecast has been adjusted
+to the left in the short term, but ends up to the east of the
+previous track at 96 and 120 h, trending toward the latest
+consensus aids.
+ 
+Danielle is expected to gradually pull away from its own cool SST
+wake, and since the atmospheric conditions appear generally
+favorable, slow strengthening seems likely during the next day or
+two.  Beyond a couple of days, however, sharply cooler SSTs, drier
+air, and an increase in vertical wind shear should end the
+strengthening trend and induce some weakening.  Danielle is expected
+to become fully extratropical by day 5 when it merges with the
+approaching trough and moves over SSTs cooler than 20C. The NHC
+intensity forecast is again an update of the previous one and
+remains in line with the HCCA and IVCN consensus aids.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  03/2100Z 38.0N  44.8W   60 KT  70 MPH
+ 12H  04/0600Z 38.1N  45.3W   65 KT  75 MPH
+ 24H  04/1800Z 38.4N  45.4W   70 KT  80 MPH
+ 36H  05/0600Z 39.0N  44.9W   75 KT  85 MPH
+ 48H  05/1800Z 39.9N  44.1W   75 KT  85 MPH
+ 60H  06/0600Z 40.8N  43.2W   75 KT  85 MPH
+ 72H  06/1800Z 41.7N  41.7W   70 KT  80 MPH
+ 96H  07/1800Z 44.2N  36.9W   65 KT  75 MPH
+120H  08/1800Z 46.7N  30.7W   60 KT  70 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:32:02 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/032031.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/032031.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Danielle Wind Speed Probabilities Number 11</title>
+<description>Issued at 2100 UTC SAT SEP 03 2022                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 032031
+PWSAT5
+                                                                    
+TROPICAL STORM DANIELLE WIND SPEED PROBABILITIES NUMBER  11         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052022               
+2100 UTC SAT SEP 03 2022                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM DANIELLE WAS LOCATED NEAR     
+LATITUDE 38.0 NORTH...LONGITUDE 44.8 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SANTA CRUZ AZO 34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   1( 4)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Sat, 03 Sep 2022 20:31:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/032031.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/032031.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Danielle Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203343.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT05/AL052022_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Danielle 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sat, 03 Sep 2022 20:33:43 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203343.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT05/AL052022_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Danielle 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sat, 03 Sep 2022 20:33:43 GMT
+]]>
+</description>
+<pubDate>Sat, 03 Sep 2022 20:33:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203343.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/203343.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>

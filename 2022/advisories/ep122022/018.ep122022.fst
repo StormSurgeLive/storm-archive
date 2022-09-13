@@ -1,0 +1,151 @@
+
+
+000
+WTPZ32 KNHC 082053
+TCPEP2
+
+BULLETIN
+Hurricane Kay Advisory Number  18
+NWS National Hurricane Center Miami FL       EP122022
+300 PM MDT Thu Sep 08 2022
+
+...CENTER OF KAY MAKES LANDFALL ALONG THE WEST COAST OF THE CENTRAL 
+BAJA CALIFORNIA PENINSULA...
+
+
+SUMMARY OF 300 PM MDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.1N 114.3W
+ABOUT 70 MI...110 KM SE OF PUNTA EUGENIA MEXICO
+ABOUT 420 MI...680 KM SSE OF SAN DIEGO CALIFORNIA
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...NNW OR 335 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Government of Mexico has discontinued the Tropical Storm
+Warning for the east coast of the Baja California Peninsula from
+San Evaristo southward, and for the west coast of the Baja
+California Peninsula south of Puerto Cortes.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* North of Punta Abreojos to San Jose De Las Palomas
+
+A Hurricane Watch is in effect for...
+* Puerto Cortes to Punta Abreojos
+
+A Tropical Storm Warning is in effect for...
+* Punta Abreojos southward to Puerto Cortes
+* San Jose De Las Palomas to the U.S./Mexico border
+* North of San Evaristo northward along the entire east coast of
+the Baja California peninsula and then southward to Guaymas in
+mainland Mexico
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area, in this case in the next few
+hours.  Preparations to protect life and property should be rushed
+to completion.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area, in this case within the next 12 to 18 hours.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+Interests in southern California should monitor the progress of Kay
+and consult products from your local weather office.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 300 PM MDT (2100 UTC), the center of Hurricane Kay was located
+near latitude 27.1 North, longitude 114.3 West. Kay is moving toward
+the north-northwest near 14 mph (22 km/h), and this general
+motion should continue through Friday.  A slower northwestward to
+west-northwestward motion is forecast to begin by late Friday and
+continue into Saturday.  A turn toward the west is expected by 
+Saturday night.  On the forecast track, the center of Kay will pass 
+over portions of the Baja California peninsula near Punta Eugenia 
+for the next several hours, then move over the Pacific near and 
+offshore of the northwest coast of the Baja California peninsula 
+later tonight, Friday, and Friday night.
+
+Maximum sustained winds have decreased to near 75 mph (120 km/h) 
+with higher gusts.  Additional weakening is expected during the 
+next couple of days, and Kay is expected to weaken to a tropical 
+storm in the next few hours.
+
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 220 miles
+(350 km).
+
+The minimum central pressure reported by an Air Force Reserve 
+Hurricane Hunter aircraft is 982 mb (29.00 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Hurricane Kay can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDEP2 and WMO header
+WTPZ42 KNHC and on the web at hurricanes.gov/text/MIATCDEP2.shtml.
+
+WIND: Hurricane conditions are expected within the Hurricane Warning
+for the next few hours, and are possible within the Hurricane
+Watch area this afternoon and evening.  Tropical storm conditions
+are occurring over the Tropical Storm Warning area and are forecast
+to spread northward through Friday.
+
+Strong winds not directly associated with Kay's core wind field are
+expected across portions of southern California and extreme
+southwestern Arizona beginning on Friday. For information on this
+wind hazard, users should see High Wind Warnings and other products
+from their local NWS Weather Forecast Office.
+
+STORM SURGE: A dangerous storm surge is likely to produce coastal
+flooding in areas of onshore winds near the landfall location 
+along the western Baja peninsula of Mexico. The surge will be 
+accompanied by large and destructive waves.
+
+RAINFALL: Kay is expected to produce the following rainfall totals
+through Saturday…
+
+Baja California Peninsula: 6 to 10 inches, isolated maxima of 15
+inches
+
+Northwest Mainland Mexico:  2 to 4 inches, isolated maxima of 6
+inches
+
+Southernmost California:  2 to 4 inches with isolated maxima of 8
+inches
+
+Southwest Arizona: 1 to 2 inches with isolated maxima of 3 inches
+
+These rainfall amounts could lead to flash flooding, with landslides
+possible across mountainous areas of Mexico.
+
+SURF:  Swells generated by Kay will continue to affect portions of
+the coast of southwestern Mexico during the next day or so. Large
+swells are expected to spread northward along the Baja California
+peninsula coast, into the Gulf of California, and to southern
+California during the next couple of days. These swells will
+likely cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 600 PM MDT.
+Next complete advisory at 900 PM MDT.
+
+$$
+Forecaster Beven
+
