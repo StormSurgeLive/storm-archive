@@ -1,0 +1,150 @@
+
+
+000
+WTNT32 KNHC 161750
+TCPAT2
+
+BULLETIN
+Tropical Storm Fiona Intermediate Advisory Number 9A
+NWS National Hurricane Center Miami FL       AL072022
+200 PM AST Fri Sep 16 2022
+
+...FIONA'S CENTER APPROACHING GUADELOUPE...
+...TROPICAL STORM CONDITIONS EXPECTED TO BEGIN IN PORTIONS OF THE 
+LEEWARD ISLANDS DURING THE NEXT FEW HOURS...
+
+
+SUMMARY OF 200 PM AST...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.2N 60.3W
+ABOUT 75 MI...120 KM E OF GUADELOUPE
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The government of Antigua and Barbuda has upgraded the Tropical 
+Storm Watch for the British Virgin Islands to a Tropical Storm 
+Warning.
+
+The government of the Dominican Republic has issued a Tropical 
+Storm Watch for the south coast of the Dominican Republic from Cabo 
+Engano westward to Barahona, and for the north coast from Cabo 
+Engano westward to Cabo Frances Viejo.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Antigua, Barbuda, St. Kitts, Nevis, Montserrat, and Anguilla
+* Saba and St. Eustatius
+* St. Maarten
+* Guadeloupe, St. Barthelemy, and St. Martin
+* Puerto Rico, including Vieques and Culebra
+* U.S. Virgin Islands
+* British Virgin Islands
+
+A Tropical Storm Watch is in effect for...
+* Dominica
+* South coast of the Dominican Republic from Cabo Engano westward to 
+Barahona
+* North coast of the Dominican Republic from Cabo Engano westward 
+to Cabo Frances Viejo
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+Interests elsewhere in Hispaniola should monitor the progress of 
+this system.  Additional watches or warnings could be required 
+tonight or on Saturday.
+
+For storm information specific to your area in the United States, 
+including possible inland watches and warnings, please monitor 
+products issued by your local National Weather Service forecast 
+office. For storm information specific to your area outside of the 
+United States, please monitor products issued by your national 
+meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 PM AST (1800 UTC), the center of Tropical Storm Fiona was
+located near latitude 16.2 North, longitude 60.3 West.  Fiona is
+moving toward the west near 14 mph (22 km/h).  A westward motion
+with a decrease in forward speed is expected through early Sunday,
+followed by a turn toward the west-northwest and northwest Sunday
+and Sunday night.  On the forecast track, the center of Fiona is
+expected to move across the Leeward Islands tonight, near or just
+south of the Virgin Islands and Puerto Rico Saturday into Sunday,
+and approach the southern coast of the Dominican Republic Sunday
+night and early Monday.
+
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts. 
+Gradual strengthening is forecast during the next few days.
+
+Tropical-storm-force winds extend outward up to 140 miles (220 km)
+from the center.
+
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Fiona can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT2 and WMO header
+WTNT42 KNHC and on the web at hurricanes.gov/text/MIATCDAT2.shtml.
+
+WIND:  Tropical storm conditions are expected across portions of
+the Leeward Islands within the warning area beginning this 
+afternoon and continuing through Saturday.  Tropical storm 
+conditions will spread westward to the U.S. and British Virgin 
+Islands on Saturday, and across Puerto Rico late Saturday and 
+Saturday night.  Tropical storm conditions are possible on Dominica 
+this evening or tonight and across the watch area in the Dominican 
+Republic beginning late Sunday.
+
+RAINFALL:  Fiona is forecast to produce the following rainfall
+totals:
+
+Leeward Islands and Northern Windward Islands: 3 to 6 inches.
+
+British and U.S. Virgin Islands: 4 to 6 inches
+
+Puerto Rico: 4 to 8 inches with maximum totals of 12 inches,
+particularly across eastern and southern Puerto Rico.
+
+Eastern Dominican Republic: 6 to 10 inches with maximum totals of 16
+inches possible
+
+Turks and Caicos: 4 to 8 inches
+
+These rains may produce flash and urban flooding, along with
+mudslides in areas of higher terrain, particularly southern and
+eastern Puerto Rico and the eastern Dominican Republic.
+
+STORM SURGE:  Localized coastal flooding will be possible along the
+coasts of the U.S. Virgin Islands and Puerto Rico in areas of
+onshore winds Saturday into Sunday.
+
+SURF:  Swells generated by Fiona are affecting the Leeward and
+northern Windward Islands, and are expected to spread westward to
+the Virgin Islands and Puerto Rico today. Swells will then reach the
+northern coast of Hispaniola, the Turks and Caicos Islands, and the
+southeastern Bahamas over the weekend.  These conditions could cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM AST.
+
+$$
+Forecaster Berg
+

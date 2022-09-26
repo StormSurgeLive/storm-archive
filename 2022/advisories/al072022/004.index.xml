@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Thu, 15 Sep 2022 08:56:42 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 150514<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 AM EDT Thu Sep 15 2022<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on recently <br/>
+upgraded Tropical Storm Fiona, located several hundred miles east of <br/>
+the Leeward Islands. <br/>
+<br/>
+Tropical cyclone formation is not expected during the next 5 days. <br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Storm Fiona are issued under WMO <br/>
+header WTNT32 KNHC and under AWIPS header MIATCPAT2.<br/>
+Forecast/Advisories on Tropical Storm Fiona are issued under WMO <br/>
+header WTNT22 KNHC and under AWIPS header MIATCMAT2.<br/>
+<br/>
+$$<br/>
+Forecaster Reinhart<br/>
+]]>
+</description>
+<pubDate>Thu, 15 Sep 2022 05:14:38 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202209150514</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Fiona (AT2/AL072022)</title>
+ <guid isPermaLink="false">summary-al072022-202209150146</guid>
+ <pubDate>Thu, 15 Sep 2022 01:46:05 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/150855.shtml</link>
+ <description>
+  ...FIONA MOVING WESTWARD TOWARD THE NORTHERN LEEWARD ISLANDS...
+ As of 5:00 AM AST Thu Sep 15
+ the center of Fiona was located near 16.6, -53.0
+ with movement W at 13 mph.
+ The minimum central pressure was 1002 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.6, -53.0</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Fiona</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL072022</nhc:atcf>
+  <nhc:datetime>5:00 AM AST Thu Sep 15</nhc:datetime>
+  <nhc:movement>W at 13 mph</nhc:movement>
+  <nhc:pressure>1002 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...FIONA MOVING WESTWARD TOWARD THE NORTHERN LEEWARD ISLANDS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Fiona Public Advisory Number 4</title>
+<description>Issued at 500 AM AST Thu Sep 15 2022  <![CDATA[<pre>
+
+000
+WTNT32 KNHC 150855
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Fiona Advisory Number   4
+NWS National Hurricane Center Miami FL       AL072022
+500 AM AST Thu Sep 15 2022
+ 
+...FIONA MOVING WESTWARD TOWARD THE NORTHERN LEEWARD ISLANDS...
+ 
+ 
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.6N 53.0W
+ABOUT 580 MI...935 KM E OF THE LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+* Saba and St. Eustatius
+* St. Maarten
+* Antigua, Barbuda, St. Kitts, Nevis, Montserrat, and Anguilla
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in the northern Leeward Islands, the Virgin
+Islands, Puerto Rico, and Hispaniola should monitor the progress of
+this system. Additional tropical storm watches or warnings will
+likely be required for portions of these areas later today.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM AST (0900 UTC), the center of Tropical Storm Fiona was 
+located near latitude 16.6 North, longitude 53.0 West. Fiona is 
+moving toward the west near 13 mph (20 km/h), and this general 
+motion is expected to continue for the next several days. On the 
+forecast track, the center of Fiona is forecast to move through the 
+Leeward Islands late Friday and Friday night, and move near the 
+Virgin Islands and Puerto Rico this weekend.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts. 
+Little change in strength is forecast during the next few days.
+ 
+Tropical-storm-force winds extend outward up to 140 miles (220 km) 
+east of the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+WIND: Tropical storm conditions are possible across portions of the
+northern Leeward Islands by Friday night, where a Tropical Storm
+Watch is in effect.
+ 
+RAINFALL: Fiona is expected to produce total rainfall accumulations 
+of 3 to 6 inches with isolated higher amounts across the northern 
+Leeward Islands, the British and U.S. Virgin Islands, Puerto Rico 
+and eastern Hispaniola.  These rains may produce flash and urban 
+flooding, along with isolated mudslides in areas of higher terrain. 
+ 
+SURF:  Swells generated by Fiona are expected to begin affecting the
+northern Leeward Islands by early Friday. These swells could cause
+life-threatening surf and rip current conditions. Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM AST.
+Next complete advisory at 1100 AM AST.
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Thu, 15 Sep 2022 08:55:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/150855.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/150855.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Fiona Forecast Advisory Number 4</title>
+<description>Issued at 0900 UTC THU SEP 15 2022  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 150855
+TCMAT2
+ 
+TROPICAL STORM FIONA FORECAST/ADVISORY NUMBER   4
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072022
+0900 UTC THU SEP 15 2022
+ 
+CHANGES IN WATCHES AND WARNINGS WITH THIS ADVISORY...
+ 
+NONE.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+ 
+A TROPICAL STORM WATCH IS IN EFFECT FOR...
+* SABA AND ST. EUSTATIUS
+* ST. MAARTEN
+* ANTIGUA...BARBUDA...ST. KITTS...NEVIS...MONTSERRAT...AND ANGUILLA
+ 
+A TROPICAL STORM WATCH MEANS THAT TROPICAL STORM CONDITIONS ARE
+POSSIBLE WITHIN THE WATCH AREA...GENERALLY WITHIN 48 HOURS.
+ 
+INTERESTS ELSEWHERE IN THE NORTHERN LEEWARD ISLANDS...THE VIRGIN 
+ISLANDS...PUERTO RICO...AND HISPANIOLA SHOULD MONITOR THE PROGRESS 
+OF THIS SYSTEM. ADDITIONAL TROPICAL STORM WATCHES OR WARNINGS WILL 
+LIKELY BE REQUIRED FOR PORTIONS OF THESE AREAS LATER TODAY.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 16.6N  53.0W AT 15/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 270 DEGREES AT  11 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT.......100NE 120SE   0SW   0NW.
+12 FT SEAS..120NE  60SE   0SW 150NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 16.6N  53.0W AT 15/0900Z
+AT 15/0600Z CENTER WAS LOCATED NEAR 16.6N  52.4W
+ 
+FORECAST VALID 15/1800Z 16.7N  54.7W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...100NE 100SE   0SW   0NW.
+ 
+FORECAST VALID 16/0600Z 16.8N  57.3W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 40NE  40SE   0SW   0NW.
+34 KT...100NE  90SE   0SW  50NW.
+ 
+FORECAST VALID 16/1800Z 17.0N  59.8W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 40NE  40SE   0SW   0NW.
+34 KT...100NE  90SE   0SW  50NW.
+ 
+FORECAST VALID 17/0600Z 17.2N  62.3W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 40NE  40SE   0SW   0NW.
+34 KT...100NE  90SE   0SW  60NW.
+ 
+FORECAST VALID 17/1800Z 17.4N  64.4W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 50NE  40SE   0SW   0NW.
+34 KT...100NE  90SE  30SW  60NW.
+ 
+FORECAST VALID 18/0600Z 17.7N  66.1W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 50NE  50SE   0SW   0NW.
+34 KT...100NE 100SE  30SW  60NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 19/0600Z 18.8N  68.6W
+MAX WIND  50 KT...GUSTS  60 KT.
+ 
+OUTLOOK VALID 20/0600Z 21.0N  70.5W
+MAX WIND  55 KT...GUSTS  65 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 16.6N  53.0W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT32 KNHC/MIATCPAT2...AT 15/1200Z
+ 
+NEXT ADVISORY AT 15/1500Z
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre>]]></description>
+<pubDate>Thu, 15 Sep 2022 08:55:12 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/150855.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/150855.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Fiona Forecast Discussion Number 4</title>
+<description>Issued at 500 AM AST Thu Sep 15 2022  <![CDATA[<pre>
+
+031 
+WTNT42 KNHC 150856
+TCDAT2
+ 
+Tropical Storm Fiona Discussion Number   4
+NWS National Hurricane Center Miami FL       AL072022
+500 AM AST Thu Sep 15 2022
+ 
+The satellite presentation of Fiona has not changed much overnight. 
+The low-level center of the storm is still displaced to the west of 
+a deep convective mass with very cold infrared cloud tops. Earlier 
+scatterometer data showed a broad area of tropical-storm-force winds 
+over the eastern portion of the circulation, with reliable peak 
+winds in the 40-45 kt range. Therefore, the initial intensity is 
+held at 45 kt for this advisory. An Air Force Hurricane Hunter 
+aircraft is scheduled to investigate Fiona later today.
+
+Fiona is moving westward at 270/11 kt. The cyclone is expected to 
+generally maintain a westward heading for the next few days as it is 
+steered by the subtropical ridge over the central Atlantic. However, 
+there are still significant along-track differences among some of 
+the model solutions, with the GFS and ECMWF almost 250 n mi apart at 
+72 h. The latest NHC track forecast lies slightly south of the 
+previous one and is a bit slower through the first 72 h, remaining 
+closer to the latest GFEX and HCCA aids. This track brings Fiona 
+across the northern Leeward Islands by Friday night, near the Virgin 
+Islands and Puerto Rico this weekend, and near Hispaniola early next 
+week. From there, the deterministic guidance and most GFS and ECMWF 
+ensemble members agree that Fiona should turn northwestward by days 
+4-5 as a weakness develops in the steering ridge over the western 
+Atlantic. The stronger GFS and HWRF runs show a sharper recurvature 
+than the rest of the guidance, but the NHC forecast shows a more 
+gradual turn generally in line with the HCCA aid. 
+
+The sheared, asymmetric structure of Fiona does not appear conducive 
+for much strengthening in the near term. In fact, the SHIPS guidance 
+suggests that moderate to strong westerly to northwesterly shear 
+will persist for the next several days over Fiona. This, combined 
+with some drier mid-level air to the west of the storm, could make 
+it difficult for Fiona's inner-core structure to become better 
+organized. The intensity forecast is also complicated by the 
+potential for land interaction as the storm moves near or over 
+portions of the Greater Antilles this weekend and early next week. 
+Given the less-than-ideal conditions, the official NHC intensity 
+forecast does not show much strengthening over the next several 
+days, and it lies slightly below the intensity consensus aids. 
+
+Additional tropical storm watches or warnings will likely be 
+required later today for portions of the northern Leeward Islands, 
+Puerto Rico, and the Virgin Islands, and interests in these 
+locations should monitor the latest forecast updates.
+
+ 
+Key Messages:
+ 
+1. Tropical storm conditions are possible in portions of the
+northern Leeward Islands by Friday night, where a Tropical Storm
+Watch has been issued.
+ 
+2. Heavy rains from Fiona will reach the northern Leeward Islands 
+Friday afternoon, spreading to the British and U.S. Virgin Islands 
+and Puerto Rico Saturday into Sunday morning, and reaching eastern 
+Hispaniola Sunday. This rainfall may produce flash and urban 
+flooding, along with isolated mudslides in areas of higher terrain.
+ 
+3. Fiona is expected to move near the Virgin Islands, Puerto Rico,
+and Hispaniola this weekend and early next week, and Tropical Storm
+Watches will likely be issued for some of those areas later today.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  15/0900Z 16.6N  53.0W   45 KT  50 MPH
+ 12H  15/1800Z 16.7N  54.7W   45 KT  50 MPH
+ 24H  16/0600Z 16.8N  57.3W   50 KT  60 MPH
+ 36H  16/1800Z 17.0N  59.8W   50 KT  60 MPH
+ 48H  17/0600Z 17.2N  62.3W   50 KT  60 MPH
+ 60H  17/1800Z 17.4N  64.4W   50 KT  60 MPH
+ 72H  18/0600Z 17.7N  66.1W   50 KT  60 MPH
+ 96H  19/0600Z 18.8N  68.6W   50 KT  60 MPH
+120H  20/0600Z 21.0N  70.5W   55 KT  65 MPH
+ 
+$$
+Forecaster Reinhart
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 15 Sep 2022 08:56:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/150856.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/150856.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Fiona Wind Speed Probabilities Number 4</title>
+<description>Issued at 0900 UTC THU SEP 15 2022                                              <![CDATA[<pre>
+
+000
+FONT12 KNHC 150855
+PWSAT2
+                                                                    
+TROPICAL STORM FIONA WIND SPEED PROBABILITIES NUMBER   4            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL072022               
+0900 UTC THU SEP 15 2022                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM FIONA WAS LOCATED NEAR        
+LATITUDE 16.6 NORTH...LONGITUDE 53.0 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GREAT EXUMA    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+SAN SALVADOR   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   X( X)   X( X)   2( 2)  10(12)
+MAYAGUANA      50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+MAYAGUANA      64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+GRAND TURK     34  X   X( X)   X( X)   X( X)   X( X)   5( 5)  16(21)
+GRAND TURK     50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+GRAND TURK     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+PORT-AU-PRINCE 34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   5( 8)
+ 
+CAPE BEATA     34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   5(10)
+ 
+PUERTO PLATA   34  X   X( X)   X( X)   X( X)   1( 1)   8( 9)  12(21)
+PUERTO PLATA   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+ 
+SANTO DOMINGO  34  X   X( X)   X( X)   X( X)   1( 1)   8( 9)   6(15)
+ 
+PONCE PR       34  X   X( X)   X( X)   X( X)  13(13)   7(20)   2(22)
+PONCE PR       50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   1( 4)
+ 
+AGUADILLA PR   34  X   X( X)   X( X)   1( 1)  17(18)  12(30)   3(33)
+AGUADILLA PR   50  X   X( X)   X( X)   X( X)   3( 3)   4( 7)   1( 8)
+AGUADILLA PR   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+SAN JUAN PR    34  X   X( X)   X( X)   X( X)  15(15)   5(20)   1(21)
+SAN JUAN PR    50  X   X( X)   X( X)   X( X)   3( 3)   1( 4)   X( 4)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   3( 3)  31(34)   6(40)   X(40)
+VIEQUES PR     50  X   X( X)   X( X)   X( X)   9( 9)   2(11)   X(11)
+VIEQUES PR     64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   5( 5)  30(35)   4(39)   X(39)
+SAINT THOMAS   50  X   X( X)   X( X)   1( 1)   8( 9)   2(11)   X(11)
+SAINT THOMAS   64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+SAINT JOHN     34  X   X( X)   X( X)   6( 6)  30(36)   3(39)   X(39)
+SAINT JOHN     50  X   X( X)   X( X)   1( 1)   7( 8)   2(10)   X(10)
+SAINT JOHN     64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   6( 6)  33(39)   4(43)   X(43)
+SAINT CROIX    50  X   X( X)   X( X)   1( 1)  10(11)   1(12)   X(12)
+SAINT CROIX    64  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+SAINT MAARTEN  34  X   X( X)   2( 2)  23(25)  18(43)   1(44)   X(44)
+SAINT MAARTEN  50  X   X( X)   X( X)   5( 5)   6(11)   X(11)   X(11)
+SAINT MAARTEN  64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+SABA           34  X   X( X)   2( 2)  26(28)  20(48)   1(49)   1(50)
+SABA           50  X   X( X)   X( X)   6( 6)   8(14)   X(14)   X(14)
+SABA           64  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+ST EUSTATIUS   34  X   X( X)   2( 2)  30(32)  17(49)   1(50)   X(50)
+ST EUSTATIUS   50  X   X( X)   X( X)   7( 7)   8(15)   X(15)   X(15)
+ST EUSTATIUS   64  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+ST KITTS-NEVIS 34  X   X( X)   2( 2)  34(36)  14(50)   X(50)   X(50)
+ST KITTS-NEVIS 50  X   X( X)   X( X)   9( 9)   6(15)   1(16)   X(16)
+ST KITTS-NEVIS 64  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+BARBUDA        34  X   X( X)   6( 6)  42(48)   7(55)   X(55)   X(55)
+BARBUDA        50  X   X( X)   1( 1)  12(13)   2(15)   X(15)   X(15)
+BARBUDA        64  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+ANTIGUA        34  X   X( X)   6( 6)  41(47)   6(53)   X(53)   X(53)
+ANTIGUA        50  X   X( X)   1( 1)  13(14)   1(15)   X(15)   X(15)
+ANTIGUA        64  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+GUADELOUPE     34  X   X( X)   5( 5)  26(31)   3(34)   X(34)   X(34)
+GUADELOUPE     50  X   X( X)   1( 1)   7( 8)   1( 9)   X( 9)   X( 9)
+GUADELOUPE     64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+AVES           34  X   X( X)   X( X)   4( 4)  11(15)   1(16)   X(16)
+AVES           50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+DOMINICA       34  X   X( X)   2( 2)   6( 8)   1( 9)   1(10)   X(10)
+ 
+MARTINIQUE     34  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER REINHART                                                 
+</pre>]]></description>
+<pubDate>Thu, 15 Sep 2022 08:55:42 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/150855.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/150855.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Fiona Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/054413.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT07/AL072022_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Fiona 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 15 Sep 2022 05:44:13 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/054413.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT07/AL072022_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Fiona 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 15 Sep 2022 03:22:38 GMT
+]]>
+</description>
+<pubDate>Thu, 15 Sep 2022 05:44:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/054413.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/054413.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
