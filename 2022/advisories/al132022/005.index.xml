@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 07 Oct 2022 14:56:59 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 071144<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 AM EDT Fri Oct 7 2022<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Depression Thirteen, located near the coast of the Guajira <br/>
+Peninsula of Colombia.  <br/>
+<br/>
+Tropical cyclone formation is not expected during the next 5 days.<br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Depression Thirteen are issued under <br/>
+WMO header WTNT33 KNHC and under AWIPS header MIATCPAT3. <br/>
+Forecast/Advisories on Tropical Depression Thirteen are issued under <br/>
+WMO header WTNT23 KNHC and under AWIPS header MIATCMAT3.<br/>
+<br/>
+$$<br/>
+Forecaster Latto<br/>
+]]>
+</description>
+<pubDate>Fri, 07 Oct 2022 11:44:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202210071144</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Julia (AT3/AL132022)</title>
+ <guid isPermaLink="false">summary-al132022-202210071454</guid>
+ <pubDate>Fri, 07 Oct 2022 14:54:57 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/071454.shtml</link>
+ <description>
+  ...TROPICAL STORM JULIA FORMS OFF THE GUAJIRA PENINSULA... ...HURRICANE WATCHES AND WARNINGS ISSUED FOR NICARAGUA AND THE OFFSHORE COLOMBIAN ISLANDS...
+ As of 11:00 AM EDT Fri Oct 7
+ the center of Julia was located near 12.7, -73.1
+ with movement W at 18 mph.
+ The minimum central pressure was 1002 mb
+ with maximum sustained winds of about 40 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>12.7, -73.1</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Julia</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL132022</nhc:atcf>
+  <nhc:datetime>11:00 AM EDT Fri Oct 7</nhc:datetime>
+  <nhc:movement>W at 18 mph</nhc:movement>
+  <nhc:pressure>1002 mb</nhc:pressure>
+  <nhc:wind>40 mph</nhc:wind>
+  <nhc:headline> ...TROPICAL STORM JULIA FORMS OFF THE GUAJIRA PENINSULA... ...HURRICANE WATCHES AND WARNINGS ISSUED FOR NICARAGUA AND THE OFFSHORE COLOMBIAN ISLANDS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Julia Public Advisory Number 5</title>
+<description>Issued at 1100 AM EDT Fri Oct 07 2022  <![CDATA[<pre>
+
+852 
+WTNT33 KNHC 071454
+TCPAT3
+ 
+BULLETIN
+Tropical Storm Julia Advisory Number   5
+NWS National Hurricane Center Miami FL       AL132022
+1100 AM EDT Fri Oct 07 2022
+ 
+...TROPICAL STORM JULIA FORMS OFF THE GUAJIRA PENINSULA...
+...HURRICANE WATCHES AND WARNINGS ISSUED FOR NICARAGUA AND THE
+OFFSHORE COLOMBIAN ISLANDS...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...12.7N 73.1W
+ABOUT 110 MI...175 KM W OF NTHRN TIP OF GUAJIRA PNSULA COLOMBIA
+ABOUT 560 MI...900 KM E OF ISLA DE PROVIDENCIA COLOMBIA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Colombia has upgraded the Hurricane Watch to a
+Hurricane Warning for San Andres, Providencia, and Santa Catalina
+Islands.
+ 
+The government of Nicaragua has issued a Hurricane Watch from
+Bluefields to the Nicaragua/Honduras border.
+ 
+The government of Honduras has issued a Tropical Storm Watch from
+the Nicaragua/Honduras border westward to Punta Patuca.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* San Andres, Providencia, and Santa Catalina Islands Colombia
+ 
+A Hurricane Watch is in effect for...
+* Nicaragua from Bluefields to the Nicaragua/Honduras border
+ 
+A Tropical Storm Warning is in effect for...
+* Colombia from Riohacha to the Colombia/Venezuela border
+ 
+A Tropical Storm Watch is in effect for...
+* Honduras from the Nicaragua/Honduras border to Punta Patuca
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case during the
+next few hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere along the coasts of Nicaragua and Honduras
+should monitor the progress of Julia.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Tropical Storm Julia was
+located near latitude 12.7 North, longitude 73.1 West.  Julia is
+moving toward the west near 18 mph (30 km/h).  A westward motion 
+with some decrease in forward speed is expected through Sunday.  On 
+the forecast track, the center of Julia is expected to move across 
+the southwestern Caribbean Sea during the next couple of days, 
+passing near San Andres and Providencia Islands Saturday evening, 
+and reaching the coast of Nicaragua Sunday morning.  After 
+landfall, Julia or its remnants are expected to turn 
+west-northwestward and move across Central America through Monday.
+ 
+Data from an Air Force Reserve Hurricane Hunter aircraft indicate 
+that maximum sustained winds have increased to near 40 mph (65 
+km/h) with higher gusts.  Additional strengthening is forecast, and 
+Julia is expected to become a hurricane by Saturday evening before 
+it reaches San Andres and Providencia Islands, and the coast of 
+Nicaragua.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The minimum central pressure is 1002 mb (29.59 inches) based on 
+data from the reconnaissance aircraft.
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Julia can be found in the Tropical Cyclone 
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC.
+ 
+WIND:  Hurricane conditions are expected on the Colombian islands of 
+San Andres, Providencia, and Santa Catalina by Saturday evening, 
+with tropical storm conditions possible by Saturday afternoon.  
+Hurricane conditions are possible along the coast of Nicaragua 
+within the watch area Sunday morning, with tropical storm conditions 
+possible by Saturday night.
+ 
+Tropical storm conditions are expected along the coast of Colombia
+within the warning area for a few more hours. Tropical storm 
+conditions are possible within the watch area in Honduras Sunday 
+morning.
+ 
+RAINFALL:  Julia is expected to produce the following rainfall 
+accumulations through early Monday:
+
+Guajira Peninsula...3 to 6 inches, isolated 10 inches.
+San Andres and Providencia...6 to 12 inches
+Portions of Central America...5 to 10 inches, isolated 15 inches.
+
+This rainfall may cause life-threatening flash floods and mudslides 
+through this weekend. 
+ 
+STORM SURGE:  A storm surge is likely to raise water levels by as 
+much as 2 to 4 feet above normal tide levels along the immediate 
+coast in areas of onshore winds on San Andres, Providencia, and 
+Santa Catalina Islands. Near the coast, the surge will be 
+accompanied by large and damaging waves.
+
+A storm surge could raise water levels by as much as 4 to 6 feet 
+above normal tide levels along the immediate coast of Nicaragua in 
+areas of onshore winds. Large and damaging waves will likely 
+accompany the storm surge near the coast.
+ 
+SURF:  Swells affecting the ABC Islands and portions of the coasts 
+of northwestern Venezuela and the Guajira Peninsula of Colombia 
+should subside today. Swells are forecast to spread westward and 
+reach Jamaica tonight, Providencia and San Andres Islands on 
+Saturday, and portions of the coast of Central America on Saturday 
+night and Sunday.  These swells are likely to cause life-threatening 
+surf and rip current conditions.  Please consult products from your 
+local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Berg
+ 
+
+</pre>]]></description>
+<pubDate>Fri, 07 Oct 2022 14:54:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/071454.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/071454.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Julia Forecast Advisory Number 5</title>
+<description>Issued at 1500 UTC FRI OCT 07 2022  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 071454
+TCMAT3
+ 
+TROPICAL STORM JULIA FORECAST/ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132022
+1500 UTC FRI OCT 07 2022
+ 
+CHANGES IN WATCHES AND WARNINGS WITH THIS ADVISORY...
+ 
+THE GOVERNMENT OF COLOMBIA HAS UPGRADED THE HURRICANE WATCH TO A
+HURRICANE WARNING FOR SAN ANDRES...PROVIDENCIA...AND SANTA CATALINA
+ISLANDS.
+ 
+THE GOVERNMENT OF NICARAGUA HAS ISSUED A HURRICANE WATCH FROM
+BLUEFIELDS TO THE NICARAGUA/HONDURAS BORDER.
+ 
+THE GOVERNMENT OF HONDURAS HAS ISSUED A TROPICAL STORM WATCH FROM
+THE NICARAGUA/HONDURAS BORDER WESTWARD TO PUNTA PATUCA.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+ 
+A HURRICANE WARNING IS IN EFFECT FOR...
+* SAN ANDRES...PROVIDENCIA...AND SANTA CATALINA ISLANDS COLOMBIA
+ 
+A HURRICANE WATCH IS IN EFFECT FOR...
+* NICARAGUA FROM BLUEFIELDS TO THE NICARAGUA/HONDURAS BORDER
+ 
+A TROPICAL STORM WARNING IS IN EFFECT FOR...
+* COLOMBIA FROM RIOHACHA TO THE COLOMBIA/VENEZUELA BORDER
+ 
+A TROPICAL STORM WATCH IS IN EFFECT FOR...
+* HONDURAS FROM THE NICARAGUA/HONDURAS BORDER TO PUNTA PATUCA
+ 
+A HURRICANE WARNING MEANS THAT HURRICANE CONDITIONS ARE EXPECTED
+SOMEWHERE WITHIN THE WARNING AREA.  A WARNING IS TYPICALLY ISSUED
+36 HOURS BEFORE THE ANTICIPATED FIRST OCCURRENCE OF
+TROPICAL-STORM-FORCE WINDS...CONDITIONS THAT MAKE OUTSIDE
+PREPARATIONS DIFFICULT OR DANGEROUS.  PREPARATIONS TO PROTECT LIFE
+AND PROPERTY SHOULD BE RUSHED TO COMPLETION.
+ 
+A HURRICANE WATCH MEANS THAT HURRICANE CONDITIONS ARE POSSIBLE
+WITHIN THE WATCH AREA.  A WATCH IS TYPICALLY ISSUED 48 HOURS
+BEFORE THE ANTICIPATED FIRST OCCURRENCE OF TROPICAL-STORM-FORCE
+WINDS...CONDITIONS THAT MAKE OUTSIDE PREPARATIONS DIFFICULT OR
+DANGEROUS.
+ 
+A TROPICAL STORM WARNING MEANS THAT TROPICAL STORM CONDITIONS ARE 
+EXPECTED SOMEWHERE WITHIN THE WARNING AREA...IN THIS CASE DURING THE 
+NEXT FEW HOURS.
+ 
+A TROPICAL STORM WATCH MEANS THAT TROPICAL STORM CONDITIONS ARE
+POSSIBLE WITHIN THE WATCH AREA...GENERALLY WITHIN 48 HOURS.
+ 
+INTERESTS ELSEWHERE ALONG THE COASTS OF NICARAGUA AND HONDURAS
+SHOULD MONITOR THE PROGRESS OF JULIA.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 12.7N  73.1W AT 07/1500Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  16 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 70NE   0SE   0SW  30NW.
+12 FT SEAS.. 90NE   0SE   0SW  90NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 12.7N  73.1W AT 07/1500Z
+AT 07/1200Z CENTER WAS LOCATED NEAR 12.4N  72.3W
+ 
+FORECAST VALID 08/0000Z 13.0N  75.5W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 70NE  20SE   0SW  50NW.
+ 
+FORECAST VALID 08/1200Z 13.2N  78.7W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE   0SE   0SW  20NW.
+34 KT... 80NE  50SE  30SW  70NW.
+ 
+FORECAST VALID 09/0000Z 13.1N  81.3W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE   0SE   0SW  10NW.
+50 KT... 30NE  20SE  10SW  20NW.
+34 KT... 90NE  60SE  50SW  80NW.
+ 
+FORECAST VALID 09/1200Z 13.1N  83.6W...INLAND
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 15NE  10SE  10SW  15NW.
+50 KT... 30NE  20SE  20SW  30NW.
+34 KT...110NE  70SE  50SW  90NW.
+ 
+FORECAST VALID 10/0000Z 13.6N  85.9W...INLAND
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 90NE  30SE  20SW  80NW.
+ 
+FORECAST VALID 10/1200Z 14.5N  88.5W...POST-TROP/INLAND
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 11/1200Z 16.2N  93.5W...POST-TROP/INLAND
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+OUTLOOK VALID 12/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 12.7N  73.1W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT33 KNHC/MIATCPAT3...AT 07/1800Z
+ 
+NEXT ADVISORY AT 07/2100Z
+ 
+$$
+FORECASTER BERG
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 07 Oct 2022 14:54:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/071454.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/071454.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Julia Forecast Discussion Number 5</title>
+<description>Issued at 1100 AM EDT Fri Oct 07 2022  <![CDATA[<pre>
+
+000
+WTNT43 KNHC 071455
+TCDAT3
+ 
+Tropical Storm Julia Discussion Number   5
+NWS National Hurricane Center Miami FL       AL132022
+1100 AM EDT Fri Oct 07 2022
+ 
+Earlier this morning, a concentrated burst of deep convection with 
+a high density of lightning developed near the center of the 
+cyclone while it was over the Guajira Peninsula, and microwave 
+imagery shows that convective banding has increased somewhat over 
+the adjacent waters.  An Air Force Reserve Hurricane Hunter aircraft 
+currently investigating the system so far has found maximum 925-mb 
+flight-level winds of 47 kt and SFMR surface winds of 34 kt, and on 
+that basis, the depression is upgraded to a 35-kt tropical storm.
+ 
+Based on the latest aircraft fix, Julia is moving a bit faster 
+toward the west than expected with an initial motion of 280/16 kt.  
+A strong east-northeast to west-southwest oriented ridge which 
+stretches into the southern Gulf of Mexico should keep Julia on a 
+quick westward path during the next 48 hours.  Since the track 
+guidance has sped up a bit over the past few forecast cycles, the 
+official forecast now brings Julia to the coast of Nicaragua by 
+Sunday morning, which is a little sooner than was previously 
+forecast.  After landfall, the track guidance currently indicates 
+that Julia and its remnants should remain over Central America and 
+southern Mexico through Tuesday.
+
+Stiff north-northwesterly shear (15-20 kt) is affecting Julia, and 
+that can be seen in the suppression of the northern edge of the 
+recent convective burst.  Shear diagnostics suggest that this shear 
+should abate soon, and Julia should commence a steady strengthening 
+trend during the next two days while it crosses the southwestern 
+Caribbean Sea.  Julia is forecast to become a hurricane by Saturday 
+evening, and the forecast peak intensity at the time of landfall in 
+Nicaragua is unchanged from the previous advisory.  The official 
+forecast at that time is a bit above HCCA and the IVCN consensus 
+aids, but it's still below SHIPS and LGEM guidance.  The NHC 
+forecast shows 72- and 96-hour remnant low points to indicate the 
+expected track over Central America, but it is highly likely that 
+the center will have dissipated by those times.
+ 
+ 
+Key Messages:
+ 
+1. Julia is forecast to strengthen into a hurricane by Saturday 
+evening while it moves over the southwestern Caribbean Sea, and a 
+Hurricane Warning is now in effect for San Andres, Providencia, and 
+Santa Catalina Islands.  A Hurricane Watch is also now in effect for 
+much of the Nicaragua coast.  Hurricane-force winds and a dangerous 
+storm surge are expected in areas where the core of the system 
+crosses the islands and moves onshore.
+ 
+2. The risk of flash flooding continues today over portions of the 
+Guajira Peninsula. The potential for life-threatening flash flooding 
+and mudslides is expected to spread to portions of Central America 
+this weekend.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  07/1500Z 12.7N  73.1W   35 KT  40 MPH
+ 12H  08/0000Z 13.0N  75.5W   45 KT  50 MPH
+ 24H  08/1200Z 13.2N  78.7W   55 KT  65 MPH
+ 36H  09/0000Z 13.1N  81.3W   65 KT  75 MPH
+ 48H  09/1200Z 13.1N  83.6W   75 KT  85 MPH...INLAND
+ 60H  10/0000Z 13.6N  85.9W   45 KT  50 MPH...INLAND
+ 72H  10/1200Z 14.5N  88.5W   30 KT  35 MPH...POST-TROP/INLAND
+ 96H  11/1200Z 16.2N  93.5W   25 KT  30 MPH...POST-TROP/INLAND
+120H  12/1200Z...DISSIPATED
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Fri, 07 Oct 2022 14:55:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/071455.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/071455.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Julia Wind Speed Probabilities Number 5</title>
+<description>Issued at 1500 UTC FRI OCT 07 2022                                              <![CDATA[<pre>
+
+075 
+FONT13 KNHC 071454
+PWSAT3
+                                                                    
+TROPICAL STORM JULIA WIND SPEED PROBABILITIES NUMBER   5            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132022               
+1500 UTC FRI OCT 07 2022                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM JULIA WAS LOCATED NEAR        
+LATITUDE 12.7 NORTH...LONGITUDE 73.1 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z FRI 00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE 12Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+FRONTERA MX    34  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+ 
+BELIZE CITY    34  X   X( X)   X( X)   X( X)   5( 5)   2( 7)   X( 7)
+ 
+PUERTO BARRIOS 34  X   X( X)   X( X)   1( 1)   8( 9)   3(12)   X(12)
+ 
+GUANAJA        34  X   X( X)   1( 1)   5( 6)   6(12)   X(12)   X(12)
+ 
+PUERTO CABEZAS 34  X   X( X)   7( 7)  44(51)   8(59)   X(59)   X(59)
+PUERTO CABEZAS 50  X   X( X)   X( X)  19(19)   5(24)   X(24)   X(24)
+PUERTO CABEZAS 64  X   X( X)   X( X)   6( 6)   1( 7)   X( 7)   X( 7)
+ 
+BLUEFIELDS     34  X   X( X)   2( 2)  24(26)   8(34)   X(34)   X(34)
+BLUEFIELDS     50  X   X( X)   X( X)   8( 8)   3(11)   X(11)   X(11)
+BLUEFIELDS     64  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+SAN ANDRES     34  X   3( 3)  47(50)  14(64)   1(65)   X(65)   X(65)
+SAN ANDRES     50  X   X( X)  17(17)  12(29)   X(29)   X(29)   X(29)
+SAN ANDRES     64  X   X( X)   4( 4)   5( 9)   X( 9)   X( 9)   X( 9)
+ 
+LIMON          34  X   X( X)   2( 2)   3( 5)   1( 6)   X( 6)   X( 6)
+ 
+COLON          34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+KINGSTON       34  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER BERG                                                     
+
+</pre>]]></description>
+<pubDate>Fri, 07 Oct 2022 14:54:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/071454.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/071454.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Julia Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/145618.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT13/AL132022_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Julia 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 07 Oct 2022 14:56:18 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/145618.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT13/AL132022_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Julia 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 07 Oct 2022 14:56:18 GMT
+]]>
+</description>
+<pubDate>Fri, 07 Oct 2022 14:56:18 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/145618.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/145618.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
