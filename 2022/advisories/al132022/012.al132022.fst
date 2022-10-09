@@ -1,0 +1,166 @@
+
+
+000
+WTNT33 KNHC 090851
+TCPAT3
+
+BULLETIN
+Hurricane Julia Advisory Number  12
+NWS National Hurricane Center Miami FL       AL132022
+500 AM EDT Sun Oct 09 2022
+
+...JULIA BRINGING HURRICANE CONDITIONS AND A DANGEROUS STORM SURGE
+TO PORTIONS OF THE COAST OF NICARAGUA...
+...LIFE-THREATENING FLASH FLOODS AND MUDSLIDES POSSIBLE FROM HEAVY
+RAINS OVER CENTRAL AMERICA AND SOUTHERN MEXICO THROUGH EARLY NEXT
+WEEK...
+
+
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.4N 84.0W
+ABOUT 30 MI...50 KM NNW OF BLUEFIELDS NICARAGUA
+ABOUT 155 MI...250 KM E OF MANAGUA NICARAGUA
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...W OR 265 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...982 MB...29.00 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The government of Colombia has replaced the Hurricane Warning
+with a Tropical Storm Warning for San Andres, Providencia, and
+Santa Catalina Islands.
+
+The government of Guatemala has issued a Tropical Storm Watch for
+the entire Pacific coast of Guatemala, from the El
+Salvador/Guatemala border to the Guatemala/Mexico border.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* Nicaragua from Bluefields to Puerto Cabezas
+
+A Hurricane Watch is in effect for...
+* Nicaragua north of Puerto Cabezas to the Honduras/Nicaragua border
+
+A Tropical Storm Warning is in effect for...
+* Nicaragua south of Bluefields to the Nicaragua/Costa Rica border
+* Nicaragua north of Puerto Cabezas to the Honduras/Nicaragua border
+* San Andres, Providencia, and Santa Catalina Islands Colombia
+* Pacific coast of Nicaragua
+* Pacific coast of Honduras
+* Coast of El Salvador
+
+A Tropical Storm Watch is in effect for...
+* Honduras from the Nicaragua/Honduras border to Punta Patuca
+* Pacific coast of Guatemala
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Hurricane Julia was located 
+near latitude 12.4 North, longitude 84.0 West. Julia is moving 
+toward the west near 16 mph (26 km/h). This general motion is 
+expected to continue through tonight, followed by a slight turn to 
+the west-northwest on Monday. On the forecast track, the center of 
+Julia is expected to move across Nicaragua today and emerge over the 
+eastern Pacific by tonight. Julia is then forecast to move near or 
+along the Pacific coasts of Honduras, El Salvador, and Guatemala on 
+Monday and Monday night.
+
+Maximum sustained winds are near 85 mph (140 km/h) with higher 
+gusts. Weakening is expected today as Julia moves over Nicaragua, 
+but it is still forecast to be a tropical storm when it emerges off 
+the Pacific coast of Nicaragua by tonight. Julia is forecast to 
+weaken to a tropical depression on Monday night and dissipate by 
+Tuesday.
+
+Hurricane-force winds extend outward up to 35 miles (55 km) from the 
+center and tropical-storm-force winds extend outward up to 115 miles 
+(185 km). The Bluefields International Airport in Nicaragua recently 
+reported a sustained wind of 58 mph (93 km/h). 
+
+The estimated minimum central pressure is 982 mb (29.00 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Julia can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT3.shtml.
+
+WIND:  Hurricane conditions will continue over the coast of
+Nicaragua within the warning area this morning. Hurricane conditions
+are possible along the coast of Nicaragua within the hurricane watch
+area this morning. Tropical storm conditions, mainly in gusts, will
+continue for the next few hours on the islands of San Andres,
+Providencia, and Santa Catalina.
+
+Tropical storm conditions will continue along the Caribbean coast of
+Nicaragua within the tropical storm warning areas through this
+morning. Tropical storm conditions are possible along the coast of
+Honduras within the watch area through this morning.
+
+Tropical storm conditions are expected along the Pacific coasts of 
+Nicaragua, Honduras, and El Salvador within the warning area 
+beginning this afternoon into tonight. Tropical storm conditions are 
+possible along the Pacific coast of Guatemala within the watch area 
+on Monday.
+
+RAINFALL:  Julia is expected to produce the following rainfall
+accumulations through early Tuesday:
+
+Nicaragua and El Salvador...5 to 10 inches, isolated 15 inches.
+Honduras, Belize, northern Guatemala, and the Isthmus of Tehuantepec
+in Mexico...3 to 6 inches, isolated 10 inches.
+San Andres, Providencia, and Panama...an additional 2 to 4 inches,
+isolated 12 inch storm total amounts.
+Southern Guatemala and Costa Rica...4 to 8 inches, isolated 12
+inches.
+
+This rainfall may cause life-threatening flash floods and mudslides
+across Central America today and Monday. Flash flooding is
+anticipated across the Isthmus of Tehuantepec in Mexico early this
+week.
+
+STORM SURGE:  A storm surge is likely to raise water levels by as
+much as 4 to 6 feet above normal tide levels along the immediate
+coast of Nicaragua in areas of onshore winds. Large and damaging
+waves will likely accompany the storm surge near the coast.
+
+Water levels should be receding on San Andres, Providencia, and
+Santa Catalina Islands as Julia continues moving inland over
+Nicaragua.
+
+SURF:  Swells generated by Julia are affecting Jamaica, Providencia,
+and San Andres, and the coast of Central America. These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
+
+$$
+Forecaster Reinhart
+
