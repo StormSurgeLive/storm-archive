@@ -1,0 +1,47 @@
+{
+	"activeStorms": [
+		{
+			"id": "al152022",
+			"binNumber": "AT5",
+			"name": "Fifteen",
+			"classification": "PC",
+			"intensity": "35",
+			"pressure": "1005",
+			"latitude": "15.7N",
+			"longitude": "73.6W",
+			"latitudeNumeric": 15.7,
+			"longitudeNumeric": -73.6,
+			"movementDir": 290,
+			"movementSpeed": 10,
+			"lastUpdate": "2022-10-30T21:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2022-10-30T21:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2022-10-30T21:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT5.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2022-10-30T21:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT5.shtml"
+			},
+			"forecastDiscussion": null,
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null
+		}
+	]
+}
