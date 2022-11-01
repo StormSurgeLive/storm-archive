@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Tue, 01 Nov 2022 02:55:37 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 312349<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Mon Oct 31 2022<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems: <br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Lisa, located over the central Caribbean Sea.<br/>
+<br/>
+Central Subtropical Atlantic:<br/>
+A non-tropical area of low pressure is located about 350 miles <br/>
+northeast of Bermuda. Shower and thunderstorm activity, while not <br/>
+well-organized, has persisted near the center of the low today and <br/>
+the system is producing gale-force winds near its center. Some <br/>
+tropical or subtropical development is possible tonight through <br/>
+early Thursday while the low moves generally east-northeastward. On <br/>
+Thursday, the system is expected to become fully extratropical and <br/>
+merge with a larger non-tropical low over the north-central <br/>
+Atlantic. For more information on this system, including Gale <br/>
+Warnings, see High Seas Forecasts issued by the National Weather <br/>
+Service.  <br/>
+* Formation chance through 48 hours...low...30 percent.<br/>
+* Formation chance through 5 days...low...30 percent.<br/>
+<br/>
+&&<br/>
+<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br/>
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster D. Zelinsky<br/>
+]]>
+</description>
+<pubDate>Mon, 31 Oct 2022 23:49:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202210312349</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Lisa (AT5/AL152022)</title>
+ <guid isPermaLink="false">summary-al152022-202211010255</guid>
+ <pubDate>Tue, 01 Nov 2022 02:55:04 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/010254.shtml</link>
+ <description>
+  ...LISA FORECAST TO STRENGTHEN AS IT APPROACHES CENTRAL AMERICA... ...HURRICANE WATCH REMAINS IN EFFECT FOR BELIZE AND THE BAY ISLANDS OF HONDURAS...
+ As of 11:00 PM EDT Mon Oct 31
+ the center of Lisa was located near 15.6, -79.1
+ with movement W at 12 mph.
+ The minimum central pressure was 1002 mb
+ with maximum sustained winds of about 45 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>15.6, -79.1</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Lisa</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL152022</nhc:atcf>
+  <nhc:datetime>11:00 PM EDT Mon Oct 31</nhc:datetime>
+  <nhc:movement>W at 12 mph</nhc:movement>
+  <nhc:pressure>1002 mb</nhc:pressure>
+  <nhc:wind>45 mph</nhc:wind>
+  <nhc:headline> ...LISA FORECAST TO STRENGTHEN AS IT APPROACHES CENTRAL AMERICA... ...HURRICANE WATCH REMAINS IN EFFECT FOR BELIZE AND THE BAY ISLANDS OF HONDURAS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Lisa Public Advisory Number 6</title>
+<description>Issued at 1100 PM EDT Mon Oct 31 2022  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 010254
+TCPAT5
+ 
+BULLETIN
+Tropical Storm Lisa Advisory Number   6
+NWS National Hurricane Center Miami FL       AL152022
+1100 PM EDT Mon Oct 31 2022
+ 
+...LISA FORECAST TO STRENGTHEN AS IT APPROACHES CENTRAL AMERICA...
+...HURRICANE WATCH REMAINS IN EFFECT FOR BELIZE AND THE BAY ISLANDS
+OF HONDURAS...
+ 
+ 
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...15.6N 79.1W
+ABOUT 290 MI...470 KM SSE OF GRAND CAYMAN
+ABOUT 615 MI...990 KM E OF BELIZE CITY
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of Honduras has issued a Tropical Storm Warning from
+the border with Nicaragua to Punta Castilla.
+ 
+The government of Jamaica has discontinued the Tropical Storm Watch
+for Jamaica.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Bay Islands
+* Belize coast from north of Puerto Barrios to south of Chetumal
+ 
+A Tropical Storm Warning is in effect for...
+* Bay Islands
+* Honduras from the border with Nicaragua to Punta Castilla
+ 
+A Tropical Storm Watch is in effect for...
+* Entire north coast of Honduras
+* Guatemala from border with Honduras to Puerto Barrios
+* Mexico from Chetumal to Punta Herrero.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in Central America and the Yucatan Peninsula of
+Mexico should monitor the progress of Lisa.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM EDT (0300 UTC), the center of Tropical Storm Lisa was
+located near latitude 15.6 North, longitude 79.1 West. Lisa is
+moving toward the west near 12 mph (19 km/h) and this motion is
+expected to continue during the next few days. On the forecast
+track, the center will pass south of the Cayman Islands on Tuesday,
+move near or over the Bay Islands of Honduras early on Wednesday,
+and approach Belize later on Wednesday.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Gradual strengthening is expected, and Lisa is forecast to become a
+hurricane by early Wednesday over the northwestern Caribbean Sea.
+ 
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
+from the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+WIND: Hurricane conditions are possible in the Bay Islands of
+Honduras beginning early Wednesday and are possible along the coast
+of Belize Wednesday afternoon. Tropical storm conditions are
+possible along the coast of Honduras Tuesday night through
+Wednesday. Tropical storm conditions are possible in the Tropical
+Storm Watch area in Mexico, Honduras, and Guatemala Wednesday
+afternoon.
+ 
+RAINFALL: Through Thursday evening, Lisa is expected to produce
+rainfall amounts of:
+ 
+* 3 to 5 inches with local amounts to 8 inches across portions
+of Belize and the Bay Islands of Honduras.
+* 2 to 4 inches with local amounts to 6 inches across portions
+of Northern Honduras, Jamaica, Guatemala and the eastern Yucatan
+peninsula.
+* 1 inch with local amounts to 2 inches across portions of the
+Cayman Islands, eastern Nicaragua.
+ 
+This rainfall could produce flash floods from northern Honduras
+northward to the eastern Yucatan Peninsula.
+ 
+STORM SURGE:  A storm surge could raise water levels by as much as 3
+to 5 feet above normal tide levels along the immediate coast of
+Belize in areas of onshore winds and 1 to 3 feet for the Bay Islands
+of Honduras. Near the coast, the surge will be accompanied by large
+and damaging waves.
+ 
+SURF:  Swells generated by Lisa are expected to affect Jamaica and
+the Cayman Islands during the next day or so, and will begin to
+affect Central America on Tuesday. These swells could cause life-
+threatening surf and rip current conditions. Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 AM EDT.
+Next complete advisory at 500 AM EDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Tue, 01 Nov 2022 02:55:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/010254.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/010254.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Lisa Forecast Advisory Number 6</title>
+<description>Issued at 0300 UTC TUE NOV 01 2022  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 010254
+TCMAT5
+ 
+TROPICAL STORM LISA FORECAST/ADVISORY NUMBER   6
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL152022
+0300 UTC TUE NOV 01 2022
+ 
+CHANGES IN WATCHES AND WARNINGS WITH THIS ADVISORY...
+ 
+THE GOVERNMENT OF HONDURAS HAS ISSUED A TROPICAL STORM WARNING FROM
+THE BORDER WITH NICARAGUA TO PUNTA CASTILLA.
+ 
+THE GOVERNMENT OF JAMAICA HAS DISCONTINUED THE TROPICAL STORM WATCH
+FOR JAMAICA.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+ 
+A HURRICANE WATCH IS IN EFFECT FOR...
+* BAY ISLANDS
+* BELIZE COAST FROM NORTH OF PUERTO BARRIOS TO SOUTH OF CHETUMAL
+ 
+A TROPICAL STORM WARNING IS IN EFFECT FOR...
+* BAY ISLANDS
+* HONDURAS FROM THE BORDER WITH NICARAGUA TO PUNTA CASTILLA
+ 
+A TROPICAL STORM WATCH IS IN EFFECT FOR...
+* ENTIRE NORTH COAST OF HONDURAS
+* GUATEMALA FROM BORDER WITH HONDURAS TO PUERTO BARRIOS
+* MEXICO FROM CHETUMAL TO PUNTA HERRERO.
+ 
+A HURRICANE WATCH MEANS THAT HURRICANE CONDITIONS ARE POSSIBLE
+WITHIN THE WATCH AREA.  A WATCH IS TYPICALLY ISSUED 48 HOURS
+BEFORE THE ANTICIPATED FIRST OCCURRENCE OF TROPICAL-STORM-FORCE
+WINDS...CONDITIONS THAT MAKE OUTSIDE PREPARATIONS DIFFICULT OR
+DANGEROUS.
+ 
+A TROPICAL STORM WARNING MEANS THAT TROPICAL STORM CONDITIONS ARE
+EXPECTED SOMEWHERE WITHIN THE WARNING AREA WITHIN 36 HOURS.
+ 
+A TROPICAL STORM WATCH MEANS THAT TROPICAL STORM CONDITIONS ARE
+POSSIBLE WITHIN THE WATCH AREA...GENERALLY WITHIN 48 HOURS.
+ 
+INTERESTS ELSEWHERE IN CENTRAL AMERICA AND THE YUCATAN PENINSULA OF
+MEXICO SHOULD MONITOR THE PROGRESS OF LISA.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 15.6N  79.1W AT 01/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 270 DEGREES AT  10 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT....... 90NE  70SE   0SW   0NW.
+12 FT SEAS.. 90NE   0SE   0SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 15.6N  79.1W AT 01/0300Z
+AT 01/0000Z CENTER WAS LOCATED NEAR 15.5N  78.8W
+ 
+FORECAST VALID 01/1200Z 16.0N  81.3W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 90NE  60SE  30SW  60NW.
+ 
+FORECAST VALID 02/0000Z 16.4N  83.9W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE   0SE   0SW  30NW.
+34 KT... 90NE  60SE  40SW  60NW.
+ 
+FORECAST VALID 02/1200Z 16.8N  86.3W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE   0SE   0SW  15NW.
+50 KT... 40NE  30SE  20SW  40NW.
+34 KT... 90NE  60SE  50SW  70NW.
+ 
+FORECAST VALID 03/0000Z 16.9N  88.3W...INLAND
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE   0SE   0SW  10NW.
+50 KT... 40NE  30SE  20SW  20NW.
+34 KT... 90NE  60SE  50SW  50NW.
+ 
+FORECAST VALID 03/1200Z 16.8N  89.8W...INLAND
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE   0SE   0SW  40NW.
+ 
+FORECAST VALID 04/0000Z 16.8N  91.2W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 05/0000Z 17.0N  93.5W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+OUTLOOK VALID 06/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 15.6N  79.1W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT35 KNHC/MIATCPAT5...AT 01/0600Z
+ 
+NEXT ADVISORY AT 01/0900Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+</pre>]]></description>
+<pubDate>Tue, 01 Nov 2022 02:55:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/010254.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/010254.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Lisa Forecast Discussion Number 5</title>
+<description>Issued at 500 PM EDT Mon Oct 31 2022  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 312057
+TCDAT5
+ 
+Tropical Storm Lisa Discussion Number   5
+NWS National Hurricane Center Miami FL       AL152022
+500 PM EDT Mon Oct 31 2022
+
+Satellite images indicate that Lisa is becoming better organized.  
+A large ball of convection has formed just southeast of the center, 
+and banding features are becoming more prominent northwest of the 
+center. Additionally, wind data from an Air Force Reserve Hurricane 
+Hunter aircraft showed that the low-level circulation was becoming 
+less elongated, with a more circular pattern on the final pass.  
+The plane found maximum 1500 ft flight-level winds of 49 kt and 
+numerous SFMR values of 35 kt during the mission.  This was the 
+basis for the 40 kt initial wind speed on the intermediate, and that 
+value is kept for this advisory.
+
+Cirrus cloud motions are showing that the upper-level flow near Lisa 
+is changing from westerly to easterly, with outflow also increasing 
+in the western quadrant.  This change suggests that the shear is 
+abating near the tropical cyclone.  While oceanic conditions are 
+also favorable for strengthening, there is still a fair bit of dry 
+air aloft that Lisa will have to encounter, which could temper 
+intensification rates.  Overall, gradual strengthening is expected, 
+and the new forecast is similar to the previous one.  Interestingly, 
+the model guidance is stronger than the last cycle, perhaps due to 
+the aircraft data, and is now more consistent with the latest NHC 
+intensity prediction.
+
+Aircraft fixes show that Lisa continues to move westward at about 12 
+kt.  There have been no changes to the synoptic pattern with the 
+storm forecast to move westward to west-northwestward for the next 
+day or two under a mid-level ridge to the north.  Lisa should move 
+westward or possibly a little south-of-west while it approaches 
+Belize on Wednesday due to the ridge strengthening.  Model guidance 
+remains in very good agreement and, similar to the last advisory, a 
+small southward adjustment was made to the previous forecast, with 
+the core of Lisa impacting Belize on Wednesday.  We will have to 
+monitor  whether some portion of Lisa tries to pull a trick in the 
+southern Bay of Campeche at long range with some models suggesting 
+that a portion of the circulation could make it there, but that's 
+not considered likely at this time.
+
+Hurricane watches have been issued for the Bay Islands of Honduras 
+and Belize due to the new forecast and timing, with tropical storm 
+watches on the Caribbean coasts of Honduras and Guatemala and 
+portions of the southeastern Yucatan peninsula of Mexico.
+ 
+ 
+Key Messages:
+ 
+1. Hurricane conditions are possible in the Bay Islands of Honduras 
+early Wednesday and along the coast of Belize by Wednesday 
+afternoon, where a Hurricane Watch has been issued.  Tropical storm 
+conditions are possible in portions of Jamaica, the north coast of 
+Honduras, the Caribbean coast of Guatemala and the southeastern 
+Yucatan Peninsula of Mexico.
+
+2.  Localized flash flooding is expected across portions of the 
+eastern Yucatan Peninsula, Belize, and northern Honduras, including 
+the Bay Islands, starting late Tuesday continuing through Thursday.
+
+3.  There is potential for a dangerous storm surge near where the 
+core of Lisa crosses the coast of Belize.
+
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  31/2100Z 15.5N  78.4W   40 KT  45 MPH
+ 12H  01/0600Z 15.7N  80.2W   45 KT  50 MPH
+ 24H  01/1800Z 16.2N  82.8W   50 KT  60 MPH
+ 36H  02/0600Z 16.7N  85.4W   55 KT  65 MPH
+ 48H  02/1800Z 17.0N  87.6W   65 KT  75 MPH
+ 60H  03/0600Z 16.9N  89.3W   45 KT  50 MPH...INLAND
+ 72H  03/1800Z 16.9N  90.9W   30 KT  35 MPH...INLAND
+ 96H  04/1800Z 17.5N  93.0W   25 KT  30 MPH...POST-TROP/REMNT LOW
+120H  05/1800Z...DISSIPATED
+ 
+$$
+Forecaster Blake
+ 
+</pre>]]></description>
+<pubDate>Mon, 31 Oct 2022 20:57:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/312057.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/312057.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Lisa Wind Speed Probabilities Number 6</title>
+<description>Issued at 0300 UTC TUE NOV 01 2022                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 010255
+PWSAT5
+                                                                    
+TROPICAL STORM LISA WIND SPEED PROBABILITIES NUMBER   6             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL152022               
+0300 UTC TUE NOV 01 2022                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM LISA WAS LOCATED NEAR LATITUDE
+15.6 NORTH...LONGITUDE 79.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+40 KTS...45 MPH...75 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z TUE 12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT 00Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+VERACRUZ MX    34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   X( 4)
+ 
+FRONTERA MX    34  X   X( X)   X( X)   3( 3)   6( 9)   4(13)   X(13)
+ 
+MERIDA MX      34  X   X( X)   1( 1)   3( 4)   1( 5)   1( 6)   X( 6)
+ 
+COZUMEL MX     34  X   2( 2)   7( 9)   3(12)   1(13)   X(13)   X(13)
+ 
+BELIZE CITY    34  X   2( 2)  23(25)  41(66)   6(72)   X(72)   X(72)
+BELIZE CITY    50  X   X( X)   4( 4)  27(31)   4(35)   X(35)   X(35)
+BELIZE CITY    64  X   X( X)   X( X)   9( 9)   2(11)   X(11)   X(11)
+ 
+PUERTO BARRIOS 34  X   X( X)   2( 2)  24(26)   9(35)   X(35)   X(35)
+PUERTO BARRIOS 50  X   X( X)   X( X)   5( 5)   2( 7)   X( 7)   X( 7)
+PUERTO BARRIOS 64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+GUANAJA        34  X  14(14)  65(79)   4(83)   X(83)   X(83)   X(83)
+GUANAJA        50  X   1( 1)  39(40)   5(45)   X(45)   X(45)   X(45)
+GUANAJA        64  X   X( X)  11(11)   3(14)   X(14)   X(14)   X(14)
+ 
+S SALVADOR     34  X   X( X)   X( X)   2( 2)   2( 4)   X( 4)   X( 4)
+ 
+TEGUCIGALPA    34  X   X( X)   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)
+ 
+P SAN JOSE     34  X   X( X)   X( X)   4( 4)   2( 6)   1( 7)   X( 7)
+ 
+GUATEMALA CITY 34  X   X( X)   X( X)   3( 3)   4( 7)   1( 8)   X( 8)
+ 
+TAPACHULA      34  X   X( X)   X( X)   2( 2)   3( 5)   3( 8)   X( 8)
+ 
+CP SAN ANTONIO 34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+GRAND CAYMAN   34  1   7( 8)   2(10)   X(10)   X(10)   X(10)   X(10)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Tue, 01 Nov 2022 02:55:35 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/010255.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/010255.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Lisa Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/234839.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT15/AL152022_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Lisa 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 31 Oct 2022 23:48:39 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/234839.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT15/AL152022_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Lisa 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 31 Oct 2022 21:23:38 GMT
+]]>
+</description>
+<pubDate>Mon, 31 Oct 2022 23:48:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/234839.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/234839.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
