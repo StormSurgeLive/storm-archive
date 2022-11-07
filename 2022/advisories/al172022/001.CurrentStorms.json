@@ -1,0 +1,51 @@
+{
+	"activeStorms": [
+		{
+			"id": "al172022",
+			"binNumber": "AT2",
+			"name": "Nicole",
+			"classification": "STS",
+			"intensity": "40",
+			"pressure": "1004",
+			"latitude": "25.5N",
+			"longitude": "68.5W",
+			"latitudeNumeric": 25.5,
+			"longitudeNumeric": -68.5,
+			"movementDir": 330,
+			"movementSpeed": 14,
+			"lastUpdate": "2022-11-07T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2022-11-07T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT2.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2022-11-07T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT2.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2022-11-07T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT2.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "001",
+				"issuance": "2022-11-07T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT2.shtml"
+			},
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null
+		}
+	]
+}
