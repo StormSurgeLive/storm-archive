@@ -1,0 +1,101 @@
+{
+	"activeStorms": [
+		{
+			"id": "al172022",
+			"binNumber": "AT2",
+			"name": "Nicole",
+			"classification": "STS",
+			"intensity": "40",
+			"pressure": "995",
+			"latitude": "27.6N",
+			"longitude": "71.6W",
+			"latitudeNumeric": 27.6,
+			"longitudeNumeric": -71.6,
+			"movementDir": 310,
+			"movementSpeed": 10,
+			"lastUpdate": "2022-11-08T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "005",
+				"issuance": "2022-11-08T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT2.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "005",
+				"issuance": "2022-11-08T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT2.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "005",
+				"issuance": "2022-11-08T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT2.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "005",
+				"issuance": "2022-11-08T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT2.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "004A",
+				"issuance": "2022-11-08T06:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at2.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "004A",
+				"issuance": "2022-11-08T06:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al172022_5day_004A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_004Aadv_TRACK.kmz"
+			},
+			"windWatchesWarnings": {
+				"advNum": "004A",
+				"issuance": "2022-11-08T06:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al172022_5day_004A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_004Aadv_WW.kmz"
+			},
+			"trackCone": {
+				"advNum": "004A",
+				"issuance": "2022-11-08T06:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al172022_5day_004A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_004Aadv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "004A",
+				"issuance": "2022-11-08T06:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al172022_fcst_004A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_initialradii_004Aadv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "004A",
+				"issuance": "2022-11-08T06:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al172022_fcst_004A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_forecastradii_004Aadv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2022-11-08T00:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al172022_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al172022_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "004",
+				"issuance": "2022-11-08T03:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_004adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "004",
+				"issuance": "2022-11-08T03:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_004adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": {
+				"advNum": "004",
+				"issuance": "2022-11-08T03:00:00.000Z",
+				"kmlFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL172022_WatchWarningSS_004adv.kml"
+			},
+			"potentialStormSurgeFloodingGIS": {
+				"advNum": "004",
+				"issuance": "2022-11-08T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/inundation/forecasts/AL1722_04_inundation.zip",
+				"zipFileTidalMask": "https://www.nhc.noaa.gov/gis/inundation/forecasts/AL1722_04_tidalmask.zip"
+			}
+		}
+	]
+}
