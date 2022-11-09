@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Wed, 09 Nov 2022 14:49:57 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 091153<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+700 AM EST Wed Nov 9 2022<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Nicole, located just east-northeast of Great Abaco Island in <br/>
+the Northwestern Bahamas. <br/>
+<br/>
+Central Subtropical Atlantic:<br/>
+Shower activity remains limited in association with an area of low <br/>
+pressure located about 600 miles west-southwest of the westernmost <br/>
+Azores Islands.  The low is moving northeastward and is expected to <br/>
+merge with a frontal system later today, therefore development <br/>
+is no longer anticipated.  Additional information on this system <br/>
+can be found in High Seas Forecasts issued by the National Weather <br/>
+Service.<br/>
+* Formation chance through 48 hours...low...near 0 percent.<br/>
+* Formation chance through 5 days...low...near 0 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br/>
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Brown<br/>
+]]>
+</description>
+<pubDate>Wed, 09 Nov 2022 11:53:54 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202211091153</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Nicole (AT2/AL172022)</title>
+ <guid isPermaLink="false">summary-al172022-202211091449</guid>
+ <pubDate>Wed, 09 Nov 2022 14:49:54 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/091449.shtml</link>
+ <description>
+  ...CENTER OF NICOLE APPROACHING GREAT ABACO ISLAND IN THE NORTHWESTERN BAHAMAS... ...NEW STORM SURGE WARNING ISSUED...
+ As of 10:00 AM EST Wed Nov 9
+ the center of Nicole was located near 26.5, -76.7
+ with movement W at 12 mph.
+ The minimum central pressure was 986 mb
+ with maximum sustained winds of about 70 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>26.5, -76.7</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Nicole</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL172022</nhc:atcf>
+  <nhc:datetime>10:00 AM EST Wed Nov 9</nhc:datetime>
+  <nhc:movement>W at 12 mph</nhc:movement>
+  <nhc:pressure>986 mb</nhc:pressure>
+  <nhc:wind>70 mph</nhc:wind>
+  <nhc:headline> ...CENTER OF NICOLE APPROACHING GREAT ABACO ISLAND IN THE NORTHWESTERN BAHAMAS... ...NEW STORM SURGE WARNING ISSUED...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Nicole Public Advisory Number 10</title>
+<description>Issued at 1000 AM EST Wed Nov 09 2022  <![CDATA[<pre>
+
+152 
+WTNT32 KNHC 091449
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Nicole Advisory Number  10
+NWS National Hurricane Center Miami FL       AL172022
+1000 AM EST Wed Nov 09 2022
+ 
+...CENTER OF NICOLE APPROACHING GREAT ABACO ISLAND IN THE
+NORTHWESTERN BAHAMAS...
+...NEW STORM SURGE WARNING ISSUED...
+ 
+ 
+SUMMARY OF 1000 AM EST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...26.5N 76.7W
+ABOUT 25 MI...40 KM ENE OF GREAT ABACO ISLAND
+ABOUT 210 MI...340 KM E OF WEST PALM BEACH FLORIDA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...W OR 265 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Storm Surge Warning has been issued from the Anclote River Florida
+to Ochlockonee River Florida.
+ 
+The government of the Bahamas has changed the Hurricane Warning for
+Bimini to a Tropical Storm Warning.   The government of the Bahamas
+has discontinued the Tropical Storm Warning for Andros Island, New
+Providence, and Eleuthera.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* The Abacos, Berry Islands, and Grand Bahama Island in the
+northwestern Bahamas
+* Boca Raton to Flagler/Volusia County Line Florida
+ 
+A Tropical Storm Warning is in effect for...
+* Bimini in the northwestern Bahamas
+* Hallandale Beach Florida to Boca Raton Florida
+* Flagler/Volusia County Line Florida to South Santee River South
+Carolina
+* North of Bonita Beach to Indian Pass Florida
+* Lake Okeechobee
+ 
+A Storm Surge Warning is in effect for...
+* North Palm Beach Florida to Altamaha Sound Georgia
+* Mouth of the St. Johns River to Georgetown Florida
+* Anclote River Florida to Ochlockonee River Florida
+ 
+A Hurricane Watch is in effect for...
+* Hallandale Beach to Boca Raton Florida
+* Lake Okeechobee
+ 
+A Storm Surge Watch is in effect for...
+* Ochlockonee River to Indian Pass Florida
+* South of North Palm Beach to Hallandale Beach Florida
+* Altamaha Sound Georgia to South Santee River South Carolina
+ 
+A Tropical Storm Watch is in effect for...
+* South of Hallandale Beach to north of Ocean Reef Florida
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline, in
+the indicated locations. For a depiction of areas at risk, please
+see the National Weather Service Storm Surge Watch/Warning Graphic,
+available at hurricanes.gov.  This is a life-threatening situation.
+Persons located within these areas should take all necessary actions
+to protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+ 
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Interests in the remainder of Florida and along the southeastern
+coast of the United States should monitor the progress of Nicole.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 AM EST (1500 UTC), the center of Tropical Storm Nicole was
+located near latitude 26.5 North, longitude 76.7 West. Nicole is
+moving toward the west near 12 mph (19 km/h).  A turn toward the
+west-northwest is expected tonight, followed by a turn toward the
+northwest on Thursday, and north or north-northeast on Friday.  On
+the forecast track, the center of Nicole will move near or over
+the Abacos and Grand Bahama in the northwestern Bahamas today and
+move onshore the east coast of Florida within the hurricane warning
+area tonight.  Nicole's center is then expected to move across
+central and northern Florida into southern Georgia Thursday and
+Thursday night, and then across the Carolinas Friday and Friday
+night.
+ 
+Maximum sustained winds are near 70 mph (110 km/h) with higher
+gusts.  Some strengthening is expected today, and Nicole is forecast
+to become a hurricane near the northwestern Bahamas and remain a
+hurricane when it reaches the east coast of Florida tonight.  Nicole
+is expected to weaken while moving across Florida and the
+southeastern United States Thursday through Friday, and it is likely
+to become a post-tropical cyclone by Friday night over the
+Mid-Atlantic states.
+ 
+Nicole is a large tropical storm.  Tropical-storm-force winds
+extend outward up to 460 miles (740 km) especially to the north of
+the center. A station at Bakers Bay on Great Guana Cay recently 
+reported sustained winds of 44 mph (71 km/h) and a wind gust of 63 
+mph (101 km/h).
+ 
+The minimum central pressure based on NOAA and Air Force Reserve 
+Hurricane Hunter data is 986 mb (29.12 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Nicole can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2, WMO header WTNT42 KNHC,
+and on the web at <a href="http://www.hurricanes.gov/text/MIATCDAT2.shtml">www.hurricanes.gov/text/MIATCDAT2.shtml</a>.
+ 
+WIND:  Tropical storm conditions are occurring across the
+northwestern Bahamas, and hurricane conditions are expected to 
+spread westward in areas in hurricane warning area through this 
+evening.  Tropical storm conditions are also occurring along 
+portions of the east coast of Florida and will spread northward 
+within the warning area through Georgia and South Carolina today and 
+tonight. Hurricane conditions are expected within the hurricane 
+warning area in Florida tonight or Thursday morning.  Hurricane 
+conditions are possible within the hurricane watch area tonight.  
+Tropical storm conditions are expected within the warning area 
+along the west coast of Florida by this evening or tonight.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+* North Palm Beach Florida to Altamaha Sound Georgia including the
+St. Johns River to the Fuller Warren Bridge...3 to 5 ft
+* Anclote River to Ochlockonee River...3 to 5 ft
+* Altamaha Sound Georgia to the South Santee River South
+Carolina...2 to 4 ft
+* St. Johns River south of the Fuller Warren Bridge to Georgetown
+Florida...2 to 4 ft
+* Hallandale Beach to North Palm Beach...2 to 4 ft
+* Ochlockonee River to Indian Pass...2 to 4 ft
+* Englewood to Anclote River including Tampa Bay...1 to 3 ft
+* North of Ocean Reef to Hallandale Beach including Biscayne Bay...1
+to 2 ft
+* South Santee River to Surf City North Carolina...1 to 2 ft 
+ 
+Storm surge could raise water levels by as much as 4 to 6 feet above
+normal tide levels along the immediate coast of the northwestern
+Bahamas in areas of onshore winds.
+ 
+The deepest water will occur along the immediate coast near and to
+the north of the landfall location, where the surge will be
+accompanied by large and destructive waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle, and
+can vary greatly over short distances.  For information specific to
+your area, please see products issued by your local National Weather
+Service forecast office.
+ 
+RAINFALL:  Nicole is expected to produce the following rainfall
+amounts through Friday night:
+ 
+Northwest Bahamas into the eastern, central and northern portions
+of the Florida Peninsula: 3 to 5 inches with local maxima of 8
+inches.
+ 
+Southeast into the southern and central Appalachians, western
+Mid-Atlantic, and eastern portions of Tennessee, Kentucky, and Ohio:
+2 to 4 inches with local maxima of 6 inches along the Blue Ridge.
+ 
+Northern Mid-Atlantic into portions of New England: 1 to 4 inches.
+ 
+Flash and urban flooding will be possible, along with renewed river
+rises on the St. Johns River, across the Florida Peninsula today
+into Thursday. Heavy rainfall from this system will spread northward
+across portions of the Southeast, Mid-Atlantic, and New England
+Thursday into Friday night, where limited flooding impacts will be
+possible.
+ 
+TORNADOES:  A few tornadoes are possible this evening through
+Thursday across eastern Florida, southeastern Georgia and southern
+South Carolina.
+ 
+SURF:  Large swells generated by Nicole will affect the northwestern
+Bahamas, the east coast of Florida, and much of the southeastern
+United States coast during the next few days.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 100 PM EST.
+Next complete advisory at 400 PM EST.
+ 
+$$
+Forecaster Beven
+ 
+
+</pre>]]></description>
+<pubDate>Wed, 09 Nov 2022 14:49:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/091449.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/091449.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Nicole Forecast Advisory Number 10</title>
+<description>Issued at 1500 UTC WED NOV 09 2022  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 091449
+TCMAT2
+ 
+TROPICAL STORM NICOLE FORECAST/ADVISORY NUMBER  10
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172022
+1500 UTC WED NOV 09 2022
+ 
+CHANGES IN WATCHES AND WARNINGS WITH THIS ADVISORY...
+ 
+A STORM SURGE WARNING HAS BEEN ISSUED FROM THE ANCLOTE RIVER FLORIDA
+TO OCHLOCKONEE RIVER FLORIDA.
+ 
+THE GOVERNMENT OF THE BAHAMAS HAS CHANGED THE HURRICANE WARNING FOR
+BIMINI TO A TROPICAL STORM WARNING.  THE GOVERNMENT OF THE BAHAMAS
+HAS DISCONTINUED THE TROPICAL STORM WARNING FOR ANDROS ISLAND...NEW
+PROVIDENCE...AND ELEUTHERA.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT...
+ 
+A HURRICANE WARNING IS IN EFFECT FOR...
+* THE ABACOS...BERRY ISLANDS...AND GRAND BAHAMA ISLAND IN THE
+NORTHWESTERN BAHAMAS
+* BOCA RATON TO FLAGLER/VOLUSIA COUNTY LINE FLORIDA
+ 
+A TROPICAL STORM WARNING IS IN EFFECT FOR...
+* BIMINI IN THE NORTHWESTERN BAHAMAS
+* HALLANDALE BEACH FLORIDA TO BOCA RATON FLORIDA
+* FLAGLER/VOLUSIA COUNTY LINE FLORIDA TO SOUTH SANTEE RIVER SOUTH
+CAROLINA
+* NORTH OF BONITA BEACH TO INDIAN PASS FLORIDA
+* LAKE OKEECHOBEE
+ 
+A STORM SURGE WARNING IS IN EFFECT FOR...
+* NORTH PALM BEACH FLORIDA TO ALTAMAHA SOUND GEORGIA
+* MOUTH OF THE ST. JOHNS RIVER TO GEORGETOWN FLORIDA
+* ANCLOTE RIVER FLORIDA TO OCHLOCKONEE RIVER FLORIDA
+ 
+A HURRICANE WATCH IS IN EFFECT FOR...
+* HALLANDALE BEACH TO BOCA RATON FLORIDA
+* LAKE OKEECHOBEE
+ 
+A STORM SURGE WATCH IS IN EFFECT FOR...
+* OCHLOCKONEE RIVER TO INDIAN PASS FLORIDA
+* SOUTH OF NORTH PALM BEACH TO HALLANDALE BEACH FLORIDA
+* ALTAMAHA SOUND GEORGIA TO SOUTH SANTEE RIVER SOUTH CAROLINA
+ 
+A TROPICAL STORM WATCH IS IN EFFECT FOR...
+* SOUTH OF HALLANDALE BEACH TO NORTH OF OCEAN REEF FLORIDA
+ 
+A HURRICANE WARNING MEANS THAT HURRICANE CONDITIONS ARE EXPECTED
+SOMEWHERE WITHIN THE WARNING AREA.  PREPARATIONS TO PROTECT LIFE
+AND PROPERTY SHOULD BE RUSHED TO COMPLETION.
+ 
+A TROPICAL STORM WARNING MEANS THAT TROPICAL STORM CONDITIONS ARE
+EXPECTED SOMEWHERE WITHIN THE WARNING AREA.
+ 
+A STORM SURGE WARNING MEANS THERE IS A DANGER OF LIFE-THREATENING
+INUNDATION...FROM RISING WATER MOVING INLAND FROM THE COASTLINE...IN
+THE INDICATED LOCATIONS. FOR A DEPICTION OF AREAS AT RISK...PLEASE
+SEE THE NATIONAL WEATHER SERVICE STORM SURGE WATCH/WARNING
+GRAPHIC...AVAILABLE AT HURRICANES.GOV.  THIS IS A LIFE-THREATENING
+SITUATION. PERSONS LOCATED WITHIN THESE AREAS SHOULD TAKE ALL 
+NECESSARY ACTIONS TO PROTECT LIFE AND PROPERTY FROM RISING WATER 
+AND THE POTENTIAL FOR OTHER DANGEROUS CONDITIONS.  PROMPTLY FOLLOW 
+EVACUATION AND OTHER INSTRUCTIONS FROM LOCAL OFFICIALS.
+ 
+A STORM SURGE WATCH MEANS THERE IS A POSSIBILITY OF LIFE-
+THREATENING INUNDATION...FROM RISING WATER MOVING INLAND FROM THE
+COASTLINE...IN THE INDICATED LOCATIONS DURING THE NEXT 48 HOURS.
+FOR A DEPICTION OF AREAS AT RISK...PLEASE SEE THE NATIONAL WEATHER
+SERVICE STORM SURGE WATCH/WARNING GRAPHIC...AVAILABLE AT
+HURRICANES.GOV.
+ 
+A HURRICANE WATCH MEANS THAT HURRICANE CONDITIONS ARE POSSIBLE
+WITHIN THE WATCH AREA.
+ 
+A TROPICAL STORM WATCH MEANS THAT TROPICAL STORM CONDITIONS ARE
+POSSIBLE WITHIN THE WATCH AREA.
+ 
+INTERESTS IN THE REMAINDER OF FLORIDA AND ALONG THE SOUTHEASTERN
+COAST OF THE UNITED STATES SHOULD MONITOR THE PROGRESS OF NICOLE.
+ 
+TROPICAL STORM CENTER LOCATED NEAR 26.5N  76.7W AT 09/1500Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 265 DEGREES AT  10 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  986 MB
+MAX SUSTAINED WINDS  60 KT WITH GUSTS TO  75 KT.
+50 KT....... 20NE   0SE  20SW  50NW.
+34 KT.......360NE  90SE  60SW 400NW.
+12 FT SEAS..600NE 180SE 210SW 390NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 26.5N  76.7W AT 09/1500Z
+AT 09/1200Z CENTER WAS LOCATED NEAR 26.6N  76.1W
+ 
+FORECAST VALID 10/0000Z 26.7N  78.6W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 20NE   0SE   0SW  30NW.
+50 KT... 40NE  20SE  20SW  50NW.
+34 KT...360NE  90SE  70SW 330NW.
+ 
+FORECAST VALID 10/1200Z 27.6N  81.3W...INLAND
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 50NE  20SE  20SW  30NW.
+34 KT...300NE  90SE 110SW 240NW.
+ 
+FORECAST VALID 11/0000Z 29.5N  83.5W...OVER WATER
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...210NE  80SE  90SW 100NW.
+ 
+FORECAST VALID 11/1200Z 32.4N  83.3W...INLAND
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 12/0000Z 36.8N  79.9W...POST-TROP/EXTRATROP
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 12/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 26.5N  76.7W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT32 KNHC/MIATCPAT2...AT 09/1800Z
+ 
+NEXT ADVISORY AT 09/2100Z
+ 
+$$
+FORECASTER BEVEN
+ 
+ 
+</pre>]]></description>
+<pubDate>Wed, 09 Nov 2022 14:49:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/091449.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/091449.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Nicole Forecast Discussion Number 9</title>
+<description>Issued at 400 AM EST Wed Nov 09 2022  <![CDATA[<pre>
+
+000
+WTNT42 KNHC 090859
+TCDAT2
+ 
+Tropical Storm Nicole Discussion Number   9
+NWS National Hurricane Center Miami FL       AL172022
+400 AM EST Wed Nov 09 2022
+ 
+Nicole's satellite presentation has not changed since last evening.
+The associated convection is fairly fragmented, and cloud-top
+temperatures are not particularly cold compared to a typical
+tropical cyclone (they're only as cold as -50 degrees Celsius near
+the center).  The initial intensity remains 60 kt based on data
+from last evening's reconnaissance mission.
+ 
+Aircraft fixes and radar data from the Bahamas indicate that Nicole
+has continued to move west-southwestward (250/11 kt), even a little
+south of the previous NHC track prediction.  However, track model
+guidance indicates that Nicole should turn westward soon, and its
+center is forecast to move across the Abacos and Grand Bahama
+Island later today and approach the southeast or east-central coast
+of Florida tonight.  After 24 hours, high pressure over the
+southeastern U.S. is expected to slide eastward over the Atlantic,
+and that will cause Nicole to recurve around its western flank,
+moving across northern Florida or the northeastern Gulf of Mexico,
+and then across the southeastern U.S.  Nicole is then expected to
+accelerate northeastward toward the Mid-Atlantic states in 60-72
+hours ahead of an approaching deep-layer trough and cold front.
+Due to Nicole's recent short-term motion, the NHC official forecast
+has been nudged southward and westward during the first 48 hours
+and lies fairly close to the ECMWF and TVCA multi-model consensus.
+It's worth noting that a few models, including the GFS, HWRF, and
+HCCA, are a little west of the official forecast over the
+northeastern Gulf of Mexico and Florida Panhandle.
+ 
+Nicole will continue to move over warm SSTs of 27-28 degrees Celsius
+today, although the cyclone will likely also be contending with some
+shear and a dry and not particularly unstable environment.
+Therefore, only slight additional strengthening is anticipated, and
+Nicole could still become a hurricane later today while it moves
+across the northwestern Bahamas and reaches the east coast of
+Florida.  Weakening is expected once the center moves over Florida,
+and Nicole is forecast to weaken below tropical storm strength by 60
+hours once it's over Georgia or South Carolina.  Nicole is expected
+to merge with a cold front and become extratropical over the
+Mid-Atlantic by day 3, although most global models indicate that
+feature will dissipate soon thereafter, with a secondary
+extratropical low developing farther north over New England or
+eastern Canada.
+ 
+Scatterometer data from last evening indicated that Nicole's
+tropical-storm-force wind field continues to expand on its northern
+side, and that has been reflected in the new forecast.
+ 
+ 
+Key Messages:
+ 
+1. Hurricane conditions and a dangerous storm surge are expected in
+portions of the northwestern Bahamas today, where a Hurricane
+Warning is in effect.
+ 
+2. Hurricane conditions are expected across portions of the coast
+of southeast and east-central Florida beginning this evening or
+tonight, where a Hurricane Warning is in effect.  Tropical
+storm conditions have begun along the east coast of Florida in the
+warning areas and will spread northward to Georgia and South
+Carolina later today.  Tropical storm conditions are expected to
+begin along the west coast of Florida within the warning area this
+evening or tonight.
+ 
+3. A dangerous storm surge is expected along much of the east coast
+of Florida and portions of coastal Georgia where a Storm Surge
+Warning is in effect.  The storm surge will be accompanied by large
+and damaging waves.  Residents in the warning area should listen to
+advice given by local officials.
+ 
+4. Do not focus on the exact track of Nicole since it is expected to
+be a large storm with hazards extending well to the north of the
+center, outside of the forecast cone.  These hazards are likely to
+affect much of the Florida peninsula and portions of the southeast
+United States.
+ 
+5. Nicole will produce heavy rainfall today into Thursday across the
+Florida Peninsula.  Flash and urban flooding will be likely across
+portions of the Florida Peninsula along with possible renewed river
+rises on the St. Johns River.  Isolated flash, urban, and small
+stream flooding will also be possible on Friday in the Southeast
+through the southern and central Appalachians, including the Blue
+Ridge Mountains, and extending northward through west-central
+Pennsylvania into western New York by Friday night.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  09/0900Z 26.6N  75.7W   60 KT  70 MPH
+ 12H  09/1800Z 26.6N  77.7W   65 KT  75 MPH
+ 24H  10/0600Z 27.1N  80.4W   60 KT  70 MPH...INLAND
+ 36H  10/1800Z 28.5N  82.9W   45 KT  50 MPH...OVER WATER
+ 48H  11/0600Z 30.7N  84.1W   35 KT  40 MPH...INLAND
+ 60H  11/1800Z 34.1N  82.5W   30 KT  35 MPH...INLAND
+ 72H  12/0600Z 38.7N  78.2W   35 KT  40 MPH...POST-TROP/EXTRATROP
+ 96H  13/0600Z...DISSIPATED
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Wed, 09 Nov 2022 08:59:52 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/090859.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/090859.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Nicole Wind Speed Probabilities Number 10</title>
+<description>Issued at 1500 UTC WED NOV 09 2022                                              <![CDATA[<pre>
+
+180 
+FONT12 KNHC 091449
+PWSAT2
+                                                                    
+TROPICAL STORM NICOLE WIND SPEED PROBABILITIES NUMBER  10           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172022               
+1500 UTC WED NOV 09 2022                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM NICOLE WAS LOCATED NEAR       
+LATITUDE 26.5 NORTH...LONGITUDE 76.7 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  STANDARD TIME (EST)...SUBTRACT 5 HOURS FROM Z TIME      
+   CENTRAL  STANDARD TIME (CST)...SUBTRACT 6 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CHARLOTTESVIL  34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+DANVILLE VA    34  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+ 
+GREENSBORO NC  34  X   X( X)   X( X)   X( X)  10(10)   X(10)   X(10)
+ 
+RALEIGH NC     34  X   X( X)   X( X)   X( X)   7( 7)   X( 7)   X( 7)
+ 
+ROCKY MT NC    34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+FAYETTEVILLE   34  X   X( X)   X( X)   1( 1)   4( 5)   X( 5)   X( 5)
+ 
+CHARLOTTE NC   34  X   X( X)   X( X)   1( 1)  10(11)   X(11)   X(11)
+ 
+FLORENCE SC    34  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+ 
+COLUMBIA SC    34  X   X( X)   1( 1)   2( 3)   8(11)   X(11)   X(11)
+ 
+LITTLE RIVER   34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+MYRTLE BEACH   34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+GEORGETOWN SC  34  X   X( X)   1( 1)   1( 2)   2( 4)   X( 4)   X( 4)
+ 
+CHARLESTON SC  34  X   1( 1)   3( 4)   1( 5)   3( 8)   X( 8)   X( 8)
+ 
+BEAUFORT MCAS  34  X   5( 5)   4( 9)   2(11)   2(13)   X(13)   X(13)
+ 
+ATLANTA GA     34  X   X( X)   1( 1)   3( 4)   X( 4)   X( 4)   X( 4)
+ 
+AUGUSTA GA     34  X   X( X)   2( 2)   6( 8)   5(13)   X(13)   X(13)
+ 
+SAVANNAH GA    34  X   8( 8)   4(12)   3(15)   1(16)   X(16)   X(16)
+ 
+KINGS BAY GA   34 16  15(31)   7(38)   2(40)   X(40)   X(40)   X(40)
+ 
+WAYCROSS GA    34  1  16(17)   9(26)   5(31)   X(31)   X(31)   X(31)
+ 
+MAYPORT NS FL  34 24  13(37)   7(44)   1(45)   X(45)   X(45)   X(45)
+ 
+JACKSONVILLE   34 20  18(38)  10(48)   X(48)   X(48)   X(48)   X(48)
+ 
+GAINESVILLE FL 34 26  32(58)  19(77)   1(78)   X(78)   X(78)   X(78)
+GAINESVILLE FL 50  X   1( 1)   4( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+DAYTONA BEACH  34 88   8(96)   X(96)   X(96)   X(96)   X(96)   X(96)
+DAYTONA BEACH  50  X   3( 3)   2( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+THE VILLAGES   34 55  34(89)   3(92)   1(93)   X(93)   X(93)   X(93)
+THE VILLAGES   50  X   4( 4)  10(14)   X(14)   X(14)   X(14)   X(14)
+THE VILLAGES   64  X   X( X)   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+ORLANDO FL     34 89  10(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ORLANDO FL     50  X  16(16)   6(22)   X(22)   X(22)   X(22)   X(22)
+ORLANDO FL     64  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+COCOA BEACH FL 34 76  19(95)   X(95)   X(95)   X(95)   X(95)   X(95)
+COCOA BEACH FL 50  1  20(21)   1(22)   X(22)   X(22)   X(22)   X(22)
+COCOA BEACH FL 64  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+PATRICK AFB    34 76  19(95)   X(95)   X(95)   X(95)   X(95)   X(95)
+PATRICK AFB    50  1  20(21)   1(22)   X(22)   X(22)   X(22)   X(22)
+PATRICK AFB    64  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+FT PIERCE FL   34 82  15(97)   X(97)   X(97)   X(97)   X(97)   X(97)
+FT PIERCE FL   50  4  48(52)   X(52)   X(52)   X(52)   X(52)   X(52)
+FT PIERCE FL   64  X  11(11)   X(11)   X(11)   X(11)   X(11)   X(11)
+ 
+W PALM BEACH   34 74   6(80)   X(80)   X(80)   X(80)   X(80)   X(80)
+W PALM BEACH   50  6  25(31)   X(31)   X(31)   X(31)   X(31)   X(31)
+W PALM BEACH   64  X   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+FT LAUDERDALE  34 45   5(50)   X(50)   X(50)   X(50)   X(50)   X(50)
+FT LAUDERDALE  50  2   3( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+MIAMI FL       34 27   5(32)   X(32)   X(32)   X(32)   X(32)   X(32)
+ 
+HOMESTEAD ARB  34 10   5(15)   1(16)   X(16)   X(16)   X(16)   X(16)
+ 
+MARATHON FL    34  6   3( 9)   X( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+KEY WEST FL    34  5   2( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+NAPLES FL      34 17   5(22)   1(23)   X(23)   X(23)   X(23)   X(23)
+ 
+FT MYERS FL    34 21  12(33)   1(34)   X(34)   X(34)   X(34)   X(34)
+FT MYERS FL    50  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+VENICE FL      34 18  17(35)   1(36)   X(36)   X(36)   X(36)   X(36)
+VENICE FL      50  X   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+TAMPA FL       34 25  36(61)   6(67)   X(67)   X(67)   X(67)   X(67)
+TAMPA FL       50  X   8( 8)   8(16)   X(16)   X(16)   X(16)   X(16)
+TAMPA FL       64  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CEDAR KEY FL   34 13  32(45)  24(69)   X(69)   X(69)   X(69)   X(69)
+CEDAR KEY FL   50  X   1( 1)  11(12)   X(12)   X(12)   X(12)   X(12)
+CEDAR KEY FL   64  X   X( X)   2( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+TALLAHASSEE FL 34  X  12(12)  27(39)   6(45)   X(45)   X(45)   X(45)
+TALLAHASSEE FL 50  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+ST MARKS FL    34  X  15(15)  32(47)   3(50)   X(50)   X(50)   X(50)
+ST MARKS FL    50  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+APALACHICOLA   34  X   8( 8)  11(19)   X(19)   X(19)   X(19)   X(19)
+ 
+GFMX 290N 850W 34  X   8( 8)   6(14)   X(14)   X(14)   X(14)   X(14)
+ 
+PANAMA CITY FL 34  X   4( 4)   6(10)   X(10)   X(10)   X(10)   X(10)
+ 
+DESTIN EXEC AP 34  X   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+COLUMBUS GA    34  X   X( X)   3( 3)   3( 6)   X( 6)   X( 6)   X( 6)
+ 
+GRAND BAHAMA   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+GRAND BAHAMA   50 69   3(72)   X(72)   X(72)   X(72)   X(72)   X(72)
+GRAND BAHAMA   64 14   2(16)   X(16)   X(16)   X(16)   X(16)   X(16)
+ 
+NEW PROVIDENCE 34 26   1(27)   X(27)   X(27)   X(27)   X(27)   X(27)
+ 
+ANDROS         34  8   2(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+GREAT EXUMA    34  5   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+SAN SALVADOR   34  4   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+
+</pre>]]></description>
+<pubDate>Wed, 09 Nov 2022 14:49:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/091449.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/091449.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Nicole Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172022_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Nicole 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 09 Nov 2022 11:53:26 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172022_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Nicole 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 09 Nov 2022 09:22:50 GMT
+]]>
+</description>
+<pubDate>Wed, 09 Nov 2022 11:53:26 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Nicole Potential Storm Surge Flooding Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?inundation">
+<img src="https://www.nhc.noaa.gov/images/inundation_thumb.png"
+alt="Tropical Storm Nicole Link to Potential Storm Surge Flooding Map"
+width="60" height="48" /></a><br/>
+Potential Storm Surge Flooding Map last updated Wed, 09 Nov 2022 09:46:23 GMT
+]]>
+</description>
+<pubDate>Wed, 09 Nov 2022 09:46:23 GMT</pubDate>
+<validAdvisory>09</validAdvisory>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?inundation</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?inundation</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Nicole Storm Surge Watch/Warning Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?wsurge">
+<img src="https://www.nhc.noaa.gov/images/wsurge_thumb.png"
+alt="Tropical Storm Nicole Link to Storm Surge Watch/Warning Map"
+width="60" height="48" /></a><br/>
+Storm Surge Watch/Warning Map last updated Wed, 09 Nov 2022 09:00:27 GMT
+]]>
+</description>
+<pubDate>Wed, 09 Nov 2022 09:00:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?wsurge</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115326.shtml?wsurge</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Jacksonville, FL</title>
+<description>Issued at  415 AM EST Wed Nov 9 2022</description>
+<pubDate>Wed, 09 Nov 2022 09:15:44 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KJAX.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KJAX.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Miami, FL</title>
+<description>Issued at  423 AM EST Wed Nov 9 2022</description>
+<pubDate>Wed, 09 Nov 2022 09:23:15 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KMFL.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KMFL.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Charleston, SC</title>
+<description>Issued at  424 AM EST Wed Nov 9 2022</description>
+<pubDate>Wed, 09 Nov 2022 09:24:53 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KCHS.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KCHS.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Tallahassee, FL</title>
+<description>Issued at  433 AM EST Wed Nov 9 2022</description>
+<pubDate>Wed, 09 Nov 2022 09:33:53 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KTAE.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KTAE.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Melbourne, FL</title>
+<description>Issued at  448 AM EST Wed Nov 9 2022</description>
+<pubDate>Wed, 09 Nov 2022 09:48:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KMLB.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KMLB.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Tampa Bay Area, FL</title>
+<description>Issued at  448 AM EST Wed Nov 9 2022</description>
+<pubDate>Wed, 09 Nov 2022 09:48:46 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KTBW.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KTBW.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
