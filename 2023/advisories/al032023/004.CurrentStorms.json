@@ -1,0 +1,88 @@
+{
+	"activeStorms": [
+		{
+			"id": "al032023",
+			"binNumber": "AT3",
+			"name": "Bret",
+			"classification": "TS",
+			"intensity": "35",
+			"pressure": "1008",
+			"latitude": "11.7N",
+			"longitude": "44.7W",
+			"latitudeNumeric": 11.7,
+			"longitudeNumeric": -44.7,
+			"movementDir": 280,
+			"movementSpeed": 17,
+			"lastUpdate": "2023-06-20T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "004",
+				"issuance": "2023-06-20T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT3.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "004",
+				"issuance": "2023-06-20T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT3.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "004",
+				"issuance": "2023-06-20T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT3.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT3.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at3.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032023_5day_003.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032023_003adv_TRACK.kmz"
+			},
+			"windWatchesWarnings": null,
+			"trackCone": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032023_5day_003.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032023_003adv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032023_fcst_003.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032023_initialradii_003adv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032023_fcst_003.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032023_forecastradii_003adv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2023-06-20T00:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al032023_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al032023_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032023_003adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "003",
+				"issuance": "2023-06-20T03:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032023_003adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeGraphic": null
+		}
+	]
+}
