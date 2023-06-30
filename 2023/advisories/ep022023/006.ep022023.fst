@@ -1,0 +1,143 @@
+
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+
+BULLETIN
+Tropical Storm Beatriz Advisory Number   6
+NWS National Hurricane Center Miami FL       EP022023
+400 AM CDT Fri Jun 30 2023
+
+...BEATRIZ WILL BRING HEAVY RAINS AND STRONG WINDS TO THE SOUTHWEST
+COAST OF MEXICO...
+...NEW WARNINGS AND WATCHES ISSUED FOR PORTIONS OF THE COAST OF
+MEXICO...
+
+
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.3N 101.3W
+ABOUT 100 MI...165 KM WSW OF ACAPULCO MEXICO
+ABOUT 270 MI...435 KM SE OF MANZANILLO MEXICO
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Government of Mexico has issued a Hurricane Warning for the
+Pacific coast of Mexico from Playa Perula to Cabo Corrientes.
+
+The Government of Mexico has also issued a Hurricane Watch and a
+Tropical Storm Warning for the Pacific coast of Mexico north of
+Cabo Corrientes to Punta Mita, and a Tropical Storm Watch for
+the Pacific coast of Mexico north of Punta Mita to San Blas.
+
+The Government of Mexico has discontinued the Tropical Storm
+Warning for the Pacific coast of Mexico east of Acapulco.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* Zihuatanejo to Cabo Corrientes Mexico
+
+A Hurricane Watch is in effect for...
+* North of Cabo Corrientes to Punta Mita Mexico
+
+A Tropical Storm Warning is in effect for...
+* South of Zihuatanejo to Acapulco Mexico
+* North of Cabo Corrientes to Punta Mita Mexico
+
+A Tropical Storm Watch is in effect for...
+* North of Punta Mita to San Blas Mexico
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+Interests elsewhere along the west-central coast of Mexico and in
+the southern portion of the Baja California peninsula should
+monitor the progress of this system.  Additional warnings and
+watches may be required later today.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Beatriz was
+located near latitude 16.3 North, longitude 101.3 West. Beatriz is
+moving toward the northwest near 13 mph (20 km/h).  A continued 
+northwestward motion is expected for the next few days, with a 
+gradual decrease in forward speed occurring over the weekend.  On 
+the forecast track, the center of Beatriz is expected to approach 
+the coast of western Mexico today, then move near or over portions 
+of the coast of western Mexico tonight and on Saturday.
+
+Maximum sustained winds are now near 60 mph (95 km/h) with higher 
+gusts.  Rapid strengthening is forecast, and Beatriz is likely to 
+become a hurricane later today.  Beatriz is forecast to be a 
+hurricane while the center moves near or over the coast of Mexico.
+
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
+mainly to the northeast of the center.
+
+The estimated minimum central pressure is 997 mb (29.44 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beatriz can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDEP2 and WMO header WTPZ42 KNHC
+and on the web at hurricanes.gov/text/miatcdep2.shtml
+
+WIND:  Hurricane conditions are expected somewhere within the
+hurricane warning area later today and tonight.  Hurricane
+conditions are possible within the hurricane watch area on Saturday.
+Tropical storm conditions are expected in the tropical storm warning
+area starting later today, and are possible within the tropical
+storm watch area on Saturday.
+
+RAINFALL: Through Sunday, storm total rainfall of 3 to 5 inches,
+with maximum amounts of 8 inches, is expected across southern Mexico
+from Guerrero west-northwest to Nayarit from Tropical Storm Beatriz.
+This rainfall could lead to localized flash flooding and mudslides.
+
+STORM SURGE:  A dangerous storm surge is expected to produce
+significant coastal flooding in areas of onshore winds.  Near the
+coast, the surge will be accompanied by large and destructive waves.
+
+SURF: Swells generated by Beatriz are forecast to build and spread
+northward along the southwestern coast of Mexico during the next
+couple of days.  These swells are likely to cause life-threatening
+surf and rip current conditions.  Please consult products from your
+local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 AM CDT.
+Next complete advisory at 1000 AM CDT.
+
+$$
+Forecaster Beven
+
+NNNN
