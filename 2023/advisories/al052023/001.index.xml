@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 14 Jul 2023 08:48:28 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 140513<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 AM EDT Fri Jul 14 2023<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Central Atlantic (AL94):<br/>
+Satellite data indicate that the area of low pressure located about <br/>
+1000 miles west-southwest of the Azores is producing a large area of <br/>
+gale-force winds on its east side.  In addition, the thunderstorm <br/>
+activity has remained organized near the center during the past <br/>
+several hours.  If current trends continue, advisories could be <br/>
+initiated on a subtropical storm later this morning while it <br/>
+meanders over the central Atlantic.  By the weekend, the low should <br/>
+turn northward, bringing the system over cooler waters and into a <br/>
+drier airmass potentially limiting further development.  Additional <br/>
+information on this system, including storm warnings, can be found <br/>
+in High Seas Forecasts, issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...high...90 percent.<br/>
+* Formation chance through 7 days...high...90 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br/>
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi/Roberts<br/>
+]]>
+</description>
+<pubDate>Fri, 14 Jul 2023 05:13:17 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202307140513</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Subtropical Storm Don (AT5/AL052023)</title>
+ <guid isPermaLink="false">summary-al052023-202307140831</guid>
+ <pubDate>Fri, 14 Jul 2023 08:31:49 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/140831.shtml</link>
+ <description>
+  ...SUBTROPICAL STORM DON FORMS OVER THE CENTRAL ATLANTIC...
+ As of 5:00 AM AST Fri Jul 14
+ the center of Don was located near 32.9, -46.8
+ with movement N at 6 mph.
+ The minimum central pressure was 1002 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>32.9, -46.8</nhc:center>
+  <nhc:type>Subtropical Storm</nhc:type>
+  <nhc:name>Don</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL052023</nhc:atcf>
+  <nhc:datetime>5:00 AM AST Fri Jul 14</nhc:datetime>
+  <nhc:movement>N at 6 mph</nhc:movement>
+  <nhc:pressure>1002 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...SUBTROPICAL STORM DON FORMS OVER THE CENTRAL ATLANTIC...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Subtropical Storm Don Public Advisory Number 1</title>
+<description>Issued at 500 AM AST Fri Jul 14 2023  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 140831
+TCPAT5
+ 
+BULLETIN
+Subtropical Storm Don Advisory Number   1
+NWS National Hurricane Center Miami FL       AL052023
+500 AM AST Fri Jul 14 2023
+ 
+...SUBTROPICAL STORM DON FORMS OVER THE CENTRAL ATLANTIC...
+ 
+ 
+SUMMARY OF 500 AM AST...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...32.9N 46.8W
+ABOUT 1165 MI...1875 KM WSW OF THE AZORES
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM AST (0900 UTC), the center of Subtropical Storm Don was
+located near latitude 32.9 North, longitude 46.8 West. The storm is
+moving toward the north near 6 mph (9 km/h), and this general 
+motion is expected during the next couple of days.  A turn to the 
+east is forecast on Sunday.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual weakening is expected during the next few days.
+ 
+Winds of 40 mph extend outward up to 205 miles (335 km) east of the
+center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM AST.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Fri, 14 Jul 2023 08:31:49 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/140831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/140831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Subtropical Storm Don Forecast Advisory Number 1</title>
+<description>Issued at 0900 UTC FRI JUL 14 2023  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 140831
+TCMAT5
+ 
+SUBTROPICAL STORM DON FORECAST/ADVISORY NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052023
+0900 UTC FRI JUL 14 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+SUBTROPICAL STORM CENTER LOCATED NEAR 32.9N  46.8W AT 14/0900Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 360 DEGREES AT   5 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT.......120NE 180SE   0SW   0NW.
+12 FT SEAS..210NE 210SE   0SW 150NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 32.9N  46.8W AT 14/0900Z
+AT 14/0600Z CENTER WAS LOCATED NEAR 32.7N  46.7W
+ 
+FORECAST VALID 14/1800Z 33.5N  47.0W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...120NE 150SE   0SW   0NW.
+ 
+FORECAST VALID 15/0600Z 34.9N  47.3W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...120NE 120SE   0SW   0NW.
+ 
+FORECAST VALID 15/1800Z 36.4N  47.8W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...100NE 100SE   0SW   0NW.
+ 
+FORECAST VALID 16/0600Z 37.6N  47.8W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 80NE  80SE   0SW   0NW.
+ 
+FORECAST VALID 16/1800Z 38.4N  47.1W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 60NE  60SE   0SW   0NW.
+ 
+FORECAST VALID 17/0600Z 38.5N  44.9W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  60SE  60SW   0NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 18/0600Z 35.9N  40.7W
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+OUTLOOK VALID 19/0600Z 33.4N  38.5W
+MAX WIND  40 KT...GUSTS  50 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 32.9N  46.8W
+ 
+NEXT ADVISORY AT 14/1500Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 14 Jul 2023 08:31:21 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/140831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/140831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Subtropical Storm Don Forecast Discussion Number 1</title>
+<description>Issued at 500 AM AST Fri Jul 14 2023  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 140832
+TCDAT5
+ 
+Subtropical Storm Don Discussion Number   1
+NWS National Hurricane Center Miami FL       AL052023
+500 AM AST Fri Jul 14 2023
+
+The area of low pressure that NHC has been monitoring roughly midway 
+between Bermuda and the Azores has become Subtropical Storm Don.  
+The storm is assessed as subtropical because it is embedded within 
+an upper-level trough and has a relatively large radius of maximum 
+wind.  Several hours ago, a well-defined center of circulation 
+developed and deep convection has remained sufficiently organized, 
+especially in bands to the east of the center.  A pair of partial 
+ASCAT passes from around 00Z showed peak winds around 45 kt, and 
+that is the initial intensity set for this advisory.
+
+Don has been moving slowly northward at about 5 kt during the past 6 
+to 12 hours, and a continued slow northward or north-northwestward 
+motion is expected during the next couple of days as a building 
+ridge over the central Atlantic prevents it from accelerating 
+poleward.  That ridge is expected to weaken on Sunday while another 
+ridge builds to the southeast of Don and a trough amplifies over the 
+northeastern Atlantic.  This pattern change should cause Don to turn 
+eastward on Sunday and then southeastward early next week.  The NHC 
+track forecast lies near the middle of the guidance envelope, in 
+best agreement with the various consensus aids.
+
+The storm is likely near its peak intensity already.  Dry air is 
+wrapping in on the south and west sides of the circulation and that 
+stable air is expected to continue to entrain into the storm during 
+the next several days.  In addition, sea surface temperatures are 
+expected to decrease along the forecast track during the next 2 or 
+3 days.  Although the environment is not conducive for 
+strengthening, it is also not hostile enough to cause significant 
+weakening.  Therefore, the NHC official forecast shows a gradual 
+decay in Don’s strength.  The environment looks more conducive by 
+the end of the period, and some strengthening is possible by then 
+if the storm survives that long.  The NHC intensity forecast 
+follows the theme of the models, which are tightly clustered.
+
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  14/0900Z 32.9N  46.8W   45 KT  50 MPH
+ 12H  14/1800Z 33.5N  47.0W   45 KT  50 MPH
+ 24H  15/0600Z 34.9N  47.3W   45 KT  50 MPH
+ 36H  15/1800Z 36.4N  47.8W   45 KT  50 MPH
+ 48H  16/0600Z 37.6N  47.8W   40 KT  45 MPH
+ 60H  16/1800Z 38.4N  47.1W   40 KT  45 MPH
+ 72H  17/0600Z 38.5N  44.9W   35 KT  40 MPH
+ 96H  18/0600Z 35.9N  40.7W   35 KT  40 MPH
+120H  19/0600Z 33.4N  38.5W   40 KT  45 MPH
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Fri, 14 Jul 2023 08:32:19 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/140832.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/140832.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Subtropical Storm Don Wind Speed Probabilities Number 1</title>
+<description>Issued at 0900 UTC FRI JUL 14 2023                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 140831
+PWSAT5
+                                                                    
+SUBTROPICAL STORM DON WIND SPEED PROBABILITIES NUMBER   1           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL052023               
+0900 UTC FRI JUL 14 2023                                            
+                                                                    
+AT 0900Z THE CENTER OF SUBTROPICAL STORM DON WAS LOCATED NEAR       
+LATITUDE 32.9 NORTH...LONGITUDE 46.8 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z FRI 18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE 06Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Fri, 14 Jul 2023 08:31:49 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/140831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/140831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Subtropical Storm Don Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/083340.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT05/AL052023_5day_cone_with_line_and_wind_sm2.png"
+alt="Subtropical Storm Don 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 14 Jul 2023 08:33:40 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/083340.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT05/AL052023_wind_probs_34_F120_sm2.png"
+alt="Subtropical Storm Don 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 14 Jul 2023 08:33:40 GMT
+]]>
+</description>
+<pubDate>Fri, 14 Jul 2023 08:33:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/083340.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/083340.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
