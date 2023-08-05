@@ -1,0 +1,88 @@
+{
+	"activeStorms": [
+		{
+			"id": "ep052023",
+			"binNumber": "EP5",
+			"name": "Dora",
+			"classification": "HU",
+			"intensity": "95",
+			"pressure": "968",
+			"latitude": "13.5N",
+			"longitude": "131.6W",
+			"latitudeNumeric": 13.5,
+			"longitudeNumeric": -131.6,
+			"movementDir": 265,
+			"movementSpeed": 18,
+			"lastUpdate": "2023-08-05T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "019",
+				"issuance": "2023-08-05T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "019",
+				"issuance": "2023-08-05T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP5.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "019",
+				"issuance": "2023-08-05T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSEP5.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "019",
+				"issuance": "2023-08-05T09:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDEP5.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/graphics_ep5.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep052023_5day_018.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP052023_018adv_TRACK.kmz"
+			},
+			"windWatchesWarnings": null,
+			"trackCone": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep052023_5day_018.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP052023_018adv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep052023_fcst_018.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP052023_initialradii_018adv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep052023_fcst_018.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP052023_forecastradii_018adv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2023-08-05T00:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep052023_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep052023_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP052023_018adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "018",
+				"issuance": "2023-08-05T03:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP052023_018adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeGraphic": null
+		}
+	]
+}
