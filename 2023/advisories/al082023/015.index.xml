@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Thu, 24 Aug 2023 08:32:22 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 240552<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 AM EDT Thu Aug 24 2023<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Franklin, located just east of the Turks and Caicos. <br/>
+<br/>
+Central Subtropical Atlantic (Remnants of Emily):<br/>
+An area of low pressure located about 1000 miles east-southeast of <br/>
+Bermuda (the remnants of former Tropical Storm Emily) continues to <br/>
+produce a large area of disorganized showers and thunderstorms. <br/>
+Upper-level winds are forecast to become more conducive for <br/>
+development later today, and this system is likely to regenerate <br/>
+into a tropical storm by Friday while the system moves northward <br/>
+over the subtropical central Atlantic. For additional information on <br/>
+this system, including gale warnings, see High Seas Forecasts issued <br/>
+by the National Weather Service.<br/>
+* Formation chance through 48 hours...high...70 percent.<br/>
+* Formation chance through 7 days...high...70 percent.<br/>
+<br/>
+Eastern Tropical Atlantic (AL92):<br/>
+Disorganized showers and thunderstorms continue in association with <br/>
+an area of low pressure located several hundred miles west of the <br/>
+Cabo Verde Islands.  Despite marginal environmental conditions, <br/>
+slow development is possible and the low could become a tropical <br/>
+depression by the weekend while the system moves west-northwestward <br/>
+to northwestward into the central tropical Atlantic.<br/>
+* Formation chance through 48 hours...low...20 percent.<br/>
+* Formation chance through 7 days...medium...40 percent.<br/>
+<br/>
+Northwestern Caribbean Sea:<br/>
+An area of low pressure could form in a couple of days over the <br/>
+northwestern Caribbean Sea.  Some gradual development of this system <br/>
+is possible over the weekend and early next week, and a tropical <br/>
+depression could form while it moves slowly northward across the <br/>
+eastern Gulf of Mexico.<br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 7 days...medium...40 percent.<br/>
+<br/>
+&&<br/>
+<br/>
+High Seas Forecasts issued by the National Weather Service can be <br/>
+found under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and <br/>
+online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
+]]>
+</description>
+<pubDate>Thu, 24 Aug 2023 05:52:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202308240552</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Franklin (AT3/AL082023)</title>
+ <guid isPermaLink="false">summary-al082023-202308240831</guid>
+ <pubDate>Thu, 24 Aug 2023 08:31:51 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/240831.shtml</link>
+ <description>
+  ...FRANKLIN PULLING AWAY FROM THE TURKS AND CAICOS... ...FORECAST TO STRENGTHEN...
+ As of 5:00 AM EDT Thu Aug 24
+ the center of Franklin was located near 21.9, -70.4
+ with movement N at 13 mph.
+ The minimum central pressure was 1001 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>21.9, -70.4</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Franklin</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL082023</nhc:atcf>
+  <nhc:datetime>5:00 AM EDT Thu Aug 24</nhc:datetime>
+  <nhc:movement>N at 13 mph</nhc:movement>
+  <nhc:pressure>1001 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...FRANKLIN PULLING AWAY FROM THE TURKS AND CAICOS... ...FORECAST TO STRENGTHEN...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Franklin Public Advisory Number 15</title>
+<description>Issued at 500 AM EDT Thu Aug 24 2023  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 240831
+TCPAT3
+ 
+BULLETIN
+Tropical Storm Franklin Advisory Number  15
+NWS National Hurricane Center Miami FL       AL082023
+500 AM EDT Thu Aug 24 2023
+ 
+...FRANKLIN PULLING AWAY FROM THE TURKS AND CAICOS...
+...FORECAST TO STRENGTHEN...
+ 
+ 
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.9N 70.4W
+ABOUT 55 MI...85 KM ENE OF GRAND TURK ISLAND
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...N OR 10 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of the Bahamas has discontinued the Tropical Storm
+Warning for the Turks and Caicos.
+ 
+The government of the Dominican Republic has discontinued all
+Tropical Storm Warnings for the Dominican Republic.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Tropical Storm Franklin was
+located near latitude 21.9 North, longitude 70.4 West. Franklin is
+moving toward the north near 13 mph (20 km/h). A turn to the
+northeast and then east-northeast with a decrease in forward speed
+is forecast during the next couple of days.  On the forecast track,
+the center of Franklin will continue to move farther away from the
+Dominican Republic and over the southwestern Atlantic into the
+weekend.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual strengthening is forecast, and Franklin is expected to 
+become a hurricane in a couple of days.
+ 
+Tropical-storm-force winds extend outward up to 105 miles (165 km)
+from the center.
+ 
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+RAINFALL:  Franklin is forecast to produce the following rainfall
+totals through Thursday:
+ 
+Hispaniola: Additional 1 to 3 inches.
+ 
+Turks and Caicos: 1 to 3 inches, mainly across the eastern islands.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Thu, 24 Aug 2023 08:31:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/240831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/240831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Franklin Forecast Advisory Number 15</title>
+<description>Issued at 0900 UTC THU AUG 24 2023  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 240831
+TCMAT3
+ 
+TROPICAL STORM FRANKLIN FORECAST/ADVISORY NUMBER  15
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082023
+0900 UTC THU AUG 24 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 21.9N  70.4W AT 24/0900Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR  10 DEGREES AT  11 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1001 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT....... 90NE  60SE   0SW   0NW.
+12 FT SEAS.. 60NE  60SE   0SW  30NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 21.9N  70.4W AT 24/0900Z
+AT 24/0600Z CENTER WAS LOCATED NEAR 21.6N  70.4W
+ 
+FORECAST VALID 24/1800Z 22.6N  69.5W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 20NE  20SE   0SW   0NW.
+34 KT... 70NE  70SE   0SW   0NW.
+ 
+FORECAST VALID 25/0600Z 23.2N  68.1W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE  20SE   0SW   0NW.
+34 KT... 60NE  70SE  20SW  30NW.
+ 
+FORECAST VALID 25/1800Z 23.5N  67.0W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE  30SE   0SW   0NW.
+34 KT... 70NE  80SE  30SW  40NW.
+ 
+FORECAST VALID 26/0600Z 24.0N  66.3W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 20NE  30SE  10SW  20NW.
+34 KT... 80NE  80SE  40SW  50NW.
+ 
+FORECAST VALID 26/1800Z 24.9N  66.4W
+MAX WIND  65 KT...GUSTS  80 KT.
+50 KT... 30NE  30SE  20SW  30NW.
+34 KT... 90NE  90SE  40SW  60NW.
+ 
+FORECAST VALID 27/0600Z 26.0N  67.0W
+MAX WIND  75 KT...GUSTS  90 KT.
+50 KT... 40NE  40SE  30SW  30NW.
+34 KT...110NE  90SE  50SW  80NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 28/0600Z 29.4N  68.0W
+MAX WIND  95 KT...GUSTS 115 KT.
+ 
+OUTLOOK VALID 29/0600Z 33.5N  68.0W
+MAX WIND  95 KT...GUSTS 115 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 21.9N  70.4W
+ 
+NEXT ADVISORY AT 24/1500Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+</pre>]]></description>
+<pubDate>Thu, 24 Aug 2023 08:31:21 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/240831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/240831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Franklin Forecast Discussion Number 15</title>
+<description>Issued at 500 AM EDT Thu Aug 24 2023  <![CDATA[<pre>
+
+134 
+WTNT43 KNHC 240832
+TCDAT3
+ 
+Tropical Storm Franklin Discussion Number  15
+NWS National Hurricane Center Miami FL       AL082023
+500 AM EDT Thu Aug 24 2023
+ 
+Franklin is pulling away from the Dominican Republic and the Turks
+and Caicos, and appears to be gradually gaining strength.  Satellite
+images show deep convection increasing near and to the east of the
+center, and the Air Force Hurricane Hunters reported that a partial
+eyewall was developing on their last pass through the storm.  The
+initial intensity of 45 kt is based on the earlier reconnaissance
+data and is also near the average of the various satellite intensity
+estimates.
+ 
+The tropical storm is moving northward at 11 kt and is being steered
+by the western periphery of a mid-level ridge that is centered over
+the central subtropical Atlantic.  The ridge is expected to weaken
+soon, and that should cause Franklin to turn northeastward and slow
+down during the next couple of days.  However, beyond that time, the
+models show the ridge building back to the west, and the flow
+between that feature and a mid- to upper-level trough over the
+eastern U.S. should cause Franklin to bend back northward at a
+slightly faster pace.  The models have shifted a little to the left
+this cycle, and the NHC track forecast has been nudged in that
+direction and takes the system to the west of Bermuda early next
+week.
+ 
+Franklin appears to be on a gradual strengthening trend, and that is
+expected to continue through the weekend as the storm remains over
+warm waters, in a moist environment, and in generally moderate wind
+shear conditions.  All of the normally skillful intensity models
+bring Franklin to hurricane strength in a few days, and the NHC
+intensity forecast follows that theme.  This forecast is similar to
+the previous one and near the high end of the model guidance.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  24/0900Z 21.9N  70.4W   45 KT  50 MPH
+ 12H  24/1800Z 22.6N  69.5W   50 KT  60 MPH
+ 24H  25/0600Z 23.2N  68.1W   55 KT  65 MPH
+ 36H  25/1800Z 23.5N  67.0W   55 KT  65 MPH
+ 48H  26/0600Z 24.0N  66.3W   60 KT  70 MPH
+ 60H  26/1800Z 24.9N  66.4W   65 KT  75 MPH
+ 72H  27/0600Z 26.0N  67.0W   75 KT  85 MPH
+ 96H  28/0600Z 29.4N  68.0W   95 KT 110 MPH
+120H  29/0600Z 33.5N  68.0W   95 KT 110 MPH
+ 
+$$
+Forecaster Cangialosi
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 24 Aug 2023 08:32:22 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/240832.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/240832.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Franklin Wind Speed Probabilities Number 15</title>
+<description>Issued at 0900 UTC THU AUG 24 2023                                              <![CDATA[<pre>
+
+000
+FONT13 KNHC 240831
+PWSAT3
+                                                                    
+TROPICAL STORM FRANKLIN WIND SPEED PROBABILITIES NUMBER  15         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082023               
+0900 UTC THU AUG 24 2023                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM FRANKLIN WAS LOCATED NEAR     
+LATITUDE 21.9 NORTH...LONGITUDE 70.4 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z THU 18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z THU 06Z FRI 18Z FRI 06Z SAT 06Z SUN 06Z MON 06Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+NANTUCKET MA   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+MONTAUK POINT  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+CAPE HENLOPEN  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+OCEAN CITY MD  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+WALLOPS CDA    34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+OCEANA NAS VA  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+CAPE HATTERAS  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+NEW RIVER NC   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+MOREHEAD CITY  34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+BERMUDA        34  X   X( X)   X( X)   X( X)   1( 1)  16(17)  19(36)
+BERMUDA        50  X   X( X)   X( X)   X( X)   X( X)   3( 3)   9(12)
+BERMUDA        64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+MAYAGUANA      34  1   1( 2)   X( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+GRAND TURK     34  1   2( 3)   2( 5)   X( 5)   2( 7)   1( 8)   X( 8)
+ 
+PUERTO PLATA   34  1   1( 2)   1( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+SANTO DOMINGO  34  1   1( 2)   X( 2)   X( 2)   X( 2)   1( 3)   X( 3)
+ 
+AGUADILLA PR   34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Thu, 24 Aug 2023 08:31:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/240831.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/240831.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Franklin Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/053043.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT08/AL082023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Franklin 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 24 Aug 2023 05:30:43 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/053043.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT08/AL082023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Franklin 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 24 Aug 2023 03:23:19 GMT
+]]>
+</description>
+<pubDate>Thu, 24 Aug 2023 05:30:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/053043.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/053043.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
