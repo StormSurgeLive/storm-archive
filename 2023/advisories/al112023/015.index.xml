@@ -1,0 +1,1675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Sat, 02 Sep 2023 02:43:41 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+373 <br/>
+ABNT20 KNHC 012330<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Fri Sep 1 2023<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is currently issuing advisories on <br/>
+Post-Tropical Cyclone Idalia, located less than a hundred miles <br/>
+west-southwest of Bermuda, on Tropical Storm Jose, located about <br/>
+1000 miles northeast of Bermuda, on recently upgraded Tropical Storm <br/>
+Gert, located several hundred miles east-southeast of Bermuda, on <br/>
+Tropical Depression Twelve, located several hundred miles northwest <br/>
+of the Cabo Verde Islands, and has issued the last advisory on <br/>
+Post-Tropical Cyclone Franklin, located several hundred miles <br/>
+northeast of Bermuda.<br/>
+<br/>
+Eastern and Central Tropical Atlantic:<br/>
+A tropical wave is expected to move off the west coast of Africa <br/>
+within the next day or so. Environmental conditions appear conducive <br/>
+for some gradual development of this system during the early and <br/>
+middle parts of next week, and a tropical depression could form <br/>
+while it moves westward to west-northwestward at 15 to 20 mph over <br/>
+the eastern and central portions of the tropical Atlantic.<br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 7 days...medium...60 percent.<br/>
+<br/>
+&&<br/>
+<br/>
+Public Advisories on Gert are issued under WMO header WTNT32 KNHC <br/>
+and under AWIPS header MIATCPAT2. <br/>
+Forecast/Advisories on Gert are issued under WMO header WTNT22 KNHC <br/>
+and under AWIPS header MIATCMAT2.<br/>
+<br/>
+Public Advisories on Tropical Depression Twelve are issued under <br/>
+WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br/>
+Forecast/Advisories on Tropical Depression Twelve are issued under <br/>
+WMO header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
+<br/>
+]]>
+</description>
+<pubDate>Fri, 01 Sep 2023 23:30:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202309012330</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Remnants of Jose (AT1/AL112023)</title>
+ <guid isPermaLink="false">summary-al112023-202309020242</guid>
+ <pubDate>Sat, 02 Sep 2023 02:42:09 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/020242.shtml</link>
+ <description>
+  ...JOSE ABSORBED INTO POST-TROPICAL CYCLONE FRANKLIN... ...THIS IS THE LAST NHC ADVISORY...
+ As of 11:00 PM AST Fri Sep 1
+ the center of Jose was located near 42.1, -47.4
+ with movement NE at 23 mph.
+ The minimum central pressure was 999 mb
+ with maximum sustained winds of about 45 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>42.1, -47.4</nhc:center>
+  <nhc:type>REMNANTS OF</nhc:type>
+  <nhc:name>Jose</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL112023</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Fri Sep 1</nhc:datetime>
+  <nhc:movement>NE at 23 mph</nhc:movement>
+  <nhc:pressure>999 mb</nhc:pressure>
+  <nhc:wind>45 mph</nhc:wind>
+  <nhc:headline> ...JOSE ABSORBED INTO POST-TROPICAL CYCLONE FRANKLIN... ...THIS IS THE LAST NHC ADVISORY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Remnants of Jose Public Advisory Number 15</title>
+<description>Issued at 1100 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT31 KNHC 020242
+TCPAT1
+ 
+BULLETIN
+Remnants Of Jose Advisory Number  15
+NWS National Hurricane Center Miami FL       AL112023
+1100 PM AST Fri Sep 01 2023
+ 
+...JOSE ABSORBED INTO POST-TROPICAL CYCLONE FRANKLIN...
+...THIS IS THE LAST NHC ADVISORY...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...42.1N 47.4W
+ABOUT 1170 MI...1880 KM NE OF BERMUDA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...NE OR 35 DEGREES AT 23 MPH...37 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the remnants of Jose were located near
+latitude 42.1 North, longitude 47.4 West. The remnants are moving
+toward the northeast near 23 mph (37 km/h).
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+ 
+The estimated minimum central pressure is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+
+
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane
+Center on this system.
+ 
+$$
+Forecaster Bucci
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:09 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Remnants of Jose Forecast Advisory Number 15</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023  <![CDATA[<pre>
+
+000
+WTNT21 KNHC 020242
+TCMAT1
+ 
+REMNANTS OF JOSE FORECAST/ADVISORY NUMBER  15
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL112023
+0300 UTC SAT SEP 02 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+REMNANTS OF CENTER LOCATED NEAR 42.1N  47.4W AT 02/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHEAST OR  35 DEGREES AT  20 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  999 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT....... 60NE  60SE   0SW   0NW.
+12 FT SEAS.. 60NE 180SE 420SW 270NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 42.1N  47.4W AT 02/0300Z
+AT 02/0000Z CENTER WAS LOCATED NEAR 41.3N  48.2W
+ 
+FORECAST VALID 02/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 42.1N  47.4W
+ 
+THIS IS THE LAST FORECAST/ADVISORY ISSUED BY THE
+NATIONAL HURRICANE CENTER ON THIS SYSTEM
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Remnants of Jose Forecast Discussion Number 15</title>
+<description>Issued at 1100 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT41 KNHC 020242
+TCDAT1
+ 
+Remnants Of Jose Discussion Number  15
+NWS National Hurricane Center Miami FL       AL112023
+1100 PM AST Fri Sep 01 2023
+ 
+Jose has been absorbed into the powerful extratropical cyclone,
+Franklin.  Geostationary imagery suggests the remnants of Jose are
+embedded in a convective band in the northeast quadrant of Franklin.
+The initial intensity has been set to 40 kt, though it is hard to
+determine a maximum wind speed associated with the remnants, when
+the intensity of Franklin is likely much stronger.
+ 
+This is the last advisory issued by the National Hurricane Center on
+Jose.  Additional information on this system can be found in High
+Seas Forecasts issued by the National Weather Service, under AWIPS
+header NFDHSFAT1, WMO header FZNT01 KWBC, and online at
+ocean.weather.gov/shtml/NFDHSFAT1.php
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  02/0300Z 42.1N  47.4W   40 KT  45 MPH
+ 12H  02/1200Z...DISSIPATED
+ 
+$$
+Forecaster Bucci
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Remnants of Jose Wind Speed Probabilities Number 15</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023                                              <![CDATA[<pre>
+
+000
+FONT11 KNHC 020242
+PWSAT1
+                                                                    
+REMNANTS OF JOSE WIND SPEED PROBABILITIES NUMBER  15                
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL112023               
+0300 UTC SAT SEP 02 2023                                            
+                                                                    
+AT 0300Z THE REMNANTS OF JOSE WERE LOCATED NEAR LATITUDE 42.1 NORTH 
+...LONGITUDE 47.4 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 40 KTS...45
+MPH...75 KM/H.                                                      
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ 
+ 
+...THERE IS NO OFFICIAL FORECAST FOR THIS DATE/TIME...
+AND THEREFORE NO WIND SPEED PROBABILITIES CAN BE CALCULATED...
+ 
+ 
+$$                                                                  
+FORECASTER BUCCI                                                    
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:09 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Remnants of Jose Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203647.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT11/AL112023_5day_cone_with_line_and_wind_sm2.png"
+alt="Remnants of Jose 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 01 Sep 2023 20:36:47 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203647.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT11/AL112023_wind_probs_34_F120_sm2.png"
+alt="Remnants of Jose 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 01 Sep 2023 21:41:34 GMT
+]]>
+</description>
+<pubDate>Fri, 01 Sep 2023 20:36:47 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203647.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/203647.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Gert (AT2/AL062023)</title>
+ <guid isPermaLink="false">summary-al062023-202309020242</guid>
+ <pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/020242.shtml</link>
+ <description>
+  ...GERT A LITTLE STRONGER WHILE REMAINING STATIONARY...
+ As of 11:00 PM AST Fri Sep 1
+ the center of Gert was located near 28.2, -54.9
+ with movement Stationary.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 45 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>28.2, -54.9</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Gert</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL062023</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Fri Sep 1</nhc:datetime>
+  <nhc:movement>Stationary</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>45 mph</nhc:wind>
+  <nhc:headline> ...GERT A LITTLE STRONGER WHILE REMAINING STATIONARY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Gert Public Advisory Number 17</title>
+<description>Issued at 1100 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT32 KNHC 020242
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Gert Advisory Number  17
+NWS National Hurricane Center Miami FL       AL062023
+1100 PM AST Fri Sep 01 2023
+ 
+...GERT A LITTLE STRONGER WHILE REMAINING STATIONARY...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...28.2N 54.9W
+ABOUT 655 MI...1055 KM ESE OF BERMUDA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...STATIONARY
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Gert was
+located near latitude 28.2 North, longitude 54.9 West. Gert is
+stationary. A northward motion is expected to begin on Saturday
+and continue into Sunday.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Little change in strength is forecast before Gert becomes absorbed 
+by Idalia by early Monday.
+
+Tropical-storm-force winds extend outward up to 35 miles (55 km)
+from the center.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gert Forecast Advisory Number 17</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 020242
+TCMAT2
+ 
+TROPICAL STORM GERT FORECAST/ADVISORY NUMBER  17
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062023
+0300 UTC SAT SEP 02 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 28.2N  54.9W AT 02/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 360 DEGREES AT   0 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT.......  0NE  30SE  30SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 28.2N  54.9W AT 02/0300Z
+AT 02/0000Z CENTER WAS LOCATED NEAR 28.1N  55.0W
+ 
+FORECAST VALID 02/1200Z 28.3N  54.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...  0NE  40SE  30SW   0NW.
+ 
+FORECAST VALID 03/0000Z 29.1N  53.8W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...  0NE  40SE  30SW   0NW.
+ 
+FORECAST VALID 03/1200Z 30.3N  53.1W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 30NE  30SE   0SW   0NW.
+ 
+FORECAST VALID 04/0000Z 32.0N  52.4W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE  40SE   0SW   0NW.
+ 
+FORECAST VALID 04/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 28.2N  54.9W
+ 
+NEXT ADVISORY AT 02/0900Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gert Forecast Discussion Number 17</title>
+<description>Issued at 1100 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT42 KNHC 020243
+TCDAT2
+ 
+Tropical Storm Gert Discussion Number  17
+NWS National Hurricane Center Miami FL       AL062023
+1100 PM AST Fri Sep 01 2023
+ 
+Gert remains relatively stationary to the southeast of Idalia.  The
+tropical storm is quite compact and deep convection has been
+persisting, mostly to the south of the center.  The Dvorak
+classifications from TAFB and SAB are steady at 2.5/35 kt. but the
+other satellite estimates from CIMSS at the University of Wisconsin
+are a little higher.  Blending all of the satellite estimates
+supports increasing the intensity to 40 kt.
+ 
+Gert has barely moved during the past 12 hours as it is caught in
+weak steering currents between Idalia and a mid- to upper-level low
+over the central Atlantic.  As Idalia moves closer to Gert, the
+storm is expected to turn northward on Saturday, and that motion
+should continue until it dissipates by early Monday.
+ 
+The storm has been resilient in an environment of strong northerly
+shear.  Although the shear is expected to remain high, it seems
+likely that Gert will maintain its strength or weaken only slightly
+until it becomes absorbed by Idalia in a couple of days.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  02/0300Z 28.2N  54.9W   40 KT  45 MPH
+ 12H  02/1200Z 28.3N  54.4W   40 KT  45 MPH
+ 24H  03/0000Z 29.1N  53.8W   40 KT  45 MPH
+ 36H  03/1200Z 30.3N  53.1W   35 KT  40 MPH
+ 48H  04/0000Z 32.0N  52.4W   35 KT  40 MPH
+ 60H  04/1200Z...DISSIPATED
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:43:10 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/020243.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/020243.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gert Wind Speed Probabilities Number 17</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023                                              <![CDATA[<pre>
+
+000
+FONT12 KNHC 020243
+PWSAT2
+                                                                    
+TROPICAL STORM GERT WIND SPEED PROBABILITIES NUMBER  17             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL062023               
+0300 UTC SAT SEP 02 2023                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM GERT WAS LOCATED NEAR LATITUDE
+28.2 NORTH...LONGITUDE 54.9 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+40 KTS...45 MPH...75 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:43:11 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/020243.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/020243.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gert Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203702.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT06/AL062023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Gert 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 01 Sep 2023 20:37:02 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203702.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT06/AL062023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Gert 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 01 Sep 2023 21:23:21 GMT
+]]>
+</description>
+<pubDate>Fri, 01 Sep 2023 20:37:02 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203702.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/203702.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Post-Tropical Cyclone Franklin (AT3/AL082023)</title>
+ <guid isPermaLink="false">summary-al082023-202309012038</guid>
+ <pubDate>Fri, 01 Sep 2023 20:38:31 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/012038.shtml</link>
+ <description>
+  ...FRANKLIN HAS BECOME A POWERFUL EXTRATROPICAL CYCLONE... ...THIS IS THE FINAL NHC ADVISORY...
+ As of 5:00 PM AST Fri Sep 1
+ the center of Franklin was located near 39.5, -53.8
+ with movement NE at 17 mph.
+ The minimum central pressure was 979 mb
+ with maximum sustained winds of about 80 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>39.5, -53.8</nhc:center>
+  <nhc:type>Post-Tropical Cyclone</nhc:type>
+  <nhc:name>Franklin</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL082023</nhc:atcf>
+  <nhc:datetime>5:00 PM AST Fri Sep 1</nhc:datetime>
+  <nhc:movement>NE at 17 mph</nhc:movement>
+  <nhc:pressure>979 mb</nhc:pressure>
+  <nhc:wind>80 mph</nhc:wind>
+  <nhc:headline> ...FRANKLIN HAS BECOME A POWERFUL EXTRATROPICAL CYCLONE... ...THIS IS THE FINAL NHC ADVISORY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Post-Tropical Cyclone Franklin Public Advisory Number 49</title>
+<description>Issued at 500 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 012038
+TCPAT3
+ 
+BULLETIN
+Post-Tropical Cyclone Franklin Advisory Number  49
+NWS National Hurricane Center Miami FL       AL082023
+500 PM AST Fri Sep 01 2023
+ 
+...FRANKLIN HAS BECOME A POWERFUL EXTRATROPICAL CYCLONE...
+...THIS IS THE FINAL NHC ADVISORY...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...39.5N 53.8W
+ABOUT 790 MI...1270 KM NE OF BERMUDA
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...NE OR 55 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...979 MB...28.91 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Post-Tropical Cyclone 
+Franklin was located near latitude 39.5 North, longitude 53.8 West. 
+The post-tropical cyclone is moving toward the northeast near 17 mph 
+(28 km/h). A faster northeastward motion is expected during the 
+next couple of days, followed by a turn to the east-northeast. 
+ 
+Maximum sustained winds are near 80 mph (130 km/h) with higher 
+gusts. Little change in strength is expected through tonight, but 
+gradual weakening is forecast this weekend into early next week.
+ 
+Hurricane-force winds extend outward up to 60 miles (95 km) from the
+center and tropical-storm-force winds extend outward up to 255 miles
+(405 km).
+ 
+The estimated minimum central pressure is 979 mb (28.91 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane 
+Center on Franklin. Additional information on this system can be 
+found in High Seas Forecasts issued by the National Weather Service, 
+under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and online at 
+ocean.weather.gov/shtml/NFDHSFAT1.php
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:38:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/012038.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/012038.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Franklin Forecast Advisory Number 49</title>
+<description>Issued at 2100 UTC FRI SEP 01 2023  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 012037
+TCMAT3
+ 
+POST-TROPICAL CYCLONE FRANKLIN FORECAST/ADVISORY NUMBER  49
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082023
+2100 UTC FRI SEP 01 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+POST-TROPICAL CYCLONE CENTER LOCATED NEAR 39.5N  53.8W AT 01/2100Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHEAST OR  55 DEGREES AT  15 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  979 MB
+MAX SUSTAINED WINDS  70 KT WITH GUSTS TO  85 KT.
+64 KT....... 30NE  30SE  50SW  50NW.
+50 KT....... 50NE  90SE  80SW  80NW.
+34 KT.......100NE 170SE 130SW 220NW.
+12 FT SEAS..300NE 270SE 300SW 360NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 39.5N  53.8W AT 01/2100Z
+AT 01/1800Z CENTER WAS LOCATED NEAR 39.0N  54.9W
+ 
+FORECAST VALID 02/0600Z 41.1N  50.2W...POST-TROP/EXTRATROP
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT...  0NE  20SE  40SW  40NW.
+50 KT... 60NE  80SE  80SW  80NW.
+34 KT...150NE 180SE 140SW 210NW.
+ 
+FORECAST VALID 02/1800Z 43.6N  45.6W...POST-TROP/EXTRATROP
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 40NE  50SE  60SW  60NW.
+34 KT...200NE 200SE 160SW 180NW.
+ 
+FORECAST VALID 03/0600Z 45.5N  41.4W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 20NE  30SE  50SW  50NW.
+34 KT...180NE 180SE 150SW 170NW.
+ 
+FORECAST VALID 03/1800Z 46.8N  36.7W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...130NE 150SE 150SW 160NW.
+ 
+FORECAST VALID 04/0600Z 47.8N  32.4W...POST-TROP/EXTRATROP
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 70NE  90SE 120SW 120NW.
+ 
+FORECAST VALID 04/1800Z 48.0N  29.5W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 30NE  30SE  90SW  60NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 05/1800Z 47.5N  26.0W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+OUTLOOK VALID 06/1800Z 46.0N  20.5W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 39.5N  53.8W
+ 
+THIS IS THE LAST FORECAST/ADVISORY ISSUED BY THE NATIONAL HURRICANE 
+CENTER ON FRANKLIN. ADDITIONAL INFORMATION ON THIS SYSTEM CAN BE 
+FOUND IN HIGH SEAS FORECASTS ISSUED BY THE NATIONAL WEATHER 
+SERVICE...UNDER AWIPS HEADER NFDHSFAT1 AND WMO HEADER FZNT01 KWBC.
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:38:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/012037.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/012037.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Franklin Forecast Discussion Number 49</title>
+<description>Issued at 500 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT43 KNHC 012040
+TCDAT3
+ 
+Post-Tropical Cyclone Franklin Discussion Number  49
+NWS National Hurricane Center Miami FL       AL082023
+500 PM AST Fri Sep 01 2023
+ 
+The satellite appearance of Franklin suggests the cyclone has 
+undergone a warm core seclusion process. Earlier scatterometer data 
+showed a cold front nearing the core of Franklin, and recent visible 
+satellite images suggest the presence of a bent-back occlusion 
+wrapping around the western side of the low that appears to be the 
+focus for the ongoing convection. Also, the latest FSU phase space 
+diagrams from the GFS and ECMWF models show a thickness asymmetry 
+consistent with a warm-core frontal cyclone. Therefore, it appears 
+Franklin has completed its extratropical transition and is no longer 
+a tropical cyclone. Since the earlier scatterometer data, the latest 
+global model fields suggest that baroclinic forcing has resulted in 
+a deepening of the low, with an acceleration of northerly winds to 
+the west of the bent-back front. A blend of wind speeds from the 
+various global models supports an initial intensity of 70 kt.
+
+Franklin appears likely to remain a powerful, hurricane-force 
+extratropical cyclone during the next 12 h or so due to baroclinic 
+forcing. Thereafter, the extratropical cyclone is forecast to weaken 
+as the low moves deeper into the mid-latitudes and gradually fills. 
+Franklin is still moving northeastward (50/15 kt) within the flow 
+between a deep-layer trough over the northwestern Atlantic and a 
+subtropical ridge over the central Atlantic. A faster northeastward 
+motion is forecast during the next couple of days, followed by a 
+gradual turn toward the east and east-southeast later in the 
+period as the cyclone rotates around a larger cut-off low over the 
+eastern Atlantic. The global models are finally in better agreement 
+on this outcome, and the track forecast has been adjusted south of 
+the previous one at days 3-5. 
+
+This is the last advisory issued by the National Hurricane Center on 
+Franklin. Additional information on this system can be found in High 
+Seas Forecasts issued by the National Weather Service, under AWIPS 
+header NFDHSFAT1, WMO header FZNT01 KWBC, and online at 
+ocean.weather.gov/shtml/NFDHSFAT1.php
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  01/2100Z 39.5N  53.8W   70 KT  80 MPH...POST-TROPICAL
+ 12H  02/0600Z 41.1N  50.2W   70 KT  80 MPH...POST-TROP/EXTRATROP
+ 24H  02/1800Z 43.6N  45.6W   60 KT  70 MPH...POST-TROP/EXTRATROP
+ 36H  03/0600Z 45.5N  41.4W   50 KT  60 MPH...POST-TROP/EXTRATROP
+ 48H  03/1800Z 46.8N  36.7W   45 KT  50 MPH...POST-TROP/EXTRATROP
+ 60H  04/0600Z 47.8N  32.4W   40 KT  45 MPH...POST-TROP/EXTRATROP
+ 72H  04/1800Z 48.0N  29.5W   35 KT  40 MPH...POST-TROP/EXTRATROP
+ 96H  05/1800Z 47.5N  26.0W   35 KT  40 MPH...POST-TROP/EXTRATROP
+120H  06/1800Z 46.0N  20.5W   35 KT  40 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:40:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/012040.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/012040.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Franklin Wind Speed Probabilities Number 49</title>
+<description>Issued at 2100 UTC FRI SEP 01 2023                                              <![CDATA[<pre>
+
+000
+FONT13 KNHC 012038
+PWSAT3
+                                                                    
+POST-TROPICAL CYCLONE FRANKLIN WIND SPEED PROBABILITIES NUMBER  49  
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL082023               
+2100 UTC FRI SEP 01 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF POST-TROPICAL CYCLONE FRANKLIN WAS LOCATED   
+NEAR LATITUDE 39.5 NORTH...LONGITUDE 53.8 WEST WITH MAXIMUM         
+SUSTAINED WINDS NEAR 70 KTS...80 MPH...130 KM/H.                    
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z FRI 06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE 18Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+HIBERNIA OILFD 34  X   4( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER REINHART                                                 
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:38:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/012038.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/012038.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Franklin Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204210.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT08/AL082023_5day_cone_with_line_and_wind_sm2.png"
+alt="Post-Tropical Cyclone Franklin 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 01 Sep 2023 20:42:10 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204210.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT08/AL082023_wind_probs_34_F120_sm2.png"
+alt="Post-Tropical Cyclone Franklin 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 01 Sep 2023 21:29:43 GMT
+]]>
+</description>
+<pubDate>Fri, 01 Sep 2023 20:42:10 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204210.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204210.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Twelve (AT4/AL122023)</title>
+ <guid isPermaLink="false">summary-al122023-202309012041</guid>
+ <pubDate>Fri, 01 Sep 2023 20:41:01 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/012040.shtml</link>
+ <description>
+  ...TROPICAL DEPRESSION COULD BECOME A SHORT-LIVED TROPICAL STORM TONIGHT OR ON SATURDAY...
+ As of 8:00 PM CVT Fri Sep 1
+ the center of Twelve was located near 20.8, -28.7
+ with movement NNW at 12 mph.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>20.8, -28.7</nhc:center>
+  <nhc:type>TROPICAL DEPRESSION</nhc:type>
+  <nhc:name>Twelve</nhc:name>
+  <nhc:wallet>AT4</nhc:wallet>
+  <nhc:atcf>AL122023</nhc:atcf>
+  <nhc:datetime>8:00 PM CVT Fri Sep 1</nhc:datetime>
+  <nhc:movement>NNW at 12 mph</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...TROPICAL DEPRESSION COULD BECOME A SHORT-LIVED TROPICAL STORM TONIGHT OR ON SATURDAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Twelve Public Advisory Number 2</title>
+<description>Issued at 800 PM CVT Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT34 KNHC 012040
+TCPAT4
+ 
+BULLETIN
+Tropical Depression Twelve Advisory Number   2
+NWS National Hurricane Center Miami FL       AL122023
+800 PM CVT Fri Sep 01 2023
+ 
+...TROPICAL DEPRESSION COULD BECOME A SHORT-LIVED TROPICAL STORM
+TONIGHT OR ON SATURDAY...
+ 
+ 
+SUMMARY OF 800 PM CVT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.8N 28.7W
+ABOUT 450 MI...730 KM NW OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NNW OR 345 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM CVT (2100 UTC), the center of Tropical Depression Twelve
+was located near latitude 20.8 North, longitude 28.7 West.  The
+depression is moving toward the north-northwest near 12 mph (19
+km/h).  A generally northwestward motion with a decrease in forward
+speed is expected through Monday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Some strengthening is possible, and the depression could become a
+tropical storm tonight or on Saturday.  Weakening is expected to
+begin by early Sunday, and the system could degenerate into a
+remnant low by late Sunday.
+ 
+The estimated minimum central pressure based on a ship report is 
+1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 AM CVT.
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:41:01 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/012040.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/012040.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Forecast Advisory Number 3</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023  <![CDATA[<pre>
+
+000
+WTNT24 KNHC 020243
+TCMAT4
+ 
+TROPICAL DEPRESSION TWELVE FORECAST/ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122023
+0300 UTC SAT SEP 02 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 21.6N  28.7W AT 02/0300Z
+POSITION ACCURATE WITHIN  25 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 355 DEGREES AT  11 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1007 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 21.6N  28.7W AT 02/0300Z
+AT 02/0000Z CENTER WAS LOCATED NEAR 21.0N  28.6W
+ 
+FORECAST VALID 02/1200Z 22.8N  29.7W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE   0SE   0SW   0NW.
+ 
+FORECAST VALID 03/0000Z 24.5N  31.2W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 03/1200Z 25.5N  32.6W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 04/0000Z 26.2N  33.7W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 04/1200Z 27.1N  34.8W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 05/0000Z 27.8N  35.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 06/0000Z 29.2N  35.5W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+OUTLOOK VALID 07/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 21.6N  28.7W
+ 
+NEXT ADVISORY AT 02/0900Z
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:43:38 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/020243.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/020243.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Forecast Discussion Number 2</title>
+<description>Issued at 800 PM CVT Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT44 KNHC 012041
+TCDAT4
+ 
+Tropical Depression Twelve Discussion Number   2
+NWS National Hurricane Center Miami FL       AL122023
+800 PM CVT Fri Sep 01 2023
+ 
+A 1458 UTC AMSR-2 microwave pass showed that the depression has a
+well-defined circulation, however the associated deep convection
+was rather disjointed.  Dvorak CI numbers classifications are still
+T2.5 from TAFB, but the final-T number dropped to 2.0 from SAB, so
+the system is still being classified as a 30-kt depression at this
+time.  Some more defined convective bands are now developing within
+the circulation, so the system may be on its way to becoming a
+tropical storm.  ASCAT data should provide a better handle on the
+maximum winds of the system this evening.
+ 
+The initial motion is toward the north-northwest (345 degrees) at 10
+kt, with the depression situated between a mid-level ridge over
+western Africa and a mid- to upper-level low over the
+eastern/central Atlantic.  Another ridge near the Azores is expected
+to force the depression to turn northwest and then west-northwest
+around the mid-level low during the next few days.  The NHC track
+forecast is a little east of the previous forecast near the
+multi-model consensus aids, but this is more a function of an
+adjustment of the initial position.  Once the system becomes a
+remnant low, the low-level flow should turn it toward the northwest
+and north on days 3 and 4.
+ 
+The depression has a small window of relatively low shear, warm
+waters, and a sufficiently moist atmosphere to strengthen to a
+tropical storm tonight or on Saturday, which is shown in the
+official forecast.  However, the system will be moving into a much
+drier atmosphere with strengthening southerly shear, which should
+cause weakening to begin in about 36 hours.  Organized deep
+convection could also dissipate in a couple of days, and the
+cyclone is forecast to become a remnant low by 48 hours.  Global
+model fields suggest the remnant low could last a little bit longer
+than shown in the previous forecast, and dissipation is now shown a
+day later on day 5.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  01/2100Z 20.8N  28.7W   30 KT  35 MPH
+ 12H  02/0600Z 22.2N  29.5W   35 KT  40 MPH
+ 24H  02/1800Z 24.0N  30.8W   35 KT  40 MPH
+ 36H  03/0600Z 25.4N  32.3W   30 KT  35 MPH
+ 48H  03/1800Z 26.3N  33.5W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 60H  04/0600Z 26.9N  34.6W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 72H  04/1800Z 27.7N  35.5W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 96H  05/1800Z 29.4N  35.4W   20 KT  25 MPH...POST-TROP/REMNT LOW
+120H  06/1800Z...DISSIPATED
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:41:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/012041.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/012041.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Wind Speed Probabilities Number 2</title>
+<description>Issued at 2100 UTC FRI SEP 01 2023                                              <![CDATA[<pre>
+
+000
+FONT14 KNHC 012040
+PWSAT4
+                                                                    
+TROPICAL DEPRESSION TWELVE WIND SPEED PROBABILITIES NUMBER   2      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122023               
+2100 UTC FRI SEP 01 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL DEPRESSION TWELVE WAS LOCATED NEAR  
+LATITUDE 20.8 NORTH...LONGITUDE 28.7 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z FRI 06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SAT 18Z SAT 06Z SUN 18Z SUN 18Z MON 18Z TUE 18Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER BERG                                                     
+</pre>]]></description>
+<pubDate>Fri, 01 Sep 2023 20:41:01 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/012040.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/012040.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/204210.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT12/AL122023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Twelve 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 01 Sep 2023 20:42:10 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/204210.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT12/AL122023_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Twelve 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 01 Sep 2023 21:47:39 GMT
+]]>
+</description>
+<pubDate>Fri, 01 Sep 2023 20:42:10 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/204210.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/204210.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Post-Tropical Cyclone Idalia (AT5/AL102023)</title>
+ <guid isPermaLink="false">summary-al102023-202309020242</guid>
+ <pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/020242.shtml</link>
+ <description>
+  ...IDALIA NEAR BERMUDA... ...HEAVY RAINS AND STRONG WINDS EXPECTED THERE THROUGH THE WEEKEND...
+ As of 11:00 PM AST Fri Sep 1
+ the center of Idalia was located near 31.8, -65.3
+ with movement E at 16 mph.
+ The minimum central pressure was 1000 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>31.8, -65.3</nhc:center>
+  <nhc:type>Post-Tropical Cyclone</nhc:type>
+  <nhc:name>Idalia</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL102023</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Fri Sep 1</nhc:datetime>
+  <nhc:movement>E at 16 mph</nhc:movement>
+  <nhc:pressure>1000 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...IDALIA NEAR BERMUDA... ...HEAVY RAINS AND STRONG WINDS EXPECTED THERE THROUGH THE WEEKEND...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Post-Tropical Cyclone Idalia Public Advisory Number 26</title>
+<description>Issued at 1100 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 020242
+TCPAT5
+ 
+BULLETIN
+Post-Tropical Cyclone Idalia Advisory Number  26
+NWS National Hurricane Center Miami FL       AL102023
+1100 PM AST Fri Sep 01 2023
+ 
+...IDALIA NEAR BERMUDA...
+...HEAVY RAINS AND STRONG WINDS EXPECTED THERE THROUGH THE
+WEEKEND...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...31.8N 65.3W
+ABOUT 45 MI...75 KM SW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...E OR 100 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Bermuda
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Post-Tropical Cyclone 
+Idalia was located near latitude 31.8 North, longitude 65.3 West. 
+The post-tropical cyclone is moving toward the east near 16 mph (26 
+km/h) and this general trajectory at a slower forward speed is 
+expected through Saturday as it remains near Bermuda.  A turn 
+toward the northeast is forecast on Sunday. 
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Little change in strength is forecast during the next few days. 
+Idalia could transition to a tropical or subtropical storm on
+Saturday.
+ 
+Tropical-storm-force winds extend outward up to 220 miles (350 km)
+from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Idalia can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5 and WMO header WTNT45 KNHC,
+and on the web at hurricanes.gov/text/MIATCDAT5.shtml
+ 
+WIND:  Tropical storm conditions are expected on Bermuda on
+Saturday.
+ 
+RAINFALL:  Idalia is expected to produce rainfall amounts of 3 to 5
+inches, or 75 to 125 millimeters, across Bermuda through the
+weekend.  The heavy rainfall will likely cause areas of flash and
+urban flooding on the island.
+ 
+SURF:  Swells generated by Idalia will affect the southeastern U.S.
+coast and Bermuda during the next couple of days.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 AM AST.
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Idalia Forecast Advisory Number 26</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 020241
+TCMAT5
+ 
+POST-TROPICAL CYCLONE IDALIA FORECAST/ADVISORY NUMBER  26
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102023
+0300 UTC SAT SEP 02 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+POST-TROPICAL CYCLONE CENTER LOCATED NEAR 31.8N  65.3W AT 02/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE EAST OR 100 DEGREES AT  14 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1000 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT.......180NE 150SE 180SW 190NW.
+12 FT SEAS..300NE 240SE 360SW 420NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 31.8N  65.3W AT 02/0300Z
+AT 02/0000Z CENTER WAS LOCATED NEAR 31.9N  65.6W
+ 
+FORECAST VALID 02/1200Z 31.6N  64.3W...TROPICAL CYCLONE
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT...  0NE   0SE   0SW  60NW.
+34 KT...150NE  80SE 120SW 150NW.
+ 
+FORECAST VALID 03/0000Z 31.8N  62.9W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 60NE   0SE   0SW  60NW.
+34 KT...180NE  80SE 120SW 180NW.
+ 
+FORECAST VALID 03/1200Z 32.8N  61.2W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 60NE   0SE   0SW  60NW.
+34 KT...180NE  80SE 120SW 180NW.
+ 
+FORECAST VALID 04/0000Z 34.5N  59.5W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 60NE   0SE   0SW  60NW.
+34 KT...180NE  80SE 120SW 180NW.
+ 
+FORECAST VALID 04/1200Z 36.7N  58.4W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 60NE   0SE   0SW  60NW.
+34 KT...180NE  80SE 120SW 180NW.
+ 
+FORECAST VALID 05/0000Z 38.8N  58.0W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...150NE 120SE  90SW 150NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 06/0000Z 41.1N  58.8W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+OUTLOOK VALID 07/0000Z 42.6N  58.9W...POST-TROP/EXTRATROP
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 31.8N  65.3W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT35 KNHC/MIATCPAT5...AT 02/0600Z
+ 
+NEXT ADVISORY AT 02/0900Z
+ 
+$$
+FORECASTER CANGIALOSI
+ 
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:41:08 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/020241.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/020241.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Idalia Forecast Discussion Number 26</title>
+<description>Issued at 1100 PM AST Fri Sep 01 2023  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 020242
+TCDAT5
+ 
+Post-Tropical Cyclone Idalia Discussion Number  26
+NWS National Hurricane Center Miami FL       AL102023
+1100 PM AST Fri Sep 01 2023
+ 
+Satellite images and surface observations indicate that Idalia
+remains an extratropical cyclone with frontal features extending
+through the center.  However, deep convection has recently formed
+just to the northeast of the center, and that could signal the
+beginning of a transition to a subtropical or tropical cyclone.
+The initial intensity is held at 45 kt.
+ 
+The cyclone is still moving eastward, or 100 degrees, at about 14
+kt.  A continued eastward motion, but at a much slower pace, is
+expected on Saturday as the system separates from a deep-layer
+trough.  After that time, a turn to the northeast and then the
+north is forecast as the cyclone cuts off from the progressive flow
+over the north Atlantic.  The NHC track forecast is a little
+slower than the previous one to be in better agreement with the
+latest consensus models.
+ 
+GFS and ECMWF simulated satellite images suggest that deep
+convection will continue to increase near the center overnight, and
+that could influence Idalia's transition to a tropical or
+subtropical cyclone on Saturday.  There could also be some increase
+in strength during that time.  However, by late in the weekend,
+very strong southwesterly shear is expected to affect the system
+and that should end the opportunity for strengthening and cause the
+system to transition back to an extratropical cyclone.  The NHC
+intensity forecast is similar to the previous one and near the
+middle of the guidance envelope.
+ 
+KEY MESSAGES:
+ 
+1. Tropical storm conditions are expected in Bermuda on Saturday.
+Heavy rainfall will likely cause areas of flash and urban flooding
+on the island through the weekend.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  02/0300Z 31.8N  65.3W   45 KT  50 MPH...POST-TROPICAL
+ 12H  02/1200Z 31.6N  64.3W   50 KT  60 MPH...TROPICAL CYCLONE
+ 24H  03/0000Z 31.8N  62.9W   50 KT  60 MPH
+ 36H  03/1200Z 32.8N  61.2W   50 KT  60 MPH
+ 48H  04/0000Z 34.5N  59.5W   50 KT  60 MPH...POST-TROP/EXTRATROP
+ 60H  04/1200Z 36.7N  58.4W   50 KT  60 MPH...POST-TROP/EXTRATROP
+ 72H  05/0000Z 38.8N  58.0W   45 KT  50 MPH...POST-TROP/EXTRATROP
+ 96H  06/0000Z 41.1N  58.8W   35 KT  40 MPH...POST-TROP/EXTRATROP
+120H  07/0000Z 42.6N  58.9W   30 KT  35 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Cangialosi
+ 
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Idalia Wind Speed Probabilities Number 26</title>
+<description>Issued at 0300 UTC SAT SEP 02 2023                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 020242
+PWSAT5
+                                                                    
+POST-TROPICAL CYCLONE IDALIA WIND SPEED PROBABILITIES NUMBER  26    
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102023               
+0300 UTC SAT SEP 02 2023                                            
+                                                                    
+AT 0300Z THE CENTER OF POST-TROPICAL CYCLONE IDALIA WAS LOCATED NEAR
+LATITUDE 31.8 NORTH...LONGITUDE 65.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SAT 12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SAT 00Z SUN 12Z SUN 00Z MON 00Z TUE 00Z WED 00Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ILE ST PIERRE  34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+BURGEO NFLD    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+PTX BASQUES    34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+EDDY POINT NS  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   4( 6)
+ 
+SYDNEY NS      34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   4( 6)
+ 
+SABLE ISLAND   34  X   X( X)   X( X)   X( X)   1( 1)   7( 8)   4(12)
+ 
+BERMUDA        34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+BERMUDA        50 19   2(21)   X(21)   X(21)   X(21)   X(21)   X(21)
+BERMUDA        64  1   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI                                               
+</pre>]]></description>
+<pubDate>Sat, 02 Sep 2023 02:42:09 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/020242.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/020242.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Post-Tropical Cyclone Idalia Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233050.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102023_5day_cone_with_line_and_wind_sm2.png"
+alt="Post-Tropical Cyclone Idalia 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 01 Sep 2023 23:30:50 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233050.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102023_wind_probs_34_F120_sm2.png"
+alt="Post-Tropical Cyclone Idalia 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 01 Sep 2023 21:35:40 GMT
+]]>
+</description>
+<pubDate>Fri, 01 Sep 2023 23:30:50 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233050.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233050.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
