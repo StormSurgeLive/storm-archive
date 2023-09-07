@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Thu, 07 Sep 2023 20:52:41 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 071725<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 PM EDT Thu Sep 7 2023<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Hurricane <br/>
+Lee, located over the central tropical Atlantic, and on newly formed <br/>
+Tropical Depression Fourteen, located near the Cabo Verde Islands.<br/>
+<br/>
+Northeastern Atlantic (ex-Franklin):<br/>
+Shower and thunderstorm activity associated with Post-Tropical <br/>
+Cyclone Franklin, located a few hundred miles west-northwest of the <br/>
+northwestern coast of Spain, have diminished this afternoon. <br/>
+Environmental conditions are becoming increasing unfavorable, and <br/>
+development is no longer expected, as the system meanders northwest <br/>
+of Spain and Portugal. For additional information, including gale <br/>
+warnings, see High Seas Forecasts issued by Meteo France.<br/>
+* Formation chance through 48 hours...low...near 0 percent.<br/>
+* Formation chance through 7 days...low...near 0 percent.<br/>
+<br/>
+&&<br/>
+<br/>
+Public Advisories on Tropical Depression Fourteen are issued under <br/>
+WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4. <br/>
+Forecast/Advisories on Tropical Depression Fourteen are issued under <br/>
+WMO header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br/>
+<br/>
+Additional information on Post-Tropical Cyclone Franklin can be <br/>
+found in High Seas Forecasts issued by Meteo France under WMO header <br/>
+FQNT50 LFPW and online at<br/>
+www.meteofrance.com/previsions-meteo-marine/bulletin/grandlarge/<br/>
+metarea2<br/>
+<br/>
+$$<br/>
+Forecaster Kelly<br/>
+]]>
+</description>
+<pubDate>Thu, 07 Sep 2023 17:25:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202309071725</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Lee (AT3/AL132023)</title>
+ <guid isPermaLink="false">summary-al132023-202309072052</guid>
+ <pubDate>Thu, 07 Sep 2023 20:52:00 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/072051.shtml</link>
+ <description>
+  ...LEE NOW A CATEGORY 4 HURRICANE... ...RIP CURRENTS AND HAZARDOUS SURF WILL SPREAD ACROSS THE NORTHERN CARIBBEAN FRIDAY AND BEGIN AFFECTING THE MAINLAND U.S. BY SUNDAY...
+ As of 5:00 PM AST Thu Sep 7
+ the center of Lee was located near 16.9, -51.3
+ with movement WNW at 15 mph.
+ The minimum central pressure was 953 mb
+ with maximum sustained winds of about 130 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.9, -51.3</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Lee</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL132023</nhc:atcf>
+  <nhc:datetime>5:00 PM AST Thu Sep 7</nhc:datetime>
+  <nhc:movement>WNW at 15 mph</nhc:movement>
+  <nhc:pressure>953 mb</nhc:pressure>
+  <nhc:wind>130 mph</nhc:wind>
+  <nhc:headline> ...LEE NOW A CATEGORY 4 HURRICANE... ...RIP CURRENTS AND HAZARDOUS SURF WILL SPREAD ACROSS THE NORTHERN CARIBBEAN FRIDAY AND BEGIN AFFECTING THE MAINLAND U.S. BY SUNDAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Lee Public Advisory Number 10</title>
+<description>Issued at 500 PM AST Thu Sep 07 2023  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 072051
+TCPAT3
+ 
+BULLETIN
+Hurricane Lee Advisory Number  10
+NWS National Hurricane Center Miami FL       AL132023
+500 PM AST Thu Sep 07 2023
+ 
+...LEE NOW A CATEGORY 4 HURRICANE...
+...RIP CURRENTS AND HAZARDOUS SURF WILL SPREAD ACROSS THE NORTHERN
+CARIBBEAN FRIDAY AND BEGIN AFFECTING THE MAINLAND U.S. BY SUNDAY...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.9N 51.3W
+ABOUT 780 MI...1260 KM E OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...130 MPH...215 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...953 MB...28.15 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests in the northern Leeward Islands should monitor the
+progress of Lee.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the clear eye of Hurricane Lee was located
+near latitude 16.9 North, longitude 51.3 West. Lee is moving toward
+the west-northwest near 15 mph (24 km/h). The hurricane will
+continue moving in this direction for the next several days while
+gradually slowing down its forward speed. On the forecast track,
+the core of Lee will move north of the northern Leeward Islands
+during the next several days.
+ 
+Maximum sustained winds have rapidly increased to near 130 mph
+(215 km/h) with higher gusts. Lee is a category 4 hurricane on the
+Saffir-Simpson Hurricane Wind Scale. Additional strengthening is
+expected tonight. Fluctuations in intensity are expected after
+that, but Lee is forecast to remain a powerful major hurricane 
+well into next week.
+ 
+Hurricane-force winds extend outward up to 30 miles (45 km) from the
+center and tropical-storm-force winds extend outward up to 140 miles
+(220 km).
+ 
+The estimated minimum central pressure is 953 mb (28.15 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Lee can be found in the Tropical Cyclone Discussion
+under AWIPS header MIATCDAT3 and WMO header WTNT43 KNHC and on the
+web at hurricanes.gov/text/MIATCDAT3.shtml
+ 
+SURF:  Swells generated by Lee are expected to reach portions of the
+Lesser Antilles on Friday, and reach the British and U.S. Virgin
+Islands, Puerto Rico, Hispaniola, the Bahamas, and Bermuda this
+weekend. These swells are likely to cause life-threatening surf and
+rip current conditions. Dangerous surf and rip currents are expected
+to begin along most of the U.S. East Coast beginning Sunday. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster D. Zelinsky
+ 
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:52:00 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/072051.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/072051.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Lee Forecast Advisory Number 10</title>
+<description>Issued at 2100 UTC THU SEP 07 2023  <![CDATA[<pre>
+
+928 
+WTNT23 KNHC 072051
+TCMAT3
+ 
+HURRICANE LEE FORECAST/ADVISORY NUMBER  10
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132023
+2100 UTC THU SEP 07 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+HURRICANE CENTER LOCATED NEAR 16.9N  51.3W AT 07/2100Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 295 DEGREES AT  13 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  953 MB
+EYE DIAMETER  20 NM
+MAX SUSTAINED WINDS 115 KT WITH GUSTS TO 140 KT.
+64 KT....... 25NE  20SE  20SW  20NW.
+50 KT....... 40NE  30SE  30SW  30NW.
+34 KT.......120NE 110SE  70SW  80NW.
+12 FT SEAS..180NE 150SE  90SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 16.9N  51.3W AT 07/2100Z
+AT 07/1800Z CENTER WAS LOCATED NEAR 16.6N  50.7W
+ 
+FORECAST VALID 08/0600Z 17.6N  53.0W
+MAX WIND 140 KT...GUSTS 170 KT.
+64 KT... 30NE  20SE  20SW  30NW.
+50 KT... 50NE  30SE  30SW  40NW.
+34 KT...130NE 120SE  70SW  90NW.
+ 
+FORECAST VALID 08/1800Z 18.7N  55.2W
+MAX WIND 145 KT...GUSTS 175 KT.
+64 KT... 30NE  20SE  20SW  30NW.
+50 KT... 60NE  40SE  40SW  50NW.
+34 KT...130NE 120SE  80SW 110NW.
+ 
+FORECAST VALID 09/0600Z 19.7N  57.2W
+MAX WIND 140 KT...GUSTS 170 KT.
+64 KT... 30NE  25SE  25SW  30NW.
+50 KT... 70NE  40SE  40SW  50NW.
+34 KT...130NE 130SE  80SW 120NW.
+ 
+FORECAST VALID 09/1800Z 20.6N  59.0W
+MAX WIND 135 KT...GUSTS 165 KT.
+64 KT... 40NE  30SE  30SW  35NW.
+50 KT... 80NE  50SE  50SW  60NW.
+34 KT...140NE 130SE  80SW 120NW.
+ 
+FORECAST VALID 10/0600Z 21.3N  60.5W
+MAX WIND 135 KT...GUSTS 165 KT.
+50 KT... 80NE  60SE  50SW  70NW.
+34 KT...130NE 130SE  90SW 130NW.
+ 
+FORECAST VALID 10/1800Z 22.0N  61.8W
+MAX WIND 130 KT...GUSTS 160 KT.
+50 KT... 80NE  60SE  50SW  70NW.
+34 KT...140NE 140SE 100SW 130NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 11/1800Z 23.1N  64.3W
+MAX WIND 130 KT...GUSTS 160 KT.
+ 
+OUTLOOK VALID 12/1800Z 24.0N  66.4W
+MAX WIND 120 KT...GUSTS 145 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 16.9N  51.3W
+ 
+NEXT ADVISORY AT 08/0300Z
+ 
+$$
+FORECASTER D. ZELINSKY
+ 
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:51:30 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/072051.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/072051.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Lee Forecast Discussion Number 10</title>
+<description>Issued at 500 PM AST Thu Sep 07 2023  <![CDATA[<pre>
+
+375 
+WTNT43 KNHC 072052
+TCDAT3
+ 
+Hurricane Lee Discussion Number  10
+NWS National Hurricane Center Miami FL       AL132023
+500 PM AST Thu Sep 07 2023
+ 
+Lee continues to strengthen at an exceptional rate. The hurricane
+has quickly developed a clear symmetric eye surrounded by very cold
+cloud tops. The intensity estimate of 115 kt is based primarily on
+recent UW-CIMSS ADT intensity estimates near that value. The 102 kt
+subjective Dvorak intensity estimates from TAFB and SAB at 18Z were
+constrained by Dvorak rules, but both analyses noted that the Data-T
+was higher. An Air Force Reserve Hurricane Hunter aircraft is
+scheduled to investigate Lee starting at 2330 UTC tonight, which
+should provide much-needed in-situ data to better evaluate the
+hurricane's intensity.
+ 
+Low shear, very warm SSTs and copious moisture should allow Lee to
+continue to rapidly strengthen at least tonight. All 4 regional
+hurricane models (HAFS-A, HAFS-B, HWRF, HMON) forecast that Lee
+will become a category 5 hurricane at some point in the next day or
+so. In addition, the short-term rapid intensification probabilities
+from SHIPS and DTOPS are still very high. Internal factors like
+eyewall replacement cycles will become a factor soon, and these are
+not easily predictable well in advance, but we don't yet see an 
+indication that Lee's intensification is stopping yet. The official 
+intensity forecast is quite close to the intensity consensus after 
+24 h, reflecting just how high several of the model forecasts are.
+ 
+Confidence remains high in the track for Lee, with almost no change 
+made to the NHC track forecast. Lee should continue moving 
+west-northwestward along the southern edge of the subtropical ridge 
+for the next 5 days. The ridge is forecast to gradually weaken by 
+early next week, causing Lee to slow down. This track should keep 
+the core of Lee and its damaging winds north of the Leeward Islands. 
+There is uncertainty in any northward turn of Lee beginning early 
+next week, but it is too soon to speculate about specific potential 
+impacts a week or more out.
+ 
+The biggest risk from Lee during the next 5 days will be high seas
+and dangerous surf. Rip currents are likely to begin affecting
+portions of the northern Caribbean on Friday. These conditions will
+spread westward through the weekend, reaching most of the U.S. East
+Coast by Sunday evening. For more information, please consult
+products from your local weather office.
+ 
+ 
+KEY MESSAGES:
+ 
+1. Lee has become a major hurricane, and further strengthening is 
+expected, with its core moving north of the northern Leeward 
+Islands, the Virgin Islands, and Puerto Rico this weekend and early 
+next week. 
+
+2. Dangerous surf and life-threatening rip currents are likely in 
+the northern Leeward Islands beginning Friday. These conditions will 
+spread westward, affecting Puerto Rico, Hispaniola, the Turks 
+and Caicos, and the Bahamas through the weekend.
+ 
+2. Dangerous surf and rip currents are expected along most of the 
+U.S. East Coast beginning Sunday. Please consult products from your 
+local weather office for more information.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  07/2100Z 16.9N  51.3W  115 KT 130 MPH
+ 12H  08/0600Z 17.6N  53.0W  140 KT 160 MPH
+ 24H  08/1800Z 18.7N  55.2W  145 KT 165 MPH
+ 36H  09/0600Z 19.7N  57.2W  140 KT 160 MPH
+ 48H  09/1800Z 20.6N  59.0W  135 KT 155 MPH
+ 60H  10/0600Z 21.3N  60.5W  135 KT 155 MPH
+ 72H  10/1800Z 22.0N  61.8W  130 KT 150 MPH
+ 96H  11/1800Z 23.1N  64.3W  130 KT 150 MPH
+120H  12/1800Z 24.0N  66.4W  120 KT 140 MPH
+ 
+$$
+Forecaster D. Zelinsky
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:52:37 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/072052.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/072052.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Lee Wind Speed Probabilities Number 10</title>
+<description>Issued at 2100 UTC THU SEP 07 2023                                              <![CDATA[<pre>
+
+365 
+FONT13 KNHC 072052
+PWSAT3
+                                                                    
+HURRICANE LEE WIND SPEED PROBABILITIES NUMBER  10                   
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL132023               
+2100 UTC THU SEP 07 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF HURRICANE LEE WAS LOCATED NEAR LATITUDE 16.9 
+NORTH...LONGITUDE 51.3 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 115   
+KTS...130 MPH...215 KM/H.                                           
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SAN SALVADOR   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+MAYAGUANA      34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+GRAND TURK     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   9(11)
+GRAND TURK     50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   3( 4)
+GRAND TURK     64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+PUERTO PLATA   34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+ 
+SANTO DOMINGO  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+PONCE PR       34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   2( 8)
+ 
+AGUADILLA PR   34  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   4(10)
+AGUADILLA PR   50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+AGUADILLA PR   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+SAN JUAN PR    34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   2( 8)
+ 
+VIEQUES PR     34  X   X( X)   X( X)   X( X)   3( 3)   5( 8)   3(11)
+VIEQUES PR     50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+VIEQUES PR     64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   X( X)   5( 5)   7(12)   3(15)
+SAINT THOMAS   50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+SAINT THOMAS   64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+SAINT JOHN     34  X   X( X)   X( X)   X( X)   6( 6)   6(12)   3(15)
+SAINT JOHN     50  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   1( 4)
+SAINT JOHN     64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   X( X)   3( 3)   5( 8)   2(10)
+ 
+SAINT MAARTEN  34  X   X( X)   1( 1)   2( 3)   8(11)   5(16)   2(18)
+SAINT MAARTEN  50  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+SAINT MAARTEN  64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+SABA           34  X   X( X)   X( X)   2( 2)   5( 7)   4(11)   2(13)
+ 
+ST EUSTATIUS   34  X   X( X)   1( 1)   1( 2)   5( 7)   4(11)   2(13)
+ 
+ST KITTS-NEVIS 34  X   X( X)   1( 1)   1( 2)   5( 7)   3(10)   2(12)
+ 
+BARBUDA        34  X   X( X)   2( 2)   3( 5)   7(12)   3(15)   1(16)
+ 
+ANTIGUA        34  X   X( X)   1( 1)   1( 2)   4( 6)   1( 7)   X( 7)
+ 
+GUADELOUPE     34  X   X( X)   1( 1)   1( 2)   3( 5)   X( 5)   1( 6)
+ 
+$$                                                                  
+FORECASTER D. ZELINSKY                                              
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:52:37 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/072052.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/072052.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Lee Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/150155.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT13/AL132023_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Lee 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 07 Sep 2023 15:01:55 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/150155.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT13/AL132023_wind_probs_34_F120_sm2.png"
+alt="Hurricane Lee 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 07 Sep 2023 15:52:01 GMT
+]]>
+</description>
+<pubDate>Thu, 07 Sep 2023 15:01:55 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/150155.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/150155.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Margot (AT4/AL142023)</title>
+ <guid isPermaLink="false">summary-al142023-202309072049</guid>
+ <pubDate>Thu, 07 Sep 2023 20:49:13 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/072048.shtml</link>
+ <description>
+  ...DEPRESSION BECOMES TROPICAL STORM MARGOT...
+ As of 8:00 PM CVT Thu Sep 7
+ the center of Margot was located near 16.8, -28.3
+ with movement WNW at 17 mph.
+ The minimum central pressure was 1004 mb
+ with maximum sustained winds of about 40 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>16.8, -28.3</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Margot</nhc:name>
+  <nhc:wallet>AT4</nhc:wallet>
+  <nhc:atcf>AL142023</nhc:atcf>
+  <nhc:datetime>8:00 PM CVT Thu Sep 7</nhc:datetime>
+  <nhc:movement>WNW at 17 mph</nhc:movement>
+  <nhc:pressure>1004 mb</nhc:pressure>
+  <nhc:wind>40 mph</nhc:wind>
+  <nhc:headline> ...DEPRESSION BECOMES TROPICAL STORM MARGOT...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Margot Public Advisory Number 2</title>
+<description>Issued at 800 PM CVT Thu Sep 07 2023  <![CDATA[<pre>
+
+058 
+WTNT34 KNHC 072048
+TCPAT4
+ 
+BULLETIN
+Tropical Storm Margot Advisory Number   2
+NWS National Hurricane Center Miami FL       AL142023
+800 PM CVT Thu Sep 07 2023
+ 
+...DEPRESSION BECOMES TROPICAL STORM MARGOT...
+ 
+ 
+SUMMARY OF 800 PM CVT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.8N 28.3W
+ABOUT 290 MI...465 KM WNW OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...WNW OR 295 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM CVT (2100 UTC), the center of Tropical Storm Margot was
+located near latitude 16.8 North, longitude 28.3 West. Margot is
+moving toward the west-northwest near 17 mph (28 km/h), and this
+motion is expected to continue over the next few days.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Gradual strengthening is expected during the next few days, and 
+Margot is forecast to become a hurricane over the weekend.
+ 
+Tropical-storm-force winds extend outward up to 25 miles (35 km)
+from the center.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 AM CVT.
+ 
+$$
+Forecaster Kelly/Camposano
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:49:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/072048.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/072048.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Margot Forecast Advisory Number 2</title>
+<description>Issued at 2100 UTC THU SEP 07 2023  <![CDATA[<pre>
+
+171 
+WTNT24 KNHC 072048
+TCMAT4
+ 
+TROPICAL STORM MARGOT FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL142023
+2100 UTC THU SEP 07 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 16.8N  28.3W AT 07/2100Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 295 DEGREES AT  15 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1004 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 20NE   0SE   0SW  20NW.
+12 FT SEAS.. 60NE   0SE   0SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 16.8N  28.3W AT 07/2100Z
+AT 07/1800Z CENTER WAS LOCATED NEAR 16.5N  27.6W
+ 
+FORECAST VALID 08/0600Z 17.5N  30.6W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE  10SE   0SW  40NW.
+ 
+FORECAST VALID 08/1800Z 18.5N  33.6W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  30SE  20SW  40NW.
+ 
+FORECAST VALID 09/0600Z 19.8N  36.1W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 20NE   0SE   0SW  20NW.
+34 KT... 80NE  40SE  20SW  60NW.
+ 
+FORECAST VALID 09/1800Z 21.1N  38.3W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 30NE  10SE   0SW  20NW.
+34 KT... 90NE  60SE  30SW  70NW.
+ 
+FORECAST VALID 10/0600Z 22.6N  39.9W
+MAX WIND  65 KT...GUSTS  80 KT.
+50 KT... 30NE  20SE  10SW  30NW.
+34 KT...100NE  90SE  40SW  90NW.
+ 
+FORECAST VALID 10/1800Z 24.4N  41.0W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 40NE  30SE  20SW  40NW.
+34 KT...120NE 100SE  60SW 100NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 11/1800Z 28.0N  42.4W
+MAX WIND  75 KT...GUSTS  90 KT.
+ 
+OUTLOOK VALID 12/1800Z 31.5N  43.1W
+MAX WIND  80 KT...GUSTS 100 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 16.8N  28.3W
+ 
+NEXT ADVISORY AT 08/0300Z
+ 
+$$
+FORECASTER KELLY/CAMPOSANO
+ 
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:48:44 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/072048.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/072048.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Margot Forecast Discussion Number 2</title>
+<description>Issued at 800 PM CVT Thu Sep 07 2023  <![CDATA[<pre>
+
+534 
+WTNT44 KNHC 072049
+TCDAT4
+ 
+Tropical Storm Margot Discussion Number   2
+NWS National Hurricane Center Miami FL       AL142023
+800 PM CVT Thu Sep 07 2023
+
+Visible and infrared satellite imagery have shown increasingly 
+organized convection, with some convective bursts and curved banding 
+features around the low-level center. Dvorak classifications from 
+TAFB and SAB have increased to T2.5/35 kt. Therefore, the initial 
+intensity is set at 35 kt, making the system a tropical storm. 
+
+Tropical Storm Margot is currently moving west-northwestward, and 
+this motion is forecast to continue over the next couple days. A  
+decrease in forward speed and a turn to the north is indicated by 
+the end of the forecast period as a weakness develops in the 
+subtropical ridge over east-central Atlantic. The track guidance is 
+in general agreement, and the NHC track forecast once again lies 
+between the HCCA and TVCA consensus aids.
+
+Sea surface temperatures remain in the vicinity of 28C, but Margot 
+could encounter moderate wind shear and drier mid-level relative 
+humidities later in the forecast period. In general, these 
+conditions are not expected to be too hostile, and gradual 
+strengthening is indicated. The NHC wind speed forecast brings 
+Margot to hurricane strength in two to three days. The NHC intensity 
+forecast lies near the HCCA and IVCN intensity consensus aids.
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  07/2100Z 16.8N  28.3W   35 KT  40 MPH
+ 12H  08/0600Z 17.5N  30.6W   40 KT  45 MPH
+ 24H  08/1800Z 18.5N  33.6W   45 KT  50 MPH
+ 36H  09/0600Z 19.8N  36.1W   50 KT  60 MPH
+ 48H  09/1800Z 21.1N  38.3W   60 KT  70 MPH
+ 60H  10/0600Z 22.6N  39.9W   65 KT  75 MPH
+ 72H  10/1800Z 24.4N  41.0W   70 KT  80 MPH
+ 96H  11/1800Z 28.0N  42.4W   75 KT  85 MPH
+120H  12/1800Z 31.5N  43.1W   80 KT  90 MPH
+ 
+$$
+Forecaster Kelly/Camposano
+
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:50:15 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/072049.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/072049.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Margot Wind Speed Probabilities Number 2</title>
+<description>Issued at 2100 UTC THU SEP 07 2023                                              <![CDATA[<pre>
+
+368 
+FONT14 KNHC 072049
+PWSAT4
+                                                                    
+TROPICAL STORM MARGOT WIND SPEED PROBABILITIES NUMBER   2           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL142023               
+2100 UTC THU SEP 07 2023                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM MARGOT WAS LOCATED NEAR       
+LATITUDE 16.8 NORTH...LONGITUDE 28.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z THU 06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z FRI 18Z FRI 06Z SAT 18Z SAT 18Z SUN 18Z MON 18Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER KELLY/CAMPOSANO                                       
+          
+
+</pre>]]></description>
+<pubDate>Thu, 07 Sep 2023 20:49:48 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/072049.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/072049.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Margot Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/205125.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT14/AL142023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Margot 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 07 Sep 2023 20:51:25 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/205125.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT14/AL142023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Margot 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 07 Sep 2023 20:51:25 GMT
+]]>
+</description>
+<pubDate>Thu, 07 Sep 2023 20:51:25 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/205125.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/205125.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
