@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Wed, 27 Sep 2023 02:39:39 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 262325<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Tue Sep 26 2023<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Philippe, located over the central tropical Atlantic.<br/>
+<br/>
+Central Tropical Atlantic (AL91):<br/>
+Showers and thunderstorms continue to become better organized in <br/>
+association with an area of low pressure located roughly halfway <br/>
+between the Cabo Verde Islands and the Lesser Antilles. <br/>
+Environmental conditions are forecast to be conducive for <br/>
+development, and a tropical depression or storm is expected to form <br/>
+in the next day or so while the system moves west-northwestward <br/>
+across the central tropical Atlantic. Additional information on this <br/>
+system, including gale warnings, can be found in High Seas Forecasts <br/>
+issued by the National Weather Service. <br/>
+* Formation chance through 48 hours...high...90 percent.<br/>
+* Formation chance through 7 days...high...90 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br/>
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+]]>
+</description>
+<pubDate>Tue, 26 Sep 2023 23:25:37 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202309262325</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Philippe (AT2/AL172023)</title>
+ <guid isPermaLink="false">summary-al172023-202309270236</guid>
+ <pubDate>Wed, 27 Sep 2023 02:36:44 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/270236.shtml</link>
+ <description>
+  ...PHILIPPE EXPECTED TO SLOWLY WEAKEN OVER THE NEXT SEVERAL DAYS...
+ As of 11:00 PM AST Tue Sep 26
+ the center of Philippe was located near 17.4, -52.0
+ with movement W at 12 mph.
+ The minimum central pressure was 1003 mb
+ with maximum sustained winds of about 45 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>17.4, -52.0</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Philippe</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL172023</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Tue Sep 26</nhc:datetime>
+  <nhc:movement>W at 12 mph</nhc:movement>
+  <nhc:pressure>1003 mb</nhc:pressure>
+  <nhc:wind>45 mph</nhc:wind>
+  <nhc:headline> ...PHILIPPE EXPECTED TO SLOWLY WEAKEN OVER THE NEXT SEVERAL DAYS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Philippe Public Advisory Number 15</title>
+<description>Issued at 1100 PM AST Tue Sep 26 2023  <![CDATA[<pre>
+
+000
+WTNT32 KNHC 270236
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Philippe Advisory Number  15
+NWS National Hurricane Center Miami FL       AL172023
+1100 PM AST Tue Sep 26 2023
+ 
+...PHILIPPE EXPECTED TO SLOWLY WEAKEN OVER THE NEXT SEVERAL DAYS...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...17.4N 52.0W
+ABOUT 730 MI...1180 KM E OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Philippe was
+located near latitude 17.4 North, longitude 52.0 West. Philippe is
+moving toward the west near 12 mph (19 km/h) and a westward
+to west-northwestward motion is expected during the next few days.
+ 
+Satellite wind data indicates that maximum sustained winds remain 
+near 45 mph (75 km/h) with higher gusts. Gradual weakening is 
+forecast over the next several days. 
+ 
+Tropical-storm-force winds extend outward up to 230 miles (370 km)
+from the center.
+ 
+The estimated minimum central pressure is 1003 mb (29.62 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Papin
+ 
+</pre>]]></description>
+<pubDate>Wed, 27 Sep 2023 02:36:44 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/270236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/270236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Forecast Advisory Number 15</title>
+<description>Issued at 0300 UTC WED SEP 27 2023  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 270236
+TCMAT2
+ 
+TROPICAL STORM PHILIPPE FORECAST/ADVISORY NUMBER  15
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172023
+0300 UTC WED SEP 27 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 17.4N  52.0W AT 27/0300Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  10 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1003 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT.......200NE 170SE   0SW   0NW.
+12 FT SEAS..300NE 150SE 120SW 330NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 17.4N  52.0W AT 27/0300Z
+AT 27/0000Z CENTER WAS LOCATED NEAR 17.2N  51.5W
+ 
+FORECAST VALID 27/1200Z 17.9N  53.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...170NE 150SE   0SW   0NW.
+ 
+FORECAST VALID 28/0000Z 18.8N  55.2W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...130NE 110SE   0SW   0NW.
+ 
+FORECAST VALID 28/1200Z 19.4N  56.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...100NE  80SE   0SW   0NW.
+ 
+FORECAST VALID 29/0000Z 19.8N  58.3W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 80NE  70SE   0SW   0NW.
+ 
+FORECAST VALID 29/1200Z 20.0N  59.8W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 30/0000Z 20.0N  61.5W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 01/0000Z 20.1N  64.7W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+OUTLOOK VALID 02/0000Z 20.2N  67.0W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 17.4N  52.0W
+ 
+NEXT ADVISORY AT 27/0900Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+</pre>]]></description>
+<pubDate>Wed, 27 Sep 2023 02:36:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/270236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/270236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Forecast Discussion Number 15</title>
+<description>Issued at 1100 PM AST Tue Sep 26 2023  <![CDATA[<pre>
+ZCZC MIATCDAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+Tropical Storm Philippe Discussion Number  15
+NWS National Hurricane Center Miami FL       AL172023
+1100 PM AST Tue Sep 26 2023
+ 
+After the previous advisory, there was a convective burst with cloud 
+tops as cold as -80C that formed near the circulation center. More 
+recently, this burst has been waning in intensity, and it would not 
+be surprising to see the vortex become exposed again shortly as 
+20-30 kt southwesterly vertical wind shear continues. While 
+subjective and objective intensity estimates continue to suggest a 
+weaker storm, a helpful 0015 UTC ASCAT-B pass still showed a large 
+region of 35-40 kt winds in the northeastern side of the 
+circulation, in fact requiring an expansion of the tropical storm 
+force winds in that quadrant. Based primarily on the scatterometer 
+data, Philippe's intensity remains 40 kt for this advisory.
+ 
+The intensity forecast appears rather straightforward. The current
+vertical wind shear over Philippe is expected to continue through
+most of the forecast period, helping to import drier air into the
+circulation, that should prevent additional convective bursts from
+organizing the system. By 72 hours, both the GFS and ECMWF are in
+agreement that Philippe should no longer have organized deep
+convection, which is when the forecast shows the system becoming a
+post-tropical remnant low. As mentioned previously, this could
+happen sooner than forecasted given the unfavorable environment.
+ 
+After moving south of due west earlier today, Philippe appears to
+have resumed a north of due west heading, estimated at 280/10 kt.
+The track guidance is in good agreement on this motion continuing
+with a bend westward in 36-48 hours as the cyclone becomes 
+primarily steered by the low-level flow. The latest NHC track 
+forecast remains along or just south of the model guidance consensus 
+aids, and is between the GFS and ECMWF solutions. 
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  27/0300Z 17.4N  52.0W   40 KT  45 MPH
+ 12H  27/1200Z 17.9N  53.4W   40 KT  45 MPH
+ 24H  28/0000Z 18.8N  55.2W   35 KT  40 MPH
+ 36H  28/1200Z 19.4N  56.8W   35 KT  40 MPH
+ 48H  29/0000Z 19.8N  58.3W   35 KT  40 MPH
+ 60H  29/1200Z 20.0N  59.8W   30 KT  35 MPH
+ 72H  30/0000Z 20.0N  61.5W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 96H  01/0000Z 20.1N  64.7W   25 KT  30 MPH...POST-TROP/REMNT LOW
+120H  02/0000Z 20.2N  67.0W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 
+$$
+Forecaster Papin
+ 
+NNNN
+</pre>]]></description>
+<pubDate>Wed, 27 Sep 2023 02:39:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Wind Speed Probabilities Number 15</title>
+<description>Issued at 0300 UTC WED SEP 27 2023                                              <![CDATA[<pre>
+
+000
+FONT12 KNHC 270236
+PWSAT2
+                                                                    
+TROPICAL STORM PHILIPPE WIND SPEED PROBABILITIES NUMBER  15         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172023               
+0300 UTC WED SEP 27 2023                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM PHILIPPE WAS LOCATED NEAR     
+LATITUDE 17.4 NORTH...LONGITUDE 52.0 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z WED 12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN 00Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+VIEQUES PR     34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   1( 3)
+ 
+SAINT THOMAS   34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+SAINT JOHN     34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   2( 4)
+ 
+SAINT CROIX    34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+SAINT MAARTEN  34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   1( 4)
+ 
+SABA           34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+BARBUDA        34  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   1( 3)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+</pre>]]></description>
+<pubDate>Wed, 27 Sep 2023 02:36:44 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/270236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/270236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/023721.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Philippe 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 27 Sep 2023 02:37:21 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/023721.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Philippe 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 27 Sep 2023 02:37:21 GMT
+]]>
+</description>
+<pubDate>Wed, 27 Sep 2023 02:37:21 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/023721.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/023721.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
