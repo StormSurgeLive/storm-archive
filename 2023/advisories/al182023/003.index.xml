@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 29 Sep 2023 02:48:16 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 282319<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Thu Sep 28 2023<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Philippe, located several hundred miles east of the northern <br/>
+Leeward Islands, and on Tropical Storm Rina located over the <br/>
+central tropical Atlantic.<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Storm Rina are issued under <br/>
+WMO header WTNT33 KNHC and under AWIPS header MIATCPAT3.<br/>
+Forecast/Advisories on Tropical Storm Rina are issued <br/>
+under WMO header WTNT23 KNHC and under AWIPS header MIATCMAT3.<br/>
+<br/>
+$$<br/>
+Forecaster Brown<br/>
+]]>
+</description>
+<pubDate>Thu, 28 Sep 2023 23:19:41 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202309282319</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Philippe (AT2/AL172023)</title>
+ <guid isPermaLink="false">summary-al172023-202309290246</guid>
+ <pubDate>Fri, 29 Sep 2023 02:46:41 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/290246.shtml</link>
+ <description>
+  ...PHILIPPE MOVING VERY SLOWLY...
+ As of 11:00 PM AST Thu Sep 28
+ the center of Philippe was located near 18.3, -55.0
+ with movement WSW at 5 mph.
+ The minimum central pressure was 1004 mb
+ with maximum sustained winds of about 45 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>18.3, -55.0</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Philippe</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL172023</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Thu Sep 28</nhc:datetime>
+  <nhc:movement>WSW at 5 mph</nhc:movement>
+  <nhc:pressure>1004 mb</nhc:pressure>
+  <nhc:wind>45 mph</nhc:wind>
+  <nhc:headline> ...PHILIPPE MOVING VERY SLOWLY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Philippe Public Advisory Number 23</title>
+<description>Issued at 1100 PM AST Thu Sep 28 2023  <![CDATA[<pre>
+
+000
+WTNT32 KNHC 290246
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Philippe Advisory Number  23
+NWS National Hurricane Center Miami FL       AL172023
+1100 PM AST Thu Sep 28 2023
+ 
+...PHILIPPE MOVING VERY SLOWLY...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.3N 55.0W
+ABOUT 530 MI...855 KM E OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...WSW OR 240 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests in the northern Leeward Islands, the U.S. and British
+Virgin Islands, and Puerto Rico should monitor the progress of this
+system.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Philippe was
+located near latitude 18.3 North, longitude 55.0 West. Philippe is
+moving toward the west-southwest near 5 mph (7 km/h).  A slow
+westward or southwestward motion is expected during the next few
+days.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Little change in strength is forecast during the next few days, but
+Philippe could dissipate during that time.
+ 
+Tropical-storm-force winds extend outward up to 140 miles (220 km)
+from the center.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Brown
+ 
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:46:41 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/290246.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/290246.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Forecast Advisory Number 23</title>
+<description>Issued at 0300 UTC FRI SEP 29 2023  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 290246
+TCMAT2
+ 
+TROPICAL STORM PHILIPPE FORECAST/ADVISORY NUMBER  23
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172023
+0300 UTC FRI SEP 29 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 18.3N  55.0W AT 29/0300Z
+POSITION ACCURATE WITHIN  45 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-SOUTHWEST OR 240 DEGREES AT   4 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1004 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT.......120NE 120SE   0SW   0NW.
+12 FT SEAS..210NE 150SE  90SW 210NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.3N  55.0W AT 29/0300Z
+AT 29/0000Z CENTER WAS LOCATED NEAR 18.4N  54.8W
+ 
+FORECAST VALID 29/1200Z 18.2N  55.2W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...110NE 100SE   0SW   0NW.
+ 
+FORECAST VALID 30/0000Z 17.9N  55.6W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 90NE  80SE   0SW   0NW.
+ 
+FORECAST VALID 30/1200Z 17.6N  55.9W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 80NE  80SE   0SW  20NW.
+ 
+FORECAST VALID 01/0000Z 17.2N  56.2W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 70NE  70SE   0SW  30NW.
+ 
+FORECAST VALID 01/1200Z 17.0N  56.6W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 70NE  70SE  20SW  30NW.
+ 
+FORECAST VALID 02/0000Z 17.0N  57.0W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 30NE   0SE   0SW   0NW.
+34 KT... 80NE  80SE  30SW  40NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 03/0000Z 18.8N  57.6W
+MAX WIND  50 KT...GUSTS  60 KT.
+ 
+OUTLOOK VALID 04/0000Z 21.7N  58.3W
+MAX WIND  50 KT...GUSTS  60 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.3N  55.0W
+ 
+NEXT ADVISORY AT 29/0900Z
+ 
+$$
+FORECASTER BROWN
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:46:41 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/290246.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/290246.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Forecast Discussion Number 23</title>
+<description>Issued at 1100 PM AST Thu Sep 28 2023  <![CDATA[<pre>
+
+752 
+WTNT42 KNHC 290247
+TCDAT2
+ 
+Tropical Storm Philippe Discussion Number  23
+NWS National Hurricane Center Miami FL       AL172023
+1100 PM AST Thu Sep 28 2023
+ 
+There has not been much change in Philippe's organization this
+evening with deep convection pulsing around the eastern and 
+southern portions of the circulation.  Satellite imagery and a very 
+recently arriving ASCAT pass indicate that the circulation is 
+quite elongated east to west. In fact, the ASCAT data suggests 
+Philippe likely lacks a well-defined center, but there are some 
+indications that a center may be trying to re-form farther east. 
+Subjective Dvorak T-numbers from SAB and TAFB were T2.0 (30 kt) and 
+T2.5 (35 kt), respectively at 00Z, but the recently arriving ASCAT 
+data revealed winds of around 35-36 kt. Given the typical 
+undersampling of that instrument, the initial wind speed is held 
+at 40 kt. 
+
+The scatterometer data suggests that Philippe is located a little 
+south of the previous estimates, but the storm appears to have moved 
+little since the previous advisory. The track forecast is still 
+quite challenging due to the current disorganized structure and the 
+close proximity of Tropical Storm Rina to Philippe's east. The 
+dynamical model guidance suggests that the cyclone will move slowly 
+southwestward as Rina moves to the northeast of Philippe during the 
+next two to three days.  By early next week, the storm is forecast 
+to begin moving northward between a mid-level ridge over the 
+east-central Atlantic and a mid- to upper-level trough over the 
+southwestern Atlantic.  There is still significant spread in the 
+models on where Philippe makes the northward turn, but the guidance 
+is in slightly better agreement than 24 hours ago.  The updated NHC 
+track is a little to the right of the previous forecast, but it 
+lies a little west of the latest consensus aids. There continues to 
+be larger-than-normal uncertainty in the latter portion of the 
+track forecast.
+ 
+Westerly shear, dry air, and Philippe's close proximity to Rina
+have continued to prevent any increase in organization today.
+Those negative environmental factors are expected to linger during
+the next day or so, and little overall change in strength is
+forecast during that time. Although not explicitly shown in this
+forecast or by most of the model guidance, it is possible that
+Philippe's circulation becomes increasing elongated and the system
+dissipates within the next couple of days.  However, most of the 
+guidance shows Philippe surviving, and then finding a more favorable
+environment in which to strengthen early next week.  The NHC
+intensity forecast has been nudged upward from 72-120 h, but it
+remains below much the latest dynamical guidance and the consensus
+aids.  Until there is a bit more clarity it seems prudent to stay
+on the more conservative side of the guidance. As with the track
+forecast, there is still significant uncertainty in the long-range
+intensity prediction for Philippe.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0300Z 18.3N  55.0W   40 KT  45 MPH
+ 12H  29/1200Z 18.2N  55.2W   40 KT  45 MPH
+ 24H  30/0000Z 17.9N  55.6W   40 KT  45 MPH
+ 36H  30/1200Z 17.6N  55.9W   40 KT  45 MPH
+ 48H  01/0000Z 17.2N  56.2W   45 KT  50 MPH
+ 60H  01/1200Z 17.0N  56.6W   45 KT  50 MPH
+ 72H  02/0000Z 17.0N  57.0W   50 KT  60 MPH
+ 96H  03/0000Z 18.8N  57.6W   50 KT  60 MPH
+120H  04/0000Z 21.7N  58.3W   50 KT  60 MPH
+ 
+$$
+Forecaster Brown
+ 
+
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:47:15 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/290247.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/290247.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Wind Speed Probabilities Number 23</title>
+<description>Issued at 0300 UTC FRI SEP 29 2023                                              <![CDATA[<pre>
+
+627 
+FONT12 KNHC 290247
+PWSAT2
+                                                                    
+TROPICAL STORM PHILIPPE WIND SPEED PROBABILITIES NUMBER  23         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL172023               
+0300 UTC FRI SEP 29 2023                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM PHILIPPE WAS LOCATED NEAR     
+LATITUDE 18.3 NORTH...LONGITUDE 55.0 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z FRI 12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE 00Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ST KITTS-NEVIS 34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+BARBUDA        34  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   1( 6)
+ 
+GUADELOUPE     34  X   X( X)   X( X)   X( X)   2( 2)   3( 5)   X( 5)
+ 
+DOMINICA       34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   1( 4)
+ 
+BARBADOS       34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:47:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/290247.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/290247.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Philippe Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/204851.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Philippe 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 28 Sep 2023 20:48:51 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/204851.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT17/AL172023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Philippe 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 28 Sep 2023 21:23:40 GMT
+]]>
+</description>
+<pubDate>Thu, 28 Sep 2023 20:48:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/204851.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/204851.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Rina (AT3/AL182023)</title>
+ <guid isPermaLink="false">summary-al182023-202309290246</guid>
+ <pubDate>Fri, 29 Sep 2023 02:46:41 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/290246.shtml</link>
+ <description>
+  ...RINA MOVING SLOWLY NORTHWESTWARD OVER THE CENTRAL ATLANTIC...
+ As of 11:00 PM AST Thu Sep 28
+ the center of Rina was located near 18.4, -46.6
+ with movement NW at 7 mph.
+ The minimum central pressure was 1005 mb
+ with maximum sustained winds of about 40 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>18.4, -46.6</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Rina</nhc:name>
+  <nhc:wallet>AT3</nhc:wallet>
+  <nhc:atcf>AL182023</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Thu Sep 28</nhc:datetime>
+  <nhc:movement>NW at 7 mph</nhc:movement>
+  <nhc:pressure>1005 mb</nhc:pressure>
+  <nhc:wind>40 mph</nhc:wind>
+  <nhc:headline> ...RINA MOVING SLOWLY NORTHWESTWARD OVER THE CENTRAL ATLANTIC...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Rina Public Advisory Number 3</title>
+<description>Issued at 1100 PM AST Thu Sep 28 2023  <![CDATA[<pre>
+
+000
+WTNT33 KNHC 290246
+TCPAT3
+ 
+BULLETIN
+Tropical Storm Rina Advisory Number   3
+NWS National Hurricane Center Miami FL       AL182023
+1100 PM AST Thu Sep 28 2023
+ 
+...RINA MOVING SLOWLY NORTHWESTWARD OVER THE CENTRAL ATLANTIC...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.4N 46.6W
+ABOUT 1080 MI...1740 KM E OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NW OR 315 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Rina was
+located near latitude 18.4 North, longitude 46.6 West. Rina is
+moving toward the northwest near 7 mph (11 km/h). A 
+west-northwestward to northwestward motion is expected for the 
+next several days.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts. 
+Slight strengthening is possible overnight and tomorrow, but no 
+significant change in strength is expected during the next few days.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+ 
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster D. Zelinsky
+ 
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:46:41 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/290246.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/290246.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rina Forecast Advisory Number 3</title>
+<description>Issued at 0300 UTC FRI SEP 29 2023  <![CDATA[<pre>
+
+000
+WTNT23 KNHC 290246
+TCMAT3
+ 
+TROPICAL STORM RINA FORECAST/ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182023
+0300 UTC FRI SEP 29 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 18.4N  46.6W AT 29/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 315 DEGREES AT   6 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1005 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 60NE  50SE   0SW   0NW.
+12 FT SEAS..135NE 135SE  30SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.4N  46.6W AT 29/0300Z
+AT 29/0000Z CENTER WAS LOCATED NEAR 18.3N  46.4W
+ 
+FORECAST VALID 29/1200Z 19.1N  47.3W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 90NE  90SE   0SW  50NW.
+ 
+FORECAST VALID 30/0000Z 19.6N  48.3W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...100NE 100SE  40SW  60NW.
+ 
+FORECAST VALID 30/1200Z 19.9N  49.4W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...100NE 100SE  40SW  60NW.
+ 
+FORECAST VALID 01/0000Z 20.4N  50.7W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 80NE  80SE   0SW  60NW.
+ 
+FORECAST VALID 01/1200Z 21.0N  52.4W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 70NE  70SE   0SW   0NW.
+ 
+FORECAST VALID 02/0000Z 22.0N  54.1W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE  60SE   0SW   0NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 03/0000Z 24.5N  57.0W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+OUTLOOK VALID 04/0000Z 27.0N  57.0W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.4N  46.6W
+ 
+NEXT ADVISORY AT 29/0900Z
+ 
+$$
+FORECASTER D. ZELINSKY
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:46:14 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/290246.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/290246.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rina Forecast Discussion Number 3</title>
+<description>Issued at 1100 PM AST Thu Sep 28 2023  <![CDATA[<pre>
+
+000
+WTNT43 KNHC 290248
+TCDAT3
+ 
+Tropical Storm Rina Discussion Number   3
+NWS National Hurricane Center Miami FL       AL182023
+1100 PM AST Thu Sep 28 2023
+ 
+The future for Rina has not become any clearer during the past 
+several hours. The cyclone is more or less unchanged since the last 
+advisory, with its center still generally exposed to the northwest 
+of the associated deep convection. The intensity remains 35 kt based 
+on recent operational SAB, TAFB, and UW-CIMSS ADT estimates.
+ 
+During the past day or so, the guidance has flip-flopped over 
+whether Rina or nearby Tropical Storm Philippe will become dominant. 
+While Rina appears to be the better organized of the two at the 
+moment, the latest runs of most models indicate that Philippe is 
+more likely to become the dominant cyclone by early next week. Until 
+the forecast becomes more consistent, it appears prudent to make 
+only very small incremental changes to the official NHC forecast. 
+Therefore, both the intensity and track forecasts are very similar 
+to the previous advisory, but confidence in the NHC forecast is 
+unusually low.
+ 
+Rina is heading northwestward into an area of stronger expected 
+vertical wind shear. A combination of the circulation of Philippe 
+and a ridge centered over the eastern subtropical Atlantic should 
+keep Rina generally on a west-northwest to northwest heading for at 
+least a few days. After that, if Rina deepens or at least maintains 
+its current strength and structure, it could begin to lift 
+northward. However, if it weakens, Rina or its remnants will likely 
+turn westward by early next week. The wind shear should prevent Rina 
+from strengthening much, and could eventually lead to its 
+dissipation in as soon as 4 or 5 days. The NHC track forecast is 
+based heavily on a blend of the previous NHC forecast with the ECMWF 
+and GFS ensemble means, while the intensity forecast is close to the 
+IVCN consensus.
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0300Z 18.4N  46.6W   35 KT  40 MPH
+ 12H  29/1200Z 19.1N  47.3W   40 KT  45 MPH
+ 24H  30/0000Z 19.6N  48.3W   45 KT  50 MPH
+ 36H  30/1200Z 19.9N  49.4W   45 KT  50 MPH
+ 48H  01/0000Z 20.4N  50.7W   40 KT  45 MPH
+ 60H  01/1200Z 21.0N  52.4W   35 KT  40 MPH
+ 72H  02/0000Z 22.0N  54.1W   35 KT  40 MPH
+ 96H  03/0000Z 24.5N  57.0W   30 KT  35 MPH
+120H  04/0000Z 27.0N  57.0W   30 KT  35 MPH
+ 
+$$
+Forecaster D. Zelinsky
+ 
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:48:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/290248.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/290248.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rina Wind Speed Probabilities Number 3</title>
+<description>Issued at 0300 UTC FRI SEP 29 2023                                              <![CDATA[<pre>
+
+000
+FONT13 KNHC 290247
+PWSAT3
+                                                                    
+TROPICAL STORM RINA WIND SPEED PROBABILITIES NUMBER   3             
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL182023               
+0300 UTC FRI SEP 29 2023                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM RINA WAS LOCATED NEAR LATITUDE
+18.4 NORTH...LONGITUDE 46.6 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+35 KTS...40 MPH...65 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z FRI 12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE 00Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER D. ZELINSKY                                              
+</pre>]]></description>
+<pubDate>Fri, 29 Sep 2023 02:47:15 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/290247.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/290247.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Rina Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204706.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Rina 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 28 Sep 2023 20:47:06 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204706.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT18/AL182023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Rina 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 28 Sep 2023 21:30:00 GMT
+]]>
+</description>
+<pubDate>Thu, 28 Sep 2023 20:47:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204706.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/204706.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
