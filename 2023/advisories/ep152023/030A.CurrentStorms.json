@@ -1,0 +1,100 @@
+{
+	"activeStorms": [
+		{
+			"id": "ep152023",
+			"binNumber": "EP5",
+			"name": "Lidia",
+			"classification": "HU",
+			"intensity": "100",
+			"pressure": "959",
+			"latitude": "19.2N",
+			"longitude": "107.2W",
+			"latitudeNumeric": 19.2,
+			"longitudeNumeric": -107.2,
+			"movementDir": 70,
+			"movementSpeed": 15,
+			"lastUpdate": "2023-10-10T18:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "030A",
+				"issuance": "2023-10-10T18:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP5.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSEP5.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDEP5.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"url": "https://www.nhc.noaa.gov/graphics_ep5.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep152023_5day_030.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_030adv_TRACK.kmz"
+			},
+			"windWatchesWarnings": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep152023_5day_030.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_030adv_WW.kmz"
+			},
+			"trackCone": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep152023_5day_030.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_030adv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep152023_fcst_030.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_initialradii_030adv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep152023_fcst_030.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_forecastradii_030adv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2023-10-10T12:00:00.000Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep152023_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep152023_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_030adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "030",
+				"issuance": "2023-10-10T15:00:00.000Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP152023_030adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": {
+				"issuance": "2023-10-10T12:00:00.000Z",
+				"zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2023101012_wsp_120hr5km.zip",
+				"zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2023101012_wsp_120hrhalfDeg.zip",
+				"kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2023101012_wsp34knt120hr_5km.kmz",
+				"kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2023101012_wsp50knt120hr_5km.kmz",
+				"kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2023101012_wsp64knt120hr_5km.kmz"
+			},
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
