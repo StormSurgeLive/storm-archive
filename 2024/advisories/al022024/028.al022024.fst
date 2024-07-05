@@ -1,0 +1,149 @@
+
+
+000
+WTNT32 KNHC 051448
+TCPAT2
+
+BULLETIN
+Hurricane Beryl Advisory Number  28
+NWS National Hurricane Center Miami FL       AL022024
+1000 AM CDT Fri Jul 05 2024
+
+...BERYL WEAKENING AS IT MOVES FARTHER INLAND OVER THE
+NORTHEASTERN YUCATAN PENINSULA...
+...DANGEROUS HURRICANE-FORCE WINDS, STORM SURGE, AND DAMAGING WAVES
+EXPECTED OVER PORTIONS OF THIS AREA FOR A FEW MORE HOURS...
+
+
+SUMMARY OF 1000 AM CDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...20.7N 88.3W
+ABOUT 100 MI...160 KM ESE OF PROGRESO MEXICO
+ABOUT 680 MI...1095 KM ESE OF BROWNSVILLE TEXAS
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...980 MB...28.94 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Meteorological Service of Mexico has discontinued all
+watches and warnings for the east coast of the Yucatan Peninsula
+south of Punta Allen.
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* The coast of the Yucatan Peninsula of Mexico from Puerto Allen to
+Cancun, including Cozumel
+
+A Hurricane Watch is in effect for...
+* The coast of the Yucatan Peninsula of Mexico north of Cancun to
+Cabo Catoche
+
+A Tropical Storm Warning is in effect for...
+* The coast of the Yucatan Peninsula of Mexico north of Cancun to
+Campeche
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.
+
+Interests in northeastern Mexico and the lower and middle Texas 
+coast should closely monitor the progress of Beryl. Hurricane and 
+Tropical Storm Watches will likely be issued for that region later 
+today.
+
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 AM CDT (1500 UTC), the center of Hurricane Beryl was located
+near latitude 20.7 North, longitude 88.3 West. Beryl is moving
+toward the west-northwest near 16 mph (26 km/h). A west-
+northwestward motion is expected during the next day or so, with the
+center expected to cross the northern Yucatan Peninsula today. Beryl
+is expected to emerge over the southwestern Gulf of Mexico tonight
+and then move northwestward toward northeastern Mexico and southern
+Texas by the end of the weekend.
+
+Maximum sustained winds have decreased to near 85 mph (140 km/h) 
+with higher gusts.  Continued rapid weakening is expected as Beryl 
+moves farther inland and crosses the Yucatan Peninsula today, but 
+slow re-intensification is expected once Beryl moves back over the 
+Gulf of Mexico.
+
+Hurricane-force winds extend outward up to 25 miles (35 km) from the
+center and tropical-storm-force winds extend outward up to 105 miles
+(165 km).
+
+The estimated minimum central pressure is 980 mb (28.94 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beryl can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2, WMO header WTNT42 KNHC,
+and on the NHC website at hurricanes.gov/text/MIATCDAT2.shtml.
+
+WIND: Hurricane conditions are occurring in the hurricane warning
+area on the Yucatan Peninsula and will continue for a few more
+hours.  Tropical storm conditions are occurring elsewhere in the
+hurricane warning area.
+
+Hurricane conditions are possible in the hurricane watch area along
+the east coast of the Yucatan Peninsula for a few more hours.
+
+Tropical storm conditions are expected in the tropical storm warning
+area of the Yucatan Caribbean coast this morning and over the
+Yucatan Gulf coast later today.
+
+STORM SURGE: Storm surge could raise water levels by as much as 1 to
+3 feet above ground level in areas of onshore winds along the east
+coast of the Yucatan Peninsula within the hurricane warning area
+and by as much as 1 to 3 feet above ground level along the west
+coast of the Yucatan Peninsula in the tropical storm warning
+area. Near the coast, the surge will be accompanied by large and
+destructive waves.
+
+RAINFALL:  Through today Beryl is expected to produce rainfall
+totals of 4 to 6 inches, with localized amounts of 10 inches, across
+the Yucatan Peninsula, with scattered instances of flash flooding
+anticipated.
+
+Heavy rainfall of 4 to 8 inches with locally higher amounts is
+expected across portions of northeastern Mexico and South Texas by
+Sunday into the coming week.  This rainfall is expected to produce
+areas of flash and urban flooding.
+
+For a complete depiction of forecast rainfall and flash flooding
+associated with Hurricane Beryl, please see the National Weather
+Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at2.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at2.shtml?ero
+
+SURF:  Large swells generated by Beryl are currently impacting
+portions of the coast of Cuba, the Cayman Islands, and the
+Yucatan Peninsula.  The swells are expected to reach eastern Mexico
+and much of the Gulf Coast of the U.S. by late today. These swells
+are expected to cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 100 PM CDT.
+Next complete advisory at 400 PM CDT.
+
+$$
+Forecaster Beven
+
