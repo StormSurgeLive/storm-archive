@@ -1,0 +1,61 @@
+{
+	"activeStorms": [
+		{
+			"id": "al022024",
+			"binNumber": "AT2",
+			"name": "Beryl",
+			"classification": "PTC",
+			"intensity": "25",
+			"pressure": "1004",
+			"latitude": "35.8N",
+			"longitude": "91.2W",
+			"latitudeNumeric": 35.8,
+			"longitudeNumeric": -91.2,
+			"movementDir": 40,
+			"movementSpeed": 25,
+			"lastUpdate": "2024-07-09T15:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "044",
+				"issuance": "2024-07-09T15:00:00.000Z",
+				"fileUpdateTime": "2024-07-09T14:36:52.277Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAWPCAT2.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "043",
+				"issuance": "2024-07-09T09:00:00.000Z",
+				"fileUpdateTime": "2024-07-09T08:37:45.662Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT2.shtml"
+			},
+			"windSpeedProbabilities": null,
+			"forecastDiscussion": {
+				"advNum": "043",
+				"issuance": "2024-07-09T09:00:00.000Z",
+				"fileUpdateTime": "2024-07-09T08:48:40.580Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT2.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "042",
+				"issuance": "2024-07-09T09:00:00.000Z",
+				"fileUpdateTime": "2024-07-09T02:44:05.913Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at2.shtml"
+			},
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": {
+				"issuance": "2024-07-09T00:00:00.000Z",
+				"fileUpdateTime": "2024-07-09T02:44:55.882Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al022024_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al022024_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
