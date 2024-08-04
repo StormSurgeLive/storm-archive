@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Sun, 04 Aug 2024 14:36:41 GMT</pubDate>
+<title>NHC Eastern North Pacific</title>
+<description>Active tropical cyclones in the Eastern North Pacific</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Eastern North Pacific</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Eastern North Pacific Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABPZ20 KNHC 041210 CCA<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook...Corrected<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Sun Aug 4 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Corrected to update active systems and include statement for gale <br/>
+warnings for EP96.<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on recently <br/>
+downgraded Tropical Storm Carlotta, located several hundred miles to <br/>
+the west-southwest of the southern tip of the Baja California <br/>
+peninsula, and on Tropical Storm Daniel, located more than one <br/>
+thousand miles to the west-southwest of the southern tip of the Baja <br/>
+California peninsula. <br/>
+<br/>
+South of Southwestern Mexico (EP96):<br/>
+Shower and thunderstorm activity has increased with a broad area of <br/>
+low pressure located a few hundred miles south of southwestern <br/>
+Mexico. Environmental conditions remain conducive for gradual <br/>
+development, and a tropical depression is likely to form during the <br/>
+next day or two while the system moves generally west-northwestward <br/>
+at 10 to 15 mph, remaining well offshore of the coast of Mexico. For <br/>
+more information of this system, including Gale Warnings, see High <br/>
+Seas Forecasts issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...high...70 percent.<br/>
+* Formation chance through 7 days...high...90 percent.<br/>
+<br/>
+South-Southwest of the Baja California Peninsula (EP97):<br/>
+Shower and thunderstorm activity is showing signs of organization <br/>
+with an area of low pressure located several hundred miles to the <br/>
+south-southwest of the southern tip of the Baja California <br/>
+peninsula. Environmental conditions appear conducive for development <br/>
+over the next day or two, and a tropical depression is likely to <br/>
+form during that time while the system meanders within weak steering <br/>
+currents. Thereafter, the system is forecast to interact with the <br/>
+disturbance (EP96) to its southeast, which should limit the chances <br/>
+of further development afterwards.<br/>
+* Formation chance through 48 hours...high...70 percent.<br/>
+* Formation chance through 7 days...high...70 percent.<br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Storm Daniel are issued under      <br/>
+WMO header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br/>
+Forecast/Advisories on Tropical Storm Daniel are issued under     <br/>
+WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br/>
+<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFEPI, WMO header FZPN02 <br/>
+KWBC, and on the web at ocean.weather.gov/shtml/NFDHSFEPI.php <br/>
+<br/>
+$$<br/>
+Forecaster Papin/D. Zelinsky<br/>
+]]>
+</description>
+<pubDate>Sun, 04 Aug 2024 12:11:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=epac</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;202408041211</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Carlotta (EP3/EP032024)</title>
+ <guid isPermaLink="false">summary-ep032024-202408041435</guid>
+ <pubDate>Sun, 04 Aug 2024 14:35:24 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/041435.shtml</link>
+ <description>
+  ...CARLOTTA SLOWLY WEAKENING...
+ As of 8:00 AM PDT Sun Aug 4
+ the center of Carlotta was located near 19.9, -124.0
+ with movement W at 12 mph.
+ The minimum central pressure was 994 mb
+ with maximum sustained winds of about 65 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>19.9, -124.0</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Carlotta</nhc:name>
+  <nhc:wallet>EP3</nhc:wallet>
+  <nhc:atcf>EP032024</nhc:atcf>
+  <nhc:datetime>8:00 AM PDT Sun Aug 4</nhc:datetime>
+  <nhc:movement>W at 12 mph</nhc:movement>
+  <nhc:pressure>994 mb</nhc:pressure>
+  <nhc:wind>65 mph</nhc:wind>
+  <nhc:headline> ...CARLOTTA SLOWLY WEAKENING...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Carlotta Public Advisory Number 17</title>
+<description>Issued at 800 AM PDT Sun Aug 04 2024  <![CDATA[<pre>
+
+661 
+WTPZ33 KNHC 041435
+TCPEP3
+ 
+BULLETIN
+Tropical Storm Carlotta Advisory Number  17
+NWS National Hurricane Center Miami FL       EP032024
+800 AM PDT Sun Aug 04 2024
+ 
+...CARLOTTA SLOWLY WEAKENING...
+ 
+ 
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.9N 124.0W
+ABOUT 930 MI...1495 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...994 MB...29.36 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Carlotta was
+located near latitude 19.9 North, longitude 124.0 West. Carlotta is
+moving toward the west near 12 mph (19 km/h). This general motion
+is expected for the next day or two. Carlotta's forward motion is
+forecast to slow down gradually as it becomes a remnant low in a
+couple of days.
+ 
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts. Gradual weakening is expected during the next few days.
+Carlotta is forecast to become a remnant low late Monday or early
+Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center.
+ 
+The estimated minimum central pressure is 994 mb (29.36 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF: Swells generated by Carlotta along the coast of the southern
+Baja California peninsula are expected to diminish today. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 PM PDT.
+ 
+$$
+Forecaster D. Zelinsky
+ 
+
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:35:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/041435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP3+shtml/041435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Carlotta Forecast Advisory Number 17</title>
+<description>Issued at 1500 UTC SUN AUG 04 2024  <![CDATA[<pre>
+
+663 
+WTPZ23 KNHC 041435
+TCMEP3
+ 
+TROPICAL STORM CARLOTTA FORECAST/ADVISORY NUMBER  17
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP032024
+1500 UTC SUN AUG 04 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 19.9N 124.0W AT 04/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  10 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  994 MB
+MAX SUSTAINED WINDS  55 KT WITH GUSTS TO  65 KT.
+50 KT....... 40NE  20SE  20SW  40NW.
+34 KT....... 80NE  60SE  60SW  80NW.
+12 FT SEAS..105NE 120SE 120SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 19.9N 124.0W AT 04/1500Z
+AT 04/1200Z CENTER WAS LOCATED NEAR 19.8N 123.5W
+ 
+FORECAST VALID 05/0000Z 20.3N 125.4W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  40SE  40SW  60NW.
+ 
+FORECAST VALID 05/1200Z 20.7N 127.1W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE  30SE  30SW  50NW.
+ 
+FORECAST VALID 06/0000Z 21.1N 128.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 40NE   0SE   0SW  40NW.
+ 
+FORECAST VALID 06/1200Z 21.3N 130.3W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 07/0000Z 21.3N 131.7W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 07/1200Z 21.2N 133.1W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 08/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 19.9N 124.0W
+ 
+NEXT ADVISORY AT 04/2100Z
+ 
+$$
+FORECASTER D. ZELINSKY
+ 
+ 
+
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:35:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/041435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP3+shtml/041435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Carlotta Forecast Discussion Number 17</title>
+<description>Issued at 800 AM PDT Sun Aug 04 2024  <![CDATA[<pre>
+
+000
+WTPZ43 KNHC 041435
+TCDEP3
+ 
+Tropical Storm Carlotta Discussion Number  17
+NWS National Hurricane Center Miami FL       EP032024
+800 AM PDT Sun Aug 04 2024
+ 
+Carlotta's deep convection has become quite limited this
+morning. Subjective Dvorak and objective satellite estimates like
+the UW-CIMSS ADT are all decreasing, and support an initial
+intensity estimate of 55 kt. No changes of note were made to the NHC
+forecast, and further weakening should continue as Carlotta moves
+over SSTs that are already below 25 deg C. The SSTs will only get
+colder during the next couple of days as Carlotta moves along the
+forecast track. The tropical storm is forecast by most models to
+lose its remaining deep convection in about 48 h, and based on
+current trends this could occur even sooner. Dissipation is still
+expected around mid-week.
+ 
+The tropical storm is still moving westward to west-northwestward. 
+This general motion should continue for the next day or two as 
+Carlotta is steered by a deep-layer ridge centered well to its 
+northeast. As the cyclone weakens further and becomes more 
+vertically shallow, low-level steering will likely cause it to turn 
+westward and slow down slightly in a couple of days.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  04/1500Z 19.9N 124.0W   55 KT  65 MPH
+ 12H  05/0000Z 20.3N 125.4W   45 KT  50 MPH
+ 24H  05/1200Z 20.7N 127.1W   40 KT  45 MPH
+ 36H  06/0000Z 21.1N 128.8W   35 KT  40 MPH
+ 48H  06/1200Z 21.3N 130.3W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 60H  07/0000Z 21.3N 131.7W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 72H  07/1200Z 21.2N 133.1W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 96H  08/1200Z...DISSIPATED
+ 
+$$
+Forecaster D. Zelinsky
+ 
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:35:58 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/041435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP3+shtml/041435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Carlotta Wind Speed Probabilities Number 17</title>
+<description>Issued at 1500 UTC SUN AUG 04 2024                                              <![CDATA[<pre>
+
+000
+FOPZ13 KNHC 041435
+PWSEP3
+                                                                    
+TROPICAL STORM CARLOTTA WIND SPEED PROBABILITIES NUMBER  17         
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP032024               
+1500 UTC SUN AUG 04 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM CARLOTTA WAS LOCATED NEAR     
+LATITUDE 19.9 NORTH...LONGITUDE 124.0 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SUN 00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU 12Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+20N 125W       34 94   X(94)   X(94)   X(94)   X(94)   X(94)   X(94)
+20N 125W       50 23   1(24)   X(24)   X(24)   X(24)   X(24)   X(24)
+20N 125W       64  1   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+20N 130W       34  X   1( 1)   3( 4)   2( 6)   1( 7)   X( 7)   X( 7)
+ 
+$$                                                                  
+FORECASTER D. ZELINSKY                                              
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:35:58 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/041435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP3+shtml/041435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Carlotta Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/084303.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP03/EP032024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Carlotta 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sun, 04 Aug 2024 08:43:03 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/084303.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP03/EP032024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Carlotta 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sun, 04 Aug 2024 09:29:07 GMT
+]]>
+</description>
+<pubDate>Sun, 04 Aug 2024 08:43:03 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/084303.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_ep3+shtml/084303.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Daniel (EP4/EP042024)</title>
+ <guid isPermaLink="false">summary-ep042024-202408041434</guid>
+ <pubDate>Sun, 04 Aug 2024 14:34:28 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/041434.shtml</link>
+ <description>
+  ...DANIEL BEGINNING TO MOVE NORTH-NORTHEASTWARD...
+ As of 8:00 AM PDT Sun Aug 4
+ the center of Daniel was located near 13.2, -130.4
+ with movement NNE at 5 mph.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 40 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>13.2, -130.4</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Daniel</nhc:name>
+  <nhc:wallet>EP4</nhc:wallet>
+  <nhc:atcf>EP042024</nhc:atcf>
+  <nhc:datetime>8:00 AM PDT Sun Aug 4</nhc:datetime>
+  <nhc:movement>NNE at 5 mph</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>40 mph</nhc:wind>
+  <nhc:headline> ...DANIEL BEGINNING TO MOVE NORTH-NORTHEASTWARD...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Daniel Public Advisory Number 5</title>
+<description>Issued at 800 AM PDT Sun Aug 04 2024  <![CDATA[<pre>
+
+000
+WTPZ34 KNHC 041434
+TCPEP4
+ 
+BULLETIN
+Tropical Storm Daniel Advisory Number   5
+NWS National Hurricane Center Miami FL       EP042024
+800 AM PDT Sun Aug 04 2024
+ 
+...DANIEL BEGINNING TO MOVE NORTH-NORTHEASTWARD...
+ 
+ 
+SUMMARY OF 800 AM PDT...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...13.2N 130.4W
+ABOUT 1500 MI...2415 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NNE OR 25 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM PDT (1500 UTC), the center of Tropical Storm Daniel was 
+located near latitude 13.2 North, longitude 130.4 West. Daniel is 
+moving toward the north-northeast near 5 mph (7 km/h). A faster 
+northeastward motion is forecast later today and Monday, followed by 
+a turn toward the north and northwest on Monday night and Tuesday.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts. 
+Small intensity fluctuations are possible during the next couple of 
+days. Daniel is forecast to become a post-tropical remnant low on 
+Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 PM PDT.
+ 
+$$
+Forecaster Papin
+ 
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:34:28 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/041434.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/041434.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Daniel Forecast Advisory Number 5</title>
+<description>Issued at 1500 UTC SUN AUG 04 2024  <![CDATA[<pre>
+
+000
+WTPZ24 KNHC 041433
+TCMEP4
+ 
+TROPICAL STORM DANIEL FORECAST/ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP042024
+1500 UTC SUN AUG 04 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 13.2N 130.4W AT 04/1500Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH-NORTHEAST OR  25 DEGREES AT   4 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT.......  0NE  60SE  60SW  50NW.
+12 FT SEAS..  0NE   0SE  60SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 13.2N 130.4W AT 04/1500Z
+AT 04/1200Z CENTER WAS LOCATED NEAR 12.9N 130.5W
+ 
+FORECAST VALID 05/0000Z 13.9N 129.4W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...  0NE  60SE  50SW   0NW.
+ 
+FORECAST VALID 05/1200Z 15.3N 127.8W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  60SE  50SW   0NW.
+ 
+FORECAST VALID 06/0000Z 16.8N 126.4W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...  0NE  50SE   0SW   0NW.
+ 
+FORECAST VALID 06/1200Z 17.8N 126.2W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 07/0000Z 18.7N 126.7W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 07/1200Z 18.9N 127.9W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 08/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 13.2N 130.4W
+ 
+NEXT ADVISORY AT 04/2100Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:33:54 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/041433.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/041433.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Daniel Forecast Discussion Number 5</title>
+<description>Issued at 800 AM PDT Sun Aug 04 2024  <![CDATA[<pre>
+
+000
+WTPZ44 KNHC 041435
+TCDEP4
+ 
+Tropical Storm Daniel Discussion Number   5
+NWS National Hurricane Center Miami FL       EP042024
+800 AM PDT Sun Aug 04 2024
+
+Daniel's convective structure continues to sputter along, with the 
+coldest cloud tops organized in two regions to the northeast and 
+southwest of the center, which appears to be mostly exposed this 
+morning. The latest round of both subjective and objective intensity 
+guidance has not changed much from overnight, and so the initial 
+intensity remains 35 kt this advisory. 
+
+It appears that the tropical storm is finally starting to track more 
+north-northeastward this morning, with the estimated motion at 030/4 
+kt. A somewhat faster northeastward motion is expected to begin 
+later today through Monday as Daniel's motion is influenced by the 
+southwesterly monsoonal flow being picked up by Carlotta passing to 
+the north. The global models still show a turn north and 
+northwestward as Daniel gets caught in the outer periphery  of 
+Carlotta's larger circulation. The NHC track forecast is quite 
+similar to the prior advisory, close to the multi-model consensus. 
+ 
+While the vertical wind shear that was previously affecting Daniel 
+is starting to subside, there is quite a bit of environmental dry 
+air to the north of the storm, which will likely keep it in check, 
+and only a modest amount of intensification is forecasted. After 48 
+h, this dry air is expected to fully envelop the circulation, 
+choking off the remaining convection, marking the storm's transition 
+to a post-tropical remnant low. The low is finally forecast to open 
+up into a trough by midweek.
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  04/1500Z 13.2N 130.4W   35 KT  40 MPH
+ 12H  05/0000Z 13.9N 129.4W   35 KT  40 MPH
+ 24H  05/1200Z 15.3N 127.8W   40 KT  45 MPH
+ 36H  06/0000Z 16.8N 126.4W   35 KT  40 MPH
+ 48H  06/1200Z 17.8N 126.2W   30 KT  35 MPH
+ 60H  07/0000Z 18.7N 126.7W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 72H  07/1200Z 18.9N 127.9W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 96H  08/1200Z...DISSIPATED
+ 
+$$
+Forecaster Papin
+ 
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:35:58 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/041435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/041435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Daniel Wind Speed Probabilities Number 5</title>
+<description>Issued at 1500 UTC SUN AUG 04 2024                                              <![CDATA[<pre>
+
+000
+FOPZ14 KNHC 041434
+PWSEP4
+                                                                    
+TROPICAL STORM DANIEL WIND SPEED PROBABILITIES NUMBER   5           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP042024               
+1500 UTC SUN AUG 04 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM DANIEL WAS LOCATED NEAR       
+LATITUDE 13.2 NORTH...LONGITUDE 130.4 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z SUN 00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z MON 12Z MON 00Z TUE 12Z TUE 12Z WED 12Z THU 12Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+15N 125W       34  X   2( 2)   2( 4)   1( 5)   X( 5)   X( 5)   X( 5)
+ 
+20N 125W       34  X   X( X)   1( 1)   1( 2)   2( 4)   X( 4)   X( 4)
+ 
+15N 130W       34  4   7(11)   X(11)   X(11)   X(11)   X(11)   X(11)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:34:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP4+shtml/041434.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP4+shtml/041434.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Daniel Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/085035.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP04/EP042024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Daniel 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sun, 04 Aug 2024 08:50:35 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/085035.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP04/EP042024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Daniel 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sun, 04 Aug 2024 09:34:55 GMT
+]]>
+</description>
+<pubDate>Sun, 04 Aug 2024 08:50:35 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/085035.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/085035.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Five-E (EP5/EP052024)</title>
+ <guid isPermaLink="false">summary-ep052024-202408041434</guid>
+ <pubDate>Sun, 04 Aug 2024 14:34:57 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/041434.shtml</link>
+ <description>
+  ...NEW TROPICAL DEPRESSION FORMS OVER THE OPEN EASTERN PACIFIC...
+ As of 8:00 AM MST Sun Aug 4
+ the center of Five-E was located near 15.8, -112.9
+ with movement Stationary.
+ The minimum central pressure was 1007 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>15.8, -112.9</nhc:center>
+  <nhc:type>TROPICAL DEPRESSION</nhc:type>
+  <nhc:name>Five-E</nhc:name>
+  <nhc:wallet>EP5</nhc:wallet>
+  <nhc:atcf>EP052024</nhc:atcf>
+  <nhc:datetime>8:00 AM MST Sun Aug 4</nhc:datetime>
+  <nhc:movement>Stationary</nhc:movement>
+  <nhc:pressure>1007 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...NEW TROPICAL DEPRESSION FORMS OVER THE OPEN EASTERN PACIFIC...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Five-E Public Advisory Number 1</title>
+<description>Issued at 800 AM MST Sun Aug 04 2024  <![CDATA[<pre>
+
+000
+WTPZ35 KNHC 041434
+TCPEP5
+ 
+BULLETIN
+Tropical Depression Five-E Advisory Number   1
+NWS National Hurricane Center Miami FL       EP052024
+800 AM MST Sun Aug 04 2024
+ 
+...NEW TROPICAL DEPRESSION FORMS OVER THE OPEN EASTERN PACIFIC...
+ 
+ 
+SUMMARY OF 800 AM MST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.8N 112.9W
+ABOUT 530 MI...850 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...STATIONARY
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM MST (1500 UTC), the center of Tropical Depression Five-E
+was located near latitude 15.8 North, longitude 112.9 West. The
+depression is nearly stationary, but a slow generally southward 
+motion is expected to begin later today and continue into Monday. A 
+sharp turn back toward the north is possible by Tuesday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts. 
+Slow strengthening is expected today and the system is forecast to 
+become a tropical storm tonight. The cyclone will then begin to 
+interact with another larger disturbance approaching from the east, 
+which is expected to cause this system to dissipate in a few days.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 PM MST.
+ 
+$$
+Forecaster D. Zelinsky
+ 
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:34:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/041434.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/041434.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Five-E Forecast Advisory Number 1</title>
+<description>Issued at 1500 UTC SUN AUG 04 2024  <![CDATA[<pre>
+
+000
+WTPZ25 KNHC 041434
+TCMEP5
+ 
+TROPICAL DEPRESSION FIVE-E FORECAST/ADVISORY NUMBER   1
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP052024
+1500 UTC SUN AUG 04 2024
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 15.8N 112.9W AT 04/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 360 DEGREES AT   0 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1007 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 15.8N 112.9W AT 04/1500Z
+AT 04/1200Z CENTER WAS LOCATED NEAR 15.9N 112.8W
+ 
+FORECAST VALID 05/0000Z 15.4N 113.0W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...  0NE   0SE  30SW  30NW.
+ 
+FORECAST VALID 05/1200Z 14.5N 113.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...  0NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 06/0000Z 13.8N 113.4W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 50NE  60SE  60SW  50NW.
+ 
+FORECAST VALID 06/1200Z 14.1N 112.8W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 70NE  70SE  50SW  50NW.
+ 
+FORECAST VALID 07/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 15.8N 112.9W
+ 
+NEXT ADVISORY AT 04/2100Z
+ 
+$$
+FORECASTER D. ZELINSKY
+ 
+ 
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:34:57 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/041434.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/041434.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Five-E Forecast Discussion Number 1</title>
+<description>Issued at 800 AM MST Sun Aug 04 2024  <![CDATA[<pre>
+
+662 
+WTPZ45 KNHC 041435
+TCDEP5
+ 
+Tropical Depression Five-E Discussion Number   1
+NWS National Hurricane Center Miami FL       EP052024
+800 AM MST Sun Aug 04 2024
+ 
+Convection associated with a low located well offshore Mexico has 
+steadily increased in coverage and organization since yesterday. 
+Overnight ASCAT and first-light visible imagery indicate that the 
+cyclone also has a well-defined, if somewhat broad, circulation. 
+Subjective Dvorak classifications from TAFB and SAB were both 2.0 
+at 1200 UTC, which support initiating advisories on the system as a 
+30 kt depression.
+
+The depression is located within a very convectively active 
+environment over the east Pacific, deep-layer wind shear is low, and 
+SSTs are plenty warm, so strengthening is expected in the short 
+term. The biggest source of uncertainty for this forecast is an 
+expected interaction with a larger disturbance, currently Invest 
+96E, which is approaching from the east. Based on the available 
+global and hurricane dynamical model forecasts, the most likely 
+scenario is that 96E will be the dominant system. In that case, the 
+new depression will only have a short window to strengthen before it 
+is wrapped into and dissipates within the other circulation. Models 
+historically handle interaction cases like this poorly, so 
+confidence in the forecast is not high, despite the near universal 
+agreement between the dynamical guidance on this upcoming evolution.
+
+The NHC forecast is very close to the consensus guidance through 24 
+to 36 h.  After that, the model trackers appear to be getting fooled 
+by the close proximity of 96E and TD Five-E and are following the 
+stronger vortex instead. The NHC forecast is based heavily on a 
+broad consensus of model fields beyond 36 h and shows dissipation 
+occuring by 60 h.  There is some chance that the depression could 
+persist longer than forecast if the two systems remain farther 
+apart, however there is not enough guidance with a trackable vortex 
+to justify an explicit forecast beyond what is currently shown.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  04/1500Z 15.8N 112.9W   30 KT  35 MPH
+ 12H  05/0000Z 15.4N 113.0W   35 KT  40 MPH
+ 24H  05/1200Z 14.5N 113.4W   40 KT  45 MPH
+ 36H  06/0000Z 13.8N 113.4W   45 KT  50 MPH
+ 48H  06/1200Z 14.1N 112.8W   45 KT  50 MPH
+ 60H  07/0000Z...DISSIPATED
+ 
+$$
+Forecaster D. Zelinsky
+ 
+
+</pre>]]></description>
+<pubDate>Sun, 04 Aug 2024 14:35:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/041435.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/041435.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
