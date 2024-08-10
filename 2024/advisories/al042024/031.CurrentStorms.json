@@ -1,0 +1,61 @@
+{
+	"activeStorms": [
+		{
+			"id": "al042024",
+			"binNumber": "AT4",
+			"name": "Debby",
+			"classification": "PTC",
+			"intensity": "30",
+			"pressure": "996",
+			"latitude": "46.3N",
+			"longitude": "71.1W",
+			"latitudeNumeric": 46.3,
+			"longitudeNumeric": -71.1,
+			"movementDir": 55,
+			"movementSpeed": 39,
+			"lastUpdate": "2024-08-10T03:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "031",
+				"issuance": "2024-08-10T03:00:00.000Z",
+				"fileUpdateTime": "2024-08-10T02:37:15.941Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAWPCAT4.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "031",
+				"issuance": "2024-08-10T03:00:00.000Z",
+				"fileUpdateTime": "2024-08-10T02:34:02.427Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT4.shtml"
+			},
+			"windSpeedProbabilities": null,
+			"forecastDiscussion": {
+				"advNum": "030",
+				"issuance": "2024-08-09T21:00:00.000Z",
+				"fileUpdateTime": "2024-08-09T20:42:42.674Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT4.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "026",
+				"issuance": "2024-08-09T21:00:00.000Z",
+				"fileUpdateTime": "2024-08-08T20:42:32.023Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at4.shtml"
+			},
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": {
+				"issuance": "2024-08-08T18:00:00.000Z",
+				"fileUpdateTime": "2024-08-08T20:43:09.468Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al042024_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al042024_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
