@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Tue, 20 Aug 2024 02:36:31 GMT</pubDate>
+<title>NHC Eastern North Pacific</title>
+<description>Active tropical cyclones in the Eastern North Pacific</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Eastern North Pacific</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Eastern North Pacific Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABPZ20 KNHC 192337<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 PM PDT Mon Aug 19 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Gilma, located several hundred miles southwest of the southern <br/>
+tip of the Baja California peninsula. <br/>
+<br/>
+Well East-southeast of the Hawaiian Islands (EP90):<br/>
+Shower and thunderstorm activity continues in association with an <br/>
+area of low pressure located well east-southeast of Hawaii. <br/>
+Environmental conditions are expected to be conducive for <br/>
+development and a tropical depression is likely to form during the <br/>
+next couple of days. The disturbance is forecast to meander slowly <br/>
+northward or northeastward during the next couple of days or so, <br/>
+before accelerating west-northwestward into the Central Pacific <br/>
+basin by the latter portion of the week. Information on this <br/>
+system's development can also be found in the Tropical Weather <br/>
+Outlook for the Central Pacific basin.<br/>
+* Formation chance through 48 hours...high...70 percent.<br/>
+* Formation chance through 7 days...high...80 percent.<br/>
+<br/>
+Western Portion of the East Pacific:<br/>
+A broad area of shower and thunderstorm activity is located well <br/>
+west-southwest of the southern tip of the Baja California peninsula. <br/>
+This system is forecast to move slowly toward the northwest for the <br/>
+next few days, and interactions with either EP90 to its west or <br/>
+Gilma to its east could limit the potential for formation. <br/>
+Regardless, a tropical depression could form within the next few <br/>
+days. Further development after that time will be unlikely. <br/>
+* Formation chance through 48 hours...low...20 percent.<br/>
+* Formation chance through 7 days...medium...40 percent.<br/>
+<br/>
+Eastern and Central Portion of the East Pacific:<br/>
+An area of low pressure is expected to form well to the south of the <br/>
+southwestern coast of Mexico by the end of this week. Environmental <br/>
+conditions could become conducive for some slow development of this <br/>
+system thereafter as it moves slowly west-northwestward.<br/>
+* Formation chance through 48 hours...low...near 0 percent.<br/>
+* Formation chance through 7 days...low...30 percent.<br/>
+<br/>
+&&<br/>
+The Tropical Weather Outlook for the Central Pacific basin can be <br/>
+found under AWIPS header HFOTWOCP and WMO header ACPN50 PHFO and on <br/>
+the web at hurricanes.gov<br/>
+<br/>
+$$<br/>
+Forecaster Bucci <br/>
+]]>
+</description>
+<pubDate>Mon, 19 Aug 2024 23:37:53 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=epac</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;202408192337</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Gilma (EP2/EP072024)</title>
+ <guid isPermaLink="false">summary-ep072024-202408200236</guid>
+ <pubDate>Tue, 20 Aug 2024 02:36:30 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/200236.shtml</link>
+ <description>
+  ...GILMA HEADING WESTWARD...
+ As of 8:00 PM PDT Mon Aug 19
+ the center of Gilma was located near 15.2, -117.3
+ with movement W at 10 mph.
+ The minimum central pressure was 999 mb
+ with maximum sustained winds of about 60 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>15.2, -117.3</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Gilma</nhc:name>
+  <nhc:wallet>EP2</nhc:wallet>
+  <nhc:atcf>EP072024</nhc:atcf>
+  <nhc:datetime>8:00 PM PDT Mon Aug 19</nhc:datetime>
+  <nhc:movement>W at 10 mph</nhc:movement>
+  <nhc:pressure>999 mb</nhc:pressure>
+  <nhc:wind>60 mph</nhc:wind>
+  <nhc:headline> ...GILMA HEADING WESTWARD...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Gilma Public Advisory Number 7</title>
+<description>Issued at 800 PM PDT Mon Aug 19 2024  <![CDATA[<pre>
+
+684 
+WTPZ32 KNHC 200236
+TCPEP2
+ 
+BULLETIN
+Tropical Storm Gilma Advisory Number   7
+NWS National Hurricane Center Miami FL       EP072024
+800 PM PDT Mon Aug 19 2024
+ 
+...GILMA HEADING WESTWARD...
+ 
+ 
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.2N 117.3W
+ABOUT 720 MI...1155 KM SW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM PDT (0300 UTC), the center of Tropical Storm Gilma was 
+located near latitude 15.2 North, longitude 117.3 West. Gilma is 
+moving toward the west near 10 mph (17 km/h).  A slower 
+west-northwestward motion is expected to begin tonight or tomorrow 
+morning and continue through mid-week.
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts.
+Additional slow strengthening is likely for the next day or two.
+Gilma is forecast to approach hurricane strength in a few days.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 AM PDT.
+ 
+$$
+Forecaster Bucci
+ 
+
+</pre>]]></description>
+<pubDate>Tue, 20 Aug 2024 02:36:30 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/200236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/200236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Forecast Advisory Number 7</title>
+<description>Issued at 0300 UTC TUE AUG 20 2024  <![CDATA[<pre>
+
+000
+WTPZ22 KNHC 200235
+TCMEP2
+ 
+TROPICAL STORM GILMA FORECAST/ADVISORY NUMBER   7
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP072024
+0300 UTC TUE AUG 20 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 15.2N 117.3W AT 20/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 275 DEGREES AT   9 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  999 MB
+MAX SUSTAINED WINDS  50 KT WITH GUSTS TO  60 KT.
+50 KT.......  0NE   0SE  40SW   0NW.
+34 KT....... 20NE  40SE  70SW  50NW.
+12 FT SEAS.. 60NE  60SE   0SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 15.2N 117.3W AT 20/0300Z
+AT 20/0000Z CENTER WAS LOCATED NEAR 15.0N 116.9W
+ 
+FORECAST VALID 20/1200Z 15.6N 118.7W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT...  0NE   0SE  40SW   0NW.
+34 KT... 30NE  40SE  80SW  50NW.
+ 
+FORECAST VALID 21/0000Z 16.1N 120.5W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  30SE  40SW   0NW.
+34 KT... 50NE  60SE 100SW  50NW.
+ 
+FORECAST VALID 21/1200Z 16.6N 122.3W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  30SE  40SW  20NW.
+34 KT... 70NE  90SE 100SW  60NW.
+ 
+FORECAST VALID 22/0000Z 17.1N 123.7W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 30NE  40SE  40SW  30NW.
+34 KT... 80NE 100SE 100SW  80NW.
+ 
+FORECAST VALID 22/1200Z 17.6N 124.9W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 40NE  40SE  40SW  30NW.
+34 KT... 80NE  90SE 100SW  80NW.
+ 
+FORECAST VALID 23/0000Z 18.0N 125.9W
+MAX WIND  75 KT...GUSTS  90 KT.
+50 KT... 40NE  40SE  40SW  40NW.
+34 KT... 80NE  90SE  90SW  90NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 24/0000Z 18.8N 128.0W
+MAX WIND  75 KT...GUSTS  90 KT.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT... 90NE  80SE  90SW 100NW.
+ 
+OUTLOOK VALID 25/0000Z 19.6N 130.2W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT...100NE  80SE  80SW 100NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 15.2N 117.3W
+ 
+NEXT ADVISORY AT 20/0900Z
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre>]]></description>
+<pubDate>Tue, 20 Aug 2024 02:35:56 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/200235.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/200235.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Forecast Discussion Number 6</title>
+<description>Issued at 200 PM PDT Mon Aug 19 2024  <![CDATA[<pre>
+
+000
+WTPZ42 KNHC 192041
+TCDEP2
+ 
+Tropical Storm Gilma Discussion Number   6
+NWS National Hurricane Center Miami FL       EP072024
+200 PM PDT Mon Aug 19 2024
+
+ASCAT data valid at 1644 UTC showed that Gilma has strengthened 
+slightly and its wind field has grown a little. While the tropical 
+storm is still sheared, maximum winds measured by the ASCAT were 
+between 40 and 45 kt, which after accounting for undersampling 
+supports an intensity around 50 kt. An average of the most recent 
+Dvorak estimates from TAFB and SAB also yields 50 kt, so that is the 
+intensity estimate for this advisory. The maximum extent of 34 kt 
+winds is estimated to be around 70 n mi based on the ASCAT data, 
+mostly to the southwest in the deep convection.
+
+Although the track forecast spread in the model guidance remains 
+unusually high, not much change was made to the NHC forecast, except 
+to show a slightly faster forward motion in 24-48 h. Otherwise, 
+Gilma is still expected to slow down and turn west-northwestward 
+within the next day as the ridge currently steering the storm is 
+gradually eroded by a deep-layer trough off the U.S. west coast. 
+There is still quite a bit of difference between the models in the 
+forward speed of Gilma, so the NHC forecast closely follows the 
+consensus throughout the forecast. 
+
+Only small adjustments were made to the intensity forecast. Gilma 
+should remain sheared for another day or so, limiting the potential 
+for strengthening during that period.  After that, the shear should 
+decrease and Gilma should strengthen.  Most models continue to 
+indicate that Gilma will approach hurricane strength later this 
+week. The NHC intensity forecast remains very close to the various 
+intensity consensus aids.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  19/2100Z 15.1N 116.9W   50 KT  60 MPH
+ 12H  20/0600Z 15.5N 118.2W   55 KT  65 MPH
+ 24H  20/1800Z 16.2N 120.0W   55 KT  65 MPH
+ 36H  21/0600Z 16.7N 122.0W   55 KT  65 MPH
+ 48H  21/1800Z 17.2N 123.6W   60 KT  70 MPH
+ 60H  22/0600Z 17.8N 124.7W   70 KT  80 MPH
+ 72H  22/1800Z 18.3N 126.0W   75 KT  85 MPH
+ 96H  23/1800Z 19.0N 127.5W   75 KT  85 MPH
+120H  24/1800Z 20.0N 130.0W   65 KT  75 MPH
+ 
+$$
+Forecaster D. Zelinsky
+ 
+</pre>]]></description>
+<pubDate>Mon, 19 Aug 2024 20:41:51 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/192041.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/192041.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Wind Speed Probabilities Number 7</title>
+<description>Issued at 0300 UTC TUE AUG 20 2024                                              <![CDATA[<pre>
+ZCZC MIAPWSEP2 ALL                                                  
+TTAA00 KNHC DDHHMM                                                  
+                                                                    
+TROPICAL STORM GILMA WIND SPEED PROBABILITIES NUMBER   7            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP072024               
+0300 UTC TUE AUG 20 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM GILMA WAS LOCATED NEAR        
+LATITUDE 15.2 NORTH...LONGITUDE 117.3 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z TUE 12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT 00Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+15N 120W       34 12  43(55)   2(57)   X(57)   1(58)   X(58)   X(58)
+15N 120W       50  X   6( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+20N 120W       34  X   1( 1)   2( 3)   1( 4)   2( 6)   1( 7)   X( 7)
+ 
+15N 125W       34  X   1( 1)   2( 3)   7(10)   8(18)   3(21)   X(21)
+ 
+20N 125W       34  X   X( X)   2( 2)   5( 7)  29(36)   9(45)   1(46)
+20N 125W       50  X   X( X)   X( X)   X( X)   7( 7)   3(10)   X(10)
+20N 125W       64  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+15N 130W       34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   2( 8)
+ 
+20N 130W       34  X   X( X)   X( X)   X( X)   5( 5)  25(30)  20(50)
+20N 130W       50  X   X( X)   X( X)   X( X)   X( X)   7( 7)  10(17)
+20N 130W       64  X   X( X)   X( X)   X( X)   X( X)   3( 3)   3( 6)
+ 
+25N 130W       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+20N 135W       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+$$                                                                  
+FORECASTER BUCCI                                                    
+NNNN                                                                
+</pre>]]></description>
+<pubDate>Tue, 20 Aug 2024 02:36:19 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204317.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Gilma 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 19 Aug 2024 20:43:17 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204317.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Gilma 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 19 Aug 2024 21:29:18 GMT
+]]>
+</description>
+<pubDate>Mon, 19 Aug 2024 20:43:17 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204317.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/204317.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
