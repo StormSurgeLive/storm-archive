@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Thu, 29 Aug 2024 02:38:47 GMT</pubDate>
+<title>CPHC Central North Pacific</title>
+<description>Active tropical cyclones in the Central North Pacific</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>CPHC Central North Pacific</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Central North Pacific Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+317 <br/>
+ACPN50 PHFO 282308<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 PM HST Wed Aug 28 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+Active Systems:<br/>
+The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br/>
+advisories on Tropical Storm Hone. This system is located about <br/>
+570 miles southwest of Lihue, Hawaii, moving west at 7 mph.<br/>
+<br/>
+The Central Pacific Hurricane Center in Honolulu, Hawaii is issuing <br/>
+advisories on Tropical Storm Gilma. This system is located about <br/>
+450 miles east of Hilo, Hawaii, moving west at 14 mph.<br/>
+<br/>
+The National Hurricane Center in Miami, Florida is issuing <br/>
+advisories on Tropical Storm Hector, located about 1200 miles <br/>
+east of Hilo, Hawaii. Hector is expected to weaken as a <br/>
+post-tropical/remnant low before moving into the Central <br/>
+Pacific Hurricane Center's area of responsibility Thursday night <br/>
+and dissipating Friday. <br/>
+<br/>
+Elsewhere, no tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+&& <br/>
+<br/>
+Public advisories on Tropical Storm Hone are issued under WMO <br/>
+header WTPA31 PHFO and under AWIPS header HFOTCPCP1. Forecast <br/>
+advisories on Tropical Storm Hone are issued under WMO header <br/>
+WTPA11 PHFO and under AWIPS header HFOTCMCP1.<br/>
+<br/>
+Public advisories on Tropical Storm Gilma are issued under WMO <br/>
+header WTPA32 PHFO and under AWIPS header HFOTCPCP2. Forecast <br/>
+advisories on Tropical Storm Gilma are issued under WMO header  <br/>
+WTPA22 PHFO and under AWIPS header HFOTCMCP2.<br/>
+<br/>
+Public advisories on Tropical Storm Hector are issued under WMO <br/>
+header WTPZ33 KNHC and under AWIPS header MIATCPEP3. Forecast <br/>
+advisories on Tropical Storm Hector are issued under WMO header <br/>
+WTPZ23 KNHC and under AWIPS header MIATCMEP3.<br/>
+<br/>
+$$<br/>
+Forecaster JVC/SMW<br/>
+<br/>
+]]>
+</description>
+<pubDate>Wed, 28 Aug 2024 23:08:14 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=cpac</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;202408282308</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Hone (CP1/CP012024)</title>
+ <guid isPermaLink="false">summary-cp012024-202408290237</guid>
+ <pubDate>Thu, 29 Aug 2024 02:37:25 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/HFOTCPCP1+shtml/290237.shtml</link>
+ <description>
+  ...HONE WESTBOUND AND STILL A TROPICAL STORM...
+ As of 5:00 PM HST Wed Aug 28
+ the center of Hone was located near 20.8, -170.2
+ with movement W at 9 mph.
+ The minimum central pressure was 1002 mb
+ with maximum sustained winds of about 50 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>20.8, -170.2</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Hone</nhc:name>
+  <nhc:wallet>CP1</nhc:wallet>
+  <nhc:atcf>CP012024</nhc:atcf>
+  <nhc:datetime>5:00 PM HST Wed Aug 28</nhc:datetime>
+  <nhc:movement>W at 9 mph</nhc:movement>
+  <nhc:pressure>1002 mb</nhc:pressure>
+  <nhc:wind>50 mph</nhc:wind>
+  <nhc:headline> ...HONE WESTBOUND AND STILL A TROPICAL STORM...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Hone Public Advisory Number 27</title>
+<description>Issued at 500 PM HST Wed Aug 28 2024  <![CDATA[<pre>
+
+000
+WTPA31 PHFO 290237
+TCPCP1
+ 
+BULLETIN
+Tropical Storm Hone Advisory Number  27
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+500 PM HST Wed Aug 28 2024
+ 
+...HONE WESTBOUND AND STILL A TROPICAL STORM...
+ 
+ 
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.8N 170.2W
+ABOUT 795 MI...1275 KM W OF HONOLULU HAWAII
+ABOUT 680 MI...1100 KM SE OF MIDWAY ISLAND
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests on Midway, Kure, and Pearl and Hermes Atolls should
+monitor the progress of Hone.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM HST (0300 UTC), the center of Tropical Storm Hone was
+located near latitude 20.8 North, longitude 170.2 West. Hone is
+moving toward the west near 9 mph (15 km/h). A westward or 
+west-northwestward motion is expected to continue over the next 
+couple of days. A turn toward the northwest and a decrease in 
+forward speed is expected this weekend. 
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+After a slight weakening tonight, Hone's strength is forecast to 
+remain relatively steady for several days.
+ 
+Tropical-storm-force winds extend outward up to 85 miles (140 km)
+from the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM HST.
+ 
+$$
+Forecaster Kodama
+ 
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:37:25 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOTCPCP1+shtml/290237.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOTCPCP1+shtml/290237.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Hone Forecast Advisory Number 27</title>
+<description>Issued at 0300 UTC THU AUG 29 2024  <![CDATA[<pre>
+
+674 
+WTPA21 PHFO 290234
+TCMCP1
+ 
+TROPICAL STORM HONE FORECAST/ADVISORY NUMBER  27
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   CP012024
+0300 UTC THU AUG 29 2024
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 20.8N 170.2W AT 29/0300Z
+POSITION ACCURATE WITHIN  15 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT   8 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT....... 75NE   0SE   0SW  55NW.
+12 FT SEAS..100NE  20SE  40SW 100NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.8N 170.2W AT 29/0300Z
+AT 29/0000Z CENTER WAS LOCATED NEAR 20.7N 169.7W
+ 
+FORECAST VALID 29/1200Z 21.0N 171.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 75NE   0SE   0SW  55NW.
+ 
+FORECAST VALID 30/0000Z 21.4N 173.0W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE   0SE   0SW  40NW.
+ 
+FORECAST VALID 30/1200Z 21.8N 174.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE   0SE   0SW  40NW.
+ 
+FORECAST VALID 31/0000Z 22.3N 175.5W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 50NE   0SE   0SW  40NW.
+ 
+FORECAST VALID 31/1200Z 23.1N 176.3W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  20SE  10SW  30NW.
+ 
+FORECAST VALID 01/0000Z 24.3N 176.9W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  30SE  10SW  20NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 200 NM ON DAY 5...AND FOR INTENSITY NEAR 20 KT EACH DAY
+ 
+OUTLOOK VALID 02/0000Z 26.5N 179.5W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  30SE  10SW  20NW.
+ 
+OUTLOOK VALID 03/0000Z 27.5N 177.0E
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 50NE  40SE   0SW  30NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.8N 170.2W
+ 
+NEXT ADVISORY AT 29/0900Z
+ 
+$$
+FORECASTER KODAMA
+ 
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:34:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOTCMCP1+shtml/290234.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOTCMCP1+shtml/290234.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Hone Forecast Discussion Number 27</title>
+<description>Issued at 500 PM HST Wed Aug 28 2024  <![CDATA[<pre>
+
+000
+WTPA41 PHFO 290237
+TCDCP1
+ 
+Tropical Storm Hone Discussion Number  27
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+500 PM HST Wed Aug 28 2024
+ 
+This morning's burst of deep convection near the center of Hone has 
+faded, and the low-level circulation center has become fully 
+exposed again. Strong vertical shear continues to keep the tropical 
+cyclone asymmetric with deep convection confined to the 
+northeastern quadrant. The latest subjective Dvorak intensity 
+estimates from PHFO, JTWC, and SAB again came in at 30 to 55 kt. The 
+objective estimates were 28 to 40 kt. A nice ASCAT pass from late 
+this morning showed several 45 kt wind barbs. The initial intensity 
+for this advisory will be kept at 45 kt, and the 34 kt radii were 
+also expanded slightly based on the scatterometer data.
+
+Hone will remain over warm SSTs through the forecast period. 
+Vertical shear will remain strong over the next 2 to 3 days. The 
+main question will be whether or not the strong shear will result in 
+post-tropical cyclone status within that time frame. GFS simulated 
+IR data seems to favor the post-tropical scenario. The high-res 
+hurricane models favor maintenance as a tropical cyclone. The ECMWF 
+has pulsing but generally decreasing deep convection that could 
+result in post-tropical cyclone status between 24 and 72 hours. For 
+this advisory, Hone is now forecast to remain as a tropical cyclone 
+through the forecast period in deference to the high-res models and 
+considering that its current deep convection is stronger than the 
+GFS/post-tropical solution valid for the current time. In terms of 
+intensity, the forecast generally follows the consensus of the 
+objective aids and shows slight initial weakening, then keeps Hone 
+as a 40 kt system until 96 hours. This forecast of relatively 
+steady intensity reflects the possibility that despite the strong 
+shear, deep convection will continue to pulse enough to maintain 
+its strength. At the end of the forecast period, Hone is forecast 
+to intensify, with several models showing an increase to typhoon 
+strength beyond 120 hours west of the International Date Line.
+
+For this advisory, Hone's initial movement is 280/8 kt. The tropical 
+cyclone is being steered by a weak low- to mid-level ridge to the 
+north. This general motion is expected to continue over the next 
+couple of days based on the tight clustering of the objective 
+guidance. As Hone approaches the International Date Line, the 
+tropical cyclone is forecast to interact with a developing low 
+pressure system aloft, which will result in a turn toward the 
+northwest. The various global models handle this interaction 
+differently, resulting in greater spread in the objective guidance 
+and greater uncertainty beyond 72 hours. Toward the end of the 
+forecast period, there is a potential risk of impacts to Midway, 
+Kure, and Pearl and Hermes Atolls.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0300Z 20.8N 170.2W   45 KT  50 MPH
+ 12H  29/1200Z 21.0N 171.4W   40 KT  45 MPH
+ 24H  30/0000Z 21.4N 173.0W   40 KT  45 MPH
+ 36H  30/1200Z 21.8N 174.4W   40 KT  45 MPH
+ 48H  31/0000Z 22.3N 175.5W   40 KT  45 MPH
+ 60H  31/1200Z 23.1N 176.3W   40 KT  45 MPH
+ 72H  01/0000Z 24.3N 176.9W   40 KT  45 MPH
+ 96H  02/0000Z 26.5N 179.5W   40 KT  45 MPH
+120H  03/0000Z 27.5N 177.0E   45 KT  50 MPH
+ 
+$$
+Forecaster Kodama
+ 
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:37:43 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOTCDCP1+shtml/290237.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOTCDCP1+shtml/290237.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Hone Wind Speed Probabilities Number 27</title>
+<description>Issued at 0300 UTC THU AUG 29 2024                                              <![CDATA[<pre>
+
+392 
+FOPA11 PHFO 290234
+PWSCP1
+                                                                    
+TROPICAL STORM HONE WIND SPEED PROBABILITIES NUMBER  27             
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   CP012024         
+0300 UTC THU AUG 29 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM HONE WAS LOCATED NEAR LATITUDE
+20.8 NORTH...LONGITUDE 170.2 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+45 KTS...50 MPH...85 KM/H.                                          
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z THU 12Z THU 00Z FRI 12Z FRI 00Z SAT 00Z SUN 00Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z THU 00Z FRI 12Z FRI 00Z SAT 00Z SUN 00Z MON 00Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+20N 175W       34  X   1( 1)   3( 4)   1( 5)   2( 7)   X( 7)   X( 7)
+ 
+25N 175W       34  X   1( 1)   1( 2)   3( 5)   9(14)   2(16)   X(16)
+ 
+LAYSAN         34  X   1( 1)   X( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+LISIANSKI      34  X   1( 1)   X( 1)   1( 2)   2( 4)   1( 5)   1( 6)
+ 
+PEARL/HERMES   34  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   X( 6)
+ 
+MIDWAY         34  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   1( 9)
+ 
+KURE           34  X   X( X)   X( X)   X( X)   1( 1)   8( 9)   2(11)
+ 
+$$                                                                  
+FORECASTER KODAMA                                                   
+
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:34:42 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOPWSCP1+shtml/290234.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOPWSCP1+shtml/290234.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Hone Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/204833.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Hone 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 28 Aug 2024 20:48:33 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/204833.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/CP01/CP012024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Hone 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 28 Aug 2024 21:22:56 GMT
+]]>
+</description>
+<pubDate>Wed, 28 Aug 2024 20:48:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/204833.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_cp1+shtml/204833.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Gilma (CP2/EP072024)</title>
+ <guid isPermaLink="false">summary-ep072024-202408290235</guid>
+ <pubDate>Thu, 29 Aug 2024 02:35:50 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/HFOTCPCP2+shtml/290235.shtml</link>
+ <description>
+  ...WEAKENING GILMA EXPECTED TO PASS CLOSE TO HAWAII ON FRIDAY...
+ As of 5:00 PM HST Wed Aug 28
+ the center of Gilma was located near 19.5, -148.3
+ with movement W at 14 mph.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 40 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>19.5, -148.3</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Gilma</nhc:name>
+  <nhc:wallet>CP2</nhc:wallet>
+  <nhc:atcf>EP072024</nhc:atcf>
+  <nhc:datetime>5:00 PM HST Wed Aug 28</nhc:datetime>
+  <nhc:movement>W at 14 mph</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>40 mph</nhc:wind>
+  <nhc:headline> ...WEAKENING GILMA EXPECTED TO PASS CLOSE TO HAWAII ON FRIDAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Gilma Public Advisory Number 44</title>
+<description>Issued at 500 PM HST Wed Aug 28 2024  <![CDATA[<pre>
+
+107 
+WTPA32 PHFO 290235
+TCPCP2
+ 
+BULLETIN
+Tropical Storm Gilma Advisory Number  44
+NWS Central Pacific Hurricane Center Honolulu HI   EP072024
+500 PM HST Wed Aug 28 2024
+ 
+...WEAKENING GILMA EXPECTED TO PASS CLOSE TO HAWAII ON FRIDAY...
+ 
+ 
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.5N 148.3W
+ABOUT 440 MI...710 KM E OF HILO HAWAII
+ABOUT 635 MI...1020 KM E OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM HST (0300 UTC), the center of Tropical Storm Gilma was
+located near latitude 19.5 North, longitude 148.3 West. Gilma is
+moving toward the west near 14 mph (22 km/h). A continued motion
+toward slightly north of due west will continue into Thursday, 
+followed by a turn toward the west-northwest on Friday as the 
+remnant low of Gilma passes near the Hawaiian Islands.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Continued weakening is expected, and Gilma is expected to weaken to
+a remnant low late Thursday or Friday.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM HST.
+ 
+$$
+Forecaster Wroe
+ 
+
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:35:50 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOTCPCP2+shtml/290235.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOTCPCP2+shtml/290235.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Forecast Advisory Number 44</title>
+<description>Issued at 0300 UTC THU AUG 29 2024  <![CDATA[<pre>
+
+000
+WTPA22 PHFO 290236
+TCMCP2
+ 
+TROPICAL STORM GILMA FORECAST/ADVISORY NUMBER  44
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   EP072024
+0300 UTC THU AUG 29 2024
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 19.5N 148.3W AT 29/0300Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 60NE  20SE   0SW  50NW.
+12 FT SEAS..100NE  40SE  70SW  80NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 19.5N 148.3W AT 29/0300Z
+AT 29/0000Z CENTER WAS LOCATED NEAR 19.3N 147.6W
+ 
+FORECAST VALID 29/1200Z 19.8N 150.0W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 60NE  10SE   0SW  40NW.
+ 
+FORECAST VALID 30/0000Z 20.3N 152.3W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 30/1200Z 20.9N 154.7W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 31/0000Z 21.7N 157.0W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 31/1200Z 22.6N 159.3W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 01/0000Z 23.8N 161.5W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 150 NM
+ON DAY 4 AND 200 NM ON DAY 5...AND FOR INTENSITY NEAR 20 KT EACH DAY
+ 
+OUTLOOK VALID 02/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 19.5N 148.3W
+ 
+NEXT ADVISORY AT 29/0900Z
+ 
+$$
+FORECASTER WROE
+ 
+ 
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:36:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOTCMCP2+shtml/290236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOTCMCP2+shtml/290236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Forecast Discussion Number 44</title>
+<description>Issued at 500 PM HST Wed Aug 28 2024  <![CDATA[<pre>
+
+000
+WTPA42 PHFO 290238
+TCDCP2
+ 
+Tropical Storm Gilma Discussion Number  44
+NWS Central Pacific Hurricane Center Honolulu HI   EP072024
+500 PM HST Wed Aug 28 2024
+ 
+Even though Gilma is in a low to moderate vertical wind shear 
+environment, organized deep convection has failed to redevelop 
+today, with only isolated thunderstorms forming in the northern 
+semicircle. Subjective Dvorak estimates are down to 35 kt from HFO, 
+30 kt from JTWC, and 25 kt from SAB, while CIMSS ADT came in at 33 
+kt. Based on expected weakening due to a lack of convection and a 
+blend of these inputs, the initial intensity has been lowered to 35 
+kt for this advisory.
+
+The forward motion of Gilma remains nearly unchanged during the 
+last day at 280/12 kt. A low-level ridge north of Gilma will 
+continue to steer the increasingly shallow cyclone toward slightly 
+north of due west into Thursday, followed by a turn toward the 
+west-northwest Friday until dissipation near the Hawaiian Islands 
+this weekend. The official forecast track was nudged slightly north 
+from the prior advisory due to an adjustment in center position and 
+remains near the middle of a tightly clustered guidance envelope 
+near the TVCE.
+
+Gilma is expected to pass close to the Hawaiian Islands as it 
+slowly degenerates to a remnant low late Thursday night or Friday. 
+For the next 6 to 12 hours, Gilma will remain under a broad col 
+aloft that will produce a low to moderate vertical wind shear 
+environment of around 15 kt. This will likely be the only window for 
+redevelopment of organized convection and for Gilma to maintain 
+tropical storm intensity, even though SSTs will remain marginal, 
+around 25.5 to 26C. As Gilma approaches an upper level trough 
+building over Hawaii, vertical wind shear will increase late tonight 
+through Friday, which should cause the cyclone to weaken to a 
+tropical depression sometime Thursday and a remnant low Thursday 
+night or Friday. The intensity forecast has been changed little from 
+recent advisories, and is near the statistical guidance and ICON 
+near the middle of the guidance envelope.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  29/0300Z 19.5N 148.3W   35 KT  40 MPH
+ 12H  29/1200Z 19.8N 150.0W   35 KT  40 MPH
+ 24H  30/0000Z 20.3N 152.3W   30 KT  35 MPH
+ 36H  30/1200Z 20.9N 154.7W   30 KT  35 MPH
+ 48H  31/0000Z 21.7N 157.0W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 60H  31/1200Z 22.6N 159.3W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 72H  01/0000Z 23.8N 161.5W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 96H  02/0000Z...DISSIPATED
+ 
+$$
+Forecaster Wroe
+ 
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:38:47 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOTCDCP2+shtml/290238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOTCDCP2+shtml/290238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Wind Speed Probabilities Number 44</title>
+<description>Issued at 0300 UTC THU AUG 29 2024                                              <![CDATA[<pre>
+
+000
+FOPA12 PHFO 290236
+PWSCP2
+                                                                    
+TROPICAL STORM GILMA WIND SPEED PROBABILITIES NUMBER  44            
+NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI   EP072024         
+0300 UTC THU AUG 29 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM GILMA WAS LOCATED NEAR        
+LATITUDE 19.5 NORTH...LONGITUDE 148.3 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z THU 12Z THU 00Z FRI 12Z FRI 00Z SAT 00Z SUN 00Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z THU 00Z FRI 12Z FRI 00Z SAT 00Z SUN 00Z MON 00Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+20N 150W       34 49   3(52)   X(52)   X(52)   X(52)   X(52)   X(52)
+ 
+20N 151W       34 10  22(32)   X(32)   X(32)   X(32)   X(32)   X(32)
+ 
+20N 154W       34  X   2( 2)   4( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+HILO           34  X   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+21N 156W       34  X   X( X)   4( 4)   4( 8)   X( 8)   X( 8)   X( 8)
+ 
+KAHULUI        34  X   X( X)   2( 2)   4( 6)   X( 6)   X( 6)   X( 6)
+ 
+21N 158W       34  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+BARKING SANDS  34  X   X( X)   X( X)   1( 1)   2( 3)   X( 3)   X( 3)
+ 
+HANA           34  X   X( X)   3( 3)   3( 6)   1( 7)   X( 7)   X( 7)
+ 
+LANAI CITY     34  X   X( X)   1( 1)   3( 4)   1( 5)   X( 5)   X( 5)
+ 
+KAUNAKAKAI     34  X   X( X)   1( 1)   4( 5)   1( 6)   X( 6)   X( 6)
+ 
+HONOLULU       34  X   X( X)   X( X)   3( 3)   2( 5)   X( 5)   X( 5)
+ 
+JOINT BASE PHH 34  X   X( X)   X( X)   3( 3)   2( 5)   X( 5)   X( 5)
+ 
+LIHUE          34  X   X( X)   X( X)   1( 1)   3( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER WROE                                                     
+</pre>]]></description>
+<pubDate>Thu, 29 Aug 2024 02:36:46 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/HFOPWSCP2+shtml/290236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/HFOPWSCP2+shtml/290236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Gilma Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/211739.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Gilma 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 28 Aug 2024 21:17:39 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/211739.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP07/EP072024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Gilma 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated 0
+]]>
+</description>
+<pubDate>Wed, 28 Aug 2024 21:17:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/211739.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_cp2+shtml/211739.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
