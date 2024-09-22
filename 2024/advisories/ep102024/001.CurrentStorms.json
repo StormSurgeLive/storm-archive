@@ -1,0 +1,56 @@
+{
+	"activeStorms": [
+		{
+			"id": "ep102024",
+			"binNumber": "EP5",
+			"name": "Ten-E",
+			"classification": "TD",
+			"intensity": "30",
+			"pressure": "1005",
+			"latitude": "13.8N",
+			"longitude": "98.7W",
+			"latitudeNumeric": 13.8,
+			"longitudeNumeric": -98.7,
+			"movementDir": 0,
+			"movementSpeed": 0,
+			"lastUpdate": "2024-09-22T21:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2024-09-22T21:00:00.000Z",
+				"fileUpdateTime": "2024-09-22T20:50:37.468Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2024-09-22T21:00:00.000Z",
+				"fileUpdateTime": "2024-09-22T20:50:07.554Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP5.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2024-09-22T21:00:00.000Z",
+				"fileUpdateTime": "2024-09-22T20:50:37.480Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSEP5.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "001",
+				"issuance": "2024-09-22T21:00:00.000Z",
+				"fileUpdateTime": "2024-09-22T20:51:04.421Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDEP5.shtml"
+			},
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
