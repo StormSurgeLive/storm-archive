@@ -1,0 +1,224 @@
+{
+	"activeStorms": [
+		{
+			"id": "al092024",
+			"binNumber": "AT4",
+			"name": "Nine",
+			"classification": "PC",
+			"intensity": "30",
+			"pressure": "1001",
+			"latitude": "18.9N",
+			"longitude": "83.0W",
+			"latitudeNumeric": 18.9,
+			"longitudeNumeric": -83.0,
+			"movementDir": 315,
+			"movementSpeed": 8,
+			"lastUpdate": "2024-09-24T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "004",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:58:54.312Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "004",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:58:28.663Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT4.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "004",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:58:54.319Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT4.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "004",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:59:51.752Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT4.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "003A",
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:49:40.939Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at4.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "003A",
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:50:00.036Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al092024_5day_003A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_003Aadv_TRACK.kmz"
+			},
+			"windWatchesWarnings": {
+				"advNum": "003A",
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:50:00.036Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al092024_5day_003A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_003Aadv_WW.kmz"
+			},
+			"trackCone": {
+				"advNum": "003A",
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:50:00.036Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al092024_5day_003A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_003Aadv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "003A",
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:50:16.694Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al092024_fcst_003A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_initialradii_003Aadv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "003A",
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:50:16.694Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al092024_fcst_003A.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_forecastradii_003Aadv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2024-09-24T00:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T05:50:09.011Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al092024_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al092024_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "003",
+				"issuance": "2024-09-24T03:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T02:42:08.172Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_003adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "003",
+				"issuance": "2024-09-24T03:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T02:42:31.112Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_003adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": {
+				"advNum": "003",
+				"issuance": "2024-09-24T03:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T02:41:32.461Z",
+				"kmlFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL092024_WatchWarningSS_003adv.kml"
+			},
+			"potentialStormSurgeFloodingGIS": {
+				"advNum": "003",
+				"issuance": "2024-09-24T03:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T03:56:24.289Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/inundation/forecasts/AL0924_03_inundation.zip",
+				"zipFileTidalMask": "https://www.nhc.noaa.gov/gis/inundation/forecasts/AL0924_03_tidalmask.zip"
+			},
+			"peakSurgeKML": {
+				"advNum": "003",
+				"issuance": "2024-09-24T03:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T02:41:47.889Z",
+				"peakSurgeKMLFile": "https://www.nhc.noaa.gov/gis/peakSurge/AL092024_PeakStormSurge_003adv.kml"
+			}
+		},
+		{
+			"id": "ep102024",
+			"binNumber": "EP5",
+			"name": "John",
+			"classification": "TS",
+			"intensity": "60",
+			"pressure": "990",
+			"latitude": "17.3N",
+			"longitude": "100.0W",
+			"latitudeNumeric": 17.3,
+			"longitudeNumeric": -100.0,
+			"movementDir": 310,
+			"movementSpeed": 8,
+			"lastUpdate": "2024-09-24T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:50:28.525Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:49:59.872Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP5.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:50:55.731Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSEP5.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:52:41.828Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDEP5.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:51:27.636Z",
+				"url": "https://www.nhc.noaa.gov/graphics_ep5.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:51:58.954Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_5day_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008adv_TRACK.kmz"
+			},
+			"windWatchesWarnings": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:51:58.954Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_5day_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008adv_WW.kmz"
+			},
+			"trackCone": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:51:58.954Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_5day_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008adv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:52:19.438Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_fcst_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_initialradii_008adv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:52:19.438Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep102024_fcst_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_forecastradii_008adv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2024-09-24T06:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:52:12.029Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep102024_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep102024_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:52:09.929Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "008",
+				"issuance": "2024-09-24T09:00:00.000Z",
+				"fileUpdateTime": "2024-09-24T08:52:39.412Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP102024_008adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
