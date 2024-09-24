@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Tue, 24 Sep 2024 02:39:28 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+569 <br/>
+ABNT20 KNHC 232304<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Mon Sep 23 2024<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Potential <br/>
+Tropical Cyclone Nine, located over the northwestern Caribbean Sea.<br/>
+* Formation chance through 48 hours...high...90 percent. <br/>
+* Formation chance through 7 days...high...90 percent.<br/>
+<br/>
+Eastern and Central Tropical Atlantic:<br/>
+A tropical wave near the Cabo Verde Islands is producing <br/>
+disorganized shower and thunderstorm activity. Environmental <br/>
+conditions appear generally favorable for gradual development of <br/>
+this system, and a tropical depression is likely to form during the <br/>
+middle to latter part of this week while it moves westward to <br/>
+west-northwestward across the eastern and central tropical Atlantic.<br/>
+* Formation chance through 48 hours...low...20 percent. <br/>
+* Formation chance through 7 days...high...70 percent.<br/>
+<br/>
+&&<br/>
+Public Advisories on Potential Tropical Cyclone Nine are issued <br/>
+under WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br/>
+Forecast/Advisories on Potential Tropical Cyclone Nine are issued <br/>
+under WMO header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br/>
+<br/>
+$$<br/>
+Forecaster Kelly<br/>
+<br/>
+]]>
+</description>
+<pubDate>Mon, 23 Sep 2024 23:05:02 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202409232305</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Potential Tropical Cyclone Nine (AT4/AL092024)</title>
+ <guid isPermaLink="false">summary-al092024-202409240239</guid>
+ <pubDate>Tue, 24 Sep 2024 02:39:06 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/240238.shtml</link>
+ <description>
+  ...STORM SURGE AND TROPICAL STORM WATCHES ISSUED FOR A PORTION OF  SOUTHWEST FLORIDA...
+ As of 11:00 PM EDT Mon Sep 23
+ the center of Nine was located near 18.4, -82.4
+ with movement NNW at 6 mph.
+ The minimum central pressure was 1002 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>18.4, -82.4</nhc:center>
+  <nhc:type>Potential Tropical Cyclone</nhc:type>
+  <nhc:name>Nine</nhc:name>
+  <nhc:wallet>AT4</nhc:wallet>
+  <nhc:atcf>AL092024</nhc:atcf>
+  <nhc:datetime>11:00 PM EDT Mon Sep 23</nhc:datetime>
+  <nhc:movement>NNW at 6 mph</nhc:movement>
+  <nhc:pressure>1002 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...STORM SURGE AND TROPICAL STORM WATCHES ISSUED FOR A PORTION OF  SOUTHWEST FLORIDA...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Public Advisory Number 3</title>
+<description>Issued at 1100 PM EDT Mon Sep 23 2024  <![CDATA[<pre>
+
+000
+WTNT34 KNHC 240238
+TCPAT4
+ 
+BULLETIN
+Potential Tropical Cyclone Nine Advisory Number   3
+NWS National Hurricane Center Miami FL       AL092024
+1100 PM EDT Mon Sep 23 2024
+ 
+...STORM SURGE AND TROPICAL STORM WATCHES ISSUED FOR A PORTION OF 
+SOUTHWEST FLORIDA...
+ 
+ 
+SUMMARY OF 1100 PM EDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...18.4N 82.4W
+ABOUT 100 MI...160 KM SW OF GRAND CAYMAN
+ABOUT 290 MI...470 KM SE OF THE WESTERN TIP OF CUBA
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NNW OR 330 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+A Storm Surge Watch has been issued along the southwest coast of 
+Florida from Bonita Beach to Flamingo.
+ 
+A Tropical Storm Watch has been issued along the southwest coast of
+Florida from Bonita Beach southward to Flamingo.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Storm Surge Watch is in effect for...
+* Bonita Beach southward to Flamingo
+
+A Hurricane Watch is in effect for...
+* Cabo Catoche to Tulum, Mexico
+* Cuban province of Pinar del Rio
+ 
+A Tropical Storm Warning is in effect for...
+* Grand Cayman
+* Rio Lagartos to Tulum, Mexico
+* Cuban provinces of Artemisa, and Pinar del Rio, and the Isle of
+Youth
+ 
+A Tropical Storm Watch is in effect for...
+* Dry Tortugas
+* Lower Keys west of the Seven Mile Bridge
+* Bonita Beach southward to Flamingo
+
+A Storm Surge Watch means there is a possibility of life-
+threatening inundation, from rising water moving inland from the 
+coastline, in the indicated locations during the next 48 hours.
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within
+the next 24 to 36 hours.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests along the northeastern Gulf Coast, including the Florida
+Panhandle and the Florida west coast, should monitor the progress of
+this system.  Additional watches or warnings will likely be
+required on Tuesday.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM EDT (0300 UTC), the disturbance was centered near
+latitude 18.4 North, longitude 82.4 West.  The system is moving
+toward the north-northwest near 6 mph (9 km/h).   A northwestward 
+motion is expected on Tuesday and Tuesday night, followed by a 
+faster northward to north-northeastward motion on Wednesday and 
+Thursday.  On the forecast track, the center of the system is 
+forecast to move across the northwestern Caribbean Sea through 
+Tuesday night, and then over the eastern Gulf of Mexico on Wednesday 
+and Thursday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Strengthening is expected during the next few days, and the system
+is forecast to become a hurricane on Wednesday and continue
+strengthening on Thursday as it moves across the eastern Gulf of
+Mexico.
+* Formation chance through 48 hours...high ...90 percent.
+* Formation chance through 7 days...high...90 percent.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for Potential Tropical Cyclone Nine can be found in
+the Tropical Cyclone Discussion under AWIPS header MIATCDAT4 and
+WMO header WTNT44 KNHC and on the web at
+hurricanes.gov/text/MIATCDAT4.shtml
+ 
+RAINFALL: Potential Tropical Cyclone Nine is expected to produce 
+total rain accumulations of 4 to 8 inches over western Cuba and the 
+Cayman Islands with isolated totals around 12 inches.  Over the 
+eastern Yucatan Peninsula, 2 to 4 inches of rain is expected with 
+isolated totals over 6 inches.  This rainfall brings a risk of 
+considerable flooding.
+
+Over the Southeastern U.S., Potential Tropical Cyclone Nine is 
+expected to produce total rain accumulations of 3 to 6 inches with 
+isolated totals around 10 inches. This rainfall will likely result 
+in areas of locally considerable flash and urban flooding, with 
+minor to isolated moderate river flooding also possible.
+
+For a complete depiction of forecast rainfall associated with 
+Potential Tropical Cyclone Nine, please see the National Weather 
+Service Storm Total Rainfall Graphic, available at 
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk 
+graphic at hurricanes.gov/graphics_at4.shtml?ero.
+ 
+STORM SURGE: The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+
+Bonita Beach to Flamingo...2-4 ft
+Dry Tortugas...1-3 ft
+Florida Keys...1-3 ft
+ 
+Storm surge could raise water levels by as much as 2 to 4 feet above
+normal tide levels in areas of onshore winds along the southern
+coast of Pinar del Rio, Cuba, including the Isle of Youth.
+ 
+Storm surge could raise water levels by as much as 2 to 4 feet above
+ground level in areas of onshore winds within the warning area along
+the east coast of the Yucatan Peninsula.
+ 
+WIND: Hurricane conditions are possible within the watch areas in
+Cuba and Mexico by early Wednesday. Tropical storm conditions are
+expected in the warning areas in Cuba and Mexico beginning on
+Tuesday.  Tropical storm conditions are possible in the watch area
+beginning on Wednesday.
+ 
+SURF: Swells generated by the system will affect the southern coast
+of Cuba and the Yucatan Peninsula of Mexico during the next couple
+of days.  Swells will spread northward toward the west coast of
+Florida and the northeastern Gulf Coast on Wednesday and Thursday.
+These swells are likely to cause life-threatening surf and rip
+current conditions.  Please consult products from your local weather
+office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 AM EDT.
+Next complete advisory at 500 AM EDT.
+ 
+$$
+Forecaster Pasch
+ 
+</pre>]]></description>
+<pubDate>Tue, 24 Sep 2024 02:39:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/240238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/240238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Forecast Advisory Number 3</title>
+<description>Issued at 0300 UTC TUE SEP 24 2024  <![CDATA[<pre>
+
+000
+WTNT24 KNHC 240238
+TCMAT4
+ 
+POTENTIAL TROPICAL CYCLONE NINE FORECAST/ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092024
+0300 UTC TUE SEP 24 2024
+ 
+POTENTIAL TROP CYCLONE CENTER LOCATED NEAR 18.4N  82.4W AT 24/0300Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH-NORTHWEST OR 330 DEGREES AT   5 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1002 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 18.4N  82.4W AT 24/0300Z
+AT 24/0000Z CENTER WAS LOCATED NEAR 18.2N  82.1W
+ 
+FORECAST VALID 24/1200Z 19.1N  83.5W...TROPICAL CYCLONE
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 70NE  80SE   0SW   0NW.
+ 
+FORECAST VALID 25/0000Z 20.2N  84.6W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...140NE 130SE  60SW  60NW.
+ 
+FORECAST VALID 25/1200Z 21.6N  85.6W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 50NE  30SE  20SW  30NW.
+34 KT...180NE 160SE  80SW 110NW.
+ 
+FORECAST VALID 26/0000Z 23.4N  85.8W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 30NE  30SE  20SW  20NW.
+50 KT... 60NE  60SE  40SW  40NW.
+34 KT...210NE 210SE 110SW 130NW.
+ 
+FORECAST VALID 26/1200Z 26.2N  84.9W
+MAX WIND  90 KT...GUSTS 110 KT.
+50 KT... 90NE  90SE  50SW  50NW.
+34 KT...220NE 220SE 140SW 140NW.
+ 
+FORECAST VALID 27/0000Z 30.4N  83.9W...INLAND
+MAX WIND  95 KT...GUSTS 115 KT.
+50 KT... 60NE 100SE  50SW  40NW.
+34 KT...150NE 220SE 140SW 100NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 28/0000Z 37.0N  85.0W...POST-TROPICAL
+MAX WIND  15 KT...GUSTS  20 KT.
+ 
+OUTLOOK VALID 29/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 18.4N  82.4W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT34 KNHC/MIATCPAT4...AT 24/0600Z
+ 
+NEXT ADVISORY AT 24/0900Z
+ 
+$$
+FORECASTER PASCH
+ 
+ 
+</pre>]]></description>
+<pubDate>Tue, 24 Sep 2024 02:38:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/240238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/240238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Forecast Discussion Number 3</title>
+<description>Issued at 1100 PM EDT Mon Sep 23 2024  <![CDATA[<pre>
+ZCZC MIATCDAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+Potential Tropical Cyclone Nine Discussion Number   3
+NWS National Hurricane Center Miami FL       AL092024
+1100 PM EDT Mon Sep 23 2024
+
+Satellite imagery indicates that there has been little change in 
+the organization of the system since earlier today.  Most of the 
+deep convection is over the eastern part of the broad circulation.  
+Animation of proxy-vis GOES images, and radar observations from 
+Grand Cayman Weather Service suggest that the disturbance still 
+does not have a well-defined center of circulation, so the system is 
+kept as a potential tropical cyclone for the time being.  The 
+advisory intensity is held at 30 kt which is in agreement with a 
+Dvorak estimate from TAFB.  An Air Force reconnaissance aircraft is 
+scheduled to investigate the area in a few hours to provide a 
+better description of the system's structure along with an updated 
+intensity estimate. 
+
+The initial motion estimate is a rather uncertain 330/5 kt.  During 
+the next day or so, the disturbance is expected to turn 
+northwestward along the southern and southwestern side of a 
+mid-level high pressure area.  Then, the high is expected to shift 
+eastward while a mid-level trough drops into the central United 
+States.  This evolution of the steering pattern should cause the 
+system to accelerate northward to north-northeastward over the 
+eastern Gulf of Mexico and toward the northeastern Gulf Coast 
+through Thursday. There is good agreement in the track guidance, and 
+the official forecast is close to the corrected dynamical consensus 
+model, HCCA, prediction.  This is also very similar to the previous 
+NHC forecast.
+
+An upper-level low over the northeastern Yucatan Peninsula has been 
+imparting some southwesterly vertical wind shear over the 
+disturbance.  This has probably caused a temporary disruption in 
+development.  Dynamical guidance shows this low weakening with time, 
+resulting in a reduction of shear in an environment that is 
+otherwise very conducive for intensification.  The system is 
+projected to move over waters of very high ocean heat content, 
+which should lead to considerable strengthening during the forecast 
+period.  The official intensity forecast is similar to the previous 
+one and lies between the statistical-dynamical model guidance and 
+the purely dynamical model predictions.  It should be noted that 
+the 72-hour forecast allows for a little weakening after moving 
+inland, so the cyclone is still expected to be at major hurricane 
+strength at landfall. 
+
+It should also be noted that the cyclone is expected to grow in 
+size while it traverses the Gulf.  Thus, the storm surge, wind, and 
+rainfall impacts will extend well away from the center, particularly 
+to the east of the system. In addition, the fast forward speed 
+while it crosses the coast will likely result in farther inland 
+penetration of strong winds over parts of the southeastern United 
+States after landfall.
+
+ 
+KEY MESSAGES:
+ 
+1. The disturbance is forecast to intensify and be near hurricane
+strength when it reaches the far northwestern Caribbean Sea Tuesday
+night. Tropical storm conditions are expected over portions of
+western Cuba and the northeastern coast of the Yucatan Peninsula
+with hurricane conditions possible.
+ 
+2. The system is expected to intensify into a major hurricane
+before it approaches the northeastern Gulf Coast on Thursday. While
+it is too soon to pinpoint the exact location and magnitude of
+impacts, the potential for life-threatening storm surge and
+damaging hurricane-force winds along the coast of the Florida
+Panhandle and the Florida west coast is increasing.  Hurricane 
+Watches and additional Storm Surge watches will likely be issued 
+for a portion of that area Tuesday morning, and residents should 
+ensure they have their hurricane plan in place.
+ 
+3. Potential Tropical Cyclone Nine will bring heavy rain to portions 
+of the western Caribbean, which will cause considerable flooding 
+and mudslides across western Cuba.  Heavy rainfall will likely 
+result in locally considerable flash and urban flooding across 
+portions of Florida, with isolated flash and urban flooding 
+possible across the Southeast, Southern Appalachians, and the 
+Tennessee Valley Wednesday through Friday. Minor to isolated 
+moderate river flooding will be possible.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  24/0300Z 18.4N  82.4W   30 KT  35 MPH...POTENTIAL TROP CYCLONE
+ 12H  24/1200Z 19.1N  83.5W   35 KT  40 MPH...TROPICAL CYCLONE
+ 24H  25/0000Z 20.2N  84.6W   45 KT  50 MPH
+ 36H  25/1200Z 21.6N  85.6W   60 KT  70 MPH
+ 48H  26/0000Z 23.4N  85.8W   75 KT  85 MPH
+ 60H  26/1200Z 26.2N  84.9W   90 KT 105 MPH
+ 72H  27/0000Z 30.4N  83.9W   95 KT 110 MPH...INLAND
+ 96H  28/0000Z 37.0N  85.0W   15 KT  15 MPH...POST-TROPICAL
+120H  29/0000Z...DISSIPATED
+ 
+$$
+Forecaster Pasch
+ 
+NNNN
+</pre>]]></description>
+<pubDate>Tue, 24 Sep 2024 02:39:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/DDHHMM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/DDHHMM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Wind Speed Probabilities Number 3</title>
+<description>Issued at 0300 UTC TUE SEP 24 2024                                              <![CDATA[<pre>
+
+000
+FONT14 KNHC 240238
+PWSAT4
+                                                                    
+POTENTIAL TROPICAL CYCLONE NINE WIND SPEED PROBABILITIES NUMBER   3 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092024               
+0300 UTC TUE SEP 24 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF POTENTIAL TROPICAL CYCLONE NINE WAS LOCATED  
+NEAR LATITUDE 18.4 NORTH...LONGITUDE 82.4 WEST WITH MAXIMUM         
+SUSTAINED WINDS NEAR 30 KTS...35 MPH...55 KM/H.                     
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z TUE 12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z TUE 00Z WED 12Z WED 00Z THU 00Z FRI 00Z SAT 00Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+GREENSBORO NC  34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+FAYETTEVILLE   34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+CHARLOTTE NC   34  X   X( X)   X( X)   X( X)   3( 3)   7(10)   X(10)
+ 
+SURF CITY NC   34  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   X( 4)
+ 
+BALD HEAD ISL  34  X   X( X)   X( X)   X( X)   2( 2)   5( 7)   X( 7)
+ 
+FLORENCE SC    34  X   X( X)   X( X)   X( X)   3( 3)   4( 7)   X( 7)
+ 
+COLUMBIA SC    34  X   X( X)   X( X)   X( X)   6( 6)  10(16)   X(16)
+ 
+LITTLE RIVER   34  X   X( X)   X( X)   X( X)   4( 4)   6(10)   X(10)
+ 
+MYRTLE BEACH   34  X   X( X)   X( X)   X( X)   7( 7)   6(13)   X(13)
+ 
+GEORGETOWN SC  34  X   X( X)   X( X)   X( X)   3( 3)   4( 7)   X( 7)
+ 
+CHARLESTON SC  34  X   X( X)   X( X)   X( X)  14(14)  11(25)   X(25)
+CHARLESTON SC  50  X   X( X)   X( X)   X( X)   1( 1)   3( 4)   X( 4)
+ 
+BEAUFORT MCAS  34  X   X( X)   X( X)   X( X)  23(23)  14(37)   X(37)
+BEAUFORT MCAS  50  X   X( X)   X( X)   X( X)   5( 5)   5(10)   X(10)
+BEAUFORT MCAS  64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+ATLANTA GA     34  X   X( X)   X( X)   X( X)   8( 8)  27(35)   X(35)
+ 
+AUGUSTA GA     34  X   X( X)   X( X)   X( X)  11(11)  18(29)   X(29)
+AUGUSTA GA     50  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   X( 8)
+ 
+SAVANNAH GA    34  X   X( X)   X( X)   X( X)  16(16)  10(26)   X(26)
+SAVANNAH GA    50  X   X( X)   X( X)   X( X)   4( 4)   3( 7)   X( 7)
+SAVANNAH GA    64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+KINGS BAY GA   34  X   X( X)   X( X)   X( X)  50(50)   7(57)   X(57)
+KINGS BAY GA   50  X   X( X)   X( X)   X( X)  17(17)   5(22)   X(22)
+KINGS BAY GA   64  X   X( X)   X( X)   X( X)   7( 7)   2( 9)   X( 9)
+ 
+WAYCROSS GA    34  X   X( X)   X( X)   X( X)  39(39)  11(50)   X(50)
+WAYCROSS GA    50  X   X( X)   X( X)   X( X)  15(15)   6(21)   X(21)
+WAYCROSS GA    64  X   X( X)   X( X)   X( X)   5( 5)   1( 6)   X( 6)
+ 
+MAYPORT NS FL  34  X   X( X)   X( X)   X( X)  50(50)   5(55)   X(55)
+MAYPORT NS FL  50  X   X( X)   X( X)   X( X)  17(17)   3(20)   X(20)
+MAYPORT NS FL  64  X   X( X)   X( X)   X( X)   6( 6)   2( 8)   X( 8)
+ 
+JACKSONVILLE   34  X   X( X)   X( X)   X( X)  34(34)   4(38)   X(38)
+JACKSONVILLE   50  X   X( X)   X( X)   X( X)  11(11)   3(14)   X(14)
+JACKSONVILLE   64  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+GAINESVILLE FL 34  X   X( X)   X( X)   X( X)  47(47)   3(50)   X(50)
+GAINESVILLE FL 50  X   X( X)   X( X)   X( X)  19(19)   1(20)   X(20)
+GAINESVILLE FL 64  X   X( X)   X( X)   X( X)   6( 6)   1( 7)   X( 7)
+ 
+DAYTONA BEACH  34  X   X( X)   X( X)   X( X)  23(23)   1(24)   X(24)
+DAYTONA BEACH  50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+THE VILLAGES   34  X   X( X)   X( X)   X( X)  39(39)   1(40)   X(40)
+THE VILLAGES   50  X   X( X)   X( X)   X( X)  12(12)   1(13)   X(13)
+THE VILLAGES   64  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+ORLANDO FL     34  X   X( X)   X( X)   X( X)  22(22)   1(23)   X(23)
+ORLANDO FL     50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+COCOA BEACH FL 34  X   X( X)   X( X)   X( X)  30(30)   1(31)   X(31)
+COCOA BEACH FL 50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+PATRICK AFB    34  X   X( X)   X( X)   X( X)  31(31)   1(32)   X(32)
+PATRICK AFB    50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+FT PIERCE FL   34  X   X( X)   X( X)   X( X)  23(23)   1(24)   X(24)
+ 
+W PALM BEACH   34  X   X( X)   X( X)   X( X)  18(18)   X(18)   X(18)
+ 
+FT LAUDERDALE  34  X   X( X)   X( X)   1( 1)  14(15)   X(15)   X(15)
+ 
+MIAMI FL       34  X   X( X)   X( X)   X( X)   6( 6)   X( 6)   X( 6)
+ 
+HOMESTEAD ARB  34  X   X( X)   X( X)   1( 1)   5( 6)   X( 6)   X( 6)
+ 
+MARATHON FL    34  X   X( X)   2( 2)   4( 6)  14(20)   X(20)   X(20)
+ 
+KEY WEST FL    34  X   1( 1)   4( 5)   6(11)  18(29)   X(29)   X(29)
+KEY WEST FL    50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+NAPLES FL      34  X   X( X)   X( X)   5( 5)  35(40)   X(40)   X(40)
+NAPLES FL      50  X   X( X)   X( X)   X( X)   8( 8)   X( 8)   X( 8)
+NAPLES FL      64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+FT MYERS FL    34  X   X( X)   X( X)   2( 2)  20(22)   X(22)   X(22)
+FT MYERS FL    50  X   X( X)   X( X)   X( X)   5( 5)   X( 5)   X( 5)
+FT MYERS FL    64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+VENICE FL      34  X   X( X)   X( X)   4( 4)  58(62)   1(63)   X(63)
+VENICE FL      50  X   X( X)   X( X)   X( X)  22(22)   1(23)   X(23)
+VENICE FL      64  X   X( X)   X( X)   X( X)  10(10)   X(10)   X(10)
+ 
+TAMPA FL       34  X   X( X)   X( X)   1( 1)  66(67)   1(68)   X(68)
+TAMPA FL       50  X   X( X)   X( X)   X( X)  30(30)   X(30)   X(30)
+TAMPA FL       64  X   X( X)   X( X)   X( X)  12(12)   1(13)   X(13)
+ 
+CEDAR KEY FL   34  X   X( X)   X( X)   X( X)  77(77)   2(79)   X(79)
+CEDAR KEY FL   50  X   X( X)   X( X)   X( X)  45(45)   2(47)   X(47)
+CEDAR KEY FL   64  X   X( X)   X( X)   X( X)  24(24)   2(26)   X(26)
+ 
+TALLAHASSEE FL 34  X   X( X)   X( X)   X( X)  55(55)  10(65)   X(65)
+TALLAHASSEE FL 50  X   X( X)   X( X)   X( X)  26(26)   7(33)   X(33)
+TALLAHASSEE FL 64  X   X( X)   X( X)   X( X)   6( 6)   1( 7)   X( 7)
+ 
+ST MARKS FL    34  X   X( X)   X( X)   X( X)  59(59)   7(66)   X(66)
+ST MARKS FL    50  X   X( X)   X( X)   X( X)  28(28)   6(34)   X(34)
+ST MARKS FL    64  X   X( X)   X( X)   X( X)   7( 7)   1( 8)   X( 8)
+ 
+APALACHICOLA   34  X   X( X)   X( X)   1( 1)  69(70)   3(73)   X(73)
+APALACHICOLA   50  X   X( X)   X( X)   X( X)  41(41)   4(45)   X(45)
+APALACHICOLA   64  X   X( X)   X( X)   X( X)  24(24)   3(27)   X(27)
+ 
+GFMX 290N 850W 34  X   X( X)   X( X)   1( 1)  74(75)   2(77)   X(77)
+GFMX 290N 850W 50  X   X( X)   X( X)   X( X)  48(48)   1(49)   X(49)
+GFMX 290N 850W 64  X   X( X)   X( X)   X( X)  28(28)   2(30)   X(30)
+ 
+PANAMA CITY FL 34  X   X( X)   X( X)   X( X)  56(56)   4(60)   X(60)
+PANAMA CITY FL 50  X   X( X)   X( X)   X( X)  29(29)   4(33)   X(33)
+PANAMA CITY FL 64  X   X( X)   X( X)   X( X)  15(15)   3(18)   X(18)
+ 
+DESTIN EXEC AP 34  X   X( X)   X( X)   X( X)  23(23)   4(27)   X(27)
+DESTIN EXEC AP 50  X   X( X)   X( X)   X( X)   8( 8)   1( 9)   X( 9)
+DESTIN EXEC AP 64  X   X( X)   X( X)   X( X)   2( 2)   X( 2)   X( 2)
+ 
+ALBANY GA      34  X   X( X)   X( X)   X( X)  40(40)  19(59)   X(59)
+ALBANY GA      50  X   X( X)   X( X)   X( X)  14(14)  11(25)   X(25)
+ALBANY GA      64  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   X( 3)
+ 
+COLUMBUS GA    34  X   X( X)   X( X)   X( X)  19(19)  22(41)   X(41)
+COLUMBUS GA    50  X   X( X)   X( X)   X( X)   2( 2)   9(11)   X(11)
+ 
+MACON GA       34  X   X( X)   X( X)   X( X)  20(20)  29(49)   X(49)
+MACON GA       50  X   X( X)   X( X)   X( X)   4( 4)  12(16)   X(16)
+ 
+DOTHAN AL      34  X   X( X)   X( X)   X( X)  31(31)  12(43)   X(43)
+DOTHAN AL      50  X   X( X)   X( X)   X( X)  10(10)   6(16)   X(16)
+DOTHAN AL      64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+BIRMINGHAM AL  34  X   X( X)   X( X)   X( X)   4( 4)  10(14)   X(14)
+ 
+MONTGOMERY AL  34  X   X( X)   X( X)   X( X)  11(11)  11(22)   X(22)
+MONTGOMERY AL  50  X   X( X)   X( X)   X( X)   2( 2)   4( 6)   X( 6)
+ 
+WHITING FLD FL 34  X   X( X)   X( X)   X( X)  15(15)   3(18)   X(18)
+WHITING FLD FL 50  X   X( X)   X( X)   X( X)   4( 4)   2( 6)   X( 6)
+WHITING FLD FL 64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+PENSACOLA FL   34  X   X( X)   X( X)   X( X)  14(14)   2(16)   X(16)
+PENSACOLA FL   50  X   X( X)   X( X)   X( X)   3( 3)   2( 5)   X( 5)
+ 
+GFMX 290N 870W 34  X   X( X)   X( X)   1( 1)  32(33)   1(34)   X(34)
+GFMX 290N 870W 50  X   X( X)   X( X)   X( X)  13(13)   X(13)   X(13)
+GFMX 290N 870W 64  X   X( X)   X( X)   X( X)   6( 6)   X( 6)   X( 6)
+ 
+MOBILE AL      34  X   X( X)   X( X)   X( X)   6( 6)   1( 7)   X( 7)
+ 
+GULFPORT MS    34  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+ 
+STENNIS MS     34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+BURAS LA       34  X   X( X)   X( X)   X( X)   2( 2)   1( 3)   X( 3)
+ 
+GFMX 280N 890W 34  X   X( X)   X( X)   2( 2)   9(11)   1(12)   X(12)
+ 
+COZUMEL MX     34  X   3( 3)  17(20)   6(26)   1(27)   X(27)   X(27)
+COZUMEL MX     50  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+GRAND BAHAMA   34  X   X( X)   X( X)   X( X)   6( 6)   X( 6)   X( 6)
+ 
+CP SAN ANTONIO 34  X  13(13)  56(69)  11(80)   1(81)   X(81)   X(81)
+CP SAN ANTONIO 50  X   X( X)  23(23)  14(37)   1(38)   X(38)   X(38)
+CP SAN ANTONIO 64  X   X( X)   3( 3)   6( 9)   X( 9)   X( 9)   X( 9)
+ 
+HAVANA         34  X   X( X)   2( 2)   4( 6)   4(10)   X(10)   X(10)
+ 
+ISLE OF PINES  34  X   7( 7)   8(15)   4(19)   4(23)   X(23)   X(23)
+ 
+CIENFUEGOS     34  X   1( 1)   3( 4)   2( 6)   2( 8)   X( 8)   X( 8)
+ 
+GRAND CAYMAN   34  X   2( 2)   2( 4)   2( 6)   X( 6)   X( 6)   X( 6)
+ 
+$$                                                                  
+FORECASTER PASCH                                                    
+</pre>]]></description>
+<pubDate>Tue, 24 Sep 2024 02:39:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/240238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/240238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL092024_5day_cone_with_line_and_wind_sm2.png"
+alt="Potential Tropical Cyclone Nine 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 23 Sep 2024 23:48:12 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL092024_wind_probs_34_F120_sm2.png"
+alt="Potential Tropical Cyclone Nine 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 23 Sep 2024 21:23:10 GMT
+]]>
+</description>
+<pubDate>Mon, 23 Sep 2024 23:48:12 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Probabilistic Storm Surge Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?gm_psurge">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL0924_psurge2_m1_sm2.png"
+alt="Potential Tropical Cyclone Nine Probabilistic Storm Surge Graphics Image"
+width="500" height="400" /></a><br/>
+Probabilistic Storm Surge Graphics last updated Mon, 23 Sep 2024 21:31:50 GMT
+]]>
+</description>
+<pubDate>Mon, 23 Sep 2024 21:31:50 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?gm_psurge</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?gm_psurge</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Potential Tropical Cyclone Nine Potential Storm Surge Flooding Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?inundation">
+<img src="https://www.nhc.noaa.gov/images/inundation_thumb.png"
+alt="Potential Tropical Cyclone Nine Link to Potential Storm Surge Flooding Map"
+width="60" height="48" /></a><br/>
+Potential Storm Surge Flooding Map last updated Mon, 23 Sep 2024 21:54:10 GMT
+]]>
+</description>
+<pubDate>Mon, 23 Sep 2024 21:54:10 GMT</pubDate>
+<validAdvisory>02</validAdvisory>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?inundation</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/213150.shtml?inundation</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Key West, FL</title>
+<description>Issued at  525 PM EDT Mon Sep 23 2024</description>
+<pubDate>Mon, 23 Sep 2024 21:25:20 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KKEY.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KKEY.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
