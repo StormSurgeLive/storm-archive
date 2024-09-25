@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Wed, 25 Sep 2024 11:54:02 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 251152<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 AM EDT Wed Sep 25 2024<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Helene, located over the northwestern Caribbean Sea.<br/>
+<br/>
+Eastern and Central Tropical Atlantic (AL98):<br/>
+A broad low pressure system associated with a tropical wave located <br/>
+west of the Cabo Verde Islands continues to produce disorganized <br/>
+shower and thunderstorm activity. Environmental conditions appear <br/>
+favorable for gradual development of this system, and a tropical <br/>
+depression is likely to form in a few days while it moves westward <br/>
+to west-northwestward across the eastern and central tropical <br/>
+Atlantic.<br/>
+* Formation chance through 48 hours...medium...50 percent. <br/>
+* Formation chance through 7 days...high...80 percent.<br/>
+<br/>
+Central Subtropical Atlantic (AL99): <br/>
+A non-tropical area of low pressure is currently located several <br/>
+hundred miles to the northeast of Bermuda. The system is currently <br/>
+producing winds up to storm force, and environmental conditions <br/>
+could support some subtropical or tropical development over the next <br/>
+several days as the system moves generally eastward, remaining over <br/>
+the open waters of central Subtropical Atlantic. Additional <br/>
+information on this system, including storm warnings, can be found <br/>
+in High Seas Forecasts issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...low...10 percent. <br/>
+* Formation chance through 7 days...low...20 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br/>
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Kelly<br/>
+]]>
+</description>
+<pubDate>Wed, 25 Sep 2024 11:52:56 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202409251152</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Helene (AT4/AL092024)</title>
+ <guid isPermaLink="false">summary-al092024-202409251153</guid>
+ <pubDate>Wed, 25 Sep 2024 11:53:26 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/251153.shtml</link>
+ <description>
+  ...HELENE JUST OFFSHORE THE NORTHEASTERN COAST OF THE YUCATAN  PENINSULA, CLOSE TO HURRICANE STRENGTH...
+ As of 7:00 AM CDT Wed Sep 25
+ the center of Helene was located near 21.1, -86.2
+ with movement NW at 9 mph.
+ The minimum central pressure was 979 mb
+ with maximum sustained winds of about 70 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>21.1, -86.2</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Helene</nhc:name>
+  <nhc:wallet>AT4</nhc:wallet>
+  <nhc:atcf>AL092024</nhc:atcf>
+  <nhc:datetime>7:00 AM CDT Wed Sep 25</nhc:datetime>
+  <nhc:movement>NW at 9 mph</nhc:movement>
+  <nhc:pressure>979 mb</nhc:pressure>
+  <nhc:wind>70 mph</nhc:wind>
+  <nhc:headline> ...HELENE JUST OFFSHORE THE NORTHEASTERN COAST OF THE YUCATAN  PENINSULA, CLOSE TO HURRICANE STRENGTH...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Helene Public Advisory Number 8A</title>
+<description>Issued at 700 AM CDT Wed Sep 25 2024  <![CDATA[<pre>
+
+000
+WTNT34 KNHC 251153
+TCPAT4
+ 
+BULLETIN
+Tropical Storm Helene Intermediate Advisory Number 8A
+NWS National Hurricane Center Miami FL       AL092024
+700 AM CDT Wed Sep 25 2024
+ 
+...HELENE JUST OFFSHORE THE NORTHEASTERN COAST OF THE YUCATAN 
+PENINSULA, CLOSE TO HURRICANE STRENGTH...
+ 
+ 
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.1N 86.2W
+ABOUT 60 MI...100 KM ENE OF COZUMEL MEXICO
+ABOUT 100 MI...160 KM WSW OF THE WESTERN TIP OF CUBA
+MAXIMUM SUSTAINED WINDS...70 MPH...110 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...979 MB...28.91 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Tropical Storm Warning has been extended northward to Altamaha 
+Sound, Georgia.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Indian Pass southward to Flamingo
+* Tampa Bay
+* Charlotte Harbor
+ 
+A Hurricane Warning is in effect for...
+* Anclote River to Mexico Beach, Florida
+* Cabo Catoche to Tulum, Mexico including Cozumel
+ 
+A Hurricane Watch is in effect for...
+* Cuban province of Pinar del Rio
+* Englewood to Anclote River, including Tampa Bay
+ 
+A Tropical Storm Warning is in effect for...
+* Dry Tortugas
+* All of the Florida Keys
+* The Florida west coast from Flamingo to Anclote River, including
+Tampa Bay
+* West of Mexico Beach to the Walton/Bay County Line
+* The Florida east coast from Flamingo northward to Altamaha Sound, 
+Georgia
+* Lake Okeechobee
+* Rio Lagartos to Cabo Catoche, Mexico
+* Cuban provinces of Artemisa, Pinar del Rio, and the Isle of Youth
+ 
+A Tropical Storm Watch is in effect for...
+* Georgia and South Carolina coast north of Altamaha Sound to the 
+South Santee River
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline,
+during the next 36 hours in the indicated locations. For a
+depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  Persons
+located within these areas should take all necessary actions to
+protect life and property from rising water and the potential for
+other dangerous conditions.  Promptly follow evacuation and other
+instructions from local officials.
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  A warning is typically issued
+36 hours before the anticipated first occurrence of
+tropical-storm-force winds, conditions that make outside
+preparations difficult or dangerous.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within the next 36 hours.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area.
+ 
+Additional watches or warnings may be required later today.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 AM CDT (1200 UTC), the center of Tropical Storm Helene was
+located near latitude 21.1 North, longitude 86.2 West. Helene is
+moving toward the northwest near 9 mph (15 km/h).  This motion
+should continue through this morning, followed by a general
+northward motion beginning later today and continuing through
+Friday.  On the forecast track, the center of Helene will pass near
+the northeastern coast of the Yucatan Peninsula this morning, move
+across the eastern Gulf of Mexico on later today and Thursday, and
+reach the Big Bend coast of Florida late Thursday.
+ 
+Maximum sustained winds are now near 70 mph (110 km/h) with higher
+gusts.  Additional strengthening is forecast, and Helene is 
+expected to become a hurricane later today.  The storm is forecast 
+to rapidly strengthen over the eastern Gulf of Mexico and become a 
+major hurricane on Thursday.
+ 
+Tropical-storm-force winds extend outward up to 175 miles (280 km)
+from the center.
+ 
+The minimum central pressure recently reported by an Air Force
+Reserve Hurricane Hunter aircraft is 979 mb (28.91 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for Helene can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT4.shtml
+ 
+RAINFALL: Tropical Storm Helene is expected to produce total rain
+accumulations of 4 to 8 inches over western Cuba, the Cayman Islands
+and the northeast Yucatan Peninsula, with isolated totals around 12
+inches. This rainfall brings a risk of considerable flooding.
+ 
+Over the Southeastern U.S., Helene is expected to produce total rain
+accumulations of 5 to 10 inches with isolated totals around 15
+inches. This rainfall will likely result in areas of considerable
+flash and urban flooding, with areas of significant river flooding.
+Landslides are possible in areas of steep terrain in the southern
+Appalachians.
+ 
+For a complete depiction of forecast rainfall associated with
+Tropical Storm Helene, please see the National Weather Service Storm
+Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at4.shtml?ero.
+ 
+STORM SURGE: The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Ochlockonee River, FL to Chassahowitzka, FL...10-15 ft
+Chassahowitzka, FL to Anclote River, FL...6-10 ft
+Indian Pass, FL to Ochlockonee River, FL...5-10 ft
+Anclote River, FL to Middle of Longboat Key, FL...5-8 ft
+Tampa Bay...5-8 ft
+Middle of Longboat Key, FL to Englewood, FL...4-7 ft
+Englewood, FL to Flamingo, FL...3-5 ft
+Charlotte Harbor...3-5 ft
+ 
+For a complete depiction of areas at risk of storm surge inundation,
+please see the National Weather Service Peak Storm Surge Graphic,
+available at hurricanes.gov/graphics_at4.shtml?peakSurge.
+ 
+Storm surge could raise water levels by as much as 2 to 4 feet above
+normal tide levels in areas of onshore winds along the southern
+coast of Pinar del Rio, Cuba, including the Isle of Youth.
+ 
+Storm surge could raise water levels by as much as 2 to 4 feet above
+ground level in areas of onshore winds within the warning area along
+the east coast of the Yucatan Peninsula.
+ 
+WIND: Hurricane conditions are expected in the hurricane warning
+area in Mexico during the next several hours, with tropical storm
+conditions already ongoing. Hurricane conditions are expected within
+the U.S. hurricane warning area late Thursday. Hurricane conditions
+are possible for the western portion of Cuba later today. Tropical
+storm conditions are expected to begin in the warning area in Cuba
+during the next several hours. Tropical storm conditions are
+expected in southern Florida later today and spreading northward
+through Thursday.  Tropical storm conditions are possible within the
+tropical storm watch area beginning Thursday and Thursday night.
+ 
+TORNADOES: A tornado or two may occur tonight over parts of
+the western Florida peninsula and southern Alabama.  The risk of
+tornadoes will increase on Thursday, expanding across Florida and
+into parts of Georgia and South Carolina.
+ 
+SURF: Swells generated by Helene will affect the southern coast of
+Cuba and the Yucatan Peninsula of Mexico during the next couple of
+days.  Swells will spread northward toward the west coast of Florida
+and the northeastern Gulf Coast later today and Thursday. These
+swells are likely to cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Berg
+ 
+</pre>]]></description>
+<pubDate>Wed, 25 Sep 2024 11:53:26 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/251153.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/251153.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Forecast Advisory Number 8</title>
+<description>Issued at 0900 UTC WED SEP 25 2024  <![CDATA[<pre>
+
+000
+WTNT24 KNHC 250853
+TCMAT4
+ 
+TROPICAL STORM HELENE FORECAST/ADVISORY NUMBER   8
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092024
+0900 UTC WED SEP 25 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 20.7N  86.2W AT 25/0900Z
+POSITION ACCURATE WITHIN  25 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 325 DEGREES AT   8 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  985 MB
+MAX SUSTAINED WINDS  55 KT WITH GUSTS TO  65 KT.
+50 KT....... 60NE  60SE   0SW   0NW.
+34 KT.......150NE 150SE  50SW  80NW.
+12 FT SEAS..180NE 180SE  60SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.7N  86.2W AT 25/0900Z
+AT 25/0600Z CENTER WAS LOCATED NEAR 20.3N  85.9W
+ 
+FORECAST VALID 25/1800Z 21.9N  86.5W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 20NE  20SE   0SW   0NW.
+50 KT... 60NE  60SE   0SW  20NW.
+34 KT...210NE 210SE  60SW  80NW.
+ 
+FORECAST VALID 26/0600Z 24.1N  86.2W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 25NE  20SE   0SW   0NW.
+50 KT... 60NE  60SE  20SW  30NW.
+34 KT...240NE 250SE  80SW 100NW.
+ 
+FORECAST VALID 26/1800Z 27.4N  85.0W
+MAX WIND 105 KT...GUSTS 130 KT.
+64 KT... 35NE  45SE  20SW  30NW.
+50 KT... 70NE  80SE  30SW  40NW.
+34 KT...250NE 250SE 120SW 120NW.
+ 
+FORECAST VALID 27/0600Z 32.0N  84.2W...INLAND
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT...  0NE  25SE   0SW   0NW.
+50 KT... 40NE  50SE  30SW  30NW.
+34 KT...210NE 240SE 100SW  70NW.
+ 
+FORECAST VALID 27/1800Z 35.9N  85.4W...POST-TROP/INLAND
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 28/0600Z 37.0N  87.8W...POST-TROP/INLAND
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 29/0600Z 36.5N  88.0W...POST-TROP/INLAND
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+OUTLOOK VALID 30/0600Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.7N  86.2W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT34 KNHC/MIATCPAT4...AT 25/1200Z
+ 
+NEXT ADVISORY AT 25/1500Z
+ 
+$$
+FORECASTER BEVEN
+ 
+ 
+</pre>]]></description>
+<pubDate>Wed, 25 Sep 2024 08:53:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/250853.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/250853.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Forecast Discussion Number 8</title>
+<description>Issued at 400 AM CDT Wed Sep 25 2024  <![CDATA[<pre>
+
+000
+WTNT44 KNHC 250913 CCA
+TCDAT4
+ 
+Tropical Storm Helene Discussion Number   8...Corrected
+NWS National Hurricane Center Miami FL       AL092024
+400 AM CDT Wed Sep 25 2024
+
+Corrected Helen to Helene
+
+Helene has strengthened some since the last advisory.  Reports from 
+an Air Force Reserve Hurricane Hunter aircraft indicate that 
+the central pressure has fallen to 985 mb, and that the maximum 
+850 mb flight-level were 58 kt in the northeastern quadrant. A 
+dropsonde in the northwest quadrant reported a splash wind of 59 
+kt, but the boundary-layer average suggested sustained winds closer 
+to 45 kt.  Based on these data and increasing satellite intensity 
+estimates, the initial intensity is increased to 55 kt.  Despite 
+the increased intensity, the aircraft data, along with radar data 
+from Mexico and Cuba, show that Helene has not yet formed a 
+well-defined inner core.
+
+The initial motion is 325/8 kt.  Helene should turn northward 
+during the next 12 h or so on the western side of a mid-level 
+ridge, and then it should accelerate northward to 
+north-northeastward as it become embedded in the deep-layer flow 
+between the ridge and a mid-latitude trough/developing cut-off low 
+over the Mississippi valley.  This motion should bring the center 
+near the northeastern coast of the Yucatan Peninsula this morning, 
+then across the eastern Gulf of Mexico tonight and Thursday to a 
+landfall along the northeast coast of the Gulf of Mexico late 
+Thursday or Thursday night.  After landfall, Helene should curve 
+cyclonically around the cut-off low until it dissipates.  The new 
+forecast track is little changed from the previous track.
+ 
+Over the next couple of days, Helene will be moving through an
+environment of low vertical wind shear, ample environmental
+moisture, and over waters of high oceanic heat content.  All 
+guidance forecasts steady to rapid intensification, including the 
+RI indices associated with the SHIPS model.  The latest forecast 
+calls for a 105 kt intensity by 36 h, and this could be 
+conservative as some of the guidance is stronger.  After landfall, 
+Helene is forecast to weaken and become post-tropical as it gets 
+tangled up in the baroclinic system over the southeastern United 
+States.
+ 
+Helene's wind field is predicted to grow to a very large size in the 
+NHC forecast.  Therefore storm surge, wind, and rainfall impacts 
+will likely extend well away from the center and outside the 
+forecast cone, particularly on the east side.  In addition, the fast 
+forward speed while Helene crosses the coast will likely result in 
+farther inland penetration of strong winds over parts of the 
+southeastern United States after landfall.
+ 
+ 
+KEY MESSAGES:
+ 
+1. Helene is forecast to intensify and be near hurricane strength
+when it passes near the northeastern coast of the Yucatan
+Peninsula during the next several hours, where a Hurricane Warning 
+is in effect.
+ 
+2. Helene is expected to rapidly intensify and grow in size over the
+eastern Gulf of Mexico.  There is a danger of life-threatening storm
+surge along the entire west coast of the Florida Peninsula and
+Florida Big Bend.  The highest inundation levels are expected along 
+the coast of the Florida Big Bend.  Residents in those areas should 
+follow advice given by local officials and evacuate if told to do 
+so.
+ 
+3. Damaging hurricane-force winds are expected along portions of
+coast of the Florida Big Bend, where a Hurricane Warning is now in
+effect.  Preparations to protect life and property should be
+completed by early Thursday since tropical storm conditions are
+expected to begin within this area on Thursday.
+ 
+4. Tropical Storm Helene will bring heavy rain to portions of the 
+western Caribbean with potentially significant flooding across 
+western Cuba and the northeastern Yucatan Peninsula. Considerable 
+and potentially life-threatening flash and urban flooding is 
+expected across portions of Florida, the Southeast, the Southern 
+Appalachians, and the Tennessee Valley beginning today through 
+Friday. This includes the risk of landslides across the southern 
+Appalachians. Widespread minor to moderate river flooding is likely, 
+and isolated major river flooding is possible.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  25/0900Z 20.7N  86.2W   55 KT  65 MPH
+ 12H  25/1800Z 21.9N  86.5W   70 KT  80 MPH
+ 24H  26/0600Z 24.1N  86.2W   90 KT 105 MPH
+ 36H  26/1800Z 27.4N  85.0W  105 KT 120 MPH
+ 48H  27/0600Z 32.0N  84.2W   65 KT  75 MPH...INLAND
+ 60H  27/1800Z 35.9N  85.4W   30 KT  35 MPH...POST-TROP/INLAND
+ 72H  28/0600Z 37.0N  87.8W   20 KT  25 MPH...POST-TROP/INLAND
+ 96H  29/0600Z 36.5N  88.0W   20 KT  25 MPH...POST-TROP/INLAND
+120H  30/0600Z...DISSIPATED
+ 
+$$
+Forecaster Beven
+ 
+</pre>]]></description>
+<pubDate>Wed, 25 Sep 2024 09:13:50 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/250913.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/250913.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Wind Speed Probabilities Number 8</title>
+<description>Issued at 0900 UTC WED SEP 25 2024                                              <![CDATA[<pre>
+
+000
+FONT14 KNHC 250853
+PWSAT4
+                                                                    
+TROPICAL STORM HELENE WIND SPEED PROBABILITIES NUMBER   8           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092024               
+0900 UTC WED SEP 25 2024                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM HELENE WAS LOCATED NEAR       
+LATITUDE 20.7 NORTH...LONGITUDE 86.2 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z WED 18Z WED 06Z THU 18Z THU 06Z FRI 06Z SAT 06Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z WED 06Z THU 18Z THU 06Z FRI 06Z SAT 06Z SUN 06Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CHARLOTTE NC   34  X   X( X)   X( X)   2( 2)   1( 3)   X( 3)   X( 3)
+ 
+COLUMBIA SC    34  X   X( X)   X( X)   5( 5)   1( 6)   X( 6)   X( 6)
+ 
+LITTLE RIVER   34  X   X( X)   X( X)   3( 3)   2( 5)   X( 5)   X( 5)
+ 
+MYRTLE BEACH   34  X   X( X)   X( X)   5( 5)   1( 6)   X( 6)   X( 6)
+ 
+CHARLESTON SC  34  X   X( X)   X( X)  14(14)   1(15)   X(15)   X(15)
+ 
+BEAUFORT MCAS  34  X   X( X)   X( X)  24(24)   2(26)   X(26)   X(26)
+ 
+ATLANTA GA     34  X   X( X)   X( X)  19(19)  23(42)   X(42)   X(42)
+ 
+AUGUSTA GA     34  X   X( X)   X( X)  15(15)   5(20)   X(20)   X(20)
+ 
+SAVANNAH GA    34  X   X( X)   1( 1)  13(14)   X(14)   X(14)   X(14)
+ 
+KINGS BAY GA   34  X   X( X)   8( 8)  39(47)   X(47)   X(47)   X(47)
+KINGS BAY GA   50  X   X( X)   X( X)   6( 6)   X( 6)   X( 6)   X( 6)
+KINGS BAY GA   64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+WAYCROSS GA    34  X   X( X)   4( 4)  40(44)   1(45)   X(45)   X(45)
+WAYCROSS GA    50  X   X( X)   X( X)   9( 9)   X( 9)   X( 9)   X( 9)
+WAYCROSS GA    64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+MAYPORT NS FL  34  X   X( X)  10(10)  34(44)   X(44)   X(44)   X(44)
+MAYPORT NS FL  50  X   X( X)   X( X)   5( 5)   X( 5)   X( 5)   X( 5)
+ 
+JACKSONVILLE   34  X   X( X)   5( 5)  24(29)   X(29)   X(29)   X(29)
+JACKSONVILLE   50  X   X( X)   X( X)   3( 3)   X( 3)   X( 3)   X( 3)
+ 
+GAINESVILLE FL 34  X   X( X)  14(14)  34(48)   X(48)   X(48)   X(48)
+GAINESVILLE FL 50  X   X( X)   1( 1)   8( 9)   X( 9)   X( 9)   X( 9)
+GAINESVILLE FL 64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+DAYTONA BEACH  34  X   X( X)   8( 8)   7(15)   X(15)   X(15)   X(15)
+ 
+THE VILLAGES   34  X   X( X)  18(18)  19(37)   X(37)   X(37)   X(37)
+THE VILLAGES   50  X   X( X)   1( 1)   4( 5)   X( 5)   X( 5)   X( 5)
+ 
+ORLANDO FL     34  X   X( X)  11(11)   7(18)   X(18)   X(18)   X(18)
+ 
+COCOA BEACH FL 34  X   X( X)  15(15)  11(26)   X(26)   X(26)   X(26)
+ 
+PATRICK AFB    34  X   X( X)  16(16)  11(27)   X(27)   X(27)   X(27)
+ 
+FT PIERCE FL   34  X   X( X)  14(14)   5(19)   X(19)   X(19)   X(19)
+ 
+W PALM BEACH   34  X   X( X)  11(11)   3(14)   X(14)   X(14)   X(14)
+ 
+FT LAUDERDALE  34  X   1( 1)   9(10)   2(12)   X(12)   X(12)   X(12)
+ 
+MIAMI FL       34  X   X( X)   6( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+ 
+HOMESTEAD ARB  34  X   1( 1)   5( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+MARATHON FL    34  X   8( 8)  10(18)   X(18)   X(18)   X(18)   X(18)
+ 
+KEY WEST FL    34  2  13(15)  11(26)   1(27)   X(27)   X(27)   X(27)
+ 
+NAPLES FL      34  X  10(10)  29(39)   1(40)   X(40)   X(40)   X(40)
+NAPLES FL      50  X   X( X)   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+FT MYERS FL    34  X   5( 5)  17(22)   2(24)   X(24)   X(24)   X(24)
+ 
+VENICE FL      34  X   9( 9)  52(61)   4(65)   X(65)   X(65)   X(65)
+VENICE FL      50  X   X( X)  12(12)   2(14)   X(14)   X(14)   X(14)
+VENICE FL      64  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+TAMPA FL       34  X   5( 5)  54(59)  10(69)   X(69)   X(69)   X(69)
+TAMPA FL       50  X   X( X)  12(12)   8(20)   X(20)   X(20)   X(20)
+TAMPA FL       64  X   X( X)   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)
+ 
+CEDAR KEY FL   34  X   X( X)  52(52)  29(81)   X(81)   X(81)   X(81)
+CEDAR KEY FL   50  X   X( X)  12(12)  29(41)   X(41)   X(41)   X(41)
+CEDAR KEY FL   64  X   X( X)   2( 2)  13(15)   X(15)   X(15)   X(15)
+ 
+TALLAHASSEE FL 34  X   X( X)  12(12)  73(85)   1(86)   X(86)   X(86)
+TALLAHASSEE FL 50  X   X( X)   1( 1)  51(52)   1(53)   X(53)   X(53)
+TALLAHASSEE FL 64  X   X( X)   X( X)  11(11)   X(11)   X(11)   X(11)
+ 
+ST MARKS FL    34  X   X( X)  16(16)  72(88)   X(88)   X(88)   X(88)
+ST MARKS FL    50  X   X( X)   2( 2)  55(57)   X(57)   X(57)   X(57)
+ST MARKS FL    64  X   X( X)   X( X)  17(17)   X(17)   X(17)   X(17)
+ 
+APALACHICOLA   34  X   1( 1)  44(45)  46(91)   X(91)   X(91)   X(91)
+APALACHICOLA   50  X   X( X)  10(10)  61(71)   X(71)   X(71)   X(71)
+APALACHICOLA   64  X   X( X)   2( 2)  43(45)   X(45)   X(45)   X(45)
+ 
+GFMX 290N 850W 34  X   4( 4)  64(68)  26(94)   X(94)   X(94)   X(94)
+GFMX 290N 850W 50  X   X( X)  28(28)  50(78)   X(78)   X(78)   X(78)
+GFMX 290N 850W 64  X   X( X)  11(11)  44(55)   X(55)   X(55)   X(55)
+ 
+PANAMA CITY FL 34  X   X( X)  30(30)  45(75)   X(75)   X(75)   X(75)
+PANAMA CITY FL 50  X   X( X)   4( 4)  39(43)   1(44)   X(44)   X(44)
+PANAMA CITY FL 64  X   X( X)   X( X)  21(21)   1(22)   X(22)   X(22)
+ 
+DESTIN EXEC AP 34  X   X( X)   7( 7)  21(28)   X(28)   X(28)   X(28)
+DESTIN EXEC AP 50  X   X( X)   X( X)   6( 6)   X( 6)   X( 6)   X( 6)
+ 
+ALBANY GA      34  X   X( X)   4( 4)  69(73)   3(76)   X(76)   X(76)
+ALBANY GA      50  X   X( X)   X( X)  32(32)   1(33)   X(33)   X(33)
+ALBANY GA      64  X   X( X)   X( X)   2( 2)   X( 2)   X( 2)   X( 2)
+ 
+COLUMBUS GA    34  X   X( X)   1( 1)  40(41)   9(50)   X(50)   X(50)
+COLUMBUS GA    50  X   X( X)   X( X)   5( 5)   2( 7)   X( 7)   X( 7)
+ 
+MACON GA       34  X   X( X)   1( 1)  47(48)  12(60)   X(60)   X(60)
+MACON GA       50  X   X( X)   X( X)   8( 8)   4(12)   X(12)   X(12)
+ 
+DOTHAN AL      34  X   X( X)   5( 5)  49(54)   1(55)   X(55)   X(55)
+DOTHAN AL      50  X   X( X)   X( X)  17(17)   X(17)   X(17)   X(17)
+DOTHAN AL      64  X   X( X)   X( X)   1( 1)   X( 1)   X( 1)   X( 1)
+ 
+BIRMINGHAM AL  34  X   X( X)   X( X)   4( 4)   3( 7)   X( 7)   X( 7)
+ 
+MONTGOMERY AL  34  X   X( X)   1( 1)  12(13)   3(16)   X(16)   X(16)
+ 
+WHITING FLD FL 34  X   X( X)   4( 4)   9(13)   X(13)   X(13)   X(13)
+ 
+PENSACOLA FL   34  X   X( X)   4( 4)   7(11)   X(11)   X(11)   X(11)
+ 
+GFMX 290N 870W 34  X   4( 4)  26(30)  11(41)   X(41)   X(41)   X(41)
+GFMX 290N 870W 50  X   X( X)   5( 5)   5(10)   X(10)   X(10)   X(10)
+GFMX 290N 870W 64  X   X( X)   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)
+ 
+MOBILE AL      34  X   X( X)   3( 3)   3( 6)   X( 6)   X( 6)   X( 6)
+ 
+GULFPORT MS    34  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+STENNIS MS     34  X   X( X)   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+BURAS LA       34  X   X( X)   3( 3)   1( 4)   X( 4)   X( 4)   X( 4)
+ 
+GFMX 280N 890W 34  X   5( 5)   6(11)   1(12)   X(12)   X(12)   X(12)
+ 
+MERIDA MX      34  2   4( 6)   X( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+COZUMEL MX     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+COZUMEL MX     50  4   1( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+BELIZE CITY    34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+CP SAN ANTONIO 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+CP SAN ANTONIO 50 16   9(25)   X(25)   X(25)   X(25)   X(25)   X(25)
+CP SAN ANTONIO 64  1   1( 2)   X( 2)   X( 2)   X( 2)   X( 2)   X( 2)
+ 
+HAVANA         34  4   6(10)   3(13)   X(13)   X(13)   X(13)   X(13)
+ 
+ISLE OF PINES  34 11  10(21)   2(23)   X(23)   X(23)   X(23)   X(23)
+ 
+GRAND CAYMAN   34  4   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+</pre>]]></description>
+<pubDate>Wed, 25 Sep 2024 08:53:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/250853.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/250853.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL092024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Helene 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 25 Sep 2024 08:55:56 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL092024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Helene 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 25 Sep 2024 09:23:05 GMT
+]]>
+</description>
+<pubDate>Wed, 25 Sep 2024 08:55:56 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Probabilistic Storm Surge Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?gm_psurge">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL0924_psurge2_m1_sm2.png"
+alt="Tropical Storm Helene Probabilistic Storm Surge Graphics Image"
+width="500" height="400" /></a><br/>
+Probabilistic Storm Surge Graphics last updated Wed, 25 Sep 2024 09:43:38 GMT
+]]>
+</description>
+<pubDate>Wed, 25 Sep 2024 09:43:38 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?gm_psurge</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?gm_psurge</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Potential Storm Surge Flooding Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?inundation">
+<img src="https://www.nhc.noaa.gov/images/inundation_thumb.png"
+alt="Tropical Storm Helene Link to Potential Storm Surge Flooding Map"
+width="60" height="48" /></a><br/>
+Potential Storm Surge Flooding Map last updated Wed, 25 Sep 2024 10:00:41 GMT
+]]>
+</description>
+<pubDate>Wed, 25 Sep 2024 10:00:41 GMT</pubDate>
+<validAdvisory>08</validAdvisory>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?inundation</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?inundation</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Storm Surge Watch/Warning Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?wsurge">
+<img src="https://www.nhc.noaa.gov/images/wsurge_thumb.png"
+alt="Tropical Storm Helene Link to Storm Surge Watch/Warning Map"
+width="60" height="48" /></a><br/>
+Storm Surge Watch/Warning Map last updated Wed, 25 Sep 2024 08:54:19 GMT
+]]>
+</description>
+<pubDate>Wed, 25 Sep 2024 08:54:19 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?wsurge</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/094338.shtml?wsurge</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Tallahassee, FL</title>
+<description>Issued at  505 AM EDT Wed Sep 25 2024 /405 AM CDT Wed Sep 25 2024/</description>
+<pubDate>Wed, 25 Sep 2024 09:06:00 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KTAE.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KTAE.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Miami, FL</title>
+<description>Issued at  507 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:07:52 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KMFL.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KMFL.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Melbourne, FL</title>
+<description>Issued at  518 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:18:52 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KMLB.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KMLB.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Tampa Bay Area, FL</title>
+<description>Issued at  520 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:20:23 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KTBW.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KTBW.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Key West, FL</title>
+<description>Issued at  522 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:23:07 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KKEY.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KKEY.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Charleston, SC</title>
+<description>Issued at  530 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:30:31 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KCHS.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KCHS.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Jacksonville, FL</title>
+<description>Issued at  535 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:35:54 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KJAX.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KJAX.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Atlanta, GA</title>
+<description>Issued at  547 AM EDT Wed Sep 25 2024</description>
+<pubDate>Wed, 25 Sep 2024 09:48:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KFFC.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KFFC.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
