@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Fri, 27 Sep 2024 14:34:37 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 271146<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 AM EDT Fri Sep 27 2024<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Helene, located inland over northeast Georgia and on recently <br/>
+upgraded Hurricane Isaac, located over the central Subtropical <br/>
+Atlantic Ocean.<br/>
+<br/>
+Central Tropical Atlantic (AL98):<br/>
+Showers and thunderstorms associated with an area of low pressure <br/>
+located midway in between the Cabo Verde Islands and the Lesser <br/>
+Antilles continues to become better organized. This disturbance is <br/>
+already producing gale-force winds. Environmental conditions are <br/>
+conducive for further development and a tropical depression or storm <br/>
+could form today while the system moves generally westward to <br/>
+west-northwestward at 10 to 15 mph. The system is then forecast to <br/>
+slow down and turn north-northwestward by this weekend. Additional <br/>
+information on this system, including gale warnings, can be found in <br/>
+High Seas Forecasts issued by the National Weather Service.<br/>
+* Formation chance through 48 hours...high...90 percent. <br/>
+* Formation chance through 7 days...high...90 percent.<br/>
+<br/>
+Western Caribbean:<br/>
+An area of low pressure could form over the western Caribbean Sea by <br/>
+the middle of next week. Environmental conditions are expected to be <br/>
+conducive for slow development thereafter while the system moves <br/>
+generally northwestward, potentially entering the Gulf of Mexico by <br/>
+the end of next week. <br/>
+* Formation chance through 48 hours...low...near 0 percent. <br/>
+* Formation chance through 7 days...low...30 percent.<br/>
+<br/>
+Eastern Tropical Atlantic:<br/>
+An area of low pressure could form over the eastern tropical <br/>
+Atlantic by the early to middle part of next week. Environmental <br/>
+conditions are expected to be conducive for slow development <br/>
+thereafter while the system moves generally northwestward at 10 to <br/>
+15 mph. <br/>
+* Formation chance through 48 hours...low...near 0 percent. <br/>
+* Formation chance through 7 days...low...20 percent.<br/>
+<br/>
+&&<br/>
+High Seas Forecasts issued by the National Weather Service<br/>
+can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br/>
+KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br/>
+<br/>
+$$<br/>
+Forecaster Kelly/Rosado<br/>
+]]>
+</description>
+<pubDate>Fri, 27 Sep 2024 11:46:24 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202409271146</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Helene (AT4/AL092024)</title>
+ <guid isPermaLink="false">summary-al092024-202409270807</guid>
+ <pubDate>Fri, 27 Sep 2024 08:07:18 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/271152.shtml</link>
+ <description>
+  ...HELENE PRODUCING DAMAGING GUSTY WINDS AND LIFE-THREATENING  FLOODING OVER PORTIONS OF THE SOUTHEAST AND SOUTHERN APPALACHIANS... ...FLASH FLOOD EMERGENCY IN EFFECT FOR METROPOLITAN ATLANTA...
+ As of 8:00 AM EDT Fri Sep 27
+ the center of Helene was located near 34.2, -83.0
+ with movement N at 30 mph.
+ The minimum central pressure was 972 mb
+ with maximum sustained winds of about 60 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>34.2, -83.0</nhc:center>
+  <nhc:type>Tropical Storm</nhc:type>
+  <nhc:name>Helene</nhc:name>
+  <nhc:wallet>AT4</nhc:wallet>
+  <nhc:atcf>AL092024</nhc:atcf>
+  <nhc:datetime>8:00 AM EDT Fri Sep 27</nhc:datetime>
+  <nhc:movement>N at 30 mph</nhc:movement>
+  <nhc:pressure>972 mb</nhc:pressure>
+  <nhc:wind>60 mph</nhc:wind>
+  <nhc:headline> ...HELENE PRODUCING DAMAGING GUSTY WINDS AND LIFE-THREATENING  FLOODING OVER PORTIONS OF THE SOUTHEAST AND SOUTHERN APPALACHIANS... ...FLASH FLOOD EMERGENCY IN EFFECT FOR METROPOLITAN ATLANTA...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Helene Public Advisory Number 16A</title>
+<description>Issued at 800 AM EDT Fri Sep 27 2024  <![CDATA[<pre>
+
+000
+WTNT34 KNHC 271152
+TCPAT4
+ 
+BULLETIN
+Tropical Storm Helene Intermediate Advisory Number 16A
+NWS National Hurricane Center Miami FL       AL092024
+800 AM EDT Fri Sep 27 2024
+ 
+...HELENE PRODUCING DAMAGING GUSTY WINDS AND LIFE-THREATENING 
+FLOODING OVER PORTIONS OF THE SOUTHEAST AND SOUTHERN APPALACHIANS...
+...FLASH FLOOD EMERGENCY IN EFFECT FOR METROPOLITAN ATLANTA...
+ 
+SUMMARY OF 800 AM EDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...34.2N 83.0W
+ABOUT 35 MI...60 KM SSW OF CLEMSON SOUTH CAROLINA
+ABOUT 80 MI...130 KM ENE OF ATLANTA GEORGIA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...N OR 360 DEGREES AT 30 MPH...48 KM/H
+MINIMUM CENTRAL PRESSURE...972 MB...28.70 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Tropical Storm Warning along the Florida Gulf Coast from the 
+mouth of the Suwannee River to Indian Pass has been discontinued.  
+The Tropical Storm Warning along the east coast of Florida and 
+extreme southeastern Georgia from the Flagler/Volusia County Line 
+to Altamaha Sound has been discontinued.
+
+The Storm Surge Warning for the Florida coast has been discontinued
+south of the Middle of Longboat Key.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Indian Pass to Middle of Longboat Key, Florida 
+* Tampa Bay
+ 
+A Tropical Storm Warning is in effect for...
+* Altamaha Sound northward to Little River Inlet
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline. For
+a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. 
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 AM EDT (1200 UTC), the center of Tropical Storm Helene was
+located near latitude 34.2 North, longitude 83.0 West. Helene is
+moving toward the north near 30 mph (48 km/h).  Helene is expected 
+to turn northwestward and slow down over the Tennessee Valley later 
+today and Saturday.
+ 
+Maximum sustained winds have decreased to near 60 mph (95 km/h)
+with higher gusts.  Continued weakening is expected, and Helene is
+expected to become a post-tropical low this afternoon or tonight.
+However, damaging wind gusts will penetrate far inland across the
+southeastern United States, including over the higher terrain of the
+southern Appalachians.
+ 
+Tropical-storm-force winds extend outward up to 275 miles (445 km)
+mainly to the east of the center.  An observation in Brasstown 
+Bald, Georgia recently reported a wind gust of 72 mph (116 km/h).  
+An observation in Dewees Island, South Carolina, recently reported 
+a sustained wind of 46 mph (74 km/h) and a gust of 62 mph (100 
+km/h).
+ 
+The minimum central pressure based on surface observations is 
+972 mb (28.70 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for Helene can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT4.shtml
+ 
+STORM SURGE: The combination of a life-threatening storm surge and
+the tide will cause normally dry areas near the coast to be flooded
+by rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Aucilla River, FL to Chassahowitzka, FL...5-10 ft
+Indian Pass, FL to Aucilla River, FL...3-6 ft
+Chassahowitzka, FL to Anclote River, FL...3-5 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle,
+and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+For a complete depiction of areas at risk of storm surge inundation,
+please see the National Weather Service Peak Storm Surge Graphic,
+available at hurricanes.gov/graphics_at4.shtml?peakSurge.
+ 
+WIND: Tropical storm conditions are occurring along much of the 
+Georgia and South Carolina coasts, and these conditions will 
+continue for the next several hours. Strong, damaging winds, 
+especially in gusts, will also continue as far inland as the higher 
+terrain of the southern Appalachians.
+ 
+RAINFALL: Over portions of the Southeastern U.S. into the Southern
+Appalachians, Helene is expected to produce total rain accumulations
+of 6 to 12 inches, with isolated totals around 20 inches. This
+rainfall will likely result in catastrophic and potentially
+life-threatening flash and urban flooding, along with significant
+and record river flooding. Numerous significant landslides are
+expected in steep terrain across the southern Appalachians.
+ 
+For a complete depiction of forecast rainfall associated with
+Hurricane Helene, please see the National Weather Service Storm
+Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at4.shtml?ero.
+ 
+For a list of rainfall observations (and wind reports) associated
+this storm, see the companion storm summary at WBCSCCNS4 with the
+WMO header ACUS44 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+ 
+TORNADOES: Tornadoes are possible this morning over parts of eastern
+Georgia, and through this afternoon over the Carolinas and southern
+Virginia.
+ 
+SURF: Swells generated by Helene will affect the coasts of Georgia 
+and the Carolinas during the next day or so.  These swells are 
+likely to cause life-threatening surf and rip current conditions.  
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Cangialosi/Harrigan
+ 
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 11:52:55 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/271152.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/271152.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Forecast Advisory Number 16</title>
+<description>Issued at 0900 UTC FRI SEP 27 2024  <![CDATA[<pre>
+
+000
+WTNT24 KNHC 270853
+TCMAT4
+ 
+TROPICAL STORM HELENE FORECAST/ADVISORY NUMBER  16
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092024
+0900 UTC FRI SEP 27 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 32.8N  83.0W AT 27/0900Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH OR 360 DEGREES AT  26 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  968 MB
+MAX SUSTAINED WINDS  60 KT WITH GUSTS TO  80 KT.
+50 KT....... 30NE  50SE  30SW   0NW.
+34 KT.......240NE 240SE 100SW  60NW.
+12 FT SEAS..240NE 380SE 390SW   0NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 32.8N  83.0W AT 27/0900Z...INLAND
+AT 27/0600Z CENTER WAS LOCATED NEAR 31.3N  83.3W...INLAND
+ 
+FORECAST VALID 27/1800Z 36.4N  84.5W...POST-TROP/INLAND
+MAX WIND  35 KT...GUSTS  50 KT.
+34 KT...120NE   0SE   0SW 120NW.
+ 
+FORECAST VALID 28/0600Z 36.9N  87.3W...POST-TROP/EXTRATROP
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 28/1800Z 36.7N  87.3W...POST-TROP/EXTRATROP
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 29/0600Z 36.7N  87.0W...POST-TROP/EXTRATROP
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+FORECAST VALID 29/1800Z 36.9N  86.0W...POST-TROP/EXTRATROP
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+FORECAST VALID 30/0600Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 32.8N  83.0W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT34 KNHC/MIATCPAT4...AT 27/1200Z
+ 
+NEXT ADVISORY AT 27/1500Z
+ 
+$$
+FORECASTER BEVEN
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 08:53:21 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/270853.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/270853.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Forecast Discussion Number 16</title>
+<description>Issued at 500 AM EDT Fri Sep 27 2024  <![CDATA[<pre>
+
+000
+WTNT44 KNHC 270854
+TCDAT4
+ 
+Tropical Storm Helene Discussion Number  16
+NWS National Hurricane Center Miami FL       AL092024
+500 AM EDT Fri Sep 27 2024
+
+The eye of Helene made landfall near Perry, Florida, just after the 
+last advisory was issued. Since then, the center has crossed the 
+Florida Big Bend region and is currently located over east central 
+Georgia.  Surface observations have shown steady weakening since 
+landfall, and the maximum winds have decreased to a possibly 
+generous 60 kt.  During the last couple of hours, the radar 
+signature of the cyclone has degraded, and based on this the hourly 
+Tropical Cyclone Updates will be discontinued.
+
+The initial motion is now northward or 360/26.  Helen should turn 
+northwestward later today as it starts to interact with a mid- to 
+upper-level baroclinic low to its northwest.  After that, the 
+cyclone should considerably slow its forward motion and make a 
+cyclonic loop as it gets absorbed into the low.  The new forecast 
+track follows the general trend of the large-scale dynamical models.
+
+Helene should continue to weaken, and simulated satellite imagery 
+suggests it should lose its convection later today, the new 
+intensity forecast calls for the cyclone to weaken and become 
+post-tropical in about 12 h, followed by transition to an 
+extratropical cyclone as it merges with the baroclinic low.  The 
+remnant extratropical low is expected to dissipate by 72 h.
+
+Although the system will weaken as it moves over land, the fast
+forward speed of Helene during the next 12 hours or so will result
+in a far inland penetration of strong winds over parts of the
+southeastern United States, particularly over northern Georgia, 
+including strong gusts over the higher terrain of the southern 
+Appalachians. Accordingly, a higher-than-normal gust factor is 
+indicated in the official forecast while Helene is inland.
+ 
+KEY MESSAGES:
+ 
+1. The storm surge along portions of the Florida Big Bend coast and 
+other portions of the west coast of Florida should subside today.
+ 
+2. Damaging wind gusts will continue to penetrate well inland over 
+portions of Georgia and the Carolinas today, particularly over the 
+higher terrain of the southern Appalachians. Residents in these 
+areas should be prepared for the possibility of long-duration power
+outages.  If you use a generator after the storm, be sure it is
+placed outside at least 20 feet away from doors, windows, and
+garages to avoid deadly carbon monoxide poisoning.
+ 
+3. Catastrophic and life-threatening flash and urban flooding, 
+including numerous significant landslides, is expected across 
+portions of the southern Appalachians through Friday. Considerable 
+to locally catastrophic flash and urban flooding is likely for 
+northwestern and northern Florida and the Southeast through Friday. 
+Widespread significant river flooding is likely, some of which will 
+be major to record breaking.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  27/0900Z 32.8N  83.0W   60 KT  70 MPH...INLAND
+ 12H  27/1800Z 36.4N  84.5W   35 KT  40 MPH...POST-TROP/INLAND
+ 24H  28/0600Z 36.9N  87.3W   30 KT  35 MPH...POST-TROP/EXTRATROP
+ 36H  28/1800Z 36.7N  87.3W   25 KT  30 MPH...POST-TROP/EXTRATROP
+ 48H  29/0600Z 36.7N  87.0W   20 KT  25 MPH...POST-TROP/EXTRATROP
+ 60H  29/1800Z 36.9N  86.0W   20 KT  25 MPH...POST-TROP/EXTRATROP
+ 72H  30/0600Z...DISSIPATED
+ 
+$$
+Forecaster Beven
+ 
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 08:54:49 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/270854.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/270854.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Wind Speed Probabilities Number 16</title>
+<description>Issued at 0900 UTC FRI SEP 27 2024                                              <![CDATA[<pre>
+
+000
+FONT14 KNHC 270854
+PWSAT4
+                                                                    
+TROPICAL STORM HELENE WIND SPEED PROBABILITIES NUMBER  16           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL092024               
+0900 UTC FRI SEP 27 2024                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM HELENE WAS LOCATED NEAR       
+LATITUDE 32.8 NORTH...LONGITUDE 83.0 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 60 KTS...70 MPH...110 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z FRI 18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z FRI 06Z SAT 18Z SAT 06Z SUN 06Z MON 06Z TUE 06Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CHARLOTTE NC   34 10   X(10)   X(10)   X(10)   X(10)   X(10)   X(10)
+ 
+COLUMBIA SC    34 96   X(96)   X(96)   X(96)   X(96)   X(96)   X(96)
+ 
+LITTLE RIVER   34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+MYRTLE BEACH   34  4   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+CHARLESTON SC  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+BEAUFORT MCAS  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+ATLANTA GA     34 77   X(77)   X(77)   X(77)   X(77)   X(77)   X(77)
+ 
+AUGUSTA GA     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+SAVANNAH GA    34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+KINGS BAY GA   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+WAYCROSS GA    34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+MAYPORT NS FL  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+JACKSONVILLE   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+GAINESVILLE FL 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+DAYTONA BEACH  34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+THE VILLAGES   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+ORLANDO FL     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+CEDAR KEY FL   34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+TALLAHASSEE FL 34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+ST MARKS FL    34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+ALBANY GA      34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+ 
+COLUMBUS GA    34  3   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+MACON GA       34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+MACON GA       50 39   X(39)   X(39)   X(39)   X(39)   X(39)   X(39)
+MACON GA       64  7   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+$$                                                                  
+FORECASTER BEVEN                                                    
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 08:54:22 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/270854.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/270854.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL092024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Helene 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 27 Sep 2024 11:52:49 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL092024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Helene 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 27 Sep 2024 09:23:04 GMT
+]]>
+</description>
+<pubDate>Fri, 27 Sep 2024 11:52:49 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Probabilistic Storm Surge Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?gm_psurge">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT09/AL0924_psurge2_m1_sm2.png"
+alt="Tropical Storm Helene Probabilistic Storm Surge Graphics Image"
+width="500" height="400" /></a><br/>
+Probabilistic Storm Surge Graphics last updated Fri, 27 Sep 2024 09:31:33 GMT
+]]>
+</description>
+<pubDate>Fri, 27 Sep 2024 09:31:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?gm_psurge</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?gm_psurge</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Potential Storm Surge Flooding Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?inundation">
+<img src="https://www.nhc.noaa.gov/images/inundation_thumb.png"
+alt="Tropical Storm Helene Link to Potential Storm Surge Flooding Map"
+width="60" height="48" /></a><br/>
+Potential Storm Surge Flooding Map last updated Fri, 27 Sep 2024 09:57:12 GMT
+]]>
+</description>
+<pubDate>Fri, 27 Sep 2024 09:57:12 GMT</pubDate>
+<validAdvisory>16</validAdvisory>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?inundation</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?inundation</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Helene Storm Surge Watch/Warning Map</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?wsurge">
+<img src="https://www.nhc.noaa.gov/images/wsurge_thumb.png"
+alt="Tropical Storm Helene Link to Storm Surge Watch/Warning Map"
+width="60" height="48" /></a><br/>
+Storm Surge Watch/Warning Map last updated Fri, 27 Sep 2024 12:00:59 GMT
+]]>
+</description>
+<pubDate>Fri, 27 Sep 2024 12:00:59 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?wsurge</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/093133.shtml?wsurge</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Key West, FL</title>
+<description>Issued at  414 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 08:14:37 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KKEY.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KKEY.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Greenville-Spartanburg, SC</title>
+<description>Issued at  441 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 08:41:56 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KGSP.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KGSP.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Knoxville, TN</title>
+<description>Issued at  517 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:17:30 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS84-KMRX.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS84-KMRX.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Columbia, SC</title>
+<description>Issued at  518 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:18:55 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KCAE.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KCAE.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Wilmington, NC</title>
+<description>Issued at  522 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:22:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KILM.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KILM.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Melbourne, FL</title>
+<description>Issued at  526 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:26:56 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KMLB.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KMLB.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Atlanta, GA</title>
+<description>Issued at  528 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:28:41 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KFFC.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KFFC.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Birmingham, AL</title>
+<description>Issued at  430 AM CDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:30:19 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS84-KBMX.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS84-KBMX.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Charleston, SC</title>
+<description>Issued at  534 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 09:34:23 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KCHS.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KCHS.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Tallahassee, FL</title>
+<description>Issued at  813 AM EDT Fri Sep 27 2024 /713 AM CDT Fri Sep 27 2024/</description>
+<pubDate>Fri, 27 Sep 2024 12:13:52 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KTAE.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KTAE.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Jacksonville, FL</title>
+<description>Issued at  828 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 12:29:11 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KJAX.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KJAX.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Local Statement for Tampa Bay Area, FL</title>
+<description>Issued at  833 AM EDT Fri Sep 27 2024</description>
+<pubDate>Fri, 27 Sep 2024 12:33:40 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/WTUS82-KTBW.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/WTUS82-KTBW.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Isaac (AT5/AL102024)</title>
+ <guid isPermaLink="false">summary-al102024-202409271433</guid>
+ <pubDate>Fri, 27 Sep 2024 14:33:39 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/271433.shtml</link>
+ <description>
+  ...HURRICANE ISAAC HEADING WESTWARD OVER THE NORTH CENTRAL ATLANTIC OCEAN...
+ As of 11:00 AM AST Fri Sep 27
+ the center of Isaac was located near 37.4, -46.8
+ with movement ENE at 18 mph.
+ The minimum central pressure was 981 mb
+ with maximum sustained winds of about 75 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>37.4, -46.8</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Isaac</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL102024</nhc:atcf>
+  <nhc:datetime>11:00 AM AST Fri Sep 27</nhc:datetime>
+  <nhc:movement>ENE at 18 mph</nhc:movement>
+  <nhc:pressure>981 mb</nhc:pressure>
+  <nhc:wind>75 mph</nhc:wind>
+  <nhc:headline> ...HURRICANE ISAAC HEADING WESTWARD OVER THE NORTH CENTRAL ATLANTIC OCEAN...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Isaac Public Advisory Number 7</title>
+<description>Issued at 1100 AM AST Fri Sep 27 2024  <![CDATA[<pre>
+
+282 
+WTNT35 KNHC 271433
+TCPAT5
+ 
+BULLETIN
+Hurricane Isaac Advisory Number   7
+NWS National Hurricane Center Miami FL       AL102024
+1100 AM AST Fri Sep 27 2024
+ 
+...HURRICANE ISAAC HEADING WESTWARD OVER THE NORTH CENTRAL ATLANTIC
+OCEAN...
+ 
+ 
+SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...37.4N 46.8W
+ABOUT 1080 MI...1740 KM W OF THE AZORES
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...ENE OR 65 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...981 MB...28.97 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM AST (1500 UTC), the center of Hurricane Isaac was located 
+near latitude 37.4 North, longitude 46.8 West. Isaac is moving 
+toward the east-northeast near 18 mph (30 km/h).  A gradual turn to 
+the east-northeast with a slight acceleration in forward speed is 
+expected over the few days.
+ 
+Maximum sustained winds are near 75 mph (120 km/h) with higher
+gusts.  Additional strengthening is expected during the next day or
+so followed by gradual weakening by the end of this weekend.
+ 
+Hurricane-force winds extend outward up to 15 miles (30 km) from the
+center and tropical-storm-force winds extend outward up to 70 miles
+(110 km).
+ 
+The estimated minimum central pressure is 981 mb (28.97 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF:  Swells generated by Isaac and a large wind fetch from a 
+deep-layer trough could spread into the Azores by this weekend.  
+These swells are likely to cause life-threatening surf and rip 
+current conditions. Please consult products from your local weather 
+office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM AST.
+ 
+$$
+Forecaster Bucci
+ 
+
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 14:33:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/271433.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/271433.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Isaac Forecast Advisory Number 7</title>
+<description>Issued at 1500 UTC FRI SEP 27 2024  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 271432
+TCMAT5
+ 
+HURRICANE ISAAC FORECAST/ADVISORY NUMBER   7
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102024
+1500 UTC FRI SEP 27 2024
+ 
+HURRICANE CENTER LOCATED NEAR 37.4N  46.8W AT 27/1500Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE EAST-NORTHEAST OR  65 DEGREES AT  16 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  981 MB
+MAX SUSTAINED WINDS  65 KT WITH GUSTS TO  80 KT.
+64 KT.......  0NE  15SE   0SW   0NW.
+50 KT....... 20NE  40SE  30SW  20NW.
+34 KT....... 40NE  60SE  60SW  60NW.
+12 FT SEAS.. 70NE 150SE 150SW 240NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 37.4N  46.8W AT 27/1500Z
+AT 27/1200Z CENTER WAS LOCATED NEAR 37.1N  47.7W
+ 
+FORECAST VALID 28/0000Z 38.1N  44.2W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT...  0NE  20SE  15SW   0NW.
+50 KT... 30NE  50SE  40SW  30NW.
+34 KT... 60NE  80SE  70SW  60NW.
+ 
+FORECAST VALID 28/1200Z 39.4N  40.9W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 15NE  20SE  15SW  10NW.
+50 KT... 40NE  50SE  40SW  40NW.
+34 KT...120NE 120SE 100SW 100NW.
+ 
+FORECAST VALID 29/0000Z 41.0N  38.4W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 15NE  20SE  15SW  10NW.
+50 KT... 40NE  55SE  50SW  40NW.
+34 KT...170NE 130SE 110SW 120NW.
+ 
+FORECAST VALID 29/1200Z 42.4N  36.6W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT...  0NE  20SE  15SW  10NW.
+50 KT... 40NE  60SE  55SW  50NW.
+34 KT...180NE 130SE 110SW 160NW.
+ 
+FORECAST VALID 30/0000Z 43.7N  35.1W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 40NE  55SE  45SW  45NW.
+34 KT...180NE 130SE 110SW 180NW.
+ 
+FORECAST VALID 30/1200Z 44.8N  33.0W...POST-TROPICAL
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT...  0NE  50SE  35SW  30NW.
+34 KT...180NE 130SE 110SW 160NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 01/1200Z 48.0N  29.6W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...190NE 110SE  90SW 110NW.
+ 
+OUTLOOK VALID 02/1200Z 52.1N  25.0W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...190NE 180SE  80SW   0NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 37.4N  46.8W
+ 
+NEXT ADVISORY AT 27/2100Z
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 14:32:54 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/271432.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/271432.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Isaac Forecast Discussion Number 7</title>
+<description>Issued at 1100 AM AST Fri Sep 27 2024  <![CDATA[<pre>
+
+000
+WTNT45 KNHC 271434
+TCDAT5
+ 
+Hurricane Isaac Discussion Number   7
+NWS National Hurricane Center Miami FL       AL102024
+1100 AM AST Fri Sep 27 2024
+ 
+Isaac is holding steady this morning.  Geostationary satellite data 
+has shown consistent periodic bursts of convection wrapping around a 
+small eye.  Subjective and objective Dvorak estimates range widely 
+from 35 kt to 73 kt and the initial intensity is held at 65 kt for 
+this advisory, closest to the SAB classification. 
+
+The hurricane is moving eastward at 12 kt.  Isaac is moving along 
+the northern periphery of a mid-level ridge  and should gradually 
+turn to the east-northeast over the next couple of days.  Models are 
+more in agreement this cycle and show a more northeastward turn on 
+days 4 and 5 as Isaac interacts with an upper-level trough located 
+to its east.  The latest track forecast is similar to the previous 
+forecast through 72 h and slightly to the north at forecast periods 
+beyond.
+
+Isaac could still strengthen further over the next day or so.  While 
+the vertical wind shear is expected to be strong-to-moderate, the 
+upper-level divergence is forecast to increase and sea surface 
+temperature should be relatively sufficient.  Beyond a day or so, 
+oceanic and environmental conditions become less conducive, which 
+should begin to weaken Isaac by Saturday night or Sunday.  The 
+official intensity forecast is very similar to previous advisory, 
+with a peak intensity of 75 kt by Saturday and the cyclone becoming 
+extratropical by early next week.  However, global models show the 
+system losing its deep convection by Monday, and the official 
+forecast now predicts Isaac becoming a post-tropical cyclone at that 
+point. 
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  27/1500Z 37.4N  46.8W   65 KT  75 MPH
+ 12H  28/0000Z 38.1N  44.2W   70 KT  80 MPH
+ 24H  28/1200Z 39.4N  40.9W   75 KT  85 MPH
+ 36H  29/0000Z 41.0N  38.4W   75 KT  85 MPH
+ 48H  29/1200Z 42.4N  36.6W   70 KT  80 MPH
+ 60H  30/0000Z 43.7N  35.1W   60 KT  70 MPH
+ 72H  30/1200Z 44.8N  33.0W   55 KT  65 MPH...POST-TROPICAL
+ 96H  01/1200Z 48.0N  29.6W   45 KT  50 MPH...POST-TROP/EXTRATROP
+120H  02/1200Z 52.1N  25.0W   35 KT  40 MPH...POST-TROP/EXTRATROP
+ 
+$$
+Forecaster Bucci
+ 
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 14:34:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/271434.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/271434.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Isaac Wind Speed Probabilities Number 7</title>
+<description>Issued at 1500 UTC FRI SEP 27 2024                                              <![CDATA[<pre>
+
+927 
+FONT15 KNHC 271433
+PWSAT5
+                                                                    
+HURRICANE ISAAC WIND SPEED PROBABILITIES NUMBER   7                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102024               
+1500 UTC FRI SEP 27 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE ISAAC WAS LOCATED NEAR LATITUDE    
+37.4 NORTH...LONGITUDE 46.8 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+65 KTS...75 MPH...120 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z FRI 00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z SAT 12Z SAT 00Z SUN 12Z SUN 12Z MON 12Z TUE 12Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+SANTA CRUZ AZO 34  X   X( X)   1( 1)   3( 4)   3( 7)   X( 7)   X( 7)
+ 
+$$                                                                  
+FORECASTER BUCCI                                                    
+
+</pre>]]></description>
+<pubDate>Fri, 27 Sep 2024 14:34:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/271433.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/271433.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Isaac Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/085427.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102024_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Isaac 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Fri, 27 Sep 2024 08:54:27 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/085427.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102024_wind_probs_34_F120_sm2.png"
+alt="Hurricane Isaac 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Fri, 27 Sep 2024 09:29:10 GMT
+]]>
+</description>
+<pubDate>Fri, 27 Sep 2024 08:54:27 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/085427.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/085427.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
