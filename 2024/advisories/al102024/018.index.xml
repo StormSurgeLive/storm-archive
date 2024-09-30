@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Mon, 30 Sep 2024 08:35:52 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 300517<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+200 AM EDT Mon Sep 30 2024<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Storm Isaac, located several hundred miles northwest of the Azores, <br/>
+on Tropical Depression Joyce, located over the central Atlantic <br/>
+Ocean, and on Tropical Depression Twelve, located over the eastern <br/>
+tropical Atlantic Ocean.<br/>
+<br/>
+Western Caribbean Sea and Gulf of Mexico:<br/>
+A broad area of low pressure located over the western Caribbean Sea <br/>
+is producing disorganized showers and thunderstorms.  Environmental <br/>
+conditions appear to be conducive for gradual development, and a <br/>
+tropical depression could form around the middle part of this week <br/>
+while the disturbance moves slowly west-northwestward.  This system <br/>
+is then expected to move northwestward into the Gulf of Mexico <br/>
+during the latter portion of this week.  Interests in the <br/>
+northwestern Caribbean Sea and along the U.S. Gulf Coast should <br/>
+monitor the progress of this system.<br/>
+* Formation chance through 48 hours...low...near 0 percent. <br/>
+* Formation chance through 7 days...medium...50 percent.<br/>
+<br/>
+Eastern Tropical Atlantic:<br/>
+A tropical wave located a few hundred miles south-southeast of the <br/>
+Cabo Verde Islands is producing limited shower and thunderstorm <br/>
+activity.  Upper-level winds are forecast to become more conducive <br/>
+for gradual development of this system during the next few days, and <br/>
+a tropical depression could form during the middle or latter part of <br/>
+this week while it moves slowly westward or west-northwestward over <br/>
+the eastern tropical Atlantic.<br/>
+* Formation chance through 48 hours...low...20 percent. <br/>
+* Formation chance through 7 days...medium...60 percent.<br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Depression Twelve are issued under <br/>
+WMO header WTNT32 KNHC and under AWIPS header MIATCPAT2.<br/>
+Forecast/Advisories on Tropical Depression Twelve are issued under <br/>
+WMO header WTNT22 KNHC and under AWIPS header MIATCMAT2.<br/>
+<br/>
+$$<br/>
+Forecaster Pasch<br/>
+]]>
+</description>
+<pubDate>Mon, 30 Sep 2024 05:17:22 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202409300517</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Joyce (AT1/AL112024)</title>
+ <guid isPermaLink="false">summary-al112024-202409300236</guid>
+ <pubDate>Mon, 30 Sep 2024 02:36:06 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/300235.shtml</link>
+ <description>
+  ...JOYCE WEAKENS TO A DEPRESSION... ...EXPECTED TO BECOME A POST-TROPICAL REMNANT LOW ON MONDAY...
+ As of 11:00 PM AST Sun Sep 29
+ the center of Joyce was located near 22.3, -49.6
+ with movement NW at 6 mph.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>22.3, -49.6</nhc:center>
+  <nhc:type>TROPICAL DEPRESSION</nhc:type>
+  <nhc:name>Joyce</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL112024</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Sun Sep 29</nhc:datetime>
+  <nhc:movement>NW at 6 mph</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...JOYCE WEAKENS TO A DEPRESSION... ...EXPECTED TO BECOME A POST-TROPICAL REMNANT LOW ON MONDAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Joyce Public Advisory Number 11</title>
+<description>Issued at 1100 PM AST Sun Sep 29 2024  <![CDATA[<pre>
+
+000
+WTNT31 KNHC 300235
+TCPAT1
+ 
+BULLETIN
+Tropical Depression Joyce Advisory Number  11
+NWS National Hurricane Center Miami FL       AL112024
+1100 PM AST Sun Sep 29 2024
+ 
+...JOYCE WEAKENS TO A DEPRESSION...
+...EXPECTED TO BECOME A POST-TROPICAL REMNANT LOW ON MONDAY...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...22.3N 49.6W
+ABOUT 920 MI...1480 KM ENE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Depression Joyce 
+was located near latitude 22.3 North, longitude 49.6 West. The 
+depression is moving toward the northwest near 6 mph (9 km/h). A 
+turn toward the north-northwest and north is expected on Monday and 
+Tuesday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts. 
+Continued weakening is forecast, and Joyce is likely to become a 
+post-tropical remnant low on Monday and dissipate by Wednesday.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:36:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/300235.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/300235.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Joyce Forecast Advisory Number 11</title>
+<description>Issued at 0300 UTC MON SEP 30 2024  <![CDATA[<pre>
+
+000
+WTNT21 KNHC 300250
+TCMAT1
+ 
+TROPICAL DEPRESSION JOYCE FORECAST/ADVISORY NUMBER  11
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL112024
+0300 UTC MON SEP 30 2024
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 22.3N  49.6W AT 30/0300Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 310 DEGREES AT   5 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+12 FT SEAS.. 60NE   0SE   0SW  30NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 22.3N  49.6W AT 30/0300Z
+AT 30/0000Z CENTER WAS LOCATED NEAR 22.3N  49.4W
+ 
+FORECAST VALID 30/1200Z 22.9N  49.8W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+FORECAST VALID 01/0000Z 23.6N  49.8W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 01/1200Z 24.5N  49.8W...POST-TROP/REMNT LOW
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 02/0000Z 25.7N  49.6W...POST-TROP/REMNT LOW
+MAX WIND  20 KT...GUSTS  30 KT.
+ 
+FORECAST VALID 02/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 22.3N  49.6W
+ 
+NEXT ADVISORY AT 30/0900Z
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:50:34 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/300250.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/300250.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Joyce Forecast Discussion Number 11</title>
+<description>Issued at 1100 PM AST Sun Sep 29 2024  <![CDATA[<pre>
+
+000
+WTNT41 KNHC 300236
+TCDAT1
+ 
+Tropical Depression Joyce Discussion Number  11
+NWS National Hurricane Center Miami FL       AL112024
+1100 PM AST Sun Sep 29 2024
+ 
+The exposed center of Joyce is completely devoid of convection, with
+only a few intermittent bursts noted in satellite imagery during the
+past several hours. If the system is unable to generate and sustain
+organized convection soon, it will degenerate to a post-tropical
+cyclone on Monday. A partial scatterometer pass indicates that winds
+over the eastern part of the circulation have diminished, and the
+satellite intensity estimates have continued to fall this evening.
+Based on these data and the degraded satellite presentation, Joyce
+is downgraded to a 30-kt depression.
+ 
+The storm is still moving northwestward (310/5 kt), but is forecast 
+to turn northward soon toward a weakness in the subtropical ridge 
+over the central Atlantic. The NHC track forecast has been adjusted 
+slightly left of the previous one based on current motion trends. 
+Joyce is surrounded by a dry air mass and is expected to face 
+continued southwesterly shear, making it unlikely for the system to 
+sustain organized deep convection going forward. Thus, the updated 
+NHC forecast shows Joyce degenerating to a post-tropical remnant low 
+by late Monday. However, this could occur even sooner if convection 
+does not regenerate overnight. The global models agree that Joyce 
+should open into a trough and dissipate by Wednesday.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  30/0300Z 22.3N  49.6W   30 KT  35 MPH
+ 12H  30/1200Z 22.9N  49.8W   30 KT  35 MPH
+ 24H  01/0000Z 23.6N  49.8W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 36H  01/1200Z 24.5N  49.8W   25 KT  30 MPH...POST-TROP/REMNT LOW
+ 48H  02/0000Z 25.7N  49.6W   20 KT  25 MPH...POST-TROP/REMNT LOW
+ 60H  02/1200Z...DISSIPATED
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:36:36 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/300236.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/300236.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Joyce Wind Speed Probabilities Number 11</title>
+<description>Issued at 0300 UTC MON SEP 30 2024                                              <![CDATA[<pre>
+
+000
+FONT11 KNHC 300235
+PWSAT1
+                                                                    
+TROPICAL DEPRESSION JOYCE WIND SPEED PROBABILITIES NUMBER  11       
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL112024               
+0300 UTC MON SEP 30 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL DEPRESSION JOYCE WAS LOCATED NEAR   
+LATITUDE 22.3 NORTH...LONGITUDE 49.6 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z MON 12Z MON 00Z TUE 12Z TUE 00Z WED 00Z THU 00Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z MON 00Z TUE 12Z TUE 00Z WED 00Z THU 00Z FRI 00Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER REINHART                                                 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:36:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/300235.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/300235.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Joyce Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/023713.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT11/AL112024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Joyce 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 30 Sep 2024 02:37:13 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/023713.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT11/AL112024_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Joyce 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 30 Sep 2024 03:28:58 GMT
+]]>
+</description>
+<pubDate>Mon, 30 Sep 2024 02:37:13 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/023713.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/023713.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Twelve (AT2/AL122024)</title>
+ <guid isPermaLink="false">summary-al122024-202409300239</guid>
+ <pubDate>Mon, 30 Sep 2024 02:39:06 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/300238.shtml</link>
+ <description>
+  ...DEPRESSION EXPECTED TO STRENGTHEN OVER THE OPEN ATLANTIC DURING  THE NEXT SEVERAL DAYS...
+ As of 11:00 PM AST Sun Sep 29
+ the center of Twelve was located near 13.9, -33.2
+ with movement W at 7 mph.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>13.9, -33.2</nhc:center>
+  <nhc:type>Tropical Depression</nhc:type>
+  <nhc:name>Twelve</nhc:name>
+  <nhc:wallet>AT2</nhc:wallet>
+  <nhc:atcf>AL122024</nhc:atcf>
+  <nhc:datetime>11:00 PM AST Sun Sep 29</nhc:datetime>
+  <nhc:movement>W at 7 mph</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...DEPRESSION EXPECTED TO STRENGTHEN OVER THE OPEN ATLANTIC DURING  THE NEXT SEVERAL DAYS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Twelve Public Advisory Number 2</title>
+<description>Issued at 1100 PM AST Sun Sep 29 2024  <![CDATA[<pre>
+
+000
+WTNT32 KNHC 300238
+TCPAT2
+ 
+BULLETIN
+Tropical Depression Twelve Advisory Number   2
+NWS National Hurricane Center Miami FL       AL122024
+1100 PM AST Sun Sep 29 2024
+ 
+...DEPRESSION EXPECTED TO STRENGTHEN OVER THE OPEN ATLANTIC DURING 
+THE NEXT SEVERAL DAYS...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...13.9N 33.2W
+ABOUT 630 MI...1015 KM WSW OF THE CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Depression Twelve 
+was located near latitude 13.9 North, longitude 33.2 West. The 
+depression is moving toward the west near 7 mph (11 km/h), and a 
+general westward to west-northwestward motion is expected to 
+continue for the next several days.
+ 
+Satellite wind data indicate that maximum sustained winds are near 
+35 mph (55 km/h) with higher gusts. Gradual strengthening is 
+forecast on Monday, followed by a faster rate of intensification 
+through midweek. The depression could become a hurricane by Tuesday 
+night or Wednesday.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:39:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/300238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/300238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Forecast Advisory Number 2</title>
+<description>Issued at 0300 UTC MON SEP 30 2024  <![CDATA[<pre>
+
+000
+WTNT22 KNHC 300238
+TCMAT2
+ 
+TROPICAL DEPRESSION TWELVE FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122024
+0300 UTC MON SEP 30 2024
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 13.9N  33.2W AT 30/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 280 DEGREES AT   6 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 13.9N  33.2W AT 30/0300Z
+AT 30/0000Z CENTER WAS LOCATED NEAR 13.9N  32.8W
+ 
+FORECAST VALID 30/1200Z 14.0N  34.6W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 50NE  20SE   0SW  30NW.
+ 
+FORECAST VALID 01/0000Z 14.2N  36.8W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 90NE  50SE  20SW  60NW.
+ 
+FORECAST VALID 01/1200Z 14.5N  38.9W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE   0SE   0SW  20NW.
+34 KT...120NE  90SE  40SW  90NW.
+ 
+FORECAST VALID 02/0000Z 15.2N  40.6W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE   0SE   0SW   0NW.
+50 KT... 40NE  30SE  20SW  30NW.
+34 KT...140NE 130SE  60SW 100NW.
+ 
+FORECAST VALID 02/1200Z 16.4N  42.0W
+MAX WIND  75 KT...GUSTS  90 KT.
+50 KT... 60NE  50SE  30SW  40NW.
+34 KT...180NE 160SE  70SW 120NW.
+ 
+FORECAST VALID 03/0000Z 17.8N  43.3W
+MAX WIND  85 KT...GUSTS 105 KT.
+50 KT... 70NE  60SE  40SW  50NW.
+34 KT...180NE 160SE  80SW 140NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 04/0000Z 20.5N  46.0W
+MAX WIND  95 KT...GUSTS 115 KT.
+50 KT...100NE  80SE  65SW  80NW.
+34 KT...200NE 190SE 100SW 170NW.
+ 
+OUTLOOK VALID 05/0000Z 22.5N  48.0W
+MAX WIND 105 KT...GUSTS 130 KT.
+50 KT...120NE 100SE  70SW 100NW.
+34 KT...210NE 200SE 130SW 190NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 13.9N  33.2W
+ 
+NEXT ADVISORY AT 30/0900Z
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:38:35 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/300238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/300238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Forecast Discussion Number 2</title>
+<description>Issued at 1100 PM AST Sun Sep 29 2024  <![CDATA[<pre>
+
+000
+WTNT42 KNHC 300239
+TCDAT2
+ 
+Tropical Depression Twelve Discussion Number   2
+NWS National Hurricane Center Miami FL       AL122024
+1100 PM AST Sun Sep 29 2024
+ 
+The depression is gradually becoming better organized while 
+continuing to produce a large area of deep convection. Recent 
+scatterometer winds indicate the center of the system lies on the 
+northern side of the convective cloud mass, with 25-30 kt winds 
+noted within the eastern semicircle of the circulation and weaker 
+winds on the west side. Based on the scatterometer data, the system 
+remains a 30-kt depression for this advisory.
+
+The depression is moving westward at about 6 kt, to the south of an 
+established subtropical ridge over the eastern Atlantic. This 
+feature should keep the tropical cyclone on a westward to 
+west-northwestward heading during the next couple of days. Then, a 
+northwestward turn is forecast later this week as a deep-layer 
+trough over the north-central Atlantic weakens the ridge. This 
+recurvature over open waters is supported by the latest track 
+guidance and global model ensembles, and the updated NHC track 
+forecast is essentially an update of the previous one with no 
+notable changes.
+
+Intensification is expected due to very favorable environmental and 
+oceanic conditions. The tropical cyclone will move over SSTs warmer 
+than 29C during the next several days, within a moist and unstable 
+environment with weak deep-layer shear. Once the system becomes more 
+consolidated and establishes an inner core, its rate of 
+strengthening is likely to increase. The latest NHC intensity 
+forecast closely follows the HCCA and IVCN multi-model consensus 
+aids, which brings the system to hurricane strength in 48 h and 
+major hurricane intensity by day 5. In addition, the system is 
+forecast to become a large hurricane, with an expanding wind and 
+wave field as it gains latitude later in the period.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  30/0300Z 13.9N  33.2W   30 KT  35 MPH
+ 12H  30/1200Z 14.0N  34.6W   35 KT  40 MPH
+ 24H  01/0000Z 14.2N  36.8W   45 KT  50 MPH
+ 36H  01/1200Z 14.5N  38.9W   55 KT  65 MPH
+ 48H  02/0000Z 15.2N  40.6W   65 KT  75 MPH
+ 60H  02/1200Z 16.4N  42.0W   75 KT  85 MPH
+ 72H  03/0000Z 17.8N  43.3W   85 KT 100 MPH
+ 96H  04/0000Z 20.5N  46.0W   95 KT 110 MPH
+120H  05/0000Z 22.5N  48.0W  105 KT 120 MPH
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:40:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/300239.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/300239.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Wind Speed Probabilities Number 2</title>
+<description>Issued at 0300 UTC MON SEP 30 2024                                              <![CDATA[<pre>
+
+000
+FONT12 KNHC 300238
+PWSAT2
+                                                                    
+TROPICAL DEPRESSION TWELVE WIND SPEED PROBABILITIES NUMBER   2      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL122024               
+0300 UTC MON SEP 30 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL DEPRESSION TWELVE WAS LOCATED NEAR  
+LATITUDE 13.9 NORTH...LONGITUDE 33.2 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z MON 12Z MON 00Z TUE 12Z TUE 00Z WED 00Z THU 00Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z MON 00Z TUE 12Z TUE 00Z WED 00Z THU 00Z FRI 00Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER REINHART                                                 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 02:39:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/300238.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/300238.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Twelve Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/024130.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT12/AL122024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Twelve 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 30 Sep 2024 02:41:30 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/024130.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT12/AL122024_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Twelve 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 30 Sep 2024 03:34:52 GMT
+]]>
+</description>
+<pubDate>Mon, 30 Sep 2024 02:41:30 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/024130.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/024130.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Storm Isaac (AT5/AL102024)</title>
+ <guid isPermaLink="false">summary-al102024-202409300835</guid>
+ <pubDate>Mon, 30 Sep 2024 08:35:20 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/300835.shtml</link>
+ <description>
+  ...ISAAC EXPECTED TO BECOME POST-TROPICAL LATER TODAY...
+ As of 9:00 AM GMT Mon Sep 30
+ the center of Isaac was located near 44.7, -31.3
+ with movement ENE at 15 mph.
+ The minimum central pressure was 975 mb
+ with maximum sustained winds of about 65 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>44.7, -31.3</nhc:center>
+  <nhc:type>TROPICAL STORM</nhc:type>
+  <nhc:name>Isaac</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL102024</nhc:atcf>
+  <nhc:datetime>9:00 AM GMT Mon Sep 30</nhc:datetime>
+  <nhc:movement>ENE at 15 mph</nhc:movement>
+  <nhc:pressure>975 mb</nhc:pressure>
+  <nhc:wind>65 mph</nhc:wind>
+  <nhc:headline> ...ISAAC EXPECTED TO BECOME POST-TROPICAL LATER TODAY...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Storm Isaac Public Advisory Number 18</title>
+<description>Issued at 900 AM GMT Mon Sep 30 2024  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 300835
+TCPAT5
+ 
+BULLETIN
+Tropical Storm Isaac Advisory Number  18
+NWS National Hurricane Center Miami FL       AL102024
+900 AM GMT Mon Sep 30 2024
+ 
+...ISAAC EXPECTED TO BECOME POST-TROPICAL LATER TODAY...
+ 
+ 
+SUMMARY OF 900 AM GMT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...44.7N 31.3W
+ABOUT 515 MI...825 KM NNW OF THE AZORES
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 15 MPH...24 KM/H
+MINIMUM CENTRAL PRESSURE...975 MB...28.80 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 900 AM GMT (0900 UTC), the center of Tropical Storm Isaac was
+located near latitude 44.7 North, longitude 31.3 West.  Isaac is
+moving toward the east-northeast near 15 mph (24 km/h).  A turn
+toward the northeast at a similar forward speed is expected on
+Tuesday.
+
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts.  Slow weakening is expected during the next several days.
+Isaac is forecast to become a post-tropical cyclone later today.
+
+Tropical-storm-force winds extend outward up to 230 miles (370 km)
+from the center.
+
+The estimated minimum central pressure is 975 mb (28.80 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF:  Swells generated by Isaac will affect the Azores over the 
+next few days. These swells are likely to cause life-threatening 
+surf and rip current conditions.  Please consult products from your 
+local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 300 PM GMT.
+ 
+$$
+Forecaster Pasch
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 08:35:20 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/300835.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/300835.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Isaac Forecast Advisory Number 18</title>
+<description>Issued at 0900 UTC MON SEP 30 2024  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 300835
+TCMAT5
+ 
+TROPICAL STORM ISAAC FORECAST/ADVISORY NUMBER  18
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102024
+0900 UTC MON SEP 30 2024
+ 
+TROPICAL STORM CENTER LOCATED NEAR 44.7N  31.3W AT 30/0900Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE EAST-NORTHEAST OR  60 DEGREES AT  13 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  975 MB
+MAX SUSTAINED WINDS  55 KT WITH GUSTS TO  65 KT.
+50 KT....... 70NE  80SE  90SW  60NW.
+34 KT.......200NE 130SE 150SW 190NW.
+12 FT SEAS..270NE 420SE 360SW 420NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 44.7N  31.3W AT 30/0900Z
+AT 30/0600Z CENTER WAS LOCATED NEAR 44.5N  32.0W
+ 
+FORECAST VALID 30/1800Z 45.8N  28.1W...POST-TROP/EXTRATROP
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 50NE  40SE  50SW  30NW.
+34 KT...150NE 120SE 130SW 140NW.
+ 
+FORECAST VALID 01/0600Z 47.4N  25.1W...POST-TROP/EXTRATROP
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT...150NE 100SE 100SW 100NW.
+ 
+FORECAST VALID 01/1800Z 49.4N  23.3W...POST-TROP/EXTRATROP
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...180NE 100SE  50SW  90NW.
+ 
+FORECAST VALID 02/0600Z 51.3N  22.3W...POST-TROP/EXTRATROP
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...190NE 120SE  40SW  50NW.
+ 
+FORECAST VALID 02/1800Z 53.0N  21.2W...POST-TROP/EXTRATROP
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT...160NE  60SE   0SW  30NW.
+ 
+FORECAST VALID 03/0600Z 54.5N  20.0W...POST-TROP/EXTRATROP
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 04/0600Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 44.7N  31.3W
+ 
+NEXT ADVISORY AT 30/1500Z
+ 
+$$
+FORECASTER PASCH
+ 
+ 
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 08:35:20 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/300835.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/300835.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Isaac Forecast Discussion Number 18</title>
+<description>Issued at 900 AM GMT Mon Sep 30 2024  <![CDATA[<pre>
+
+749 
+WTNT45 KNHC 300835
+TCDAT5
+ 
+Tropical Storm Isaac Discussion Number  18
+NWS National Hurricane Center Miami FL       AL102024
+900 AM GMT Mon Sep 30 2024
+
+Isaac continues to show signs of transitioning into an extratropical 
+cyclone.  The central convection has mostly dissipated, and the 
+system is taking on more of a frontal appearance, with a 
+zonally-oriented cloud and rain shield over the cyclone's northern 
+semicircle.  The current intensity is kept at 55 kt in accordance 
+with a Dvorak estimate from TAFB, although this is somewhat 
+uncertain since Isaac no longer appears to be a true tropical 
+cyclone.
+
+The cyclone continues to move east-northeastward or at about 060/13 
+kt within a southern branch of the mid-latitude westerlies.  Isaac 
+is expected to turn toward the northeast during the next couple 
+of days as it approaches a shortwave ridge just west of the 
+British Isles.  The official track forecast has been nudged only 
+slightly eastward in the 2-3 day time frame, towards the latest 
+corrected dynamical model consensus.
+
+Isaac is moving over cool waters and should complete its 
+extratropical transition today.  The global models suggest that the 
+system will gradually weaken during the next few days as it becomes 
+absorbed within a larger low over the North Atlantic.  The official 
+intensity forecast is similar to the previous NHC prediction.
+
+
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  30/0900Z 44.7N  31.3W   55 KT  65 MPH
+ 12H  30/1800Z 45.8N  28.1W   50 KT  60 MPH...POST-TROP/EXTRATROP
+ 24H  01/0600Z 47.4N  25.1W   45 KT  50 MPH...POST-TROP/EXTRATROP
+ 36H  01/1800Z 49.4N  23.3W   40 KT  45 MPH...POST-TROP/EXTRATROP
+ 48H  02/0600Z 51.3N  22.3W   40 KT  45 MPH...POST-TROP/EXTRATROP
+ 60H  02/1800Z 53.0N  21.2W   35 KT  40 MPH...POST-TROP/EXTRATROP
+ 72H  03/0600Z 54.5N  20.0W   30 KT  35 MPH...POST-TROP/EXTRATROP
+ 96H  04/0600Z...DISSIPATED
+ 
+$$
+Forecaster Pasch
+ 
+
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 08:35:50 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/300835.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/300835.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Isaac Wind Speed Probabilities Number 18</title>
+<description>Issued at 0900 UTC MON SEP 30 2024                                              <![CDATA[<pre>
+
+712 
+FONT15 KNHC 300835
+PWSAT5
+                                                                    
+TROPICAL STORM ISAAC WIND SPEED PROBABILITIES NUMBER  18            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102024               
+0900 UTC MON SEP 30 2024                                            
+                                                                    
+AT 0900Z THE CENTER OF TROPICAL STORM ISAAC WAS LOCATED NEAR        
+LATITUDE 44.7 NORTH...LONGITUDE 31.3 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        06Z MON AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       06Z MON 18Z MON 06Z TUE 18Z TUE 06Z WED 06Z THU 06Z FRI
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             18Z MON 06Z TUE 18Z TUE 06Z WED 06Z THU 06Z FRI 06Z SAT
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER PASCH                                                    
+
+</pre>]]></description>
+<pubDate>Mon, 30 Sep 2024 08:35:48 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/300835.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/300835.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Storm Isaac Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024147.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Isaac 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 30 Sep 2024 02:41:47 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024147.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102024_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Isaac 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 30 Sep 2024 03:23:04 GMT
+]]>
+</description>
+<pubDate>Mon, 30 Sep 2024 02:41:47 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024147.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/024147.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
