@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:georss="http://www.georss.org/georss"
+ xmlns:gml="http://www.opengis.net/gml"
+ xmlns:nhc="https://www.nhc.noaa.gov">
+<channel>
+<pubDate>Sun, 20 Oct 2024 02:41:09 GMT</pubDate>
+<title>NHC Atlantic</title>
+<description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of Mexico</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>NHC Atlantic</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>Atlantic Tropical Weather Outlook</title>
+<description>
+<![CDATA[
+<br/>
+000<br/>
+ABNT20 KNHC 192341<br/>
+TWOAT <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+800 PM EDT Sat Oct 19 2024<br/>
+<br/>
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br/>
+<br/>
+Active Systems:<br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Depression Nadine, located inland over northern Guatemala, and on <br/>
+Hurricane Oscar, located near the Turks and Caicos Islands. <br/>
+<br/>
+Tropical cyclone formation is not expected over the next 7 days.<br/>
+<br/>
+&&<br/>
+Public Advisories on Hurricane Oscar are issued under WMO <br/>
+header WTNT31 KNHC and under AWIPS header MIATCPAT1. <br/>
+Forecast/Advisories on Hurricane Oscar are issued under WMO <br/>
+header WTNT21 KNHC and under AWIPS header MIATCMAT1.<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
+]]>
+</description>
+<pubDate>Sat, 19 Oct 2024 23:41:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202410192341</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Hurricane Oscar (AT1/AL162024)</title>
+ <guid isPermaLink="false">summary-al162024-202410192355</guid>
+ <pubDate>Sat, 19 Oct 2024 23:55:05 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/192354.shtml</link>
+ <description>
+  ...COMPACT BUT POWERFUL OSCAR MOVING VERY NEAR THE TURKS AND CAICOS  ISLANDS...
+ As of 8:00 PM EDT Sat Oct 19
+ the center of Oscar was located near 21.3, -71.6
+ with movement W at 10 mph.
+ The minimum central pressure was 987 mb
+ with maximum sustained winds of about 85 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>21.3, -71.6</nhc:center>
+  <nhc:type>Hurricane</nhc:type>
+  <nhc:name>Oscar</nhc:name>
+  <nhc:wallet>AT1</nhc:wallet>
+  <nhc:atcf>AL162024</nhc:atcf>
+  <nhc:datetime>8:00 PM EDT Sat Oct 19</nhc:datetime>
+  <nhc:movement>W at 10 mph</nhc:movement>
+  <nhc:pressure>987 mb</nhc:pressure>
+  <nhc:wind>85 mph</nhc:wind>
+  <nhc:headline> ...COMPACT BUT POWERFUL OSCAR MOVING VERY NEAR THE TURKS AND CAICOS  ISLANDS...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Hurricane Oscar Public Advisory Number 3A</title>
+<description>Issued at 800 PM EDT Sat Oct 19 2024  <![CDATA[<pre>
+
+000
+WTNT31 KNHC 192354
+TCPAT1
+ 
+BULLETIN
+Hurricane Oscar Intermediate Advisory Number 3A
+NWS National Hurricane Center Miami FL       AL162024
+800 PM EDT Sat Oct 19 2024
+ 
+...COMPACT BUT POWERFUL OSCAR MOVING VERY NEAR THE TURKS AND CAICOS 
+ISLANDS...
+ 
+SUMMARY OF 800 PM EDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.3N 71.6W
+ABOUT 35 MI...55 KM WSW OF GRAND TURK ISLAND
+ABOUT 400 MI...650 KM E OF CAMAGUEY CUBA
+MAXIMUM SUSTAINED WINDS...85 MPH...140 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...987 MB...29.15 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Turks and Caicos Islands
+* Southeastern Bahamas
+ 
+A Hurricane Watch is in effect for...
+* Cuban Provinces of Guantanamo, Holguin, and Las Tunas
+ 
+A Tropical Storm Warning is in effect for...
+* Cuban Provinces of Guantanamo, Holguin, and Las Tunas
+ 
+A Tropical Storm Watch is in effect for...
+* Cuban Provence of Camaguey
+ 
+A Hurricane Warning means that hurricane conditions are expected 
+somewhere within the warning area. Preparations to protect life 
+and property should be rushed to completion.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area. A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+For storm information specific to your area, please monitor products 
+issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM EDT (0000 UTC), the center of Hurricane Oscar was located 
+near latitude 21.3 North, longitude 71.6 West. Oscar is moving 
+toward the west near 10 mph (17 km/h), and this motion with a 
+gradual slowdown and turn to the west-southwest is forecast tonight 
+into tomorrow. A sharp turn to the northeast is anticipated by late 
+Monday.
+ 
+Maximum sustained winds are near 85 mph (140 km/h) with higher 
+gusts. A little more strengthening is possible tonight, but gradual 
+weakening is expected to begin by Sunday night and Monday.
+ 
+Oscar is a very small hurricane, with hurricane-force winds only 
+extending outward up to 5 miles (10 km) from the center and 
+tropical-storm-force winds extending outward up to 45 miles (75 km). 
+A private weather station on South Caicos recently reported a 
+sustained wind of 39 mph (63 km/h) and a gust of 54 mph (87 km/h).
+ 
+The estimated minimum central pressure is 987 mb (29.15 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Oscar can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT1.shtml
+ 
+WIND:  Hurricane conditions are likely occurring on parts of the 
+Turks and Caicos Islands and are expected to spread over portions of 
+the Southeastern Bahamas later tonight, with tropical storm 
+conditions beginning shortly.
+ 
+Hurricane conditions are possible in the watch area of Cuba on 
+Sunday night or early Monday. Tropical storm conditions are expected 
+to first reach the coast within the warning area by Sunday 
+afternoon, making outside preparations difficult or dangerous. 
+Tropical storm conditions are possible in the watch area by Sunday 
+night.
+ 
+RAINFALL: Through Tuesday, rainfall amounts of 4 to 6 inches with
+isolated amounts of 8 inches are expected across eastern Cuba.
+Across the Turks and Caicos and southeastern Bahamas, 2 to 4 inches
+are expected, with isolated amounts around 6 inches.
+ 
+For a complete depiction of forecast rainfall associated with Oscar,
+please see the National Weather Service Storm Total Rainfall
+Graphic, available at hurricanes.gov/graphics_at1.shtml?rainqpf
+ 
+STORM SURGE: A dangerous storm surge is expected to produce 
+significant coastal flooding in the Turks and Caicos Islands, where 
+water levels are expected to be between 2 and 4 feet. Near the 
+coast, the surge will be accompanied by large and destructive waves. 
+Minor coastal flooding is possible along the north shore of Cuba.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Reinhart
+ 
+</pre>]]></description>
+<pubDate>Sat, 19 Oct 2024 23:55:05 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/192354.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/192354.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Oscar Forecast Advisory Number 3</title>
+<description>Issued at 2100 UTC SAT OCT 19 2024  <![CDATA[<pre>
+
+000
+WTNT21 KNHC 192040
+TCMAT1
+ 
+HURRICANE OSCAR FORECAST/ADVISORY NUMBER   3
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL162024
+2100 UTC SAT OCT 19 2024
+ 
+HURRICANE CENTER LOCATED NEAR 21.4N  71.1W AT 19/2100Z
+POSITION ACCURATE WITHIN   10 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 270 DEGREES AT   9 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  987 MB
+MAX SUSTAINED WINDS  75 KT WITH GUSTS TO  90 KT.
+64 KT.......  5NE   5SE   0SW   5NW.
+50 KT....... 20NE  10SE  10SW  20NW.
+34 KT....... 40NE  30SE  30SW  40NW.
+12 FT SEAS.. 60NE  30SE  30SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 21.4N  71.1W AT 19/2100Z
+AT 19/1800Z CENTER WAS LOCATED NEAR 21.4N  70.6W
+ 
+FORECAST VALID 20/0600Z 21.2N  72.6W
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT...  5NE   5SE   0SW   5NW.
+50 KT... 20NE  10SE   0SW  20NW.
+34 KT... 30NE  20SE   0SW  30NW.
+ 
+FORECAST VALID 20/1800Z 21.0N  74.1W
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT...  5NE   5SE   5SW   5NW.
+50 KT... 20NE  10SE  10SW  20NW.
+34 KT... 40NE  30SE  20SW  40NW.
+ 
+FORECAST VALID 21/0600Z 20.9N  74.9W
+MAX WIND  75 KT...GUSTS  85 KT.
+64 KT...  5NE   5SE   0SW   5NW.
+50 KT... 20NE  10SE  10SW  20NW.
+34 KT... 40NE  30SE  20SW  40NW.
+ 
+FORECAST VALID 21/1800Z 21.2N  75.6W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 30NE  20SE  10SW  20NW.
+34 KT... 60NE  40SE  30SW  50NW.
+ 
+FORECAST VALID 22/0600Z 21.9N  75.3W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 30NE  20SE   0SW   0NW.
+34 KT... 70NE  60SE  40SW  40NW.
+ 
+FORECAST VALID 22/1800Z 23.3N  74.2W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 80NE  70SE   0SW  70NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 23/1800Z 26.1N  72.1W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 80NE  70SE   0SW  70NW.
+ 
+OUTLOOK VALID 24/1800Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 21.4N  71.1W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT31 KNHC/MIATCPAT1...AT 20/0000Z
+ 
+NEXT ADVISORY AT 20/0300Z
+ 
+$$
+FORECASTER PAPIN
+ 
+ 
+</pre>]]></description>
+<pubDate>Sat, 19 Oct 2024 20:40:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/192040.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/192040.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Oscar Forecast Discussion Number 3</title>
+<description>Issued at 500 PM EDT Sat Oct 19 2024  <![CDATA[<pre>
+
+000
+WTNT41 KNHC 192048
+TCDAT1
+ 
+Hurricane Oscar Discussion Number   3
+NWS National Hurricane Center Miami FL       AL162024
+500 PM EDT Sat Oct 19 2024
+ 
+It is fair to say its been an unexpected day with regards to Oscar. 
+After being upgraded to a tropical storm this morning, a 
+resources-permitting Air Force Reconnaissance mission found that 
+Oscar was much stronger than anticipated and in fact was a tiny 
+hurricane, prompting the earlier special advisory at 18 UTC.  Having 
+these critical in-situ aircraft observations has been invaluable to 
+diagnosing the current intensity of the storm, and we thank the crew 
+for flying this mission on short notice this morning. It is worth 
+noting that remote sensing satellite intensity estimates are 
+currently much lower, with the highest objective estimate at 55 kt 
+from a DMINT AMSR2 pass at 1830 UTC. For what its worth, ASCAT-B/C 
+also hit the small core of Oscar, only showing a peak wind retrieval 
+of 42 kt from both passes and only a handful of other retrievals 
+with tropical-storm-force winds. The last Air Force Reconnaissance 
+leg through Oscar found peak 700-mb flight level winds of 77 kt. A 
+dropsonde released in the northeast eyewall also had a 150 m layer 
+mean average wind of 85 kt with a surface wind gust of 82 kt. A 
+blend of the flight level and dropsonde data supports a wind speed 
+of 75 kt this advisory. The wind field of Oscar is very small, with 
+hurricane-force winds only extending out 5 n mi from the center, 
+with a blend of aircraft and scatterometer data suggesting 
+tropical-storm-force winds only extending about 30 n mi, primarily 
+in the northern semicircle.  
+
+Oscar has maintained a westward motion today, with recon fixes 
+indicating an estimated motion of 275/9 kt. This motion, with a 
+subtle shift a little more south of due west is anticipated over the 
+next 24-36 h. On the current track, Oscar will pass very near 
+portions of the Turks and Caicos Islands and Southeastern Bahamas 
+this evening and tonight, where a hurricane warning is in effect. 
+The narrow mid-level ridge that is currently steering the system is 
+soon expected to become eroded by a longwave trough slowly sagging 
+southward across the northwestern Atlantic Ocean, resulting in 
+Oscar slowing down and bending a bit south of due west. Thereafter, 
+as the trough produces a more pronounced weakness north of the 
+hurricane, Oscar will likely execute a very slow but sharp turn to 
+the north and then northeast. However, this is still expected to 
+bring Oscar close to or over parts of eastern Cuba, before turning 
+back northeastward. The latest NHC forecast track is a little 
+further east of the prior forecast, blending the consensus aids TVCA 
+and HCCA with the ECMWF model, which has been one of the few 
+models that has depicted Oscar with much vertical coherence. 
+
+The intensity forecast for Oscar is tricky, due to both the very 
+small inner-core wind field associated with the hurricane, and the 
+fact that none of the guidance (either global models, or 
+hurricane-regional models) is depicting the current intensity right 
+now. The last set of aircraft observations suggest the pressure is 
+at least not rapidly dropping, with the final dropsonde providing an 
+estimate of 987 mb. The NHC intensity forecast will show a bit more 
+intensification, but I suspect the tiny hurricane will be quite 
+susceptible to the increasingly negative environmental conditions. 
+SHIPS guidance indicates that northwesterly vertical wind shear 
+increases above 20 kt after 24 h and above 30 kt beyond 60 h. Very 
+dry mid-level air exists in that region upstream of Oscar, and the 
+storm could weaken rather quickly from 36-60 h. As we saw today, 
+small systems like Oscar are often prone to rapid intensity 
+changes, either up or down. After 96 h, most of the guidance that is 
+able to depict Oscar shows it ultimately being absorbed by the 
+deep-layer trough in the northwestern Atlantic, and the latest 
+forecast still shows Oscar dissipating by that time.
+ 
+ 
+Key Messages:
+ 
+1. Oscar is expected to bring hurricane conditions to portions of 
+the Turks and Caicos Islands and the southeastern Bahamas this 
+evening and overnight, and could bring hurricane conditions to 
+eastern Cuba during the next day or two. A Hurricane Warning is in 
+effect for the Turks and Caicos and southeastern Bahamas, and a 
+Hurricane Watch is in effect for portions of eastern Cuba. 
+ 
+2. Oscar is expected to produce a dangerous storm surge on the
+Turks and Caicos Islands beginning this evening. Minor coastal 
+flooding is also possible along the north shore of Cuba later on 
+Sunday. 
+ 
+3. Locally heavy rainfall is possible across the Turks and Caicos
+Islands and the southeastern Bahamas later today and tonight. These
+rains are expected to spread to eastern Cuba on Sunday.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  19/2100Z 21.4N  71.1W   75 KT  85 MPH
+ 12H  20/0600Z 21.2N  72.6W   80 KT  90 MPH
+ 24H  20/1800Z 21.0N  74.1W   80 KT  90 MPH
+ 36H  21/0600Z 20.9N  74.9W   75 KT  85 MPH
+ 48H  21/1800Z 21.2N  75.6W   60 KT  70 MPH
+ 60H  22/0600Z 21.9N  75.3W   50 KT  60 MPH
+ 72H  22/1800Z 23.3N  74.2W   45 KT  50 MPH
+ 96H  23/1800Z 26.1N  72.1W   45 KT  50 MPH
+120H  24/1800Z...DISSIPATED
+ 
+$$
+Forecaster Papin
+ 
+</pre>]]></description>
+<pubDate>Sat, 19 Oct 2024 20:49:01 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/192048.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/192048.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Oscar Wind Speed Probabilities Number 3</title>
+<description>Issued at 2100 UTC SAT OCT 19 2024                                              <![CDATA[<pre>
+
+000
+FONT11 KNHC 192041
+PWSAT1
+                                                                    
+HURRICANE OSCAR WIND SPEED PROBABILITIES NUMBER   3                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL162024               
+2100 UTC SAT OCT 19 2024                                            
+                                                                    
+AT 2100Z THE CENTER OF HURRICANE OSCAR WAS LOCATED NEAR LATITUDE    
+21.4 NORTH...LONGITUDE 71.1 WEST WITH MAXIMUM SUSTAINED WINDS NEAR  
+75 KTS...85 MPH...140 KM/H.                                         
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z SAT AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z SAT 06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z SUN 18Z SUN 06Z MON 18Z MON 18Z TUE 18Z WED 18Z THU
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+NEW PROVIDENCE 34  X   1( 1)   2( 3)   1( 4)   2( 6)   2( 8)   X( 8)
+ 
+ANDROS         34  X   3( 3)   2( 5)   2( 7)   4(11)   1(12)   X(12)
+ 
+GREAT EXUMA    34  2   3( 5)   4( 9)   7(16)  20(36)   2(38)   X(38)
+GREAT EXUMA    50  X   1( 1)   X( 1)   1( 2)   4( 6)   X( 6)   X( 6)
+GREAT EXUMA    64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+SAN SALVADOR   34  2   3( 5)   3( 8)   2(10)  18(28)   7(35)   X(35)
+SAN SALVADOR   50  X   X( X)   X( X)   1( 1)   2( 3)   2( 5)   X( 5)
+ 
+MAYAGUANA      34 12  11(23)   3(26)   2(28)  10(38)   4(42)   X(42)
+MAYAGUANA      50  2   3( 5)   1( 6)   X( 6)   2( 8)   1( 9)   X( 9)
+ 
+GRAND TURK     34 99   X(99)   X(99)   X(99)   X(99)   X(99)   X(99)
+GRAND TURK     50 98   X(98)   X(98)   X(98)   X(98)   X(98)   X(98)
+GRAND TURK     64 19   X(19)   X(19)   X(19)   X(19)   X(19)   X(19)
+ 
+CIENFUEGOS     34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+CAMAGUEY       34  X   2( 2)   3( 5)   2( 7)   1( 8)   X( 8)   X( 8)
+ 
+GUANTANAMO BAY 34  X   9( 9)  22(31)   6(37)   3(40)   X(40)   X(40)
+GUANTANAMO BAY 50  X   1( 1)   4( 5)   2( 7)   X( 7)   X( 7)   X( 7)
+ 
+MONTEGO BAY    34  X   2( 2)   2( 4)   2( 6)   2( 8)   X( 8)   X( 8)
+ 
+KINGSTON       34  X   2( 2)   3( 5)   1( 6)   2( 8)   X( 8)   X( 8)
+ 
+LES CAYES      34  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+PORT-AU-PRINCE 34  1   3( 4)   3( 7)   1( 8)   1( 9)   X( 9)   X( 9)
+ 
+CAPE BEATA     34  X   2( 2)   2( 4)   X( 4)   1( 5)   X( 5)   X( 5)
+ 
+PUERTO PLATA   34  2   2( 4)   2( 6)   1( 7)   1( 8)   1( 9)   X( 9)
+ 
+$$                                                                  
+FORECASTER PAPIN                                                    
+</pre>]]></description>
+<pubDate>Sat, 19 Oct 2024 20:42:04 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/192041.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/192041.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Hurricane Oscar Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/235502.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT16/AL162024_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Oscar 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sat, 19 Oct 2024 23:55:02 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/235502.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT16/AL162024_wind_probs_34_F120_sm2.png"
+alt="Hurricane Oscar 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sat, 19 Oct 2024 21:29:02 GMT
+]]>
+</description>
+<pubDate>Sat, 19 Oct 2024 23:55:02 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/235502.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/235502.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+ <title>Summary for Tropical Depression Nadine (AT5/AL152024)</title>
+ <guid isPermaLink="false">summary-al152024-202410200239</guid>
+ <pubDate>Sun, 20 Oct 2024 02:39:39 GMT</pubDate>
+ <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+ <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/200239.shtml</link>
+ <description>
+  ...NADINE EXPECTED TO BRING HEAVY RAINS TO SOUTHERN MEXICO...
+ As of 10:00 PM CDT Sat Oct 19
+ the center of Nadine was located near 17.2, -90.6
+ with movement W at 14 mph.
+ The minimum central pressure was 1006 mb
+ with maximum sustained winds of about 35 mph.
+ </description>
+ <nhc:Cyclone>
+  <nhc:center>17.2, -90.6</nhc:center>
+  <nhc:type>Tropical Depression</nhc:type>
+  <nhc:name>Nadine</nhc:name>
+  <nhc:wallet>AT5</nhc:wallet>
+  <nhc:atcf>AL152024</nhc:atcf>
+  <nhc:datetime>10:00 PM CDT Sat Oct 19</nhc:datetime>
+  <nhc:movement>W at 14 mph</nhc:movement>
+  <nhc:pressure>1006 mb</nhc:pressure>
+  <nhc:wind>35 mph</nhc:wind>
+  <nhc:headline> ...NADINE EXPECTED TO BRING HEAVY RAINS TO SOUTHERN MEXICO...</nhc:headline>
+ </nhc:Cyclone>
+</item>
+<item>
+<title>Tropical Depression Nadine Public Advisory Number 6</title>
+<description>Issued at 1000 PM CDT Sat Oct 19 2024  <![CDATA[<pre>
+
+000
+WTNT35 KNHC 200239
+TCPAT5
+ 
+BULLETIN
+Tropical Depression Nadine Advisory Number   6
+NWS National Hurricane Center Miami FL       AL152024
+1000 PM CDT Sat Oct 19 2024
+ 
+...NADINE EXPECTED TO BRING HEAVY RAINS TO SOUTHERN MEXICO...
+ 
+ 
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...17.2N 90.6W
+ABOUT 160 MI...255 KM W OF BELIZE CITY
+ABOUT 175 MI...285 KM WSW OF CHETUMAL MEXICO
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...W OR 265 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1006 MB...29.71 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 PM CDT (0300 UTC), the center of Tropical Depression Nadine
+was located near latitude 17.2 North, longitude 90.6 West. The 
+depression is moving toward the west near 14 mph (22 km/h). A  
+continued westward to west-southwestward motion is forecast during 
+the next day or so. On the forecast track, Nadine is expected to 
+move across northern Guatemala and southern Mexico through Sunday.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Gradual weakening is expected, and Nadine is forecast to dissipate 
+on Sunday.
+ 
+The estimated minimum central pressure is 1006 mb (29.71 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Nadine can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5 and WMO header WTNT45 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT5.shtml
+ 
+RAINFALL: Widespread rainfall amounts of 4 to 8 inches, with
+isolated areas of 12 inches, are expected across northern Belize,
+northern Guatemala, and southern Mexican states from Quintana Roo
+westward to Veracruz and Oaxaca through Tuesday.
+ 
+For a complete depiction of forecast rainfall associated with
+Tropical Depression Nadine, please see the National Weather Service
+Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at5.shtml?rainqpf.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM CDT.
+ 
+$$
+Forecaster Bucci
+ 
+</pre>]]></description>
+<pubDate>Sun, 20 Oct 2024 02:39:39 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/200239.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/200239.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Nadine Forecast Advisory Number 6</title>
+<description>Issued at 0300 UTC SUN OCT 20 2024  <![CDATA[<pre>
+
+000
+WTNT25 KNHC 200239
+TCMAT5
+ 
+TROPICAL DEPRESSION NADINE FORECAST/ADVISORY NUMBER   6
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL152024
+0300 UTC SUN OCT 20 2024
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 17.2N  90.6W AT 20/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 265 DEGREES AT  12 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1006 MB
+MAX SUSTAINED WINDS  30 KT WITH GUSTS TO  40 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 17.2N  90.6W AT 20/0300Z
+AT 20/0000Z CENTER WAS LOCATED NEAR 17.3N  90.0W
+ 
+FORECAST VALID 20/1200Z 16.7N  92.3W
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 21/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 17.2N  90.6W
+ 
+NEXT ADVISORY AT 20/0900Z
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre>]]></description>
+<pubDate>Sun, 20 Oct 2024 02:39:05 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/200239.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/200239.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Nadine Forecast Discussion Number 6</title>
+<description>Issued at 1000 PM CDT Sat Oct 19 2024  <![CDATA[<pre>
+
+347 
+WTNT45 KNHC 200241
+TCDAT5
+ 
+Tropical Depression Nadine Discussion Number   6
+NWS National Hurricane Center Miami FL       AL152024
+1000 PM CDT Sat Oct 19 2024
+ 
+Nadine has been moving farther inland over northern Guatemala, and 
+there are no observations of tropical-storm-force winds.  Therefore, 
+the system was downgraded to a tropical depression at the 
+intermediate advisory.  Belize ground-based radar shows that 
+Nadine has maintained a decent mid-level circulation and therefore, 
+the initial intensity has been held at 30 kt for this advisory.  
+Continued weakening is expected, and Nadine is forecast to 
+dissipate over the rugged terrain of southern Mexico on Sunday.  
+
+The depression is moving just south of west at 265/12 kt.  A 
+slightly quicker west-southwestward motion is expected on Sunday.
+ 
+Key Messages:
+ 
+1. Localized areas of flash flooding are possible along the track
+of Nadine across southern Mexico, northern Guatemala, and northern
+Belize.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  20/0300Z 17.2N  90.6W   30 KT  35 MPH
+ 12H  20/1200Z 16.7N  92.3W   25 KT  30 MPH
+ 24H  21/0000Z...DISSIPATED
+ 
+$$
+Forecaster Bucci
+ 
+
+</pre>]]></description>
+<pubDate>Sun, 20 Oct 2024 02:41:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/200241.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/200241.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Nadine Wind Speed Probabilities Number 6</title>
+<description>Issued at 0300 UTC SUN OCT 20 2024                                              <![CDATA[<pre>
+
+000
+FONT15 KNHC 200239
+PWSAT5
+                                                                    
+TROPICAL DEPRESSION NADINE WIND SPEED PROBABILITIES NUMBER   6      
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL152024               
+0300 UTC SUN OCT 20 2024                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL DEPRESSION NADINE WAS LOCATED NEAR  
+LATITUDE 17.2 NORTH...LONGITUDE 90.6 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 30 KTS...35 MPH...55 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SUN 12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU 00Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER BUCCI                                                    
+</pre>]]></description>
+<pubDate>Sun, 20 Oct 2024 02:40:09 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/200239.shtml</link>
+<guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/200239.shtml</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>Tropical Depression Nadine Graphics</title>
+<description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233809.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT15/AL152024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Nadine 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Sat, 19 Oct 2024 23:38:09 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233809.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT15/AL152024_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Nadine 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Sat, 19 Oct 2024 21:22:59 GMT
+]]>
+</description>
+<pubDate>Sat, 19 Oct 2024 23:38:09 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233809.shtml?cone</link>
+<guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/233809.shtml?cone</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
