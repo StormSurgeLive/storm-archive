@@ -1,0 +1,51 @@
+{
+	"activeStorms": [
+		{
+			"id": "ep132024",
+			"binNumber": "EP3",
+			"name": "Thirteen-E",
+			"classification": "TD",
+			"intensity": "30",
+			"pressure": "1006",
+			"latitude": "11.2N",
+			"longitude": "128.4W",
+			"latitudeNumeric": 11.2,
+			"longitudeNumeric": -128.4,
+			"movementDir": 270,
+			"movementSpeed": 7,
+			"lastUpdate": "2024-11-01T21:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2024-11-01T21:00:00.000Z",
+				"fileUpdateTime": "2024-11-01T20:31:45.074Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP3.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2024-11-01T21:00:00.000Z",
+				"fileUpdateTime": "2024-11-01T20:31:24.370Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP3.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2024-11-01T21:00:00.000Z",
+				"fileUpdateTime": "2024-11-01T20:31:52.271Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSEP3.shtml"
+			},
+			"forecastDiscussion": null,
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
