@@ -1,0 +1,146 @@
+
+
+000
+WTNT33 KNHC 062047
+TCPAT3
+
+BULLETIN
+Hurricane Rafael Advisory Number  13
+NWS National Hurricane Center Miami FL       AL182024
+400 PM EST Wed Nov 06 2024
+
+...RAFAEL ABOUT TO MAKE LANDFALL IN WESTERN CUBA...
+...BRINGING LIFE-THREATENING STORM SURGE, DAMAGING HURRICANE-FORCE 
+WINDS, AND FLASH FLOODING TO PORTIONS OF WESTERN CUBA...
+
+
+SUMMARY OF 400 PM EST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...22.6N 82.7W
+ABOUT 45 MI...75 KM SSW OF HAVANA CUBA
+ABOUT 70 MI...110 KM N OF THE ISLE OF YOUTH
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...NW OR 320 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...956 MB...28.23 INCHES
+
+
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+None
+
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Hurricane Warning is in effect for...
+* Cuban provinces of Pinar del Rio, Artemisa, La Habana, Mayabeque,
+Matanzas, and the Isle of Youth
+
+A Tropical Storm Warning is in effect for...
+* Cuban provinces of Villa Clara, and Cienfuegos
+* Lower and Middle Florida Keys from Key West to west of the
+Channel 5 Bridge
+* Dry Tortugas
+
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.
+
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area.
+
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+
+
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 PM EST (2100 UTC), the center of Hurricane Rafael was located
+near latitude 22.6 North, longitude 82.7 West. Rafael is moving
+toward the northwest near 13 mph (20 km/h).  A general northwestward
+motion is anticipated tonight.  A slower west-northwestward to 
+westward motion is expected Friday through the weekend.  On the 
+forecast track, Rafael is expected to cross Cuba this evening, and 
+emerge over the southeastern Gulf of Mexico later this evening or 
+tonight.  Rafael is forecast to move over the southern Gulf of 
+Mexico this weekend. 
+
+Maximum sustained winds are near 115 mph (185 km/h) with higher
+gusts.  Rafael is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Little change in strength is expected 
+before Rafael makes landfall in western Cuba.  Some weakening is 
+forecast while Rafael crosses western Cuba, but the storm is 
+forecast to remain a hurricane over the southeastern Gulf of 
+Mexico.
+
+Hurricane-force winds extend outward up to 30 miles (45 km) from the
+center and tropical-storm-force winds extend outward up to 115 miles
+(185 km). A wind gust to 45 mph (72 km/h) was recently reported at 
+the Havana International Airport. 
+
+The estimated minimum central pressure is 956 mb (28.23 inches).
+
+
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Hurricane Rafael can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT3 and WMO header
+WTNT43 KNHC and on the web at hurricanes.gov/text/MIATCDAT3.shtml
+
+WIND:  Hurricane conditions are expected in portions of western 
+Cuba through the evening.  Tropical storm conditions are expected 
+in parts of west-central Cuba and the lower and middle Florida Keys 
+through tonight.
+
+RAINFALL: Heavy rainfall will impact areas of the western Caribbean
+through early Thursday, particularly across the Cayman Islands and
+western Cuba.  Rainfall totals of 4 to 8 inches are expected across
+portions of western Cuba, with isolated higher totals up to 12
+inches in areas of higher terrain. This will lead to areas of flash 
+flooding and mudslides. Across the Cayman Islands additional 
+rainfall of 2 to 4 inches is expected.
+
+Rainfall totals of 1 to 3 inches are expected for the Lower and
+Middle Florida Keys.
+
+For a complete depiction of forecast rainfall associated with
+Hurricane Rafael, please see the National Weather Service Storm
+Total Rainfall Graphic, available at
+www.nhc.noaa.gov/graphics_at3.shtml?rainqpf
+
+STORM SURGE: Storm surge could raise water levels as much as 9 to
+14 feet above normal tide levels in areas of onshore winds along
+the southern coast of Cuba in the Hurricane Warning area, including
+the Isle of Youth.
+
+The combination of a storm surge and the tide will cause normally
+dry areas near the coast to be flooded by rising waters moving
+inland from the shoreline.  The water could reach the following
+heights above ground somewhere in the indicated areas if the peak
+surge occurs at the time of high tide...
+
+Dry Tortugas...1-3 ft
+Lower Florida Keys...1-2 ft
+
+TORNADOES: A couple of tornadoes are possible through tonight over
+the Florida Keys and far southwestern Florida mainland.
+
+SURF: Swells generated by Rafael are expected to affect much of the
+western Caribbean during the next day or so and will also spread
+across most of the Gulf of Mexico from east to west late this week
+into the weekend. These swells are likely to cause life-threatening
+surf and rip current conditions. Please consult products from your
+local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 PM EST.
+Next complete advisory at 1000 PM EST.
+
+$$
+Forecaster Brown
+
