@@ -1,0 +1,51 @@
+{
+	"activeStorms": [
+		{
+			"id": "ep022025",
+			"binNumber": "EP2",
+			"name": "Barbara",
+			"classification": "TS",
+			"intensity": "40",
+			"pressure": "1001",
+			"latitude": "15.2N",
+			"longitude": "102.4W",
+			"latitudeNumeric": 15.2,
+			"longitudeNumeric": -102.4,
+			"movementDir": 295,
+			"movementSpeed": 12,
+			"lastUpdate": "2025-06-08T09:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-08T09:00:00.000Z",
+				"fileUpdateTime": "2025-06-08T08:39:04.821Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-08T09:00:00.000Z",
+				"fileUpdateTime": "2025-06-08T08:39:04.820Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2025-06-08T09:00:00.000Z",
+				"fileUpdateTime": "2025-06-08T08:39:04.821Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
+			},
+			"forecastDiscussion": null,
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
