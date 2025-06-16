@@ -1,0 +1,46 @@
+{
+	"activeStorms": [
+		{
+			"id": "ep052025",
+			"binNumber": "EP5",
+			"name": "Five-E",
+			"classification": "PC",
+			"intensity": "30",
+			"pressure": "1009",
+			"latitude": "10.6N",
+			"longitude": "91.7W",
+			"latitudeNumeric": 10.6,
+			"longitudeNumeric": -91.7,
+			"movementDir": 295,
+			"movementSpeed": 8,
+			"lastUpdate": "2025-06-16T21:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-16T21:00:00.000Z",
+				"fileUpdateTime": "2025-06-16T20:51:58.170Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-16T21:00:00.000Z",
+				"fileUpdateTime": "2025-06-16T20:51:58.169Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMEP5.shtml"
+			},
+			"windSpeedProbabilities": null,
+			"forecastDiscussion": null,
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
