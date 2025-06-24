@@ -1,0 +1,56 @@
+{
+	"activeStorms": [
+		{
+			"id": "al012025",
+			"binNumber": "AT1",
+			"name": "Andrea",
+			"classification": "TS",
+			"intensity": "35",
+			"pressure": "1014",
+			"latitude": "36.6N",
+			"longitude": "48.9W",
+			"latitudeNumeric": 36.6,
+			"longitudeNumeric": -48.9,
+			"movementDir": 60,
+			"movementSpeed": 17,
+			"lastUpdate": "2025-06-24T15:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-24T15:00:00.000Z",
+				"fileUpdateTime": "2025-06-24T14:11:30.009Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT1.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-24T15:00:00.000Z",
+				"fileUpdateTime": "2025-06-24T14:11:30.009Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT1.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2025-06-24T15:00:00.000Z",
+				"fileUpdateTime": "2025-06-24T14:11:30.008Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT1.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "001",
+				"issuance": "2025-06-24T15:00:00.000Z",
+				"fileUpdateTime": "2025-06-24T14:11:30.009Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT1.shtml"
+			},
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
