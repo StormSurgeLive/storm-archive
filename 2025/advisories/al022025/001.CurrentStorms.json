@@ -1,0 +1,51 @@
+{
+	"activeStorms": [
+		{
+			"id": "al022025",
+			"binNumber": "AT2",
+			"name": "Two",
+			"classification": "TD",
+			"intensity": "25",
+			"pressure": "1011",
+			"latitude": "19.3N",
+			"longitude": "94.2W",
+			"latitudeNumeric": 19.3,
+			"longitudeNumeric": -94.2,
+			"movementDir": 290,
+			"movementSpeed": 7,
+			"lastUpdate": "2025-06-28T21:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-28T21:00:00.000Z",
+				"fileUpdateTime": "2025-06-28T20:51:57.314Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT2.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "001",
+				"issuance": "2025-06-28T21:00:00.000Z",
+				"fileUpdateTime": "2025-06-28T20:51:57.314Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT2.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "001",
+				"issuance": "2025-06-28T21:00:00.000Z",
+				"fileUpdateTime": "2025-06-28T20:51:57.314Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT2.shtml"
+			},
+			"forecastDiscussion": null,
+			"forecastGraphics": null,
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": null,
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
