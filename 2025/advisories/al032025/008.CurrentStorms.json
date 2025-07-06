@@ -1,0 +1,111 @@
+{
+	"activeStorms": [
+		{
+			"id": "al032025",
+			"binNumber": "AT3",
+			"name": "Chantal",
+			"classification": "TD",
+			"intensity": "30",
+			"pressure": "1007",
+			"latitude": "34.4N",
+			"longitude": "79.2W",
+			"latitudeNumeric": 34.4,
+			"longitudeNumeric": -79.2,
+			"movementDir": 360,
+			"movementSpeed": 9,
+			"lastUpdate": "2025-07-06T15:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:44:24.074Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCPAT3.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:44:24.074Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT3.shtml"
+			},
+			"windSpeedProbabilities": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:44:24.074Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAPWSAT3.shtml"
+			},
+			"forecastDiscussion": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:44:24.073Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT3.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:37:37.384Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at3.shtml"
+			},
+			"forecastTrack": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:02.926Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032025_5day_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_008adv_TRACK.kmz"
+			},
+			"windWatchesWarnings": {
+				"advNum": "007",
+				"issuance": "2025-07-06T12:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:02.926Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032025_5day_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_007adv_WW.kmz"
+			},
+			"trackCone": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:02.926Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032025_5day_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_008adv_CONE.kmz"
+			},
+			"initialWindExtent": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:12.437Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032025_fcst_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_initialradii_008adv.kmz"
+			},
+			"forecastWindRadiiGIS": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:12.437Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al032025_fcst_008.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_forecastradii_008adv.kmz"
+			},
+			"bestTrackGIS": {
+				"issuance": "2025-07-06T12:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:02.960Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al032025_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al032025_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:37:52.010Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_008adv_earliest_reasonable_toa_34.kmz"
+			},
+			"mostLikelyTimeTSWindsGIS": {
+				"advNum": "008",
+				"issuance": "2025-07-06T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:02.126Z",
+				"kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL032025_008adv_most_likely_toa_34.kmz"
+			},
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": {
+				"advNum": "007",
+				"issuance": "2025-07-06T09:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T12:09:36.203Z",
+				"peakSurgeKMLFile": "https://www.nhc.noaa.gov/gis/peakSurge/AL032025_PeakStormSurge_007adv.kml"
+			}
+		}
+	]
+}
