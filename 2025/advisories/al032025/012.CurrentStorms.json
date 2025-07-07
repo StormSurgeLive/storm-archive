@@ -1,0 +1,61 @@
+{
+	"activeStorms": [
+		{
+			"id": "al032025",
+			"binNumber": "AT3",
+			"name": "Chantal",
+			"classification": "PTC",
+			"intensity": "25",
+			"pressure": "1009",
+			"latitude": "37.5N",
+			"longitude": "76.3W",
+			"latitudeNumeric": 37.5,
+			"longitudeNumeric": -76.3,
+			"movementDir": 50,
+			"movementSpeed": 17,
+			"lastUpdate": "2025-07-07T15:00:00.000Z",
+			"publicAdvisory": {
+				"advNum": "012",
+				"issuance": "2025-07-07T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-07T14:53:42.169Z",
+				"url": "https://www.nhc.noaa.gov/text/MIAWPCAT3.shtml"
+			},
+			"forecastAdvisory": {
+				"advNum": "012",
+				"issuance": "2025-07-07T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-07T14:51:38.531Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCMAT3.shtml"
+			},
+			"windSpeedProbabilities": null,
+			"forecastDiscussion": {
+				"advNum": "012",
+				"issuance": "2025-07-07T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-07T14:54:25.305Z",
+				"url": "https://www.nhc.noaa.gov/text/MIATCDAT3.shtml"
+			},
+			"forecastGraphics": {
+				"advNum": "008",
+				"issuance": "2025-07-07T15:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:37:42.440Z",
+				"url": "https://www.nhc.noaa.gov/graphics_at3.shtml"
+			},
+			"forecastTrack": null,
+			"windWatchesWarnings": null,
+			"trackCone": null,
+			"initialWindExtent": null,
+			"forecastWindRadiiGIS": null,
+			"bestTrackGIS": {
+				"issuance": "2025-07-06T12:00:00.000Z",
+				"fileUpdateTime": "2025-07-06T14:38:14.050Z",
+				"zipFile": "https://www.nhc.noaa.gov/gis/best_track/al032025_best_track.zip",
+				"kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al032025_best_track.kmz"
+			},
+			"earliestArrivalTimeTSWindsGIS": null,
+			"mostLikelyTimeTSWindsGIS": null,
+			"windSpeedProbabilitiesGIS": null,
+			"stormSurgeWatchWarningGIS": null,
+			"potentialStormSurgeFloodingGIS": null,
+			"peakSurgeKML": null
+		}
+	]
+}
