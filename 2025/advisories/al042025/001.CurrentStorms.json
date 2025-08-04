@@ -1,0 +1,100 @@
+{
+  "activeStorms": [
+    {
+      "id": "al042025",
+      "binNumber": "AT4",
+      "name": "Dexter",
+      "classification": "TS",
+      "intensity": "40",
+      "pressure": "1002",
+      "latitude": "34.3N",
+      "longitude": "69.4W",
+      "latitudeNumeric": 34.3,
+      "longitudeNumeric": -69.4,
+      "movementDir": 70,
+      "movementSpeed": 12,
+      "lastUpdate": "2025-08-04T03:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:41:58.254Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPAT4.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:42:30.241Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMAT4.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:42:28.401Z",
+        "url": "https://www.nhc.noaa.gov/text/MIAPWSAT4.shtml"
+      },
+      "forecastDiscussion": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:42:28.443Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCDAT4.shtml"
+      },
+      "forecastGraphics": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:41:58.254Z",
+        "url": "https://www.nhc.noaa.gov/graphics_at4.shtml"
+      },
+      "forecastTrack": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:44:41.275Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al042025_5day_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL042025_001adv_TRACK.kmz"
+      },
+      "windWatchesWarnings": null,
+      "trackCone": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:44:34.237Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al042025_5day_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL042025_001adv_CONE.kmz"
+      },
+      "initialWindExtent": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:45:15.744Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al042025_fcst_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL042025_initialradii_001adv.kmz"
+      },
+      "forecastWindRadiiGIS": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:45:10.811Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al042025_fcst_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL042025_forecastradii_001adv.kmz"
+      },
+      "bestTrackGIS": {
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:44:52.008Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/best_track/al042025_best_track.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al042025_best_track.kmz"
+      },
+      "earliestArrivalTimeTSWindsGIS": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:44:36.589Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL042025_001adv_earliest_reasonable_toa_34.kmz"
+      },
+      "mostLikelyTimeTSWindsGIS": {
+        "advNum": "001",
+        "issuance": "2025-08-04T03:00:00.000Z",
+        "fileUpdateTime": "2025-08-04T02:44:38.906Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL042025_001adv_most_likely_toa_34.kmz"
+      },
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
