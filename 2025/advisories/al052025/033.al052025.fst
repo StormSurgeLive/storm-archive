@@ -1,0 +1,166 @@
+000
+WTNT35 KNHC 191453
+TCPAT5
+ 
+BULLETIN
+Hurricane Erin Advisory Number  33
+NWS National Hurricane Center Miami FL       AL052025
+1100 AM EDT Tue Aug 19 2025
+ 
+...STORM SURGE AND TROPICAL STORM WARNINGS ISSUED FOR THE NORTH 
+CAROLINA OUTER BANKS...
+...LIFE-THREATENING RIP CURRENTS EXPECTED ALONG U.S. EAST COAST 
+BEACHES...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...25.6N 72.4W
+ABOUT 650 MI...1050 KM SW OF BERMUDA
+ABOUT 690 MI...1105 KM SSE OF CAPE HATTERAS NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...105 MPH...165 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...961 MB...28.38 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Storm Surge Warning has been issued for the North Carolina Outer
+Banks from Cape Lookout to Duck.
+ 
+A Tropical Storm Warning has been issued for the North Carolina 
+Outer Banks from Beaufort Inlet to Duck.
+
+A Tropical Storm Watch has been issued north of Duck to Cape Charles 
+Light Virginia.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* Cape Lookout to Duck, North Carolina
+ 
+A Tropical Storm Warning is in effect for...
+* Turks and Caicos Islands
+* Southeast Bahamas
+* Beaufort Inlet to Duck, North Carolina
+ 
+A Tropical Storm Watch is in effect for...
+* Central Bahamas
+* North of Duck, North Carolina to Cape Charles Light, Virginia
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within the next 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+
+A Storm Surge Warning means there is a danger of life-threatening 
+inundation, from rising water moving inland from the coastline, 
+during the next 36 hours in the indicated locations. For a depiction 
+of areas at risk, please see the National Weather Service Storm 
+Surge Watch/Warning Graphic, available at hurricanes.gov.  This is a 
+life-threatening situation.  Persons located within these areas 
+should take all necessary actions to protect life and property from 
+rising water and the potential for other dangerous conditions.  
+Promptly follow evacuation and other instructions from local 
+officials. 
+
+Interests in the northwestern Bahamas, Bermuda, and the U.S
+Mid-Atlantic and southern New England coast should monitor the
+progress of Erin.  
+
+For storm information specific to your area, please monitor products 
+issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Hurricane Erin was located
+near latitude 25.6 North, longitude 72.4 West. Erin is moving toward 
+the northwest near 9 mph (15 km/h).  A turn toward the 
+north-northwest with an increase in forward speed is expected today, 
+followed by a northward motion on Wednesday and then a northeastward 
+motion on Thursday.  On the forecast track, the center of Erin will 
+pass to the east of the Bahamas today and tonight, and then move 
+over the western Atlantic between the U.S. east coast and Bermuda on 
+Wednesday and Thursday.
+ 
+Maximum sustained winds are near 105 mph (165 km/h) with higher 
+gusts.  Fluctuations in strength are possible over the next few 
+days.
+ 
+Erin is a large hurricane.  Hurricane-force winds extend outward up 
+to 80 miles (130 km) from the center and tropical-storm-force winds 
+extend outward up to 205 miles (335 km).
+ 
+The minimum central pressure reported by an Air Force Hurricane 
+Hunter aircraft is 961 mb (28.38 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Erin can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5 and WMO header WTNT45 KNHC.
+ 
+RAINFALL: Outer bands of Erin will produce localized areas of heavy
+rainfall across portions of the Turks and Caicos today and through
+tonight for the Bahamas.  Additional rainfall of 1 to 3 inches,
+with storm total amounts to 8 inches, are possible, which could lead
+to flash and urban flooding.  Heavy rainfall is possible on the
+Outer Banks of North Carolina Wednesday night into Thursday with
+potential for 1 to 2 inches and a local maximum of 4 inches.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Erin, please see the National Weather Service Storm
+Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at5.shtml?rainqpf
+ 
+WIND:  Tropical storm conditions are expected for a few more hours
+across the Turks and Caicos Islands and the southeast Bahamas.
+Tropical storm conditions are possible in portions of the central
+Bahamas today.  Tropical storm conditions are expected over portions
+of the North Carolina Outer Banks beginning late Wednesday or
+Wednesday night.  Tropical storm conditions are possible in the 
+watch area north of Duck, North Carolina to Cape Charles Light 
+beginning Thursday.
+ 
+SURF:  Swells generated by Erin will affect the Bahamas, Bermuda,
+the east coast of the United States, and Atlantic Canada during the
+next several days. These rough ocean conditions are expected to
+cause life-threatening surf and rip currents.  Please consult
+products from your local weather forecast office for more
+information.
+ 
+A depiction of rip current risk for the United States can be found
+at: hurricanes.gov/graphics_at5.shtml?ripCurrents
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Cape Lookout to Duck, North Carolina...2 to 4 ft
+ 
+The deepest water will occur along the immediate coast where the
+surge will be accompanied by large and dangerous waves.
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances.  For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+For a complete depiction of areas at risk of storm surge inundation,
+please see the National Weather Service Peak Storm Surge Graphic,
+available at hurricanes.gov/graphics_at5.shtml?peakSurge.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Pasch
+  
