@@ -1,0 +1,140 @@
+000
+WTNT34 KNHC 281450
+TCPAT4
+ 
+BULLETIN
+Tropical Depression Nine Advisory Number   8
+NWS National Hurricane Center Miami FL       AL092025
+1100 AM EDT Sun Sep 28 2025
+ 
+...DEPRESSION NOW MOVING SLOWLY NORTHWARD...
+...HEAVY RAINS CONTINUE OVER PORTIONS OF EASTERN CUBA AND THE
+BAHAMAS, WITH WINDS SOON INCREASING OVER THE BAHAMAS...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...23.5N 77.3W
+ABOUT 300 MI...485 KM NW OF THE EASTERN TIP OF CUBA
+ABOUT 95 MI...155 KM W OF THE CENTRAL BAHAMAS
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...N OR 350 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Central Bahamas, including Cat Island, the Exumas, Long Island,
+Rum Cay, and San Salvador
+* Portions of the northwestern Bahamas, including Eleuthera, New
+Providence, the Abacos, Berry Islands, Andros island, and Grand
+Bahama Island
+ 
+A Tropical Storm Watch is in effect for...
+* East coast of Florida from the Palm Beach/Martin County Line to
+the Flagler/Volusia County Line
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in the Bahamas and along the southeast coast of
+the United States should monitor the progress of this system. 
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Tropical Depression Nine 
+was located by Air Force reconnaissance aircraft near latitude 23.5 
+North, longitude 77.3 West. The depression is moving toward the 
+north near 7 mph (11 km/h). A faster motion to the north-northwest 
+or north is expected later today and continuing through Monday. On 
+the forecast track, the center of the system is expected to move 
+across the central and northwestern Bahamas later today and tonight 
+and then turn east-northeastward, moving away from the southeastern 
+U.S. by the middle part of this week. 
+ 
+Maximum sustained winds remain near 35 mph (55 km/h) with higher 
+gusts. Strengthening is expected during the next few days, and the 
+system is forecast to become a tropical storm later today and a 
+hurricane by late Monday or Tuesday.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Depression Nine can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT4 and WMO
+header WTNT44 KNHC.
+ 
+WIND: Tropical storm conditions are expected in the central Bahamas
+beginning later today and in the northwestern Bahamas late this
+afternoon. Tropical storm conditions are possible in the watch area
+along the east coast of Florida on Monday.
+
+RAINFALL: Tropical Depression Nine is expected to produce additional 
+rainfall of 2 to 6 inches across eastern Cuba and 6 to 12 inches 
+across the northwest Bahamas through Tuesday. This rainfall will 
+likely produce flash and urban flooding. Mudslides are also possible 
+in areas of higher terrain across eastern Cuba.
+
+Storm total rainfall amounts of 2 to 4 inches with local maxima of 
+7 inches are expected into Wednesday morning across portions of the 
+coastal Carolinas. This rainfall could result in flash, urban, and 
+isolated, minor river flooding. Changes in the forecast track could 
+result in further adjustments to these rainfall totals.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with this system, please see the National Weather 
+Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at4.shtml?ero
+
+STORM SURGE: A storm surge will raise water levels by as much as 1
+to 3 feet above ground level along the immediate coast in areas of
+onshore winds in the northwestern Bahamas. Near the coast, the
+surge will be accompanied by large waves.
+
+Minor coastal flooding is possible in areas of onshore winds over 
+the Southeastern U.S. coastline. The water could reach the 
+following heights above ground somewhere in the indicated areas if 
+the surge occurs over the next several high tide cycles...
+
+Volusia/Brevard County Line, Florida to the South Santee River, 
+South Carolina...1 to 2 ft
+
+SURF: Swells generated by this system and Hurricane Humberto will
+affect portions of the Bahamas this weekend, and spread to 
+much of the east coast of the U.S. early this week. These swells are 
+likely to cause life-threatening surf and rip current conditions. 
+Please consult products from your local weather office.
+ 
+A depiction of rip current risk for the United States can be found
+at: hurricanes.gov/graphics_at4.shtml?ripCurrents
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Papin
+  
