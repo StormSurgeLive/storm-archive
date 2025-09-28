@@ -1,0 +1,142 @@
+000
+WTNT34 KNHC 281749
+TCPAT4
+ 
+BULLETIN
+Tropical Storm Imelda Intermediate Advisory Number 8A
+NWS National Hurricane Center Miami FL       AL092025
+200 PM EDT Sun Sep 28 2025
+ 
+...DEPRESSION BECOMES TROPICAL STORM IMELDA...
+...TROPICAL STORM CONDITIONS EXPECTED OVER THE CENTRAL AND 
+NORTHWESTERN BAHAMAS THIS AFTERNOON AND EVENING...
+ 
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...23.9N 77.3W
+ABOUT 95 MI...155 KM WNW OF THE CENTRAL BAHAMAS
+ABOUT 370 MI...600 KM SE OF CAPE CANAVERAL FLORIDA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...N OR 355 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...998 MB...29.47 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Central Bahamas, including Cat Island, the Exumas, Long Island,
+Rum Cay, and San Salvador
+* Portions of the northwestern Bahamas, including Eleuthera, New
+Providence, the Abacos, Berry Islands, Andros island, and Grand
+Bahama Island
+ 
+A Tropical Storm Watch is in effect for...
+* East coast of Florida from the Palm Beach/Martin County Line to
+the Flagler/Volusia County Line
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in the Bahamas and along the southeast coast of
+the United States should monitor the progress of this system.
+ 
+For storm information specific to your area in the United
+States, including possible inland watches and warnings, please
+monitor products issued by your local National Weather Service
+forecast office. For storm information specific to your area
+outside of the United States, please monitor products issued by
+your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 PM EDT (1800 UTC), the center of Tropical Storm Imelda was 
+located by Air Force reconnaissance data near latitude 23.9 North, 
+longitude 77.3 West. Imelda is moving toward the north near 7 mph 
+(11 km/h). A faster motion to the north is expected later today and 
+continuing through Monday. On the forecast track, the center of the 
+system is expected to move across the central and northwestern 
+Bahamas this afternoon and tonight and then turn east-northeastward, 
+moving away from the southeastern U.S. by the middle part of this 
+week. 
+ 
+Maximum sustained winds have increased to near 40 mph (65 km/h) with 
+higher gusts. Strengthening is expected during the next few days, 
+and Imelda is forecast to become a hurricane by late Monday or 
+Tuesday.
+ 
+Tropical-storm-force winds extend outward up to 30 miles (50 km) 
+from the center.
+ 
+The minimum central pressure estimated by aircraft dropsonde data is 
+998 mb (29.47 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Imelda can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT4 and WMO
+header WTNT44 KNHC.
+ 
+WIND: Tropical storm conditions are occuring in the central Bahamas 
+and are expected in the northwestern Bahamas later this afternoon. 
+Tropical storm conditions are possible in the watch area along the 
+east coast of Florida on Monday.
+ 
+RAINFALL: Tropical Storm Imelda is expected to produce additional
+rainfall of 2 to 6 inches across eastern Cuba and 6 to 12 inches
+across the northwest Bahamas through Tuesday. This rainfall will
+likely produce flash and urban flooding. Mudslides are also possible
+in areas of higher terrain across eastern Cuba.
+ 
+Storm total rainfall amounts of 2 to 4 inches with local maxima of
+7 inches are expected into Wednesday morning across portions of the
+coastal Carolinas. This rainfall could result in flash, urban, and
+isolated, minor river flooding. Changes in the forecast track could
+result in further adjustments to these rainfall totals.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with this system, please see the National Weather
+Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at4.shtml?ero
+ 
+STORM SURGE: A storm surge will raise water levels by as much as 1
+to 3 feet above ground level along the immediate coast in areas of
+onshore winds in the northwestern Bahamas. Near the coast, the
+surge will be accompanied by large waves.
+ 
+Minor coastal flooding is possible in areas of onshore winds over
+the Southeastern U.S. coastline. The water could reach the
+following heights above ground somewhere in the indicated areas if
+the surge occurs over the next several high tide cycles...
+ 
+Volusia/Brevard County Line, Florida to the South Santee River,
+South Carolina...1 to 2 ft
+ 
+SURF: Swells generated by Tropical Storm Imelda and Hurricane 
+Humberto will affect portions of the Bahamas this weekend, and 
+spread to much of the east coast of the U.S. early this week. These 
+swells are likely to cause life-threatening surf and rip current 
+conditions. Please consult products from your local weather office.
+ 
+A depiction of rip current risk for the United States can be found
+at: hurricanes.gov/graphics_at4.shtml?ripCurrents
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Papin
+  
