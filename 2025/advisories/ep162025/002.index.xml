@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:gml="http://www.opengis.net/gml"
+  xmlns:nhc="https://www.nhc.noaa.gov">
+  <channel>
+    <pubDate>Sun, 05 Oct 2025 02:46:24 GMT</pubDate>
+    <title>NHC Eastern North Pacific</title>
+    <description>Active tropical cyclones in the Eastern North Pacific</description>
+    <link>https://www.nhc.noaa.gov/</link>
+    <copyright>none</copyright>
+    <managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+    <language>en-us</language>
+    <webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+    <image>
+      <url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+      <link>https://www.nhc.noaa.gov/</link>
+      <title>NHC Eastern North Pacific</title>
+      <description>NOAA logo</description>
+      <width>95</width>
+      <height>45</height>
+    </image>
+    <item>
+      <title>Eastern North Pacific Tropical Weather Outlook</title>
+      <description>
+      <![CDATA[000<br />ABPZ20 KNHC 042322<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 PM PDT Sat Oct 4 2025<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Octave, located in the east Pacific, well to the <br />west-southwest of the southern tip of the Baja California Peninsula, <br />and on newly formed Tropical Storm Priscilla, located offshore of <br />southwestern Mexico.<br /><br />South of Southern Mexico:<br />An area of low pressure is expected to form off the southern coast <br />of Mexico by the middle of next week. Gradual development of this <br />system is likely thereafter, and a tropical depression could form <br />during the middle to latter part of next week while moving <br />west-northwestward to northwestward, near or parallel to the coast <br />of Mexico.<br />* Formation chance through 48 hours...low...near 0 percent. <br />* Formation chance through 7 days...medium...60 percent.<br /><br />&&<br /><br />Public Advisories on Tropical Storm Priscilla are issued under <br />WMO header WTPZ31 KNHC and under AWIPS header MIATCPEP1.<br />Forecast/Advisories on Tropical Storm Priscilla are issued under <br />WMO header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Reinhart]]>
+      </description>
+      <pubDate>Sat, 04 Oct 2025 23:23:04 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/gtwo.php?basin=epac</link>
+      <guid>https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;202510042323</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Tropical Storm Priscilla (EP1/EP162025)</title>
+      <guid isPermaLink="false">summary-ep162025-202510050245</guid>
+      <pubDate>Sun, 05 Oct 2025 02:45:07 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/050244.shtml</link>
+      <description>...PRISCILLA MOVING SLOWLY NORTHWESTWARD... ...TROPICAL STORM WATCH IN EFFECT FOR PORTIONS OF THE COAST OF SOUTHWESTERN MEXICO... As of 8:00 PM MST Sat Oct 04 the center of Priscilla was located near 15.6, -106.7 with movement NW at 3 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 45 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>15.6, -106.7</nhc:center>
+        <nhc:type>Tropical Storm</nhc:type>
+        <nhc:name>Priscilla</nhc:name>
+        <nhc:wallet>EP1</nhc:wallet>
+        <nhc:atcf>EP162025</nhc:atcf>
+        <nhc:datetime>8:00 PM MST Sat Oct 04</nhc:datetime>
+        <nhc:movement>NW at 3 mph</nhc:movement>
+        <nhc:pressure>1000 mb</nhc:pressure>
+        <nhc:wind>45 mph</nhc:wind>
+        <nhc:headline>...PRISCILLA MOVING SLOWLY NORTHWESTWARD... ...TROPICAL STORM WATCH IN EFFECT FOR PORTIONS OF THE COAST OF SOUTHWESTERN MEXICO...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Tropical Storm Priscilla Public Advisory Number 2</title>
+      <description>Issued at 800 PM MST Sat Oct 04 2025 <![CDATA[<pre>000
+WTPZ31 KNHC 050244
+TCPEP1
+ 
+BULLETIN
+Tropical Storm Priscilla Advisory Number   2
+NWS National Hurricane Center Miami FL       EP162025
+800 PM MST Sat Oct 04 2025
+ 
+...PRISCILLA MOVING SLOWLY NORTHWESTWARD...
+...TROPICAL STORM WATCH IN EFFECT FOR PORTIONS OF THE COAST OF
+SOUTHWESTERN MEXICO...
+ 
+ 
+SUMMARY OF 800 PM MST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.6N 106.7W
+ABOUT 285 MI...455 KM SW OF MANZANILLO MEXICO
+ABOUT 545 MI...880 KM SSE OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 3 MPH...6 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+* Punta San Telmo to Punta Mita, Mexico
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests in southern Baja California Sur should monitor the
+progress of Priscilla.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM MST (0300 UTC), the center of Tropical Storm Priscilla was 
+located near latitude 15.6 North, longitude 106.7 West. Priscilla is 
+moving toward the northwest near 3 mph (6 km/h). A slow, generally 
+northward drift is expected through Sunday, followed by a faster 
+northwestward motion beginning on Monday. On the forecast track, the 
+center of Priscilla is expected to move offshore of and parallel to 
+the coast of southwestern Mexico through early next week.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts.
+Strengthening is forecast during the next few days, and Priscilla is
+expected to become a hurricane by Sunday night or Monday.
+ 
+Priscilla is a large tropical storm, with tropical-storm-force winds 
+extending outward up to 140 miles (220 km) from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Priscilla can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDEP1 and WMO header WTPZ41 KNHC.
+ 
+WIND: Tropical storm conditions are possible within the watch area
+along the southwestern coast of Mexico on Sunday and Monday.
+ 
+RAINFALL: Outer bands from Priscilla will bring heavy rain to 
+portions of southwestern Mexico through Monday. Across coastal 
+portions of Michoacán and far western Guerrero, rainfall amounts of 
+4 to 6 inches are expected, with local amounts up to 8 inches. 
+Across Colima, western Jalisco, and the rest of Guerrero along the 
+coast, 2 to 4 inches of rain are expected. This rainfall will bring 
+a risk of flash flooding, especially in areas of higher terrain.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Priscilla, please see the National Weather Service
+Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_ep1.shtml?rainqpf
+ 
+SURF: Swells generated by Priscilla are affecting portions of the
+coast of southwestern Mexico and will reach portions of the coast of
+west-central Mexico and the southern Baja California peninsula by
+Monday. These swells are likely to cause life-threatening surf and
+rip current conditions. Please consult products from your local
+weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 1100 PM MST.
+Next complete advisory at 200 AM MST.
+ 
+$$
+Forecaster Reinhart</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:45:07 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/050244.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/050244.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Priscilla Forecast Advisory Number 2</title>
+      <description>Issued at 0300 UTC SUN OCT 05 2025 <![CDATA[<pre>000
+WTPZ21 KNHC 050244
+TCMEP1
+ 
+TROPICAL STORM PRISCILLA FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP162025
+0300 UTC SUN OCT 05 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 15.6N 106.7W AT 05/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 325 DEGREES AT   3 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1000 MB
+MAX SUSTAINED WINDS  40 KT WITH GUSTS TO  50 KT.
+34 KT.......120NE   0SE  60SW  90NW.
+4 M SEAS.... 90NE  75SE  75SW  90NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 15.6N 106.7W AT 05/0300Z
+AT 05/0000Z CENTER WAS LOCATED NEAR 15.5N 106.6W
+ 
+FORECAST VALID 05/1200Z 16.0N 106.8W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 20NE  20SE   0SW   0NW.
+34 KT...160NE  70SE 100SW 120NW.
+ 
+FORECAST VALID 06/0000Z 16.6N 107.1W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 30NE  30SE  30SW  20NW.
+34 KT...200NE 110SE 120SW 140NW.
+ 
+FORECAST VALID 06/1200Z 17.4N 107.8W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE  20SE   0SW   0NW.
+50 KT... 40NE  40SE  40SW  30NW.
+34 KT...200NE 120SE 130SW 150NW.
+ 
+FORECAST VALID 07/0000Z 18.4N 108.8W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 25NE  30SE  20SW  15NW.
+50 KT... 50NE  60SE  50SW  40NW.
+34 KT...190NE 120SE 120SW 150NW.
+ 
+FORECAST VALID 07/1200Z 19.3N 110.0W
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT... 30NE  30SE  20SW  20NW.
+50 KT... 60NE  60SE  60SW  50NW.
+34 KT...170NE 110SE 110SW 130NW.
+ 
+FORECAST VALID 08/0000Z 20.2N 111.4W
+MAX WIND  80 KT...GUSTS 100 KT.
+64 KT... 35NE  35SE  25SW  25NW.
+50 KT... 60NE  60SE  60SW  50NW.
+34 KT...140NE 110SE 110SW 120NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 09/0000Z 22.3N 114.1W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 50NE  50SE  50SW  50NW.
+34 KT...120NE 100SE  90SW 110NW.
+ 
+OUTLOOK VALID 10/0000Z 24.5N 116.5W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 40NE  40SE  30SW  40NW.
+34 KT... 90NE  70SE  70SW  90NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 15.6N 106.7W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT31 KNHC/MIATCPEP1...AT 05/0600Z
+ 
+NEXT ADVISORY AT 05/0900Z
+ 
+$$
+FORECASTER REINHART</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:45:07 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/050244.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/050244.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Priscilla Forecast Discussion Number 2</title>
+      <description>Issued at 800 PM MST Sat Oct 04 2025 <![CDATA[<pre>000
+WTPZ41 KNHC 050245
+TCDEP1
+ 
+Tropical Storm Priscilla Discussion Number   2
+NWS National Hurricane Center Miami FL       EP162025
+800 PM MST Sat Oct 04 2025
+ 
+The satellite presentation of Priscilla suggests the storm is 
+contending with some shear this evening. The low-level circulation 
+appears to be partially exposed to the east of the central 
+convection. Large curved bands wrap around the northern and western 
+parts of the circulation. The satellite intensity estimates range 
+from 36-45 kt, and the initial intensity is held at 40 kt based on a 
+blend of these estimates and the earlier scatterometer data.
+
+The initial motion estimate is an uncertain 325/3 kt. Priscilla has 
+not moved much since earlier today, and recent satellite images 
+suggest there could be a couple of small vortices rotating around a 
+broader system center. While Priscilla continues to organize and the 
+storm remains in weak steering currents, a slow and erratic 
+northward to northwestward motion is expected during the next day or 
+so. By Monday, a somewhat faster northwestward motion is forecast 
+while Priscilla moves between a strengthening ridge over northern 
+Mexico and an upper-level trough over the western U.S. The 
+cross-track model spread increases greatly at days 3-5. This is 
+likely related to differences in the amplitude of the upper trough 
+off the U.S. West Coast, and the strength and positioning of the 
+ridge over northern Mexico during this period. The 96-120 h NHC 
+track forecast was adjusted a bit slower and farther left, following 
+the latest model trends and remaining between the simple and 
+corrected consensus aids.
+
+Despite the storm's large size, most of the intensity guidance 
+favors steady to even significant strengthening over the next few 
+days. Warm sea-surface temperatures and strong upper-level 
+divergence should provide favorable conditions for intensification 
+once Priscilla consolidates an inner core. There are indications 
+that moderate easterly shear will persist into early next week, but 
+the large system should be less susceptible to those negative 
+effects once its structure improves. The NHC forecast shows 
+Priscilla reaching hurricane strength by Monday with some continued 
+strengthening thereafter. A weakening trend is forecast beyond 72 h 
+as Priscilla is expected to encounter cooler waters and a drier, 
+more stable environment while gaining latitude.
+ 
+ 
+KEY MESSAGES:
+ 
+1.  Tropical storm conditions are possible along portions of the
+coast of southwestern Mexico within the watch area Sunday and
+Monday. Interests in the southern portion of Baja California Sur
+should monitor the progress of Priscilla.
+ 
+2.  Heavy rainfall associated with Priscilla will impact coastal 
+sections of southwestern Mexico through Monday, which could result 
+in flash flooding, particularly in areas of higher terrain.
+ 
+3.  Swells generated by Priscilla are affecting portions of
+the coast of southwestern Mexico and will reach the coasts of
+west-central Mexico and the southern Baja California peninsula by
+Monday. These swells are likely to cause life-threatening surf and
+rip current conditions.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  05/0300Z 15.6N 106.7W   40 KT  45 MPH
+ 12H  05/1200Z 16.0N 106.8W   50 KT  60 MPH
+ 24H  06/0000Z 16.6N 107.1W   60 KT  70 MPH
+ 36H  06/1200Z 17.4N 107.8W   65 KT  75 MPH
+ 48H  07/0000Z 18.4N 108.8W   75 KT  85 MPH
+ 60H  07/1200Z 19.3N 110.0W   80 KT  90 MPH
+ 72H  08/0000Z 20.2N 111.4W   80 KT  90 MPH
+ 96H  09/0000Z 22.3N 114.1W   70 KT  80 MPH
+120H  10/0000Z 24.5N 116.5W   50 KT  60 MPH
+ 
+$$
+Forecaster Reinhart</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:45:35 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/050245.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/050245.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Priscilla Wind Speed Probabilities Number 2</title>
+      <description>Issued at 0300 UTC SUN OCT 05 2025 <![CDATA[<pre>000
+FOPZ11 KNHC 050245
+PWSEP1
+                                                                    
+TROPICAL STORM PRISCILLA WIND SPEED PROBABILITIES NUMBER   2        
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP162025               
+0300 UTC SUN OCT 05 2025                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM PRISCILLA WAS LOCATED NEAR    
+LATITUDE 15.6 NORTH...LONGITUDE 106.7 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 40 KTS...45 MPH...75 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SUN 12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU 00Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+IS GUADALUPE   34  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+PUNTA EUGENIA  34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+ 
+P ABREOJOS     34  X   X( X)   X( X)   X( X)   X( X)   5( 5)   4( 9)
+ 
+CABO SAN LUCAS 34  X   X( X)   X( X)   4( 4)  18(22)   5(27)   1(28)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   3( 3)  14(17)   6(23)   X(23)
+ 
+LA PAZ         34  X   X( X)   X( X)   1( 1)   7( 8)   7(15)   1(16)
+ 
+LORETO         34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   1( 6)
+ 
+ISLAS MARIAS   34  X   2( 2)   4( 6)   5(11)   5(16)   1(17)   X(17)
+ 
+MAZATLAN       34  X   X( X)   X( X)   1( 1)   3( 4)   1( 5)   X( 5)
+ 
+SAN BLAS       34  X   1( 1)   1( 2)   4( 6)   2( 8)   1( 9)   X( 9)
+ 
+P VALLARTA     34  X   1( 1)   1( 2)   1( 3)   1( 4)   X( 4)   X( 4)
+ 
+15N 105W       34  8   5(13)   3(16)   X(16)   1(17)   X(17)   X(17)
+ 
+BARRA NAVIDAD  34  X   1( 1)   2( 3)   1( 4)   1( 5)   X( 5)   X( 5)
+ 
+MANZANILLO     34  2   5( 7)   4(11)   3(14)   1(15)   X(15)   X(15)
+ 
+L CARDENAS     34  X   2( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+15N 110W       34  2   3( 5)   5(10)   2(12)   3(15)   X(15)   X(15)
+ 
+20N 110W       34  X   3( 3)   6( 9)  31(40)  50(90)   1(91)   X(91)
+20N 110W       50  X   X( X)   X( X)   7( 7)  51(58)   1(59)   X(59)
+20N 110W       64  X   X( X)   X( X)   2( 2)  30(32)   X(32)   X(32)
+ 
+ISLA SOCORRO   34  X   3( 3)   6( 9)  22(31)  37(68)   1(69)   1(70)
+ISLA SOCORRO   50  X   X( X)   X( X)   2( 2)  23(25)   X(25)   X(25)
+ISLA SOCORRO   64  X   X( X)   X( X)   X( X)  10(10)   X(10)   X(10)
+ 
+ISLA CLARION   34  X   X( X)   X( X)   1( 1)   6( 7)   6(13)   X(13)
+ 
+20N 115W       34  X   X( X)   X( X)   X( X)   9( 9)  13(22)   2(24)
+20N 115W       50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+20N 115W       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+25N 115W       34  X   X( X)   X( X)   X( X)   1( 1)  18(19)  16(35)
+25N 115W       50  X   X( X)   X( X)   X( X)   X( X)   2( 2)   5( 7)
+25N 115W       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+25N 120W       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)   5( 6)
+ 
+$$                                                                  
+FORECASTER REINHART</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:45:35 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/050245.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/050245.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Priscilla Graphics</title>
+      <description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/234557.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP16/EP162025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Priscilla 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Sat, 04 Oct 2025 23:45:30 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/234557.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP16/EP162025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Priscilla 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Sat, 04 Oct 2025 21:27:10 GMT
+]]>
+      </description>
+      <pubDate>Sat, 04 Oct 2025 23:45:57 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/234557.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/234557.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Tropical Storm Octave (EP5/EP152025)</title>
+      <guid isPermaLink="false">summary-ep152025-202510050239</guid>
+      <pubDate>Sun, 05 Oct 2025 02:39:06 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/050238.shtml</link>
+      <description>...OCTAVE SLOWLY MOVING NORTH-NORTHWESTWARD... As of 8:00 PM PDT Sat Oct 04 the center of Octave was located near 15.4, -124.1 with movement NNW at 5 mph. The minimum central pressure was 997 mb with maximum sustained winds of about 65 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>15.4, -124.1</nhc:center>
+        <nhc:type>Tropical Storm</nhc:type>
+        <nhc:name>Octave</nhc:name>
+        <nhc:wallet>EP5</nhc:wallet>
+        <nhc:atcf>EP152025</nhc:atcf>
+        <nhc:datetime>8:00 PM PDT Sat Oct 04</nhc:datetime>
+        <nhc:movement>NNW at 5 mph</nhc:movement>
+        <nhc:pressure>997 mb</nhc:pressure>
+        <nhc:wind>65 mph</nhc:wind>
+        <nhc:headline>...OCTAVE SLOWLY MOVING NORTH-NORTHWESTWARD...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Tropical Storm Octave Public Advisory Number 20</title>
+      <description>Issued at 800 PM PDT Sat Oct 04 2025 <![CDATA[<pre>000
+WTPZ35 KNHC 050238
+TCPEP5
+ 
+BULLETIN
+Tropical Storm Octave Advisory Number  20
+NWS National Hurricane Center Miami FL       EP152025
+800 PM PDT Sat Oct 04 2025
+ 
+...OCTAVE SLOWLY MOVING NORTH-NORTHWESTWARD...
+ 
+ 
+SUMMARY OF 800 PM PDT...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...15.4N 124.1W
+ABOUT 1060 MI...1705 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...NNW OR 340 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM PDT (0300 UTC), the center of Tropical Storm Octave was
+located near latitude 15.4 North, longitude 124.1 West. Octave is
+moving toward the north-northwest near 5 mph (7 km/h), and the
+tropical storm is expected to turn northward tonight or Sunday
+morning and then eastward in the next day or so.
+ 
+Maximum sustained winds are near 65 mph (100 km/h) with higher
+gusts. Some slight strengthening is possible during the next day or
+so.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 997 mb (29.44 inches).
+
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 AM PDT.
+ 
+$$
+Forecaster Bucci</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:39:06 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/050238.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/050238.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Octave Forecast Advisory Number 20</title>
+      <description>Issued at 0300 UTC SUN OCT 05 2025 <![CDATA[<pre>000
+WTPZ25 KNHC 050238
+TCMEP5
+ 
+TROPICAL STORM OCTAVE FORECAST/ADVISORY NUMBER  20
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP152025
+0300 UTC SUN OCT 05 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 15.4N 124.1W AT 05/0300Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTH-NORTHWEST OR 340 DEGREES AT   4 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  997 MB
+MAX SUSTAINED WINDS  55 KT WITH GUSTS TO  65 KT.
+50 KT....... 30NE  20SE   0SW  20NW.
+34 KT....... 70NE  60SE  30SW  60NW.
+4 M SEAS.... 75NE  60SE  75SW  75NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 15.4N 124.1W AT 05/0300Z
+AT 05/0000Z CENTER WAS LOCATED NEAR 15.2N 124.1W
+ 
+FORECAST VALID 05/1200Z 15.8N 124.0W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 30NE  30SE  10SW  20NW.
+34 KT... 70NE  60SE  30SW  60NW.
+ 
+FORECAST VALID 06/0000Z 16.2N 123.2W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  20SE   0SW  20NW.
+34 KT... 70NE  60SE  40SW  50NW.
+ 
+FORECAST VALID 06/1200Z 16.2N 122.3W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT...  0NE  20SE   0SW   0NW.
+34 KT... 50NE  40SE  30SW  50NW.
+ 
+FORECAST VALID 07/0000Z 16.1N 121.1W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 50NE  30SE  30SW  40NW.
+ 
+FORECAST VALID 07/1200Z 15.9N 120.0W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  30SE  30SW  40NW.
+ 
+FORECAST VALID 08/0000Z 15.5N 118.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 30NE  30SE  20SW  30NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 09/0000Z 15.6N 116.4W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+OUTLOOK VALID 10/0000Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 15.4N 124.1W
+ 
+NEXT ADVISORY AT 05/0900Z
+ 
+$$
+FORECASTER BUCCI</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:39:06 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/050238.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/050238.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Octave Forecast Discussion Number 20</title>
+      <description>Issued at 800 PM PDT Sat Oct 04 2025 <![CDATA[<pre>361 
+WTPZ45 KNHC 050239
+TCDEP5
+ 
+Tropical Storm Octave Discussion Number  20
+NWS National Hurricane Center Miami FL       EP152025
+800 PM PDT Sat Oct 04 2025
+ 
+Octave's organization has held relatively steady since the previous
+advisory.  Overshooting cloud tops continue to burst through a
+modestly-sized central dense overcast.  An earlier AMSR2 37 GHz
+overpass showed a curved band wrapping around the northern and
+western quadrants of the storm.  Subjective and objective Dvorak
+estimates range from 42 kt to 65 kt, and the initial intensity is
+held at 55 kt representing a blend of these values.
+ 
+The storm is still slowing moving north-northwestward at 4 kt.  A
+turn to the north is expected shortly, followed by an accelerated
+eastward motion in about 24 hours.  Much of this track prediction
+depends on the evolution of Tropical Storm Priscilla, located about
+1100 miles to the east of Octave.   The NHC track forecast has
+shifted slightly north of the previous track forecast due to a more
+northward initial position and lies between HCCA and the Google Deep
+Mind ensemble mean.
+ 
+Octave has a short window of 18-24 hours with relatively conducive
+atmospheric conditions to intensify.  Weak vertical wind shear and
+adequate mid-level moisture should allow Octave to strengthen.  By 
+Monday, increasing upper-level winds are expected to disrupt 
+Octave's circulation and induce a gradual weakening trend.  Octave 
+is still forecast to open into a trough on the southern side of 
+Tropical Storm Priscilla by the end of the forecast period.  Only 
+minor adjustments were made to the latest official intensity 
+prediction.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  05/0300Z 15.4N 124.1W   55 KT  65 MPH
+ 12H  05/1200Z 15.8N 124.0W   60 KT  70 MPH
+ 24H  06/0000Z 16.2N 123.2W   55 KT  65 MPH
+ 36H  06/1200Z 16.2N 122.3W   50 KT  60 MPH
+ 48H  07/0000Z 16.1N 121.1W   45 KT  50 MPH
+ 60H  07/1200Z 15.9N 120.0W   40 KT  45 MPH
+ 72H  08/0000Z 15.5N 118.8W   35 KT  40 MPH
+ 96H  09/0000Z 15.6N 116.4W   30 KT  35 MPH
+120H  10/0000Z...DISSIPATED
+ 
+$$
+Forecaster Bucci</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:39:34 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/050239.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/050239.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Octave Wind Speed Probabilities Number 20</title>
+      <description>Issued at 0300 UTC SUN OCT 05 2025 <![CDATA[<pre>000
+FOPZ15 KNHC 050238
+PWSEP5
+                                                                    
+TROPICAL STORM OCTAVE WIND SPEED PROBABILITIES NUMBER  20           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP152025               
+0300 UTC SUN OCT 05 2025                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM OCTAVE WAS LOCATED NEAR       
+LATITUDE 15.4 NORTH...LONGITUDE 124.1 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z SUN AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z SUN 12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z SUN 00Z MON 12Z MON 00Z TUE 00Z WED 00Z THU 00Z FRI
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+15N 115W       34  X   X( X)   X( X)   X( X)   1( 1)   5( 6)   X( 6)
+ 
+15N 120W       34  2   3( 5)   3( 8)  10(18)  15(33)   2(35)   X(35)
+15N 120W       50  X   X( X)   X( X)   2( 2)   4( 6)   X( 6)   X( 6)
+15N 120W       64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+20N 120W       34  X   2( 2)   X( 2)   1( 3)   X( 3)   X( 3)   X( 3)
+ 
+15N 125W       34 19   4(23)   1(24)   X(24)   X(24)   1(25)   X(25)
+ 
+20N 125W       34  2   1( 3)   1( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+$$                                                                  
+FORECASTER BUCCI</pre>]]></description>
+          
+      <pubDate>Sun, 05 Oct 2025 02:39:06 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/050238.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/050238.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Octave Graphics</title>
+      <description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/024114.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP15/EP152025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Octave 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Sun, 05 Oct 2025 02:40:43 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/024114.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP15/EP152025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Octave 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Sun, 05 Oct 2025 02:40:43 GMT
+]]>
+      </description>
+      <pubDate>Sun, 05 Oct 2025 02:41:14 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/024114.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/024114.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+  </channel>
+</rss>
