@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:gml="http://www.opengis.net/gml"
+  xmlns:nhc="https://www.nhc.noaa.gov">
+  <channel>
+    <pubDate>Thu, 09 Oct 2025 20:35:49 GMT</pubDate>
+    <title>NHC Atlantic</title>
+    <description>Active tropical cyclones in the Atlantic, Caribbean, and the Gulf of America</description>
+    <link>https://www.nhc.noaa.gov/</link>
+    <copyright>none</copyright>
+    <managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+    <language>en-us</language>
+    <webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+    <image>
+      <url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+      <link>https://www.nhc.noaa.gov/</link>
+      <title>NHC Atlantic</title>
+      <description>NOAA logo</description>
+      <width>95</width>
+      <height>45</height>
+    </image>
+    <item>
+      <title>Atlantic Tropical Weather Outlook</title>
+      <description>
+      <![CDATA[000<br />ABNT20 KNHC 091737<br />TWOAT <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />200 PM EDT Thu Oct 9 2025<br /><br />For the North Atlantic...Caribbean Sea and the Gulf of America:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Tropical <br />Storm Jerry, located just southeast of the northern Leeward Islands.<br /><br />North Atlantic (AL96):<br />A gale-force non-tropical area of low pressure located about 500 <br />miles northwest of the Azores is producing some shower activity near <br />its center. Some subtropical or tropical development of this system <br />is possible over the next day or so before it moves over even cooler <br />waters and into a stronger shear environment. For more information <br />on this system, including gale warnings, see High Seas Forecasts <br />issued by the National Weather Service and Meteo France.<br />* Formation chance through 48 hours...low...10 percent.<br />* Formation chance through 7 days...low...10 percent.<br /><br />&&<br /><br />High Seas Forecasts issued by the National Weather Service<br />can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br />KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br /><br />High Seas Forecasts issued by Meteo France can be found under WMO <br />header FQNT50 LFPW and available on the web at<br />https://tgftp.nws.noaa.gov/data/raw/fq/fqnt50.lfpw..txt<br /><br />$$<br />Forecaster Cangialosi]]>
+      </description>
+      <pubDate>Thu, 09 Oct 2025 17:37:19 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+      <guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;202510091737</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Tropical Storm Jerry (AT5/AL102025)</title>
+      <guid isPermaLink="false">summary-al102025-202510092035</guid>
+      <pubDate>Thu, 09 Oct 2025 20:35:23 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/841588.shtml</link>
+      <description>...JERRY EXPECTED TO BE NEAR THE NORTHERN LEEWARD ISLANDS THIS EVENING AND TONIGHT... ...TROPICAL STORM WARNING ISSUED FOR PORTIONS OF THE NORTHERN LEEWARD ISLANDS... As of 5:00 PM AST Thu Oct 09 the center of Jerry was located near 17.3, -60.6 with movement WNW at 18 mph. The minimum central pressure was 1001 mb with maximum sustained winds of about 65 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>17.3, -60.6</nhc:center>
+        <nhc:type>Tropical Storm</nhc:type>
+        <nhc:name>Jerry</nhc:name>
+        <nhc:wallet>AT5</nhc:wallet>
+        <nhc:atcf>AL102025</nhc:atcf>
+        <nhc:datetime>5:00 PM AST Thu Oct 09</nhc:datetime>
+        <nhc:movement>WNW at 18 mph</nhc:movement>
+        <nhc:pressure>1001 mb</nhc:pressure>
+        <nhc:wind>65 mph</nhc:wind>
+        <nhc:headline>...JERRY EXPECTED TO BE NEAR THE NORTHERN LEEWARD ISLANDS THIS EVENING AND TONIGHT... ...TROPICAL STORM WARNING ISSUED FOR PORTIONS OF THE NORTHERN LEEWARD ISLANDS...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Tropical Storm Jerry Public Advisory Number 10</title>
+      <description>Issued at 500 PM AST Thu Oct 09 2025 <![CDATA[<pre>ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Jerry Advisory Number  10
+NWS National Hurricane Center Miami FL       AL102025
+500 PM AST Thu Oct 09 2025
+ 
+...JERRY EXPECTED TO BE NEAR THE NORTHERN LEEWARD ISLANDS THIS
+EVENING AND TONIGHT...
+...TROPICAL STORM WARNING ISSUED FOR PORTIONS OF THE NORTHERN
+LEEWARD ISLANDS...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.3N 60.6W
+ABOUT 175 MI...285 KM ESE OF THE NORTHERN LEEWARD ISLANDS
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Barbuda and Anguilla
+* St. Barthelemy and St. Martin
+* Sint Maarten
+* Guadeloupe and the adjacent islands
+ 
+A Tropical Storm Watch is in effect for...
+* Antigua, St. Kitts, Nevis, and Montserrat
+* Saba and St. Eustatius
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area, in this case within 12
+hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, in this case within 12 hours
+ 
+Interests elsewhere in the northern Leeward Islands and the
+British and U.S. Virgin Islands should monitor the progress of
+Jerry.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Tropical Storm Jerry was
+located near latitude 17.3 North, longitude 60.6 West. Jerry is
+moving toward the west-northwest near 18 mph (30 km/h). A turn
+toward the northwest is expected by the evening, followed by a
+slightly slower northward motion on Friday and Saturday.  On the
+forecast track, the center of Jerry is expected to pass near the 
+northern Leeward Islands this evening and tonight.
+ 
+Maximum sustained winds remain near 65 mph (100 km/h) with higher
+gusts.  Little change in strength is expected through tomorrow, 
+but slow strengthening is possible over the weekend.
+
+Tropical-storm-force winds extend outward up to 175 miles (280 km),
+mainly east of the center.
+ 
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Jerry can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT5 and WMO header
+WTNT45 KNHC.
+ 
+WIND: Tropical storm conditions are expected in the tropical storm
+warning area and are possible in the watch area tonight and
+Friday morning.
+ 
+RAINFALL: Through Friday, 4 to 6 inches of rain are expected across
+the island of Barbuda. Elsewhere across the Leeward and Virgin
+Islands, 2 to 4 inches of rain are expected. This rainfall brings a
+risk of flash flooding, especially in urban areas and in steep
+terrain. For portions of Puerto Rico, moisture associated with Jerry
+combined with local orographic effects may result in up to 2 to 4
+inches of rain, with isolated 6 inches possible.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Jerry, please see the National Weather Service storm
+total rainfall graphic, available at
+hurricanes.gov/graphics_at5.shtml?rainqpf
+ 
+SURF: Swells generated by Jerry are affecting the Leeward Islands,
+Windward Islands, the Virgin Islands and Puerto Rico. These swells
+are expected to spread toward the rest of the Greater Antilles over
+the next couple of days, are likely to cause life-threatening surf
+and rip current conditions. Please consult products from your local
+weather office.
+ 
+A depiction of rip current risk for the United States, including
+Puerto Rico and the U.S. Virgin Islands, can be found at:
+hurricanes.gov/graphics_at5.shtml?ripCurrents
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN</pre>]]></description>
+          
+      <pubDate>Thu, 09 Oct 2025 20:35:23 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/841588.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/841588.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Jerry Forecast Advisory Number 10</title>
+      <description>Issued at 2100 UTC THU OCT 09 2025 <![CDATA[<pre>000
+WTNT25 KNHC 092034
+TCMAT5
+ 
+TROPICAL STORM JERRY FORECAST/ADVISORY NUMBER  10
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102025
+2100 UTC THU OCT 09 2025
+ 
+TROPICAL STORM CENTER LOCATED NEAR 17.3N  60.6W AT 09/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST-NORTHWEST OR 300 DEGREES AT  16 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1001 MB
+MAX SUSTAINED WINDS  55 KT WITH GUSTS TO  65 KT.
+50 KT....... 70NE  70SE   0SW   0NW.
+34 KT.......150NE 150SE   0SW  70NW.
+4 M SEAS....275NE 180SE  60SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 17.3N  60.6W AT 09/2100Z
+AT 09/1800Z CENTER WAS LOCATED NEAR 16.8N  60.1W
+ 
+FORECAST VALID 10/0600Z 18.6N  62.0W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 70NE  70SE   0SW   0NW.
+34 KT...140NE 140SE  30SW  80NW.
+ 
+FORECAST VALID 10/1800Z 21.0N  63.1W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 60NE  60SE   0SW  20NW.
+34 KT...120NE 140SE  40SW  60NW.
+ 
+FORECAST VALID 11/0600Z 23.7N  63.4W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 60NE  60SE   0SW  20NW.
+34 KT...110NE 140SE  50SW  50NW.
+ 
+FORECAST VALID 11/1800Z 26.5N  63.2W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE  15SE   0SW   0NW.
+50 KT... 50NE  50SE  20SW  30NW.
+34 KT...100NE 130SE  50SW  50NW.
+ 
+FORECAST VALID 12/0600Z 28.4N  62.9W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 15NE  15SE   0SW   0NW.
+50 KT... 50NE  50SE  20SW  30NW.
+34 KT...100NE 130SE  60SW  60NW.
+ 
+FORECAST VALID 12/1800Z 30.7N  61.3W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 15NE  15SE   0SW   0NW.
+50 KT... 50NE  50SE  20SW  30NW.
+34 KT...100NE 130SE  60SW  60NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 125 NM
+ON DAY 4 AND 175 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 13/1800Z 32.3N  57.9W
+MAX WIND  70 KT...GUSTS  85 KT.
+50 KT... 50NE  50SE  20SW  30NW.
+34 KT...100NE 120SE  60SW  60NW.
+ 
+OUTLOOK VALID 14/1800Z 32.2N  51.0W
+MAX WIND  65 KT...GUSTS  80 KT.
+50 KT... 50NE  60SE  50SW  40NW.
+34 KT... 90NE 120SE 100SW  80NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 17.3N  60.6W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT35 KNHC/MIATCPAT5...AT 10/0000Z
+ 
+NEXT ADVISORY AT 10/0300Z
+ 
+$$
+FORECASTER CANGIALOSI</pre>]]></description>
+          
+      <pubDate>Thu, 09 Oct 2025 20:34:31 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/092034.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMAT5+shtml/092034.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Jerry Forecast Discussion Number 9</title>
+      <description>Issued at 1100 AM AST Thu Oct 09 2025 <![CDATA[<pre>000
+WTNT45 KNHC 091441
+TCDAT5
+ 
+Tropical Storm Jerry Discussion Number   9
+NWS National Hurricane Center Miami FL       AL102025
+1100 AM AST Thu Oct 09 2025
+ 
+The NOAA and Air Force Hurricane Hunters have been investigating 
+Jerry this morning, and the radar and flight-level wind data show 
+that the storm remains lopsided with nearly all of the strong winds 
+and convection on the system's east side.  The center itself has 
+been difficult to fix, but the data generally support a position 
+that is located south-southeast of the previous track.  The initial 
+intensity is held at 55 kt based on a combination of the aircraft 
+data and satellite estimates.
+ 
+The initial motion of Jerry is somewhat uncertain given its poor 
+low-level structure, but our best guess is west-northwestward at 16 
+kt.  A west-northwest to northwest motion should occur today, 
+bringing the center of the storm just east of the northern Leeward 
+Islands later today and tonight.  Tropical-storm-force winds are 
+expected in Barbuda and possible on some of the other islands, 
+however, given Jerry's asymmetric structure, the strongest winds 
+should pass to the east of the island chain.  A turn to the north is 
+expected to occur tomorrow, and that motion should continue through 
+most of the weekend as the storm moves in the flow on the western 
+side of a subtropical ridge.  Early next week, a faster eastward or 
+east-northeastward motion is forecast in the mid-latitude 
+westerlies.  All of the models show Jerry passing east of Bermuda in 
+3 or 4 days, and given its expected eastward asymmetry, significant 
+impacts appear unlikely there. The new track forecast is a little to 
+the left of the previous one in the short term, due to the initial 
+position adjustment, but ends up near the previous track from 48 to 
+120 h.  This prediction is in good agreement with the HCCA and 
+Google Deep Mind ensemble mean.
+ 
+Significant strengthening seems unlikely given Jerry's elongated
+low-level structure.  However, the shear is expected to let up some
+while Jerry remains over warm water and in a moist air mass.
+Therefore, slow strengthening is predicted during the next few
+days.  Slow weakening seems like a good bet beyond a few days when
+Jerry is forecast to be moving over slightly cooler SSTs and into
+stronger shear.  The NHC intensity forecast is quite similar to the
+previous one and is in best agreement with the HCCA model.
+ 
+ 
+KEY MESSAGES:
+ 
+1. Jerry is expected to bring tropical storm conditions to Barbuda 
+later today and tonight, and could bring tropical storm conditions 
+to other portions of the northern Leeward Islands by tonight.
+ 
+2. Heavy rainfall will impact portions of the Leeward Islands, 
+British Virgin Islands, U.S. Virgin Islands, and Puerto Rico through 
+Friday, which could result in flash flooding, particularly in urban 
+areas and in steep terrain.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  09/1500Z 15.9N  59.1W   55 KT  65 MPH
+ 12H  10/0000Z 17.1N  60.9W   55 KT  65 MPH
+ 24H  10/1200Z 19.0N  62.4W   60 KT  70 MPH
+ 36H  11/0000Z 21.7N  63.1W   65 KT  75 MPH
+ 48H  11/1200Z 24.2N  63.2W   70 KT  80 MPH
+ 60H  12/0000Z 26.5N  62.9W   70 KT  80 MPH
+ 72H  12/1200Z 28.5N  62.4W   75 KT  85 MPH
+ 96H  13/1200Z 31.3N  59.4W   75 KT  85 MPH
+120H  14/1200Z 31.4N  54.6W   70 KT  80 MPH
+ 
+$$
+Forecaster Cangialosi</pre>]]></description>
+          
+      <pubDate>Thu, 09 Oct 2025 14:41:17 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/091441.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/091441.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Jerry Wind Speed Probabilities Number 9</title>
+      <description>Issued at 1500 UTC THU OCT 09 2025 <![CDATA[<pre>000
+FONT15 KNHC 091440
+PWSAT5
+                                                                    
+TROPICAL STORM JERRY WIND SPEED PROBABILITIES NUMBER   9            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       AL102025               
+1500 UTC THU OCT 09 2025                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM JERRY WAS LOCATED NEAR        
+LATITUDE 15.9 NORTH...LONGITUDE 59.1 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 55 KTS...65 MPH...100 KM/H.                              
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   ATLANTIC STANDARD TIME (AST)...SUBTRACT 4 HOURS FROM Z TIME      
+   EASTERN  DAYLIGHT TIME (EDT)...SUBTRACT 4 HOURS FROM Z TIME      
+   CENTRAL  DAYLIGHT TIME (CDT)...SUBTRACT 5 HOURS FROM Z TIME      
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z THU 00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON 12Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+BERMUDA        34  X   X( X)   X( X)   X( X)   5( 5)  10(15)   2(17)
+BERMUDA        50  X   X( X)   X( X)   X( X)   X( X)   4( 4)   X( 4)
+BERMUDA        64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   X( 1)
+ 
+PONCE PR       34  X   1( 1)   2( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+VIEQUES PR     34  X   2( 2)   2( 4)   X( 4)   X( 4)   X( 4)   X( 4)
+ 
+SAINT THOMAS   34  1   2( 3)   3( 6)   X( 6)   X( 6)   X( 6)   X( 6)
+ 
+SAINT JOHN     34  1   3( 4)   2( 6)   1( 7)   X( 7)   X( 7)   X( 7)
+ 
+SAINT CROIX    34  1   1( 2)   3( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+SAINT MAARTEN  34  2  26(28)   3(31)   1(32)   X(32)   X(32)   X(32)
+SAINT MAARTEN  50  X   6( 6)   1( 7)   X( 7)   X( 7)   X( 7)   X( 7)
+ 
+SABA           34  1  10(11)   4(15)   X(15)   X(15)   X(15)   X(15)
+ 
+ST EUSTATIUS   34  2  14(16)   3(19)   X(19)   X(19)   X(19)   X(19)
+ 
+ST KITTS-NEVIS 34  4  14(18)   3(21)   X(21)   X(21)   X(21)   X(21)
+ST KITTS-NEVIS 50  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+BARBUDA        34 38  41(79)   1(80)   X(80)   X(80)   X(80)   X(80)
+BARBUDA        50  1  39(40)   X(40)   X(40)   X(40)   X(40)   X(40)
+BARBUDA        64  X   3( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+ANTIGUA        34 14  28(42)   X(42)   X(42)   X(42)   X(42)   X(42)
+ANTIGUA        50  X   5( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+GUADELOUPE     34 11  17(28)   1(29)   X(29)   X(29)   X(29)   X(29)
+GUADELOUPE     50  2   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+AVES           34  1   1( 2)   1( 3)   X( 3)   X( 3)   X( 3)   X( 3)
+ 
+DOMINICA       34  2   3( 5)   X( 5)   X( 5)   X( 5)   X( 5)   X( 5)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI</pre>]]></description>
+          
+      <pubDate>Thu, 09 Oct 2025 14:40:18 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/091440.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSAT5+shtml/091440.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Jerry Public Advisory Update Number </title>
+      <description>Issued at 320 PM AST Thu Oct 09 2025 <![CDATA[<pre>000
+WTNT65 KNHC 091920
+TCUAT5
+ 
+Tropical Storm Jerry Tropical Cyclone Update
+NWS National Hurricane Center Miami FL       AL102025
+320 PM AST Thu Oct 09 2025
+ 
+...TROPICAL STORM WARNING ISSUED FOR GUADELOUPE...
+ 
+The government of France has issued a Tropical Storm Warning for 
+Guadeloupe. 
+ 
+$$
+Forecaster Cangialosi</pre>]]></description>
+          
+      <pubDate>Thu, 09 Oct 2025 19:20:54 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCUAT5+shtml/091920.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCUAT5+shtml/091920.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Jerry Graphics</title>
+      <description>
+<![CDATA[
+<a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/191247.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102025_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Jerry 5-Day Uncertainty Track Image" width="500" height="400" /></a>
+<br />5-Day Uncertainty Track last updated Thu, 09 Oct 2025 17:46:55 GMT
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/191247.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/AT10/AL102025_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Jerry 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Thu, 09 Oct 2025 15:22:17 GMT
+]]>
+      </description>
+      <pubDate>Thu, 09 Oct 2025 19:12:47 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/191247.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_at5+shtml/191247.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+  </channel>
+</rss>
