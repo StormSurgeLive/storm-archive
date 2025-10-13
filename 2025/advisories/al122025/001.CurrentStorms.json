@@ -1,0 +1,56 @@
+{
+  "activeStorms": [
+    {
+      "id": "al122025",
+      "binNumber": "AT2",
+      "name": "Lorenzo",
+      "classification": "TS",
+      "intensity": "40",
+      "pressure": "1006",
+      "latitude": "14.2N",
+      "longitude": "40.3W",
+      "latitudeNumeric": 14.2,
+      "longitudeNumeric": -40.3,
+      "movementDir": 305,
+      "movementSpeed": 17,
+      "lastUpdate": "2025-10-13T09:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "001",
+        "issuance": "2025-10-13T09:00:00.000Z",
+        "fileUpdateTime": "2025-10-13T08:50:53.986Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPAT2.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "001",
+        "issuance": "2025-10-13T09:00:00.000Z",
+        "fileUpdateTime": "2025-10-13T08:50:14.181Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMAT2.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "001",
+        "issuance": "2025-10-13T09:00:00.000Z",
+        "fileUpdateTime": "2025-10-13T08:51:16.344Z",
+        "url": "https://www.nhc.noaa.gov/text/MIAPWSAT2.shtml"
+      },
+      "forecastDiscussion": null,
+      "forecastGraphics": {
+        "advNum": "001",
+        "issuance": "2025-10-13T09:00:00.000Z",
+        "fileUpdateTime": "2025-10-13T08:50:53.986Z",
+        "url": "https://www.nhc.noaa.gov/graphics_at2.shtml"
+      },
+      "forecastTrack": null,
+      "windWatchesWarnings": null,
+      "trackCone": null,
+      "initialWindExtent": null,
+      "forecastWindRadiiGIS": null,
+      "bestTrackGIS": null,
+      "earliestArrivalTimeTSWindsGIS": null,
+      "mostLikelyTimeTSWindsGIS": null,
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
