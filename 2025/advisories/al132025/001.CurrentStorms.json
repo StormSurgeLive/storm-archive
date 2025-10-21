@@ -1,0 +1,61 @@
+{
+  "activeStorms": [
+    {
+      "id": "al132025",
+      "binNumber": "AT3",
+      "name": "Melissa",
+      "classification": "TS",
+      "intensity": "45",
+      "pressure": "1003",
+      "latitude": "14.3N",
+      "longitude": "71.7W",
+      "latitudeNumeric": 14.3,
+      "longitudeNumeric": -71.7,
+      "movementDir": 280,
+      "movementSpeed": 14,
+      "lastUpdate": "2025-10-21T15:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "001",
+        "issuance": "2025-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2025-10-21T14:45:14.622Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPAT3.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "001",
+        "issuance": "2025-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2025-10-21T14:44:14.992Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMAT3.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "001",
+        "issuance": "2025-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2025-10-21T14:45:18.786Z",
+        "url": "https://www.nhc.noaa.gov/text/MIAPWSAT3.shtml"
+      },
+      "forecastDiscussion": {
+        "advNum": "001",
+        "issuance": "2025-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2025-10-21T14:45:49.610Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCDAT3.shtml"
+      },
+      "forecastGraphics": {
+        "advNum": "001",
+        "issuance": "2025-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2025-10-21T14:45:14.622Z",
+        "url": "https://www.nhc.noaa.gov/graphics_at3.shtml"
+      },
+      "forecastTrack": null,
+      "windWatchesWarnings": null,
+      "trackCone": null,
+      "initialWindExtent": null,
+      "forecastWindRadiiGIS": null,
+      "bestTrackGIS": null,
+      "earliestArrivalTimeTSWindsGIS": null,
+      "mostLikelyTimeTSWindsGIS": null,
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
