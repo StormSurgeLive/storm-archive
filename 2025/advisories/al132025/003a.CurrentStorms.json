@@ -1,0 +1,114 @@
+{
+  "activeStorms": [
+    {
+      "id": "al132025",
+      "binNumber": "AT3",
+      "name": "Melissa",
+      "classification": "TS",
+      "intensity": "45",
+      "pressure": "1003",
+      "latitude": "14.2N",
+      "longitude": "74.0W",
+      "latitudeNumeric": 14.2,
+      "longitudeNumeric": -74,
+      "movementDir": 280,
+      "movementSpeed": 12,
+      "lastUpdate": "2025-10-22T06:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "003a",
+        "issuance": "2025-10-22T06:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T05:49:23.421Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPAT3.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:30:58.518Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMAT3.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:31:31.260Z",
+        "url": "https://www.nhc.noaa.gov/text/MIAPWSAT3.shtml"
+      },
+      "forecastDiscussion": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:31:59.310Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCDAT3.shtml"
+      },
+      "forecastGraphics": {
+        "advNum": "003a",
+        "issuance": "2025-10-22T06:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T05:49:23.421Z",
+        "url": "https://www.nhc.noaa.gov/graphics_at3.shtml"
+      },
+      "forecastTrack": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:34:04.797Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al132025_5day_003.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_003adv_TRACK.kmz"
+      },
+      "windWatchesWarnings": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:34:07.295Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al132025_5day_003.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_003adv_WW.kmz"
+      },
+      "trackCone": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:33:56.643Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al132025_5day_003.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_003adv_CONE.kmz"
+      },
+      "initialWindExtent": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:34:42.860Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al132025_fcst_003.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_initialradii_003adv.kmz"
+      },
+      "forecastWindRadiiGIS": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:34:37.914Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al132025_fcst_003.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_forecastradii_003adv.kmz"
+      },
+      "bestTrackGIS": {
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:34:18.893Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/best_track/al132025_best_track.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al132025_best_track.kmz"
+      },
+      "earliestArrivalTimeTSWindsGIS": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:33:59.066Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_003adv_earliest_reasonable_toa_34.kmz"
+      },
+      "mostLikelyTimeTSWindsGIS": {
+        "advNum": "003",
+        "issuance": "2025-10-22T03:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T02:34:01.377Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL132025_003adv_most_likely_toa_34.kmz"
+      },
+      "windSpeedProbabilitiesGIS": {
+        "issuance": "2025-10-22T00:00:00.000Z",
+        "fileUpdateTime": "2025-10-22T03:21:57.645Z",
+        "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2025102200_wsp_120hr5km.zip",
+        "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2025102200_wsp_120hrhalfDeg.zip",
+        "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2025102200_wsp34knt120hr_5km.kmz",
+        "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2025102200_wsp50knt120hr_5km.kmz",
+        "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2025102200_wsp64knt120hr_5km.kmz"
+      },
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
