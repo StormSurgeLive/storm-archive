@@ -1,0 +1,137 @@
+000
+WTNT33 KNHC 241450
+TCPAT3
+ 
+BULLETIN
+Tropical Storm Melissa Advisory Number  13
+NWS National Hurricane Center Miami FL       AL132025
+1100 AM EDT Fri Oct 24 2025
+ 
+...AIRCRAFT DATA SUGGEST THAT MELISSA COULD BE REFORMING TO THE
+EAST...
+...LIFE-THREATENING AND CATASTROPHIC FLASH FLOODING AND LANDSLIDES
+EXPECTED IN PORTIONS OF SOUTHERN HISPANIOLA AND JAMAICA THROUGH THE
+WEEKEND...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...15.7N 74.6W
+ABOUT 215 MI...345 KM SE OF KINGSTON JAMAICA
+ABOUT 250 MI...405 KM SW OF PORT AU PRINCE HAITI
+MAXIMUM SUSTAINED WINDS...45 MPH...75 KM/H
+PRESENT MOVEMENT...ESE OR 105 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Southwestern peninsula of Haiti from the border with the
+Dominican Republic to Port-Au-Prince
+* Jamaica
+ 
+A Tropical Storm Warning in effect for...
+* Southwestern peninsula of Haiti from the border with the
+Dominican Republic to Port-Au-Prince
+* Jamaica
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours before
+the anticipated first occurrence of tropical-storm-force winds,
+conditions that make outside preparations difficult or dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+Interests elsewhere in Haiti, the Dominican Republic, and eastern
+Cuba should monitor the progress of Melissa.  A hurricane warning
+may be required for Jamaica later today.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Tropical Storm Melissa was 
+located by Air Force Reserve reconnaissance aircraft near latitude 
+15.7 North, longitude 74.6 West. Melissa may have reformed recently, 
+with an estimated motion toward the east-southeast near 2 mph     
+(4 km/h). A slow motion turning to the northeast and then north is 
+expected to begin later today and tonight. A westward turn is then 
+forecast to begin on Saturday with that motion continuing through 
+Monday. On the forecast track, the center of Melissa is expected to 
+move near or just south of Jamaica early next week.
+ 
+Maximum sustained winds are near 45 mph (75 km/h) with higher gusts. 
+Gradual strengthening is forecast today, followed by rapid 
+intensification this weekend. Melissa is forecast to become a 
+hurricane by Saturday and a major hurricane by Sunday.
+ 
+Tropical-storm-force winds extend outward up to 140 miles (220 km)
+from the center.
+ 
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Melissa can be found in the Tropical 
+Cyclone Discussion under AWIPS header MIATCDAT3 and WMO header 
+WTNT43 KNHC.
+ 
+WIND: Hurricane conditions are possible within the watch area in
+Haiti later this weekend and Jamaica beginning late this weekend or 
+early next week. Tropical storm conditions are expected to begin 
+in Haiti tonight or Saturday and in Jamaica later this weekend.
+ 
+RAINFALL: Melissa is expected to bring 10 to 20 inches of rain to 
+portions of southwestern Haiti and eastern Jamaica through Monday, 
+with locally higher amounts possible. Rainfall amounts of 6 to 12 
+inches are expected across the rest of southern Haiti and the 
+southern Dominican Republic. Additional heavy rainfall is likely 
+beyond Monday. However, uncertainty in Melissa’s track and forward 
+speed reduces confidence in exact totals. Significant, 
+life-threatening flash flooding and numerous landslides are expected 
+in the southern Dominican Republic and eastern Jamaica, with 
+catastrophic flash flooding and landslides anticipated in southern 
+Haiti.
+
+Across portions of northern Dominican Republic, northern Haiti, and 
+western Jamaica, 3 to 5 inches of rain is expected through Monday. 
+Flash and urban flooding will be possible. Flooding impacts will 
+likely increase across western Jamaica next week.
+ 
+For a complete depiction of forecast rainfall associated with
+Melissa, please see the National Weather Service Storm Total
+Rainfall Graphic, available at
+hurricanes.gov/graphics_at3.shtml?rainqpf
+ 
+STORM SURGE: Minor coastal flooding is likely along the coast of
+Jamaica by Saturday in areas of onshore winds as tropical storm
+conditions begin to reach the area.  However, there is a potential
+risk of a more significant storm surge, especially along the south
+coast of Jamaica, early next week.  Due to Melissa's slow motion and
+large forecast uncertainty, it is still too soon to know exactly how
+high the storm surge could reach.
+ 
+SURF: Swells generated by Melissa are expected to affect portions
+of Hispaniola, Jamaica, and eastern Cuba during the next several
+days.  Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 200 PM EDT.
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Papin
+  
