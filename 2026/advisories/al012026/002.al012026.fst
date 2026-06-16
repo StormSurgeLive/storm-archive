@@ -1,0 +1,144 @@
+000
+WTNT31 KNHC 162050
+TCPAT1
+ 
+BULLETIN
+Potential Tropical Cyclone One Advisory Number   2
+NWS National Hurricane Center Miami FL       AL012026
+400 PM CDT Tue Jun 16 2026
+ 
+...DANGEROUS FLASH FLOODING CONTINUES OVER PORTIONS OF TEXAS AND
+LOUISIANA FROM POTENTIAL TROPICAL CYCLONE ONE....
+...TROPICAL STORM WARNING ISSUED FOR PORTIONS OF THE LOUISIANA 
+COAST...
+ 
+ 
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...27.3N 97.6W
+ABOUT 35 MI...60 KM SSW OF CORPUS CHRISTI TEXAS
+ABOUT 330 MI...530 KM SW OF LAKE CHARLES LOUISIANA
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NE OR 45 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+A Tropical Storm Warning is issued for the coast of Louisiana from 
+Sabine Pass to Morgan City.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+
+A Tropical Storm Warning is in effect for...
+* Sabine Pass to Morgan City
+ 
+A Tropical Storm Watch is in effect for...
+* Sargent to Sabine Pass
+
+A Tropical Storm Warning means that tropical storm conditions are 
+expected within the warning area, in this case within 24 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, in this case within 12-24 hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 PM CDT (2100 UTC), the disturbance was centered near latitude
+27.3 North, longitude 97.6 West. The system is moving toward the
+northeast near 6 mph (9 km/h), and this general motion with an
+increase in forward speed is anticipated over the next couple of
+days.  The disturbance should move offshore the Texas coast tonight, 
+move roughly parallel to the upper Texas coast on Wednesday and 
+move back inland in extreme eastern Texas or southwestern Louisiana 
+late Wednesday or early Thursday.
+ 
+Maximum sustained winds remain near 30 mph (45 km/h) with higher
+gusts. The disturbance is forecast to gradually strengthen and
+could become a tropical storm early on Wednesday.  Weakening is
+anticipated on Thursday after the system moves back over land.
+* Formation chance through 48 hours...high...70 percent.
+* Formation chance through 7 days...high...70 percent.
+ 
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Potential Tropical Cyclone One can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT1 and WMO
+header WTNT41 KNHC.
+ 
+RAINFALL: Potential Tropical Cyclone One is expected to produce 
+rainfall totals of 5 to 10 inches, with isolated higher totals near 
+20 inches, through Thursday from the Mid and Upper Texas coast 
+east-northeast into southern and central portions of Louisiana, 
+Mississippi, and Alabama, along with western portions of Georgia and 
+the Florida Panhandle. This could generate dangerous to 
+life-threatening flash flooding.
+ 
+For a complete depiction of forecast rainfall associated with
+Potential Tropical Cyclone One, please see the National Weather
+Service Storm Total Rainfall Graphic available at
+hurricanes.gov/graphics_at1.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at1.shtml?ero
+ 
+For a list of rainfall observations (and wind reports) associated
+this potential tropical cyclone, see the companion storm summary at
+WBCSCCNS1 with the WMO header ACUS44 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc1.html
+ 
+WIND:  Tropical storm conditions are possible within the watch
+area beginning early Wednesday and within the warning area on 
+Wednesday morning.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline.  The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Port Bolivar, TX to Morgan City, LA...2-4 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle,
+and can vary greatly over short distances.  For information
+specific to your area, please see products issued by your local
+National Weather Service forecast office.
+ 
+For a complete depiction of areas at risk of storm surge
+inundation, please see the National Weather Service Peak
+Storm Surge Graphic, available at
+hurricanes.gov/graphics_at1.shtml?peakSurge.
+ 
+SURF:  Swells generated by the Potential Tropical Cyclone are
+likely to cause life-threatening surf and rip current conditions
+along the northwestern Gulf Coast for the next couple of days.
+Please consult products from your local weather office.
+ 
+A depiction of rip current risk for the United States can be found
+at:
+hurricanes.gov/graphics_at1.shtml?ripCurrents
+ 
+TORNADO: A tornado or two is possible tonight and tomorrow from the
+Upper Texas coast across southern Louisiana, Mississippi, Alabama
+and the Florida Panhandle.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Blake
+  
