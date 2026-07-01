@@ -1,0 +1,100 @@
+{
+  "activeStorms": [
+    {
+      "id": "ep042026",
+      "binNumber": "EP4",
+      "name": "Four-E",
+      "classification": "TD",
+      "intensity": "30",
+      "pressure": "1005",
+      "latitude": "14.5N",
+      "longitude": "126.9W",
+      "latitudeNumeric": 14.5,
+      "longitudeNumeric": -126.9,
+      "movementDir": 345,
+      "movementSpeed": 7,
+      "lastUpdate": "2026-07-01T09:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:35:28.386Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPEP4.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:33:56.845Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMEP4.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:35:28.389Z",
+        "url": "https://www.nhc.noaa.gov/text/MIAPWSEP4.shtml"
+      },
+      "forecastDiscussion": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:36:28.465Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCDEP4.shtml"
+      },
+      "forecastGraphics": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:35:28.386Z",
+        "url": "https://www.nhc.noaa.gov/graphics_ep4.shtml"
+      },
+      "forecastTrack": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:17.990Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep042026_5day_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP042026_001adv_TRACK.kmz"
+      },
+      "windWatchesWarnings": null,
+      "trackCone": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:12.298Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep042026_5day_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP042026_001adv_CONE.kmz"
+      },
+      "initialWindExtent": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:47.410Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep042026_fcst_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP042026_initialradii_001adv.kmz"
+      },
+      "forecastWindRadiiGIS": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:43.617Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep042026_fcst_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP042026_forecastradii_001adv.kmz"
+      },
+      "bestTrackGIS": {
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:27.660Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep042026_best_track.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep042026_best_track.kmz"
+      },
+      "earliestArrivalTimeTSWindsGIS": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:14.230Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP042026_001adv_earliest_reasonable_toa_34.kmz"
+      },
+      "mostLikelyTimeTSWindsGIS": {
+        "advNum": "001",
+        "issuance": "2026-07-01T09:00:00.000Z",
+        "fileUpdateTime": "2026-07-01T08:37:16.110Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP042026_001adv_most_likely_toa_34.kmz"
+      },
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
