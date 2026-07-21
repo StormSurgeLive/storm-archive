@@ -1,0 +1,143 @@
+640 
+WTNT32 KNHC 212053
+TCPAT2
+ 
+BULLETIN
+Tropical Storm Bertha Advisory Number  10
+NWS National Hurricane Center Miami FL       AL022026
+400 PM CDT Tue Jul 21 2026
+ 
+...TROPICAL STORM CONDITIONS SPREADING WESTWARD ALONG COASTAL
+PORTIONS OF THE FLORIDA PANHANDLE...
+...TROPICAL STORM WATCHES AND WARNINGS EXTENDED WESTWARD ALONG THE
+LOUISIANA COAST...
+ 
+ 
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...29.4N 87.2W
+ABOUT 105 MI...170 KM WSW OF PANAMA CITY FLORIDA
+ABOUT 105 MI...170 KM SSE OF MOBILE ALABAMA
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...NW OR 305 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Tropical Storm Warning has been extended westward to Morgan
+City, Louisiana.
+
+The Tropical Storm Watch has been upgraded to a Tropical Storm 
+Warning for Metropolitan New Orleans and Lake Pontchartrain.
+ 
+The Tropical Storm Watch has been extended westward to Cameron,
+Louisiana.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Warning is in effect for...
+* Bay/Gulf County Line in Florida to Morgan City, Louisiana
+* Metropolitan New Orleans and Lake Pontchartrain
+ 
+A Tropical Storm Watch is in effect for...
+* West of Morgan City, Louisiana, to Cameron, Louisiana
+* Lake Maurepas
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, in this case in the next 24 to 48
+hours.
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 PM CDT (2100 UTC), the center of Tropical Storm Bertha was 
+located near latitude 29.4 North, longitude 87.2 West. Bertha is 
+moving toward the northwest near 6 mph (9 km/h). A turn toward the 
+west-northwest and west is expected tonight, with a continued 
+westward motion forecast Wednesday through Friday. On the forecast 
+track, Bertha will move near or along the northern Gulf Coast during 
+the next couple of days or so.
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher gusts. 
+Little change in strength is expected tonight, and gradual weakening 
+is forecast Wednesday through Friday.
+ 
+Tropical-storm-force winds extend outward up to 115 miles (185 km) 
+from the center. A National Ocean Service station in Panama City 
+Beach, Florida, reported sustained winds of 45 mph (72 km/h) and a 
+gust of 57 mph (92 km/h) during the past few hours.
+ 
+The estimated minimum central pressure is 995 mb (29.39 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Tropical Storm Bertha can be found in the Tropical
+Cyclone Discussion under AWIPS header MIATCDAT2 and WMO header
+WTNT42 KNHC.
+ 
+WIND:  Tropical storm conditions will continue spreading across
+portions of the northern Gulf Coast within the warning area tonight
+through Wednesday. Tropical storm conditions are possible within
+the watch area in Louisiana by Wednesday night.
+ 
+STORM SURGE:  The combination of storm surge and the tide will
+cause normally dry areas near the immediate coast to be flooded by
+rising waters moving inland from the shoreline. The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Mouth of the Mississippi River, LA to MS/AL Border...2-4 ft
+Cameron, LA to Mouth of the Mississippi River, LA...1-3 ft
+MS/AL Border to Aucilla River, FL...1-3 ft
+Lake Pontchartrain...1-3 ft
+ 
+The deepest water will occur along the immediate coast.
+Surge-related flooding depends on the relative timing of the surge
+and the tidal cycle, and can vary greatly over short distances. For
+information specific to your area, please see products issued by
+your local National Weather Service forecast office.
+ 
+For a complete depiction of areas at risk of storm surge inundation,
+please see the National Weather Service Peak Storm Surge Graphic,
+available at hurricanes.gov/graphics_at2.shtml?peakSurge.
+ 
+RAINFALL: Bertha is expected to produce total rainfall amounts of 2
+to 4 inches with isolated higher totals around 6 inches through
+Thursday along the central Gulf Coast from western Florida into
+southern Louisiana. This rainfall may produce isolated flash
+flooding, especially in urban areas.
+ 
+For a complete depiction of forecast rainfall associated with
+Bertha, please see the National Weather Service Storm Total Rainfall
+Graphic available at hurricanes.gov/graphics_at2.shtml?rainqpf and
+the Flash Flood Risk graphic at
+hurricanes.gov/graphics_at2.shtml?ero.
+ 
+SURF: Swells generated by Bertha will continue spreading westward
+along the northern Gulf Coast during the next few days. These swells
+are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+ 
+A depiction of rip current risk for the United States can be found
+at: hurricanes.gov/graphics_at2.shtml?ripCurrents
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 700 PM CDT.
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Reinhart
+  
