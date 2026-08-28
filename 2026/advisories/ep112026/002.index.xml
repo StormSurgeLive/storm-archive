@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:gml="http://www.opengis.net/gml"
+  xmlns:nhc="https://www.nhc.noaa.gov">
+  <channel>
+    <pubDate>Fri, 28 Aug 2026 03:06:11 GMT</pubDate>
+    <title>NHC Eastern North Pacific</title>
+    <description>Active tropical cyclones in the Eastern North Pacific</description>
+    <link>https://www.nhc.noaa.gov/</link>
+    <copyright>none</copyright>
+    <managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+    <language>en-us</language>
+    <webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+    <image>
+      <url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+      <link>https://www.nhc.noaa.gov/</link>
+      <title>NHC Eastern North Pacific</title>
+      <description>NOAA logo</description>
+      <width>95</width>
+      <height>45</height>
+    </image>
+    <item>
+      <title>Eastern North Pacific Tropical Weather Outlook</title>
+      <description>
+      <![CDATA[831 <br />ABPZ20 KNHC 272336<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 PM PDT Thu Aug 27 2026<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on newly formed <br />Tropical Storm Karina, located well south of the southern tip of the <br />Baja California Peninsula, as well as newly formed Tropical Storm <br />Lowell, located well west-southwest of the southern tip of the Baja <br />California Peninsula, and on Tropical Storm Lala, located several <br />hundred miles north of Kure Atoll.<br /><br />Well Offshore of Southwestern Mexico:<br />An area of low pressure is forecast to form this weekend well to the <br />south of southwestern Mexico. Environmental conditions appear <br />favorable for gradual development of this system, and a tropical <br />depression is likely to form early next week while it moves <br />west-northwestward to northwestward at 10 to 15 mph. <br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...high...80 percent.<br /><br />Central Pacific:<br />An area of low pressure could form well south or southwest of the <br />Hawaiian Islands over the weekend or early next week. Some gradual <br />development is possible thereafter while the system moves slowly <br />west-northwestward, well offshore of the Hawaiian Islands.<br />* Formation chance through 48 hours...low...near 0 percent.<br />* Formation chance through 7 days...low...30 percent.<br /><br />&&<br />Public Advisories on Tropical Storm Karina are issued under WMO <br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1.<br />Forecast/Advisories on Tropical Storm Karina are issued under WMO <br />header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />Public Advisories on Tropical Storm Lowell are issued under WMO <br />header WTPZ32 KNHC and under AWIPS header MIATCPEP2.<br />Forecast/Advisories on Tropical Storm Lowell are issued under WMO <br />header WTPZ22 KNHC and under AWIPS header MIATCMEP2.<br /><br />$$<br />Forecaster Zelinsky/Evans/Pierce]]>
+      </description>
+      <pubDate>Thu, 27 Aug 2026 23:36:45 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/gtwo.php?basin=epac</link>
+      <guid>https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;202608272336</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Tropical Storm Karina (EP1/EP112026)</title>
+      <guid isPermaLink="false">summary-ep112026-202608280245</guid>
+      <pubDate>Fri, 28 Aug 2026 02:45:54 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/280245.shtml</link>
+      <description>...TROPICAL STORM KARINA HAS STRENGTHENED A BIT... ...CONTINUES MOVING NORTHWESTWARD WELL OFFSHORE THE COAST OF SOUTHWEST MEXICO... As of 8:00 PM MST Thu Aug 27 the center of Karina was located near 11.9, -112.7 with movement NW at 13 mph. The minimum central pressure was 1000 mb with maximum sustained winds of about 50 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>11.9, -112.7</nhc:center>
+        <nhc:type>Tropical Storm</nhc:type>
+        <nhc:name>Karina</nhc:name>
+        <nhc:wallet>EP1</nhc:wallet>
+        <nhc:atcf>EP112026</nhc:atcf>
+        <nhc:datetime>8:00 PM MST Thu Aug 27</nhc:datetime>
+        <nhc:movement>NW at 13 mph</nhc:movement>
+        <nhc:pressure>1000 mb</nhc:pressure>
+        <nhc:wind>50 mph</nhc:wind>
+        <nhc:headline>...TROPICAL STORM KARINA HAS STRENGTHENED A BIT... ...CONTINUES MOVING NORTHWESTWARD WELL OFFSHORE THE COAST OF SOUTHWEST MEXICO...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Tropical Storm Karina Public Advisory Number 2</title>
+      <description>Issued at 800 PM MST Thu Aug 27 2026 <![CDATA[<pre>670 
+WTPZ31 KNHC 280245
+TCPEP1
+ 
+BULLETIN
+Tropical Storm Karina Advisory Number   2
+NWS National Hurricane Center Miami FL       EP112026
+800 PM MST Thu Aug 27 2026
+ 
+...TROPICAL STORM KARINA HAS STRENGTHENED A BIT...
+...CONTINUES MOVING NORTHWESTWARD WELL OFFSHORE THE COAST OF
+SOUTHWEST MEXICO...
+ 
+ 
+SUMMARY OF 800 PM MST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...11.9N 112.7W
+ABOUT 780 MI...1260 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM MST (0300 UTC), the center of Tropical Storm Karina was
+located near latitude 11.9 North, longitude 112.7 West. Karina is
+moving toward the west-northwest near 13 mph (20 km/h) and this
+general motion is expected to continue over the next several days.
+ 
+Maximum sustained winds have increased to near 50 mph (85 km/h) 
+with higher gusts. Strengthening is expected to continue as Karina 
+is forecast to become a hurricane over the weekend.
+ 
+Tropical-storm-force winds extend outward up to 205 miles (335 km)
+from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF:  Swells generated by Tropical Storm Karina will begin to
+affect portions of the coast of southwest Mexico and the Baja
+California Peninsula this weekend.  These swells are likely to cause
+life-threatening surf and rip current conditions.  Please consult
+products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 200 AM MST.
+ 
+$$
+Forecaster Pierce/Zelinsky</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:45:54 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/280245.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/280245.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Karina Forecast Advisory Number 2</title>
+      <description>Issued at 0300 UTC FRI AUG 28 2026 <![CDATA[<pre>281 
+WTPZ21 KNHC 280242
+TCMEP1
+ 
+TROPICAL STORM KARINA FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP112026
+0300 UTC FRI AUG 28 2026
+ 
+TROPICAL STORM CENTER LOCATED NEAR 11.9N 112.7W AT 28/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 310 DEGREES AT  11 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1000 MB
+MAX SUSTAINED WINDS  45 KT WITH GUSTS TO  55 KT.
+34 KT.......180NE  50SE   0SW 130NW.
+4 M SEAS....180NE 180SE 120SW 150NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 11.9N 112.7W AT 28/0300Z
+AT 28/0000Z CENTER WAS LOCATED NEAR 11.6N 112.3W
+ 
+FORECAST VALID 28/1200Z 12.9N 114.1W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 40NE   0SE   0SW   0NW.
+34 KT...190NE  80SE  30SW 140NW.
+ 
+FORECAST VALID 29/0000Z 14.3N 115.5W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 15NE   0SE   0SW   0NW.
+50 KT... 40NE  30SE   0SW  30NW.
+34 KT...210NE 110SE  40SW 150NW.
+ 
+FORECAST VALID 29/1200Z 15.7N 117.2W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 20NE   0SE   0SW  10NW.
+50 KT... 50NE  30SE  20SW  30NW.
+34 KT...210NE 110SE  40SW 150NW.
+ 
+FORECAST VALID 30/0000Z 17.0N 118.8W
+MAX WIND  85 KT...GUSTS 105 KT.
+64 KT... 30NE  15SE  10SW  20NW.
+50 KT... 50NE  30SE  20SW  40NW.
+34 KT...180NE 110SE  60SW 140NW.
+ 
+FORECAST VALID 30/1200Z 17.8N 120.5W
+MAX WIND  95 KT...GUSTS 115 KT.
+64 KT... 20NE  15SE  15SW  20NW.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT...150NE 110SE  60SW 130NW.
+ 
+FORECAST VALID 31/0000Z 18.3N 122.3W
+MAX WIND 100 KT...GUSTS 120 KT.
+64 KT... 30NE  20SE  20SW  30NW.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT...150NE 100SE  70SW 120NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 01/0000Z 18.8N 125.4W
+MAX WIND  90 KT...GUSTS 110 KT.
+50 KT... 60NE  50SE  40SW  50NW.
+34 KT...120NE 100SE  90SW 120NW.
+ 
+OUTLOOK VALID 02/0000Z 20.2N 127.9W
+MAX WIND  80 KT...GUSTS 100 KT.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT...110NE 100SE  90SW 100NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 11.9N 112.7W
+ 
+NEXT ADVISORY AT 28/0900Z
+ 
+$$
+FORECASTER PIERCE/ZELINSKY</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:42:48 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/280242.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/280242.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Karina Forecast Discussion Number 2</title>
+      <description>Issued at 800 PM MST Thu Aug 27 2026 <![CDATA[<pre>000
+WTPZ41 KNHC 280244
+TCDEP1
+ 
+Tropical Storm Karina Discussion Number   2
+NWS National Hurricane Center Miami FL       EP112026
+800 PM MST Thu Aug 27 2026
+
+Tropical Storm Karina has gradually strengthened since the last 
+advisory, indicated by the most recent subjective Dvorak estimate of 
+T3.0/45 kt from TAFB, and the objective estimates from UW-CIMSS 
+sitting around 35 to 45 kt. Latest satellite imagery continues to 
+display relatively well-organized convection surrounding the center 
+of Karina, with a slightly elongated circulation in place. Given the 
+above, the NHC initial intensity has been increased to 45 kt.
+ 
+Karina's initial motion estimate has altered a bit from the previous 
+advisory as well, now set at 315/11 kt. This heading is forecast to 
+prevail through the next several days as mid- to upper-level ridging 
+centered over much of the southwestern US will dictate Karina's 
+motion prior to the intervention of an upper-level trough by early 
+next week. Because of this interaction, and as showcased by model 
+guidance, particularly GDMI and HCCA, Karina's track will begin to 
+steer more westward. The reliable guidance remains in good 
+agreement on the track of Karina, with confidence decreasing as 
+model spread increases toward the latter end of the forecast early 
+next week.
+ 
+Guidance provided by the ECMWF SHIPS indicates that Karina remains 
+in a favorable environment for steady intensification over the next 
+several days as Karina is forecast to move through a moisture-laden 
+area with low shear. SHIPS-RII consensus guidance suggests a 
+nearly 60 percent chance of a 55 kt increase in winds over the next 
+48 hours; a 10 percent increase from the previous advisory. In 
+fact, the latest guidance from Google DeepMind indicates a 60 
+percent chance that Karina becomes a major hurricane by early next 
+week. However, it is important to note that given Karina currently 
+lacks a tight inner core, the NHC forecast reflects a slower 
+intensification rate. Conversely, if an inner core is established 
+sooner, Karina could intensify much quicker than forecast. Karina 
+is forecast to transition into a more stable environment and begin 
+weakening by day 5.
+
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  28/0300Z 11.9N 112.7W   45 KT  50 MPH
+ 12H  28/1200Z 12.9N 114.1W   55 KT  65 MPH
+ 24H  29/0000Z 14.3N 115.5W   65 KT  75 MPH
+ 36H  29/1200Z 15.7N 117.2W   75 KT  85 MPH
+ 48H  30/0000Z 17.0N 118.8W   85 KT 100 MPH
+ 60H  30/1200Z 17.8N 120.5W   95 KT 110 MPH
+ 72H  31/0000Z 18.3N 122.3W  100 KT 115 MPH
+ 96H  01/0000Z 18.8N 125.4W   90 KT 105 MPH
+120H  02/0000Z 20.2N 127.9W   80 KT  90 MPH
+ 
+$$
+Forecaster Pierce/Zelinsky</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:44:19 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/280244.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/280244.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Karina Wind Speed Probabilities Number 2</title>
+      <description>Issued at 0300 UTC FRI AUG 28 2026 <![CDATA[<pre>000
+FOPZ11 KNHC 280243
+PWSEP1
+                                                                    
+TROPICAL STORM KARINA WIND SPEED PROBABILITIES NUMBER   2           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP112026               
+0300 UTC FRI AUG 28 2026                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM KARINA WAS LOCATED NEAR       
+LATITUDE 11.9 NORTH...LONGITUDE 112.7 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 45 KTS...50 MPH...85 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z FRI 12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE 00Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ISLA CLARION   34  X   1( 1)   1( 2)   X( 2)   1( 3)   X( 3)   X( 3)
+ 
+15N 115W       34 25  68(93)   3(96)   X(96)   X(96)   X(96)   X(96)
+15N 115W       50  X  30(30)  10(40)   X(40)   X(40)   X(40)   X(40)
+15N 115W       64  X   6( 6)   3( 9)   X( 9)   X( 9)   X( 9)   X( 9)
+ 
+15N 120W       34  X   X( X)   1( 1)   2( 3)   1( 4)   X( 4)   1( 5)
+ 
+20N 120W       34  X   X( X)   X( X)   4( 4)  25(29)   1(30)   X(30)
+20N 120W       50  X   X( X)   X( X)   X( X)   4( 4)   X( 4)   X( 4)
+20N 120W       64  X   X( X)   X( X)   X( X)   1( 1)   X( 1)   X( 1)
+ 
+15N 125W       34  X   X( X)   X( X)   X( X)   1( 1)   2( 3)   1( 4)
+ 
+20N 125W       34  X   X( X)   X( X)   X( X)  10(10)  54(64)   6(70)
+20N 125W       50  X   X( X)   X( X)   X( X)   1( 1)  28(29)   5(34)
+20N 125W       64  X   X( X)   X( X)   X( X)   1( 1)  16(17)   3(20)
+ 
+20N 130W       34  X   X( X)   X( X)   X( X)   X( X)   4( 4)  26(30)
+20N 130W       50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   9(10)
+20N 130W       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+25N 130W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   5( 5)
+ 
+$$                                                                  
+FORECASTER PIERCE/ZELINSKY</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:43:18 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/280243.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/280243.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Karina Graphics</title>
+      <description>
+<![CDATA[
+
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/024706.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP11/EP112026_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Karina 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Fri, 28 Aug 2026 02:47:06 GMT
+]]>
+      </description>
+      <pubDate>Fri, 28 Aug 2026 02:47:06 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/024706.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/024706.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Tropical Storm Lowell (EP2/EP122026)</title>
+      <guid isPermaLink="false">summary-ep122026-202608280247</guid>
+      <pubDate>Fri, 28 Aug 2026 02:47:50 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/280247.shtml</link>
+      <description>...LOWELL DRIFTING EAST-NORTHEASTWARD WITH LITTLE CHANGE IN STRENGTH... As of 5:00 PM HST Thu Aug 27 the center of Lowell was located near 11.4, -133.5 with movement ENE at 5 mph. The minimum central pressure was 1004 mb with maximum sustained winds of about 40 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>11.4, -133.5</nhc:center>
+        <nhc:type>Tropical Storm</nhc:type>
+        <nhc:name>Lowell</nhc:name>
+        <nhc:wallet>EP2</nhc:wallet>
+        <nhc:atcf>EP122026</nhc:atcf>
+        <nhc:datetime>5:00 PM HST Thu Aug 27</nhc:datetime>
+        <nhc:movement>ENE at 5 mph</nhc:movement>
+        <nhc:pressure>1004 mb</nhc:pressure>
+        <nhc:wind>40 mph</nhc:wind>
+        <nhc:headline>...LOWELL DRIFTING EAST-NORTHEASTWARD WITH LITTLE CHANGE IN STRENGTH...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Tropical Storm Lowell Public Advisory Number 2</title>
+      <description>Issued at 500 PM HST Thu Aug 27 2026 <![CDATA[<pre>000
+WTPZ32 KNHC 280247
+TCPEP2
+ 
+BULLETIN
+Tropical Storm Lowell Advisory Number   2
+NWS National Hurricane Center Miami FL       EP122026
+500 PM HST Thu Aug 27 2026
+ 
+...LOWELL DRIFTING EAST-NORTHEASTWARD WITH LITTLE CHANGE IN
+STRENGTH...
+ 
+ 
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...11.4N 133.5W
+ABOUT 1745 MI...2805 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+ABOUT 1545 MI...2485 KM ESE OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...ENE OR 70 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM HST (0300 UTC), the center of Tropical Storm Lowell was
+located near latitude 11.4 North, longitude 133.5 West. Lowell is
+moving toward the east-northeast near 5 mph (7 km/h). A gradual
+turn toward the north is expected by Friday, with a westward motion
+expected by Saturday.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Strengthening is likely during the next several days, and Lowell is
+forecast to become a hurricane on Sunday.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM HST.
+ 
+$$
+Forecaster Hagen</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:47:50 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/280247.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/280247.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Lowell Forecast Advisory Number 2</title>
+      <description>Issued at 0300 UTC FRI AUG 28 2026 <![CDATA[<pre>000
+WTPZ22 KNHC 280247
+TCMEP2
+ 
+TROPICAL STORM LOWELL FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122026
+0300 UTC FRI AUG 28 2026
+ 
+TROPICAL STORM CENTER LOCATED NEAR 11.4N 133.5W AT 28/0300Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE EAST-NORTHEAST OR  70 DEGREES AT   4 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1004 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT.......  0NE  70SE  60SW  50NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 11.4N 133.5W AT 28/0300Z
+AT 28/0000Z CENTER WAS LOCATED NEAR 11.3N 133.6W
+ 
+FORECAST VALID 28/1200Z 11.8N 133.0W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT...  0NE  70SE  60SW  50NW.
+ 
+FORECAST VALID 29/0000Z 12.3N 133.2W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 30NE  60SE  60SW  50NW.
+ 
+FORECAST VALID 29/1200Z 12.5N 134.3W
+MAX WIND  50 KT...GUSTS  60 KT.
+50 KT... 20NE  20SE   0SW   0NW.
+34 KT... 40NE  60SE  60SW  50NW.
+ 
+FORECAST VALID 30/0000Z 12.7N 135.8W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 20NE  20SE   0SW  20NW.
+34 KT... 40NE  60SE  60SW  50NW.
+ 
+FORECAST VALID 30/1200Z 12.9N 137.5W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 20NE  20SE  20SW  20NW.
+34 KT... 50NE  60SE  60SW  50NW.
+ 
+FORECAST VALID 31/0000Z 13.2N 139.3W
+MAX WIND  70 KT...GUSTS  85 KT.
+64 KT... 15NE   0SE   0SW  15NW.
+50 KT... 30NE  20SE  20SW  30NW.
+34 KT... 60NE  60SE  60SW  60NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 01/0000Z 13.5N 142.8W
+MAX WIND  80 KT...GUSTS 100 KT.
+50 KT... 40NE  30SE  30SW  30NW.
+34 KT... 80NE  70SE  70SW  80NW.
+ 
+OUTLOOK VALID 02/0000Z 13.9N 146.0W
+MAX WIND  95 KT...GUSTS 115 KT.
+50 KT... 40NE  30SE  30SW  40NW.
+34 KT... 90NE  70SE  70SW  90NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 11.4N 133.5W
+ 
+NEXT ADVISORY AT 28/0900Z
+ 
+$$
+FORECASTER HAGEN</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:47:20 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/280247.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/280247.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Lowell Forecast Discussion Number 2</title>
+      <description>Issued at 500 PM HST Thu Aug 27 2026 <![CDATA[<pre>335 
+WTPZ42 KNHC 280248
+TCDEP2
+ 
+Tropical Storm Lowell Discussion Number   2
+NWS National Hurricane Center Miami FL       EP122026
+500 PM HST Thu Aug 27 2026
+ 
+Satellite imagery shows a large area of deep convection that has
+been persisting with Lowell, with a ball of deep convection near and
+over the center, and a curved band noted as well.  A 27/2204Z AMSR-2
+pass also shows the same curved banding pattern.  Earlier
+scatterometer data showed that the center was slightly elongated,
+with tropical-storm-force winds confined to the southern semicircle
+and a radius of maximum wind (RMW) of about 50 n mi.  The latest
+TAFB Dvorak classification is T2.5/35 kt and objective estimates
+have been ranging from 30-42 kt.  The initial intensity is held at
+35 kt for this advisory, but given the impressive banding and
+maintenance of deep convection, this estimate could be slightly
+conservative.
+ 
+The initial motion estimate remains slowly east-northeastward, or 70
+degrees at 4 kt.  A slow counterclockwise turn toward the north and
+then the west is expected over the next 36 h as ridging builds in
+to the northeast and north.  A generally westward to
+west-northwestward motion should then continue for the rest of the
+forecast period.  There remains a ton of spread in the forward speed
+from 72 to 120 h, which could be related to Karina's location and
+size, relative to Lowell's.  The NHC track is a little faster toward
+the west than the previous forecast beyond 36 hours, but not nearly
+as fast as the HCCA and GDMI.
+ 
+Lowell will be over relatively favorable environmental conditions
+for the next 5 days, with warm sea-surface temperatures, light to
+moderate easterly wind shear and relatively moist air.  Despite
+these favorable conditions, it is a bit perplexing that the models
+are so slow to strengthen Lowell to a hurricane.  Perhaps the slow
+strengthening at first could be due to the large RMW observed on
+the previous ASCAT pass along with the moderate easterly shear.  If
+the cyclone is able to gain enough latitude and get north of 13N,
+it should find itself in a more favorable upper-level environment,
+which could allow for more significant strengthening in a few days.
+Little change has been made to the previous NHC intensity forecast
+in the first 4 days, but a higher intensity is shown at day 5.  The
+NHC intensity forecast is higher than the intensity consensus, but
+not as high as the HMON and HCCA, which bring Lowell to major
+hurricane strength by day 5.  The confidence in the intensity
+forecast is below average, and it is possible that Lowell could
+strengthen more than forecast.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  28/0300Z 11.4N 133.5W   35 KT  40 MPH
+ 12H  28/1200Z 11.8N 133.0W   40 KT  45 MPH
+ 24H  29/0000Z 12.3N 133.2W   45 KT  50 MPH
+ 36H  29/1200Z 12.5N 134.3W   50 KT  60 MPH
+ 48H  30/0000Z 12.7N 135.8W   55 KT  65 MPH
+ 60H  30/1200Z 12.9N 137.5W   60 KT  70 MPH
+ 72H  31/0000Z 13.2N 139.3W   70 KT  80 MPH
+ 96H  01/0000Z 13.5N 142.8W   80 KT  90 MPH
+120H  02/0000Z 13.9N 146.0W   95 KT 110 MPH
+ 
+$$
+Forecaster Hagen</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:48:22 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/280248.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/280248.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Lowell Wind Speed Probabilities Number 2</title>
+      <description>Issued at 0300 UTC FRI AUG 28 2026 <![CDATA[<pre>000
+FOPZ12 KNHC 280247
+PWSEP2
+                                                                    
+TROPICAL STORM LOWELL WIND SPEED PROBABILITIES NUMBER   2           
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122026               
+0300 UTC FRI AUG 28 2026                                            
+                                                                    
+AT 0300Z THE CENTER OF TROPICAL STORM LOWELL WAS LOCATED NEAR       
+LATITUDE 11.4 NORTH...LONGITUDE 133.5 WEST WITH MAXIMUM SUSTAINED   
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z FRI AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z FRI 12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z FRI 00Z SAT 12Z SAT 00Z SUN 00Z MON 00Z TUE 00Z WED
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+10N 140W       34  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+15N 140W       34  X   X( X)   X( X)   X( X)  12(12)  14(26)   2(28)
+15N 140W       50  X   X( X)   X( X)   X( X)   1( 1)   6( 7)   X( 7)
+15N 140W       64  X   X( X)   X( X)   X( X)   X( X)   2( 2)   X( 2)
+ 
+10N 145W       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   3( 5)
+ 
+15N 145W       34  X   X( X)   X( X)   X( X)   X( X)  18(18)  37(55)
+15N 145W       50  X   X( X)   X( X)   X( X)   X( X)   5( 5)  20(25)
+15N 145W       64  X   X( X)   X( X)   X( X)   X( X)   2( 2)  11(13)
+ 
+15N 150W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)  14(14)
+15N 150W       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+15N 150W       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   2( 2)
+ 
+$$                                                                  
+FORECASTER HAGEN</pre>]]></description>
+          
+      <pubDate>Fri, 28 Aug 2026 02:47:50 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/280247.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/280247.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Lowell Graphics</title>
+      <description>
+<![CDATA[
+
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/024915.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP12/EP122026_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Lowell 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Fri, 28 Aug 2026 02:49:15 GMT
+]]>
+      </description>
+      <pubDate>Fri, 28 Aug 2026 02:49:15 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/024915.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/024915.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+  </channel>
+</rss>
