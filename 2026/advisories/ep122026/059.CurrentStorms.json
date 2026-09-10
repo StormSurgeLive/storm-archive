@@ -1,0 +1,51 @@
+{
+  "activeStorms": [
+    {
+      "id": "ep122026",
+      "binNumber": "EP4",
+      "name": "Lowell",
+      "classification": "TS",
+      "intensity": "45",
+      "pressure": "995",
+      "latitude": "29.0N",
+      "longitude": "168.9W",
+      "latitudeNumeric": 29,
+      "longitudeNumeric": -168.9,
+      "movementDir": 270,
+      "movementSpeed": 12,
+      "lastUpdate": "2026-09-10T21:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "059",
+        "issuance": "2026-09-10T21:00:00.000Z",
+        "fileUpdateTime": "2026-09-10T20:43:37.864Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPEP4.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "059",
+        "issuance": "2026-09-10T21:00:00.000Z",
+        "fileUpdateTime": "2026-09-10T20:40:05.996Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMEP4.shtml"
+      },
+      "windSpeedProbabilities": null,
+      "forecastDiscussion": null,
+      "forecastGraphics": {
+        "advNum": "059",
+        "issuance": "2026-09-10T21:00:00.000Z",
+        "fileUpdateTime": "2026-09-10T20:43:37.864Z",
+        "url": "https://www.nhc.noaa.gov/graphics_ep4.shtml"
+      },
+      "forecastTrack": null,
+      "windWatchesWarnings": null,
+      "trackCone": null,
+      "initialWindExtent": null,
+      "forecastWindRadiiGIS": null,
+      "bestTrackGIS": null,
+      "earliestArrivalTimeTSWindsGIS": null,
+      "mostLikelyTimeTSWindsGIS": null,
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
