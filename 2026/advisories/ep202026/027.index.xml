@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:gml="http://www.opengis.net/gml"
+  xmlns:nhc="https://www.nhc.noaa.gov">
+  <channel>
+    <pubDate>Wed, 14 Oct 2026 02:36:31 GMT</pubDate>
+    <title>NHC Eastern North Pacific</title>
+    <description>Active tropical cyclones in the Eastern North Pacific</description>
+    <link>https://www.nhc.noaa.gov/</link>
+    <copyright>none</copyright>
+    <managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+    <language>en-us</language>
+    <webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+    <image>
+      <url>https://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif</url>
+      <link>https://www.nhc.noaa.gov/</link>
+      <title>NHC Eastern North Pacific</title>
+      <description>NOAA logo</description>
+      <width>95</width>
+      <height>45</height>
+    </image>
+    <item>
+      <title>Eastern North Pacific Tropical Weather Outlook</title>
+      <description>
+      <![CDATA[000<br />ABPZ20 KNHC 132316<br />TWOEP <br /><br />Tropical Weather Outlook<br />NWS National Hurricane Center Miami FL<br />500 PM PDT Tue Oct 13 2026<br /><br />For the eastern and central North Pacific east of 180 longitude:<br /><br />Active Systems:<br />The National Hurricane Center is issuing advisories on Hurricane <br />Simon, located about 100 miles west of Cabo Corrientes, Mexico, and <br />on recently upgraded Tropical Storm Trudy, located several hundred <br />miles south-southeast of Acapulco, Mexico.<br /><br />Tropical cyclone formation is not expected during the next 7 days.<br /><br />&&<br />Public advisories on Tropical Storm Trudy are issued under WMO <br />header WTPZ31 KNHC and under AWIPS header MIATCPEP1. <br />Forecast/advisories on Tropical Storm Trudy are issued under WMO <br />header WTPZ21 KNHC and under AWIPS header MIATCMEP1.<br /><br />$$<br />Forecaster Mahoney]]>
+      </description>
+      <pubDate>Tue, 13 Oct 2026 23:16:43 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/gtwo.php?basin=epac</link>
+      <guid>https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;202610132316</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Tropical Storm Trudy (EP1/EP212026)</title>
+      <guid isPermaLink="false">summary-ep212026-202610132036</guid>
+      <pubDate>Tue, 13 Oct 2026 20:36:42 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/132036.shtml</link>
+      <description>...TRUDY FORECAST TO RAPIDLY INTENSIFY TO A MAJOR HURRICANE OVER THE NEXT FEW DAYS... ...RESIDENTS OF SOUTHWESTERN AND WEST-CENTRAL MEXICO SHOULD MONITOR TRUDY&#39;S PROGRESS... As of 3:00 PM CST Tue Oct 13 the center of Trudy was located near 10.6, -96.5 with movement NW at 8 mph. The minimum central pressure was 1005 mb with maximum sustained winds of about 40 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>10.6, -96.5</nhc:center>
+        <nhc:type>Tropical Storm</nhc:type>
+        <nhc:name>Trudy</nhc:name>
+        <nhc:wallet>EP1</nhc:wallet>
+        <nhc:atcf>EP212026</nhc:atcf>
+        <nhc:datetime>3:00 PM CST Tue Oct 13</nhc:datetime>
+        <nhc:movement>NW at 8 mph</nhc:movement>
+        <nhc:pressure>1005 mb</nhc:pressure>
+        <nhc:wind>40 mph</nhc:wind>
+        <nhc:headline>...TRUDY FORECAST TO RAPIDLY INTENSIFY TO A MAJOR HURRICANE OVER THE NEXT FEW DAYS... ...RESIDENTS OF SOUTHWESTERN AND WEST-CENTRAL MEXICO SHOULD MONITOR TRUDY&#39;S PROGRESS...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Tropical Storm Trudy Public Advisory Number 2</title>
+      <description>Issued at 300 PM CST Tue Oct 13 2026 <![CDATA[<pre>000
+WTPZ31 KNHC 132036
+TCPEP1
+ 
+BULLETIN
+Tropical Storm Trudy Advisory Number   2
+NWS National Hurricane Center Miami FL       EP212026
+300 PM CST Tue Oct 13 2026
+ 
+...TRUDY FORECAST TO RAPIDLY INTENSIFY TO A MAJOR HURRICANE OVER 
+THE NEXT FEW DAYS...
+...RESIDENTS OF SOUTHWESTERN AND WEST-CENTRAL MEXICO SHOULD MONITOR
+TRUDY'S PROGRESS...
+ 
+ 
+SUMMARY OF 300 PM CST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...10.6N 96.5W
+ABOUT 490 MI...790 KM SSE OF ACAPULCO MEXICO
+ABOUT 780 MI...1255 KM SE OF MANZANILLO MEXICO
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...NW OR 320 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...1005 MB...29.68 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Interests in southwestern and west-central Mexico should monitor
+the progress of Trudy.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+Key messages for Trudy can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDEP1 and WMO header 
+WTPZ41 KNHC. 
+
+At 300 PM CST (2100 UTC), the center of Tropical Storm Trudy was
+located near latitude 10.6 North, longitude 96.4 West. Trudy is
+moving toward the northwest near 8 mph (13 km/h). A motion between
+west-northwest and northwest should continue through Wednesday
+night.  A turn toward the north-northwest and a decrease in forward
+speed is expected on Thursday.
+ 
+Maximum sustained winds have increased to near 40 mph (65 km/h)
+with higher gusts. Rapid intensification is forecast during the next
+3 days, and the cyclone is expected to become a hurricane by
+Wednesday night and a major hurricane by Friday.
+ 
+Tropical-storm-force winds extend outward up to 45 miles (75 km)
+from the center.
+ 
+The estimated minimum central pressure is 1005 mb (29.68 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF: Swells generated by Trudy are expected to begin affecting
+portions of the coast of southern Mexico late this week.  These
+swells are likely to cause life-threatening surf and rip current
+conditions.  Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 900 PM CST.
+ 
+$$
+Forecaster Hagen</pre>]]></description>
+          
+      <pubDate>Tue, 13 Oct 2026 20:36:42 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/132036.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/132036.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Trudy Forecast Advisory Number 2</title>
+      <description>Issued at 2100 UTC TUE OCT 13 2026 <![CDATA[<pre>000
+WTPZ21 KNHC 132036
+TCMEP1
+ 
+TROPICAL STORM TRUDY FORECAST/ADVISORY NUMBER   2
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP212026
+2100 UTC TUE OCT 13 2026
+ 
+TROPICAL STORM CENTER LOCATED NEAR 10.6N  96.5W AT 13/2100Z
+POSITION ACCURATE WITHIN  30 NM
+ 
+PRESENT MOVEMENT TOWARD THE NORTHWEST OR 320 DEGREES AT   7 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1005 MB
+MAX SUSTAINED WINDS  35 KT WITH GUSTS TO  45 KT.
+34 KT....... 40NE   0SE   0SW   0NW.
+4 M SEAS.... 90NE   0SE   0SW  60NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 10.6N  96.5W AT 13/2100Z
+AT 13/1800Z CENTER WAS LOCATED NEAR 10.3N  95.9W
+ 
+FORECAST VALID 14/0600Z 11.3N  97.5W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE   0SE   0SW  30NW.
+ 
+FORECAST VALID 14/1800Z 12.0N  99.0W
+MAX WIND  60 KT...GUSTS  75 KT.
+50 KT... 20NE   0SE   0SW  20NW.
+34 KT... 80NE  40SE  30SW  50NW.
+ 
+FORECAST VALID 15/0600Z 12.7N 100.1W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 15NE   0SE   0SW  15NW.
+50 KT... 30NE  20SE  20SW  30NW.
+34 KT... 90NE  50SE  40SW  60NW.
+ 
+FORECAST VALID 15/1800Z 13.5N 100.8W
+MAX WIND  90 KT...GUSTS 110 KT.
+64 KT... 20NE  15SE  10SW  15NW.
+50 KT... 40NE  30SE  30SW  30NW.
+34 KT...100NE  80SE  60SW  70NW.
+ 
+FORECAST VALID 16/0600Z 14.3N 101.2W
+MAX WIND 105 KT...GUSTS 130 KT.
+64 KT... 25NE  20SE  15SW  20NW.
+50 KT... 50NE  40SE  30SW  40NW.
+34 KT...110NE  90SE  70SW  80NW.
+ 
+FORECAST VALID 16/1800Z 15.3N 101.6W
+MAX WIND 115 KT...GUSTS 140 KT.
+64 KT... 30NE  25SE  15SW  25NW.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT...120NE 100SE  70SW  90NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 17/1800Z 17.1N 103.3W
+MAX WIND 115 KT...GUSTS 140 KT.
+50 KT... 50NE  50SE  40SW  50NW.
+34 KT...110NE  90SE  70SW  80NW.
+ 
+OUTLOOK VALID 18/1800Z 19.1N 105.2W
+MAX WIND 100 KT...GUSTS 120 KT.
+50 KT... 40NE  40SE  30SW  40NW.
+34 KT... 90NE  80SE  60SW  80NW.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 10.6N  96.5W
+ 
+NEXT ADVISORY AT 14/0300Z
+ 
+$$
+FORECASTER HAGEN</pre>]]></description>
+          
+      <pubDate>Tue, 13 Oct 2026 20:36:12 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/132036.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP1+shtml/132036.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Trudy Forecast Discussion Number 2</title>
+      <description>Issued at 300 PM CST Tue Oct 13 2026 <![CDATA[<pre>000
+WTPZ41 KNHC 132037
+TCDEP1
+ 
+Tropical Storm Trudy Discussion Number   2
+NWS National Hurricane Center Miami FL       EP212026
+300 PM CST Tue Oct 13 2026
+ 
+Satellite images indicate that the tropical cyclone continues to
+become better organized.  Both microwave and geostationary satellite
+data indicate that the center is likely about 60 miles to the
+east-northeast of the previous estimate, and based on recent data,
+confidence in the initial position estimate is a little higher now.
+The improving low-level center appears to be located near the
+southwest edge of a recent burst of deep convection.  The latest
+subjective Dvorak classification from TAFB is T2.5/35 kt, and a
+recent AiDT intensity estimate from UW-CIMSS is also 35 kt.  An
+ASCAT pass from 1452 UTC had a couple of believable 31-kt vectors
+north of the center.  Given the low bias of the ASCAT instrument due
+to its resolution, and based on the improving structure observed on
+satellite imagery since that time with increased banded convection
+near the low-level center, the depression is upgraded to Tropical
+Storm Trudy with 35-kt winds.
+ 
+The initial motion estimate for Trudy is northwestward, or 320/7 kt.
+A west-northwestward to northwestward motion is expected over the
+next 36 hours while a mid-level ridge persists over the northwestern
+Gulf of America.  Thereafter, a turn more toward the north-northwest
+is likely as the ridge weakens.  A decrease in forward speed is also
+expected by day 2 as the cyclone gets caught in weaker steering
+currents in between the weak ridge to its north and Hurricane Simon
+to its northwest.  Spread in the track forecast is larger than
+normal from day 3 to 5, and some of this uncertainty is likely also
+due to uncertainty in Simon's track and strength.  A cold front
+moving southward from Texas into Mexico toward the end of the
+forecast period could help draw Simon closer to the coastline of
+Mexico, if the front is potent enough.  Regardless, Trudy could
+potentially be very close to the coast of Mexico as a hurricane over
+the weekend.  The NHC forecast has been pushed to the right (east)
+of the previous forecast due to the farther east initial position
+and a net eastward shift in the model guidance during the first 3
+days of the forecast.  At days 4 and 5, the new NHC forecast is only
+slightly east of the previous NHC forecast, which would bring Trudy
+closer to the coast of southwestern and west-central Mexico.  The
+new NHC forecast is very close to the latest Google DeepMind
+Ensemble Mean.  Confidence in the track forecast remains low,
+especially from hour 72 to 120.
+ 
+The cyclone is forecast to traverse extremely favorable oceanic and
+atmospheric conditions for the next 4 days or so.  The NHC intensity
+forecast shows steady strengthening over the next 12 hours as the
+cyclone works to develop a convective core.  After that time, rapid
+intensification is forecast during the 12 to 60 h time window. Some
+of the SHIPS rapid intensification guidance shows a fairly high
+chance of rapid intensification over the next few days. The NHC
+intensity forecast shows 80 knots of strengthening over the next 72
+h, and is in excellent agreement with the latest HCCA and GDMI.  90
+percent of the Google DeepMind Ensemble Members are forecasting
+Trudy to become a major hurricane.  The NHC intensity forecast is
+similar to the previous one, and it's possible that Trudy could get
+stronger in between the day 3 and 4 points, when the cyclone is
+likely to peak in intensity.  Beyond day 4, the possibility of
+increasing vertical wind shear and land interaction could induce
+some weakening, and most of the guidance shows the system losing
+some strength after day 4.  Confidence in the intensity forecast is
+above average.  We are fairly confident it will become a strong
+hurricane due to the favorable environmental conditions and model
+guidance.
+ 
+Key Messages:
+ 
+1. Trudy is forecast to be a major hurricane as it approaches the
+coast of southwestern and west-central Mexico late this week and
+into the weekend. There is an increasing risk of wind, rain, and
+storm surge impacts, but it is too soon to determine the exact
+location or magnitude of these impacts.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  13/2100Z 10.6N  96.5W   35 KT  40 MPH
+ 12H  14/0600Z 11.3N  97.5W   45 KT  50 MPH
+ 24H  14/1800Z 12.0N  99.0W   60 KT  70 MPH
+ 36H  15/0600Z 12.7N 100.1W   75 KT  85 MPH
+ 48H  15/1800Z 13.5N 100.8W   90 KT 105 MPH
+ 60H  16/0600Z 14.3N 101.2W  105 KT 120 MPH
+ 72H  16/1800Z 15.3N 101.6W  115 KT 130 MPH
+ 96H  17/1800Z 17.1N 103.3W  115 KT 130 MPH
+120H  18/1800Z 19.1N 105.2W  100 KT 115 MPH
+ 
+$$
+Forecaster Hagen</pre>]]></description>
+          
+      <pubDate>Tue, 13 Oct 2026 20:37:13 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/132037.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP1+shtml/132037.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Trudy Wind Speed Probabilities Number 2</title>
+      <description>Issued at 2100 UTC TUE OCT 13 2026 <![CDATA[<pre>000
+FOPZ11 KNHC 132036
+PWSEP1
+                                                                    
+TROPICAL STORM TRUDY WIND SPEED PROBABILITIES NUMBER   2            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP212026               
+2100 UTC TUE OCT 13 2026                                            
+                                                                    
+AT 2100Z THE CENTER OF TROPICAL STORM TRUDY WAS LOCATED NEAR        
+LATITUDE 10.6 NORTH...LONGITUDE 96.5 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 35 KTS...40 MPH...65 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        18Z TUE AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       18Z TUE 06Z WED 18Z WED 06Z THU 18Z THU 18Z FRI 18Z SAT
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             06Z WED 18Z WED 06Z THU 18Z THU 18Z FRI 18Z SAT 18Z SUN
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+ISLAS MARIAS   34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  23(24)
+ISLAS MARIAS   50  X   X( X)   X( X)   X( X)   X( X)   X( X)   9( 9)
+ISLAS MARIAS   64  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+MAZATLAN       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   8( 8)
+ 
+SAN BLAS       34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  18(19)
+SAN BLAS       50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+SAN BLAS       64  X   X( X)   X( X)   X( X)   X( X)   X( X)   1( 1)
+ 
+P VALLARTA     34  X   X( X)   X( X)   X( X)   X( X)   1( 1)  16(17)
+P VALLARTA     50  X   X( X)   X( X)   X( X)   X( X)   X( X)   3( 3)
+ 
+15N 105W       34  X   X( X)   X( X)   X( X)   2( 2)   6( 8)   3(11)
+15N 105W       50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+15N 105W       64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   1( 2)
+ 
+BARRA NAVIDAD  34  X   X( X)   X( X)   X( X)   X( X)  12(12)  26(38)
+BARRA NAVIDAD  50  X   X( X)   X( X)   X( X)   X( X)   3( 3)  13(16)
+BARRA NAVIDAD  64  X   X( X)   X( X)   X( X)   X( X)   1( 1)   4( 5)
+ 
+MANZANILLO     34  X   X( X)   X( X)   X( X)   X( X)  30(30)  27(57)
+MANZANILLO     50  X   X( X)   X( X)   X( X)   X( X)  11(11)  20(31)
+MANZANILLO     64  X   X( X)   X( X)   X( X)   X( X)   5( 5)  11(16)
+ 
+L CARDENAS     34  X   X( X)   X( X)   X( X)  14(14)  48(62)   4(66)
+L CARDENAS     50  X   X( X)   X( X)   X( X)   3( 3)  28(31)   3(34)
+L CARDENAS     64  X   X( X)   X( X)   X( X)   1( 1)  15(16)   3(19)
+ 
+ZIHUATANEJO    34  X   X( X)   X( X)   X( X)  22(22)  36(58)   2(60)
+ZIHUATANEJO    50  X   X( X)   X( X)   X( X)   6( 6)  19(25)   1(26)
+ZIHUATANEJO    64  X   X( X)   X( X)   X( X)   2( 2)  11(13)   1(14)
+ 
+15N 100W       34  X   X( X)   1( 1)  17(18)  31(49)   3(52)   X(52)
+15N 100W       50  X   X( X)   X( X)   4( 4)  15(19)   2(21)   1(22)
+15N 100W       64  X   X( X)   X( X)   2( 2)   8(10)   1(11)   X(11)
+ 
+ACAPULCO       34  X   X( X)   X( X)   X( X)  15(15)   9(24)   1(25)
+ACAPULCO       50  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ACAPULCO       64  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   X( 2)
+ 
+P MALDONADO    34  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   1( 5)
+ 
+20N 110W       34  X   X( X)   X( X)   X( X)   X( X)   X( X)   4( 4)
+ 
+$$                                                                  
+FORECASTER HAGEN</pre>]]></description>
+          
+      <pubDate>Tue, 13 Oct 2026 20:36:42 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/132036.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP1+shtml/132036.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Tropical Storm Trudy Graphics</title>
+      <description>
+<![CDATA[
+
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/212835.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Trudy 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Tue, 13 Oct 2026 21:28:35 GMT
+]]>
+      </description>
+      <pubDate>Tue, 13 Oct 2026 21:28:35 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/212835.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_ep1+shtml/212835.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Summary for Hurricane Simon (EP5/EP202026)</title>
+      <guid isPermaLink="false">summary-ep202026-202610140235</guid>
+      <pubDate>Wed, 14 Oct 2026 02:35:45 GMT</pubDate>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/140235.shtml</link>
+      <description>...SMALL SIMON STRENGTHENS OFF WEST-CENTRAL MEXICO.. ...INTERESTS THERE AND BAJA CALIFORNIA SUR SHOULD CONTINUE TO MONITOR THE HURRICANE... As of 8:00 PM MST Tue Oct 13 the center of Simon was located near 20.1, -107.6 with movement W at 2 mph. The minimum central pressure was 965 mb with maximum sustained winds of about 110 mph.</description>
+      <nhc:Cyclone>
+        <nhc:center>20.1, -107.6</nhc:center>
+        <nhc:type>Hurricane</nhc:type>
+        <nhc:name>Simon</nhc:name>
+        <nhc:wallet>EP5</nhc:wallet>
+        <nhc:atcf>EP202026</nhc:atcf>
+        <nhc:datetime>8:00 PM MST Tue Oct 13</nhc:datetime>
+        <nhc:movement>W at 2 mph</nhc:movement>
+        <nhc:pressure>965 mb</nhc:pressure>
+        <nhc:wind>110 mph</nhc:wind>
+        <nhc:headline>...SMALL SIMON STRENGTHENS OFF WEST-CENTRAL MEXICO.. ...INTERESTS THERE AND BAJA CALIFORNIA SUR SHOULD CONTINUE TO MONITOR THE HURRICANE...</nhc:headline>
+      </nhc:Cyclone>
+    </item>
+    <item>
+      <title>Hurricane Simon Public Advisory Number 27</title>
+      <description>Issued at 800 PM MST Tue Oct 13 2026 <![CDATA[<pre>858 
+WTPZ35 KNHC 140235
+TCPEP5
+ 
+BULLETIN
+Hurricane Simon Advisory Number  27
+NWS National Hurricane Center Miami FL       EP202026
+800 PM MST Tue Oct 13 2026
+ 
+...SMALL SIMON STRENGTHENS OFF WEST-CENTRAL MEXICO..
+...INTERESTS THERE AND BAJA CALIFORNIA SUR SHOULD CONTINUE TO
+MONITOR THE HURRICANE...
+ 
+ 
+SUMMARY OF 800 PM MST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.1N 107.6W
+ABOUT 125 MI...200 KM W OF CABO CORRIENTES MEXICO
+ABOUT 125 MI...200 KM SW OF LAS ISLAS MARIAS MEXICO
+MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
+PRESENT MOVEMENT...W OR 260 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Las Islas Marias
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area, generally within 48 hours.
+ 
+Interests in west-central Mexico and in Baja California Sur should
+continue to monitor as new watches and warnings may be issued over
+the next day or two.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM MST (0300 UTC), the eye of Hurricane Simon was located
+near latitude 20.1 North, longitude 107.6 West. Simon is drifting
+toward the west near 2 mph (4 km/h). The hurricane is forecast to
+move very slowly and erratically over the next couple of days. An
+eventual turn to the north or north-northwest is forecast to occur
+late this week.
+ 
+Maximum sustained winds have increased to near 110 mph (175 km/h) 
+with higher gusts. Some additional strengthening is possible
+overnight, and Simon could become a major hurricane again. Gradual
+weakening is forecast beginning Wednesday.
+ 
+Hurricane-force winds extend outward up to 10 miles (20 km) from the
+center and tropical-storm-force winds extend outward up to 35 miles
+(55 km).
+ 
+The estimated minimum central pressure is 965 mb (28.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Simon can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDEP5 and WMO header WTPZ45 KNHC
+and on the web at hurricanes.gov/graphics_ep5.shtml?key_messages.
+ 
+WIND: Hurricane conditions are possible within the hurricane watch
+area for Las Islas Marias on Thursday.
+ 
+RAINFALL: Simon is expected to produce rainfall totals of 1 to 2
+inches with isolated maximum amounts of 3 inches over portions of
+the states of Baja California Sur, Nayarit, and Sinaloa.
+ 
+For a complete depiction of forecast rainfall associated with Simon,
+please see the National Weather Service Storm Total Rainfall Graphic
+available at hurricanes.gov/graphics_ep5.shtml?rainqpf.
+ 
+SURF: Swells generated by Simon will affect portions of the coast of
+west-central Mexico and Baja California Sur during the next few
+days. These swells are likely to cause life-threatening surf and rip
+current conditions. Please consult products from your local weather
+office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 1100 PM MST.
+Next complete advisory at 200 AM MST.
+ 
+$$
+Forecaster Cangialosi</pre>]]></description>
+          
+      <pubDate>Wed, 14 Oct 2026 02:35:45 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/140235.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/140235.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Hurricane Simon Forecast Advisory Number 27</title>
+      <description>Issued at 0300 UTC WED OCT 14 2026 <![CDATA[<pre>859 
+WTPZ25 KNHC 140235
+TCMEP5
+ 
+HURRICANE SIMON FORECAST/ADVISORY NUMBER  27
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP202026
+0300 UTC WED OCT 14 2026
+ 
+HURRICANE CENTER LOCATED NEAR 20.1N 107.6W AT 14/0300Z
+POSITION ACCURATE WITHIN   5 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 260 DEGREES AT   2 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  965 MB
+EYE DIAMETER   5 NM
+MAX SUSTAINED WINDS  95 KT WITH GUSTS TO 115 KT.
+64 KT....... 10NE  10SE  10SW  10NW.
+50 KT....... 20NE  20SE  15SW  15NW.
+34 KT....... 30NE  30SE  30SW  30NW.
+4 M SEAS.... 45NE  60SE  60SW  45NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 20.1N 107.6W AT 14/0300Z
+AT 14/0000Z CENTER WAS LOCATED NEAR 20.2N 107.5W
+ 
+FORECAST VALID 14/1200Z 20.1N 107.8W
+MAX WIND 105 KT...GUSTS 130 KT.
+64 KT... 10NE  10SE  10SW  10NW.
+50 KT... 15NE  20SE  15SW  15NW.
+34 KT... 30NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 15/0000Z 19.6N 108.2W
+MAX WIND  95 KT...GUSTS 115 KT.
+64 KT... 10NE  10SE  10SW  10NW.
+50 KT... 20NE  20SE  15SW  15NW.
+34 KT... 30NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 15/1200Z 18.9N 108.5W
+MAX WIND  85 KT...GUSTS 105 KT.
+64 KT... 10NE  10SE  10SW  10NW.
+50 KT... 20NE  20SE  15SW  15NW.
+34 KT... 30NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 16/0000Z 19.7N 108.1W
+MAX WIND  75 KT...GUSTS  90 KT.
+64 KT... 10NE  10SE  10SW   5NW.
+50 KT... 20NE  20SE  20SW  15NW.
+34 KT... 30NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 16/1200Z 21.0N 108.0W
+MAX WIND  65 KT...GUSTS  80 KT.
+64 KT... 10NE  10SE   0SW   0NW.
+50 KT... 20NE  20SE  15SW  15NW.
+34 KT... 40NE  30SE  30SW  30NW.
+ 
+FORECAST VALID 17/0000Z 22.3N 108.8W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 15NE  15SE   0SW   0NW.
+34 KT... 40NE  30SE  30SW  30NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 18/0000Z 24.1N 109.7W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE  30SE   0SW  30NW.
+ 
+OUTLOOK VALID 19/0000Z 27.2N 110.9W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 20.1N 107.6W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT35 KNHC/MIATCPEP5...AT 14/0600Z
+ 
+NEXT ADVISORY AT 14/0900Z
+ 
+$$
+FORECASTER CANGIALOSI</pre>]]></description>
+          
+      <pubDate>Wed, 14 Oct 2026 02:35:45 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/140235.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCMEP5+shtml/140235.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Hurricane Simon Forecast Discussion Number 26</title>
+      <description>Issued at 200 PM MST Tue Oct 13 2026 <![CDATA[<pre>000
+WTPZ45 KNHC 132059
+TCDEP5
+ 
+Hurricane Simon Discussion Number  26
+NWS National Hurricane Center Miami FL       EP202026
+200 PM MST Tue Oct 13 2026
+ 
+Simon's structure this afternoon has been more or less steady state 
+as its small eye continues to be discernible on both visible and 
+infrared images. However, the surrounding eyewall cloud top 
+temperatures have warmed a bit this afternoon, though it is unclear 
+if this is a diurnal fluctuation or evidence of some cooler ocean 
+upwelling given its slow motion. The most recent high-resolution 
+microwave image was an WSFM pass at 1338 UTC, which showed a nearly 
+closed eyewall and improvement from earlier imagery. The eye 
+signature can also be picked up on the edge of the Cabo San 
+Lucas, Mexico radar. The D-MINT mean estimate associated with the 
+WSFM pass was 79 kt, and the initial intensity is held at 80 kt 
+this advisory, on the higher end of the intensity estimates. A 
+partial Metop-B scatterometer pass was useful to indicate how 
+compact Simon's wind field has become, with 34-kt winds now only 
+extend out an estimated 30 n mi.
+ 
+The initial motion now appears to be a south of due west drift, or 
+260 degrees at 2 kt. Compared to this morning, the forecast track 
+reasoning has not changed a ton. The small hurricane is currently 
+just on the south side of a saddle point, or col, in the steering 
+flow. Simon's future track is very sensitive to which side of this 
+point the hurricane is located, with light steering currents 
+prevailing leading to slow motion. In the latest round of guidance, 
+all of the hurricane-regional models show a more substantial 
+southward track this afternoon while Simon remains in very light 
+deep-layer southerly steering. While the ECMWF forecast is further 
+north, it was initialized almost a full degree further north of 
+where Simon was located at 12 UTC, placing it over or just on the 
+north side of the saddle point. The Google Deepmind ensembles, which 
+often favors this initialization, jump north in the short term, 
+which appears unrealistic. Thus, the latest NHC track forecast is 
+going to place a little more weight on the hurricane-regional model 
+tracks which had a better initialization, showing a little more 
+southward motion over the next 24-36 h, albeit as a snail's pace. 
+This track still shows a small cyclonic loop and is south of the 
+previous track forecast. After 48 h, the large-scale synoptic 
+pattern finally begins to change, where a deep-layer cutoff low digs 
+into southern California. This pattern will induce more southerly 
+environmental flow over Simon, and should dislodge it from this very 
+stagnant steering pattern assuming it doesn't move as far south as 
+the HAFS-A/B track aids. The NHC track forecast still shows Simon 
+gaining latitude and turning more north-northwest in 60-72 h and 
+lies closest to the HFIP Corrected Consensus Approach (HCCA) track. 
+This could bring Simon closer to the coast of Baja California Sur as 
+it moves up the Gulf of California. However, there remains a wide 
+variety of track solutions that could verify, from well south of 
+Baja California northward to mainland Mexico over the next 5 days.
+ 
+Simon has maintained a relatively healthy appearance today with a 
+well-organized inner core. As stressed earlier, very small 
+hurricanes like Simon are known to be sensitive to small changes in 
+their environmental conditions that could result in rapid changes in 
+intensity, either up or down. Environmental conditions are 
+favorable, with shear over Simon expected to remain low for the next 
+48 h with sea-surface temperatures (SSTs) in the 28-30 C range. 
+Assuming Simon does not completely stall and upwell cooler ocean 
+waters, some intensification could occur. With that said, there is 
+an extreme range of intensity solutions over the next 48 h, from 
+intensifying into a Category 4 hurricane (HAFS-A) to weakening to a 
+tropical storm (HMON). Given the current structure, the latest NHC 
+intensity forecast now shows some intensification, but remains well 
+under the latest HAFS-A forecast and is closest to the ECMWF LGEM 
+guidance. After 48 h, southwesterly vertical wind shear is forecast 
+to increase rather quickly, and the small sensitive Simon is 
+forecast to weaken even as it moves over warmer SSTs when it tracks 
+northward. This latest forecast is initially on the high side of the 
+guidance, but falls back to the middle of the guidance envelope 
+after 
+72 h.
+ 
+It is worth stressing that this remains a very low confidence
+forecast for both track and intensity, and interests in west-central
+Mexico and Baja California Sur should continue to closely monitor
+the latest updates. While mainland Tropical Storm and Hurricane
+watches have been discontinued, new watches and warnings could be
+required over the next day or two as Simon's ultimate forecast comes
+into better focus.
+ 
+ 
+Key Messages:
+ 
+1. Simon could approach Las Islas Marias on Wednesday and the coast
+of western Mexico later this week at or near hurricane strength, and
+a Hurricane Watch is in effect for a portion of these areas.
+Interests in west-central Mexico and Baja California Sur should
+continue to closely monitor the latest updates to Simon's forecast.
+Changes to watches and warnings could be required over the next day 
+or two based on the latest forecast trends.
+ 
+2. Large swells will affect portions of the southwestern and
+west-central coasts of Mexico over the next several days. These
+swells are likely to cause life-threatening surf and rip current
+conditions.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  13/2100Z 20.2N 107.5W   80 KT  90 MPH
+ 12H  14/0600Z 20.0N 107.8W   85 KT 100 MPH
+ 24H  14/1800Z 19.8N 108.1W   90 KT 105 MPH
+ 36H  15/0600Z 19.5N 108.0W   90 KT 105 MPH
+ 48H  15/1800Z 19.8N 107.6W   85 KT 100 MPH
+ 60H  16/0600Z 21.0N 107.8W   70 KT  80 MPH
+ 72H  16/1800Z 22.6N 108.8W   60 KT  70 MPH
+ 96H  17/1800Z 24.4N 110.2W   45 KT  50 MPH...NEAR BAJA CALIFORNIA 
+120H  18/1800Z 28.8N 111.1W   30 KT  35 MPH...POST-TROP/INLAND
+ 
+$$
+Forecaster Papin</pre>]]></description>
+          
+      <pubDate>Tue, 13 Oct 2026 20:59:13 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/132059.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCDEP5+shtml/132059.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Hurricane Simon Wind Speed Probabilities Number 27</title>
+      <description>Issued at 0300 UTC WED OCT 14 2026 <![CDATA[<pre>943 
+FOPZ15 KNHC 140236
+PWSEP5
+                                                                    
+HURRICANE SIMON WIND SPEED PROBABILITIES NUMBER  27                 
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP202026               
+0300 UTC WED OCT 14 2026                                            
+                                                                    
+AT 0300Z THE CENTER OF HURRICANE SIMON WAS LOCATED NEAR LATITUDE    
+20.1 NORTH...LONGITUDE 107.6 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+95 KTS...110 MPH...175 KM/H.                                        
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        00Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       00Z WED 12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             12Z WED 00Z THU 12Z THU 00Z FRI 00Z SAT 00Z SUN 00Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+CABO SAN LUCAS 34  X   X( X)   X( X)   X( X)   7( 7)   5(12)   1(13)
+CABO SAN LUCAS 50  X   X( X)   X( X)   X( X)   1( 1)   1( 2)   1( 3)
+ 
+SAN JOSE CABO  34  X   X( X)   X( X)   X( X)   8( 8)   8(16)   X(16)
+SAN JOSE CABO  50  X   X( X)   X( X)   X( X)   2( 2)   2( 4)   X( 4)
+ 
+LA PAZ         34  X   X( X)   X( X)   X( X)   1( 1)   4( 5)   1( 6)
+ 
+ISLAS MARIAS   34  X   X( X)   X( X)   2( 2)  10(12)   X(12)   X(12)
+ISLAS MARIAS   50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+MAZATLAN       34  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+20N 110W       34  X   X( X)   1( 1)   1( 2)   1( 3)   X( 3)   X( 3)
+ 
+$$                                                                  
+FORECASTER CANGIALOSI</pre>]]></description>
+          
+      <pubDate>Wed, 14 Oct 2026 02:36:15 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/140236.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIAPWSEP5+shtml/140236.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Hurricane Simon Public Advisory Update Number </title>
+      <description>Issued at 650 PM MST Tue Oct 13 2026 <![CDATA[<pre>000
+WTPZ65 KNHC 140202
+TCUEP5
+ 
+Hurricane Simon Tropical Cyclone Update
+NWS National Hurricane Center Miami FL       EP202026
+650 PM MST Tue Oct 13 2026
+
+...SIMON RE-STRENGTHENS AND IS ALMOST A MAJOR HURRICANE AGAIN...
+ 
+Satellite images and radar data from Cabo San Lucas suggest that 
+Simon has strengthened significantly with maximum winds now 
+estimated to be near 110 mph (175 km/h).  
+
+This higher initial intensity will be reflected in the next full 
+advisory package, which will be issued by 9 PM MST (0300 UTC).
+
+SUMMARY OF 650 PM MST...0150 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.1N 107.5W
+ABOUT 120 MI...195 KM W OF CABO CORRIENTES MEXICO
+ABOUT 120 MI...195 KM SW OF LAS ISLAS MARIAS MEXICO
+MAXIMUM SUSTAINED WINDS...110 MPH...175 KM/H
+PRESENT MOVEMENT...W OR 260 DEGREES AT 2 MPH...4 KM/H
+MINIMUM CENTRAL PRESSURE...965 MB...28.50 INCHES
+
+$$
+Forecaster Cangialosi/Mahoney</pre>]]></description>
+          
+      <pubDate>Wed, 14 Oct 2026 02:02:14 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/text/refresh/MIATCUEP5+shtml/140202.shtml</link>
+      <guid>https://www.nhc.noaa.gov/text/refresh/MIATCUEP5+shtml/140202.shtml</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+    <item>
+      <title>Hurricane Simon Graphics</title>
+      <description>
+<![CDATA[
+
+<br />
+<br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/233542.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP20/EP202026_wind_probs_34_F120_sm2.png"
+alt="Hurricane Simon 34-Knot Wind Speed Probabilities" width="500" height="400" /> </a>
+<br />Wind Speed Probabilities last updated Tue, 13 Oct 2026 21:22:47 GMT
+]]>
+      </description>
+      <pubDate>Tue, 13 Oct 2026 23:35:42 GMT</pubDate>
+      <link>https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/233542.shtml?cone</link>
+      <guid>https://www.nhc.noaa.gov/refresh/graphics_ep5+shtml/233542.shtml?cone</guid>
+      <author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+    </item>
+  </channel>
+</rss>
