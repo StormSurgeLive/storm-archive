@@ -1,0 +1,100 @@
+{
+  "activeStorms": [
+    {
+      "id": "ep222026",
+      "binNumber": "EP2",
+      "name": "Twenty-Two-E",
+      "classification": "TD",
+      "intensity": "30",
+      "pressure": "1005",
+      "latitude": "9.5N",
+      "longitude": "99.3W",
+      "latitudeNumeric": 9.5,
+      "longitudeNumeric": -99.3,
+      "movementDir": 265,
+      "movementSpeed": 7,
+      "lastUpdate": "2026-10-21T15:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:36:55.126Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:36:24.366Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:36:55.118Z",
+        "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
+      },
+      "forecastDiscussion": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:37:27.443Z",
+        "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
+      },
+      "forecastGraphics": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:36:55.126Z",
+        "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
+      },
+      "forecastTrack": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:38:33.884Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_001adv_TRACK.kmz"
+      },
+      "windWatchesWarnings": null,
+      "trackCone": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:38:27.341Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_001adv_CONE.kmz"
+      },
+      "initialWindExtent": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:39:05.572Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_001adv.kmz"
+      },
+      "forecastWindRadiiGIS": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:39:01.325Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_001.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_001adv.kmz"
+      },
+      "bestTrackGIS": {
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:38:44.152Z",
+        "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
+        "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
+      },
+      "earliestArrivalTimeTSWindsGIS": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:38:29.590Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_001adv_earliest_reasonable_toa_34.kmz"
+      },
+      "mostLikelyTimeTSWindsGIS": {
+        "advNum": "001",
+        "issuance": "2026-10-21T15:00:00.000Z",
+        "fileUpdateTime": "2026-10-21T14:38:31.713Z",
+        "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_001adv_most_likely_toa_34.kmz"
+      },
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
