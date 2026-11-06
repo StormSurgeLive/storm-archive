@@ -1,0 +1,56 @@
+{
+  "activeStorms": [
+    {
+      "id": "cp042026",
+      "binNumber": "CP4",
+      "name": "Pena",
+      "classification": "TS",
+      "intensity": "40",
+      "pressure": "1002",
+      "latitude": "11.3N",
+      "longitude": "150.1W",
+      "latitudeNumeric": 11.3,
+      "longitudeNumeric": -150.1,
+      "movementDir": 280,
+      "movementSpeed": 12,
+      "lastUpdate": "2026-11-06T21:00:00.000Z",
+      "publicAdvisory": {
+        "advNum": "001",
+        "issuance": "2026-11-06T21:00:00.000Z",
+        "fileUpdateTime": "2026-11-06T20:55:26.394Z",
+        "url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml"
+      },
+      "forecastAdvisory": {
+        "advNum": "001",
+        "issuance": "2026-11-06T21:00:00.000Z",
+        "fileUpdateTime": "2026-11-06T20:55:26.390Z",
+        "url": "https://www.nhc.noaa.gov/text/HFOTCMCP4.shtml"
+      },
+      "windSpeedProbabilities": {
+        "advNum": "001",
+        "issuance": "2026-11-06T21:00:00.000Z",
+        "fileUpdateTime": "2026-11-06T20:55:27.757Z",
+        "url": "https://www.nhc.noaa.gov/text/HFOPWSCP4.shtml"
+      },
+      "forecastDiscussion": null,
+      "forecastGraphics": {
+        "advNum": "001",
+        "issuance": "2026-11-06T21:00:00.000Z",
+        "fileUpdateTime": "2026-11-06T20:55:26.394Z",
+        "url": "https://www.nhc.noaa.gov/graphics_cp4.shtml"
+      },
+      "forecastTrack": null,
+      "windWatchesWarnings": null,
+      "trackCone": null,
+      "initialWindExtent": null,
+      "forecastWindRadiiGIS": null,
+      "bestTrackGIS": null,
+      "earliestArrivalTimeTSWindsGIS": null,
+      "mostLikelyTimeTSWindsGIS": null,
+      "windSpeedProbabilitiesGIS": null,
+      "stormSurgeWatchWarningGIS": null,
+      "potentialStormSurgeFloodingGIS": null,
+      "peakSurgeKML": null
+    }
+  ]
+}
